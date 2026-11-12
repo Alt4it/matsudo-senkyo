@@ -1,0 +1,13 @@
+{
+  "candidate_id": "c011",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "子どもたちがのびのび育てられるまちづくり", "confidence": "high"},
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "安心・安全なまちづくり", "confidence": "high"},
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": false, "summary": "ひとに優しいデジタル化", "confidence": "low"}
+  ],
+  "notes": [
+    "b03：テーマ基準のデジタル化は行政手続きに関するものだが、原文には対象の記載がない。語句の近さから gyozaisei とした。"
+  ]
+}

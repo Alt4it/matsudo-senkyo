@@ -1,0 +1,235 @@
+{
+  "candidate_id": "c030",
+  "order": 30,
+  "name": "大塚けんじ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "自民党",
+  "career": "2期8年市議会議員",
+  "age": null,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "北千葉道路（高速道路）、都市計画道路の早期建設",
+      "heading": "1. 魅力ある街づくりで地域経済活性化！",
+      "verbatim": "北千葉道路（高速道路）、都市計画道路の早期建設",
+      "page": 5
+    },
+    {
+      "block_id": "b02",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸駅東口区画整理事業、西口再開発事業の推進",
+      "heading": "1. 魅力ある街づくりで地域経済活性化！",
+      "verbatim": "松戸駅東口区画整理事業、西口再開発事業の推進",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "東松戸駅を中心とした大規模開発（商業施設等の誘致）",
+      "heading": "1. 魅力ある街づくりで地域経済活性化！",
+      "verbatim": "東松戸駅を中心とした大規模開発（商業施設等の誘致）",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "（仮称）千駄堀新駅の新設 緑と共生の街づくり",
+      "heading": "1. 魅力ある街づくりで地域経済活性化！",
+      "verbatim": "（仮称）千駄堀新駅の新設 緑と共生の街づくり",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "馬橋駅周辺の再開発事業の推進",
+      "heading": "1. 魅力ある街づくりで地域経済活性化！",
+      "verbatim": "馬橋駅周辺の再開発事業の推進",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新松戸駅 常磐線快速電車の停車",
+      "heading": "1. 魅力ある街づくりで地域経済活性化！",
+      "verbatim": "新松戸駅 常磐線快速電車の停車",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "北総電鉄の運賃更なる値下げ",
+      "heading": "1. 魅力ある街づくりで地域経済活性化！",
+      "verbatim": "北総電鉄の運賃更なる値下げ",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "【松戸版】子育て用品サブスク制度の導入（利用料を助成）",
+      "heading": "2. 共働き・子育てしやすい街へ（総合編第1位を継続！）",
+      "verbatim": "【松戸版】子育て用品サブスク制度の導入（利用料を助成）",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "出産一時金助成拡大、第3子児童手当6万円（年収制限の撤廃を）",
+      "heading": "2. 共働き・子育てしやすい街へ（総合編第1位を継続！）",
+      "verbatim": "出産一時金助成拡大、第3子児童手当6万円（年収制限の撤廃を）",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "【松戸版】出産応援事業の実施（10万円相当のカタログギフトを配布）",
+      "heading": "2. 共働き・子育てしやすい街へ（総合編第1位を継続！）",
+      "verbatim": "【松戸版】出産応援事業の実施（10万円相当のカタログギフトを配布）",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "【松戸版】産後ケアを民間事業者へ拡大",
+      "heading": "2. 共働き・子育てしやすい街へ（総合編第1位を継続！）",
+      "verbatim": "【松戸版】産後ケアを民間事業者へ拡大",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "パパ向けの家事、育児セミナーを開催",
+      "heading": "2. 共働き・子育てしやすい街へ（総合編第1位を継続！）",
+      "verbatim": "パパ向けの家事、育児セミナーを開催",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "配送業者と協定 日常業務で見守り支援強化",
+      "heading": "3. 高齢者が元気に暮らせる街づくりを！（※アジア健康長寿イノベーション賞2021受賞）",
+      "verbatim": "配送業者と協定 日常業務で見守り支援強化",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者遠隔地見守りサービスの補助",
+      "heading": "3. 高齢者が元気に暮らせる街づくりを！（※アジア健康長寿イノベーション賞2021受賞）",
+      "verbatim": "高齢者遠隔地見守りサービスの補助",
+      "page": 5
+    },
+    {
+      "block_id": "b15",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "電話de詐欺撃退機器の設置推進",
+      "heading": "3. 高齢者が元気に暮らせる街づくりを！（※アジア健康長寿イノベーション賞2021受賞）",
+      "verbatim": "電話de詐欺撃退機器の設置推進",
+      "page": 5
+    },
+    {
+      "block_id": "b16",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "病院への付き添い（通院介助）サービスの補助",
+      "heading": "3. 高齢者が元気に暮らせる街づくりを！（※アジア健康長寿イノベーション賞2021受賞）",
+      "verbatim": "病院への付き添い（通院介助）サービスの補助",
+      "page": 5
+    },
+    {
+      "block_id": "b17",
+      "theme": "other",
+      "achievement": false,
+      "summary": "『スポーツ、音楽、文化芸術のまち松戸』の推進",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "『スポーツ、音楽、文化芸術のまち松戸』の推進",
+      "page": 5
+    },
+    {
+      "block_id": "b18",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "通学路安全対策の強化（ゾーン30プラス、ガードレール設置等）",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "通学路安全対策の強化（ゾーン30プラス、ガードレール設置等）",
+      "page": 5
+    },
+    {
+      "block_id": "b19",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "安全安心な給食提供（遺伝子組み換え・ゲノム編集食品絶対にダメ）、地産地消の食材を",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "安全安心な給食提供（遺伝子組み換え食品・ゲノム編集食品 絶対にダメ） 地産地消の食材を",
+      "page": 5
+    },
+    {
+      "block_id": "b20",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "いじめ、不登校の問題解決へ（メタバース不登校居場所支援プログラムの導入）",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "いじめ、不登校の問題解決へ（メタバース不登校居場所支援プログラムの導入）",
+      "page": 5
+    },
+    {
+      "block_id": "b21",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小中学校体育館・特別教室の冷暖房化",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "小中学校体育館・特別教室の冷暖房化",
+      "page": 5
+    },
+    {
+      "block_id": "b22",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "デジタル連絡ツールの推進（アプリ導入等）",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "デジタル連絡ツールの推進（アプリ導入等）",
+      "page": 5
+    },
+    {
+      "block_id": "b23",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "知的、情緒学級を市内全学校に設置",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "知的、情緒学級を市内全学校に設置",
+      "page": 5
+    },
+    {
+      "block_id": "b24",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "【松戸版】教育バウチャー制度の導入（習い事料の補助金）",
+      "heading": "4. みんなで青少年の教育を支えよう！",
+      "verbatim": "【松戸版】教育バウチャー制度の導入（習い事料の補助金）",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c002",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": true, "summary": "学校トイレの洋式化を推進してきた", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "2023年度末、市内校舎トイレ約70%、体育館トイレ100%が洋式に", "confidence": "low"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": true, "summary": "色覚に配慮し、学校のチョークを見やすくした", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": true, "summary": "公立保育所にアレルギーフリー給食を導入", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": true, "summary": "市立総合医療センターにWi-Fiを導入", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": true, "summary": "多機能トイレに補助犬ステッカーの掲示", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": true, "summary": "羽田空港直通・ディズニーランド直通バスを実現（ディズニーはコロナ禍で運行中止）", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": true, "summary": "3期12年間で政策コンテスト「マニフェスト大賞」を10回受賞", "confidence": "low"},
+    {"block_id": "b09", "themes": ["other"], "achievement": true, "summary": "市民の困りごと解決の視点から生まれた政策案を政策実現につなげてきた", "confidence": "low"},
+    {"block_id": "b10", "themes": ["other"], "achievement": true, "summary": "ライフワークの「トイレ」問題など、市民の身近な問題に寄りそってきた", "confidence": "low"}
+  ],
+  "notes": [
+    "b02：「ついに」「なります！」は2023年度末という先の時点を指すが、b01の「推進してきました」を受けた成果とも読める。文末が未来の形なので achievement は false とし low にした",
+    "b08：受賞歴で政策分野が示されていないため other とした。どのテーマにも当てはまりにくく low",
+    "b09・b10：特定の政策分野を示さない活動の説明なので other とした。文末が「きました」のため achievement は true。b10の「トイレ」は文脈上学校トイレとも限らないため kosodate は付けていない"
+  ]
+}

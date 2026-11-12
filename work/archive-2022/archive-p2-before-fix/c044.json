@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c044",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [7], "position": "2段目右"},
+  "name": "みのわ信矢",
+  "kana": "みのわしんや",
+  "party": "無所属",
+  "age": null,
+  "career": "現在4期目",
+  "slogan": "実績と信頼の5期へ！！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "実績と信頼の5期へ！！", "page": 7},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "愛する松戸のためにやり抜く！", "page": 7},
+    {"block_id": "b03", "kind": "policy", "heading": "高齢者の暮らしを守る", "verbatim": "みのわ信矢は“介護のプロ”として高齢者の生活を守り、住み慣れた家で受けられる在宅医療の充実を実現します。", "page": 7},
+    {"block_id": "b04", "kind": "policy", "heading": "女性・子どもを守る", "verbatim": "深刻な少子化の中で、3人以上の育児家庭への市民税減税など、思いきった少子化対策に切り込みます！", "page": 7},
+    {"block_id": "b05", "kind": "policy", "heading": "教育を守る", "verbatim": "相次ぐいじめや学級崩壊など、教育現場の混乱は深刻な問題。", "page": 7},
+    {"block_id": "b06", "kind": "policy", "heading": "教育を守る", "verbatim": "松戸の教育を再建します！", "page": 7},
+    {"block_id": "b07", "kind": "policy", "heading": "コロナや災害から命を守る", "verbatim": "松戸市は全国に先駆けてコロナワクチン接種を実現しました。", "page": 7},
+    {"block_id": "b08", "kind": "policy", "heading": "コロナや災害から命を守る", "verbatim": "大地震や集中豪雨、台風や真夏の高温。", "page": 7},
+    {"block_id": "b09", "kind": "policy", "heading": "コロナや災害から命を守る", "verbatim": "あらゆる災害や異常気象から市民の命を守ります。", "page": 7},
+    {"block_id": "b10", "kind": "policy", "heading": "動物を守る", "verbatim": "みのわ信矢はこれまで、殺処分寸前の犬や猫とともに暮らしてきました。", "page": 7},
+    {"block_id": "b11", "kind": "policy", "heading": "動物を守る", "verbatim": "ペットの遺棄や動物虐待が社会問題化している今、動物殺処分ゼロを実現させます！", "page": 7},
+    {"block_id": "b12", "kind": "policy", "heading": "「カルト宗教」や「利権団体」に頼らない政治を実践します！", "verbatim": "旧統一教会と政治の関係や、東京五輪の利権汚職は、有権者に強い不信感をもたらしました。", "page": 7},
+    {"block_id": "b13", "kind": "policy", "heading": "「カルト宗教」や「利権団体」に頼らない政治を実践します！", "verbatim": "歪んだ関係は正すべきです。", "page": 7},
+    {"block_id": "b14", "kind": "policy", "heading": "「カルト宗教」や「利権団体」に頼らない政治を実践します！", "verbatim": "宗教や利権団体に縛られない政治を行うため、みのわ信矢は3輪バイクで市内を駆け回り、市民とつながる政治を実践しています！", "page": 7},
+    {"block_id": "b15", "kind": "policy", "heading": null, "verbatim": "議会改革", "page": 7},
+    {"block_id": "b16", "kind": "message", "heading": null, "verbatim": "3輪バイクがトレードマーク！", "page": 7},
+    {"block_id": "b17", "kind": "profile", "heading": "プロフィール", "verbatim": "●学 歴\n昭和42年6月　松戸市生まれ(常盤平中央病院にて誕生)\n昭和55年3月　松戸市立常盤平第一小学校　卒業\n平成 3年 3月　青山学院大学 経営学部経営学科　卒業", "page": 7},
+    {"block_id": "b18", "kind": "profile", "heading": "プロフィール", "verbatim": "●議員としての経歴\n松戸市議会議員初当選／現在4期目\n松戸市予算及び決算審査特別委員会　副委員長\n教育経済常任委員会　委員長\n都市整備常任委員会　委員長　など", "page": 7},
+    {"block_id": "b19", "kind": "profile", "heading": "プロフィール", "verbatim": "●その他の経歴\n中央学院大学　法学部講師(地方自治論)\n社会福祉協議会評議員\n松戸市子ども会　常盤平地区　会長\n常盤平中学校PTA会長　など", "page": 7}
+  ],
+  "issues": [
+    "b15「議会改革」はイラストの3輪バイクの旗の文字。文にはなっていないが主張として読めるため heading なしの policy にした",
+    "紙面上部の総題「みのわ信矢の提言」は見出しのためブロックにしていない",
+    "b08「大地震や集中豪雨、台風や真夏の高温。」は句点で終わる体言止めのため、紙面どおり1文として分けた"
+  ]
+}

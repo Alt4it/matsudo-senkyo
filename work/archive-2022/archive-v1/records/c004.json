@@ -1,0 +1,53 @@
+{
+  "candidate_id": "c004",
+  "order": 4,
+  "name": "大和山太郎",
+  "kana": "おおわやま",
+  "party": "無所属",
+  "status": null,
+  "age": 49,
+  "slogan": "笑顔計画",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "summary": "子供たちを笑顔に。いじめ110番、教育格差是正",
+      "verbatim": "六高台で塾長25年\n子供たちを笑顔に\nいじめ110番 教育格差是正",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "summary": "高齢者を笑顔に。六実にレインボーバスを戻そう、独身者の介護問題の解決",
+      "verbatim": "只今、母を介護中\n高齢者を笑顔に\n六実にレインボーバスを戻そう\n独身者の介護問題の解決",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "summary": "高齢者を笑顔に。六実にレインボーバスを戻そう、独身者の介護問題の解決",
+      "verbatim": "只今、母を介護中\n高齢者を笑顔に\n六実にレインボーバスを戻そう\n独身者の介護問題の解決",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "summary": "六実・元山・五香の再開発、新・クリーンセンターの再計画",
+      "verbatim": "生涯六実っ子宣言\n六実・六高台を笑顔に\n六実・元山・五香の再開発\n新・クリーンセンターの再計画",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "kankyo",
+      "summary": "六実・元山・五香の再開発、新・クリーンセンターの再計画",
+      "verbatim": "生涯六実っ子宣言\n六実・六高台を笑顔に\n六実・元山・五香の再開発\n新・クリーンセンターの再計画",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

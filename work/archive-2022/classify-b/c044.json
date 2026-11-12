@@ -1,0 +1,25 @@
+{
+  "candidate_id": "c044",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "高齢者の生活を守り、住み慣れた家で受けられる在宅医療の充実を実現", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "3人以上の育児家庭への市民税減税など、思いきった少子化対策に切り込む", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "いじめや学級崩壊など、教育現場の混乱は深刻な問題", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "松戸の教育を再建する", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": true, "summary": "松戸市は全国に先駆けてコロナワクチン接種を実現した", "confidence": "low"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "大地震や集中豪雨、台風や真夏の高温", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "あらゆる災害や異常気象から市民の命を守る", "confidence": "high"},
+    {"block_id": "b10", "themes": ["other"], "achievement": false, "summary": "これまで殺処分寸前の犬や猫とともに暮らしてきた", "confidence": "low"},
+    {"block_id": "b11", "themes": ["other"], "achievement": false, "summary": "ペットの遺棄や動物虐待が社会問題化する今、動物殺処分ゼロを実現させる", "confidence": "high"},
+    {"block_id": "b12", "themes": ["other"], "achievement": false, "summary": "旧統一教会と政治の関係や東京五輪の利権汚職は有権者に強い不信感をもたらした", "confidence": "low"},
+    {"block_id": "b13", "themes": ["other"], "achievement": false, "summary": "歪んだ関係は正すべき", "confidence": "low"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "宗教や利権団体に縛られない政治のため3輪バイクで市内を駆け回り市民とつながる", "confidence": "low"},
+    {"block_id": "b15", "themes": ["gyozaisei"], "achievement": false, "summary": "議会改革", "confidence": "high"}
+  ],
+  "notes": [
+    "b07：文末は「実現しました」だが主語は松戸市で、候補者自身の実績と書かれてはいない。過去の出来事として書かれているためachievementはtrueとしたが迷うためlow",
+    "b10：過去の話だが、政策の実績ではなく候補者個人の経験と読みachievementはfalseとした。判断に迷うためlow",
+    "b12、b13、b14：政治姿勢の主張で、行財政の議会改革・情報公開には当たらないと読みotherとした。gyozaiseiとも読めるためlow"
+  ]
+}

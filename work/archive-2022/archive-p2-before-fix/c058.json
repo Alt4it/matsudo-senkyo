@@ -1,0 +1,31 @@
+{
+  "candidate_id": "c058",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [9], "position": "1段目右"},
+  "name": "柿沼みつとし",
+  "kana": "かきぬまみつとし",
+  "party": "日本維新の会",
+  "age": 46,
+  "career": null,
+  "slogan": "教育費無償化実現へ",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": null, "verbatim": "教育費無償化実現へ", "page": 9},
+    {"block_id": "b02", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "1 身を切る改革×行財政改革", "page": 9},
+    {"block_id": "b03", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "2 出産無償化×教育費無償化", "page": 9},
+    {"block_id": "b04", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "3 新型コロナやあらゆる感染症から市民の健康と命を守る整備強化", "page": 9},
+    {"block_id": "b05", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "4 松戸版・子ども達の塾費用クーポン発行", "page": 9},
+    {"block_id": "b06", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "5 医療、介護、福祉の拡充×松戸初！防災公園の新設", "page": 9},
+    {"block_id": "b07", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "6 青少年の健全育成及び非行防止×中学校から給食費の無償化", "page": 9},
+    {"block_id": "b08", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "7 松戸児童相談所の新設×市民と意見交換できる仕組みつくり", "page": 9},
+    {"block_id": "b09", "kind": "policy", "heading": "カッキー 柿沼みつとしの維新八策", "verbatim": "8 人と動物が共存できる街づくり", "page": 9},
+    {"block_id": "b10", "kind": "profile", "heading": "プロフィール", "verbatim": "・1976年5月12日生まれ\n46歳\n・妻、長女（16歳）、長男（13歳）、次男（10歳）5人家族\n・埼玉県三郷市戸ヶ崎小学校卒業\n・東京都足立区立谷中中学校卒業\n・私立帝京高等学校（東京都）卒業\n・日本体育大学体育学部社会体育学科卒業\n・（株）伊藤園\n・藤巻けんた衆議院議員　元公設秘書", "page": 9},
+    {"block_id": "b11", "kind": "message", "heading": null, "verbatim": "維新はやる。松戸を変える。", "page": 9},
+    {"block_id": "b12", "kind": "other", "heading": null, "verbatim": "日本維新の会\n私も応援します\n日本維新の会\n共同代表 吉村 洋文", "page": 9}
+  ],
+  "issues": [
+    "番号（1〜8）は紙面の柿の絵の中の数字。番号と本文の間の半角空白は書き起こし時に区切りとして入れたもの",
+    "headingの「カッキー」は柿の絵に重ねた装飾文字。「八」は丸囲み。見出しの一部として続けて写した",
+    "b01はスローガンでもあるが、具体的な政策の文言なのでkindをpolicyとした。messageとの間で迷った",
+    "b07はb08と同じ型の「×」でつながる1つの箇条として分けなかった。b08の「仕組みつくり」は紙面の表記のまま（濁点なしに見える）",
+    "b10の「46歳」は紙面右上の楕円内の文字。読む順序が明確でないため1行目の次に置いた"
+  ]
+}

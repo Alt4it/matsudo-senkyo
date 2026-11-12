@@ -1,0 +1,34 @@
+{
+  "candidate_id": "c030",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["machi"], "achievement": false, "summary": "北千葉道路（高速道路）、都市計画道路の早期建設", "confidence": "high"},
+    {"block_id": "b02", "themes": ["machi"], "achievement": false, "summary": "松戸駅東口区画整理事業、西口再開発事業の推進", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi", "keizai"], "achievement": false, "summary": "東松戸駅を中心とした大規模開発（商業施設等の誘致）", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "（仮称）千駄堀新駅の新設 緑と共生の街づくり", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": false, "summary": "馬橋駅周辺の再開発事業の推進", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "新松戸駅 常磐線快速電車の停車", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "北総電鉄の運賃更なる値下げ", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "【松戸版】子育て用品サブスク制度の導入（利用料を助成）", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "出産一時金助成拡大、第3子児童手当6万円（年収制限の撤廃を）", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "【松戸版】出産応援事業の実施（10万円相当のカタログギフトを配布）", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "【松戸版】産後ケアを民間事業者へ拡大", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": false, "summary": "パパ向けの家事、育児セミナーを開催", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "配送業者と協定 日常業務で見守り支援強化", "confidence": "high"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": false, "summary": "高齢者遠隔地見守りサービスの補助", "confidence": "high"},
+    {"block_id": "b15", "themes": ["bousai", "fukushi"], "achievement": false, "summary": "電話de詐欺撃退機器の設置推進", "confidence": "high"},
+    {"block_id": "b16", "themes": ["fukushi"], "achievement": false, "summary": "病院への付き添い（通院介助）サービスの補助", "confidence": "high"},
+    {"block_id": "b17", "themes": ["other"], "achievement": false, "summary": "『スポーツ、音楽、文化芸術のまち松戸』の推進", "confidence": "high"},
+    {"block_id": "b18", "themes": ["bousai"], "achievement": false, "summary": "通学路安全対策の強化（ゾーン30プラス、ガードレール設置等）", "confidence": "high"},
+    {"block_id": "b19", "themes": ["kosodate"], "achievement": false, "summary": "安全安心な給食提供（遺伝子組み換え・ゲノム編集食品絶対にダメ）、地産地消の食材を", "confidence": "high"},
+    {"block_id": "b20", "themes": ["kosodate"], "achievement": false, "summary": "いじめ、不登校の問題解決へ（メタバース不登校居場所支援プログラムの導入）", "confidence": "high"},
+    {"block_id": "b21", "themes": ["kosodate"], "achievement": false, "summary": "小中学校体育館・特別教室の冷暖房化", "confidence": "high"},
+    {"block_id": "b22", "themes": ["kosodate"], "achievement": false, "summary": "デジタル連絡ツールの推進（アプリ導入等）", "confidence": "low"},
+    {"block_id": "b23", "themes": ["kosodate"], "achievement": false, "summary": "知的、情緒学級を市内全学校に設置", "confidence": "high"},
+    {"block_id": "b24", "themes": ["kosodate"], "achievement": false, "summary": "【松戸版】教育バウチャー制度の導入（習い事料の補助金）", "confidence": "high"}
+  ],
+  "notes": [
+    "b22：原文に連絡の対象の記載がない。見出し「みんなで青少年の教育を支えよう！」から子育て・教育としたが、デジタル化として行財政とも読める"
+  ]
+}

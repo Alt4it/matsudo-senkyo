@@ -1,0 +1,16 @@
+{
+  "candidate_id": "c042",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b06", "themes": ["machi", "kosodate"], "achievement": false, "summary": "親子で手軽に遊べる施設の誘致・公園の整備", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "松戸市にプロスポーツチームを!", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "公的賃貸住宅の整備を目指す", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "松戸駅にショッピングモールの誘致と市役所と駅直結の連絡通路の設置", "confidence": "high"},
+    {"block_id": "b10", "themes": ["other"], "achievement": false, "summary": "多様な世代の課題をIT技術で解決!", "confidence": "low"},
+    {"block_id": "b11", "themes": ["gyozaisei"], "achievement": false, "summary": "SNS時代における行政広報の強化", "confidence": "high"}
+  ],
+  "notes": [
+    "b10：課題の分野が原文に書かれておらず、行政手続きのデジタル化とも読めないためotherとしlow"
+  ]
+}

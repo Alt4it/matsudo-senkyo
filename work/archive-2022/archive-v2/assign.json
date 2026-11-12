@@ -1,0 +1,19 @@
+{
+  "election": "2022-matsudo-shigikai",
+  "source_pdf": "koho/R4.11.20sigi_kouhou.pdf",
+  "note": "試運転。公報1頁目（PDFの2ページ目。PDFの1ページ目は表紙）の8人のみ。candidate_id は掲載順。crop は page-02.png から候補者欄を原寸で切り抜いたもの。",
+  "batches": [
+    {"agent": "transcriber-1", "candidates": [
+      {"candidate_id": "c001", "pages": ["work/pages/page-02.png"], "position": "1段目左", "crop": "work/crops/c001.png"},
+      {"candidate_id": "c002", "pages": ["work/pages/page-02.png"], "position": "1段目右", "crop": "work/crops/c002.png"},
+      {"candidate_id": "c003", "pages": ["work/pages/page-02.png"], "position": "2段目左", "crop": "work/crops/c003.png"},
+      {"candidate_id": "c004", "pages": ["work/pages/page-02.png"], "position": "2段目右", "crop": "work/crops/c004.png"}
+    ]},
+    {"agent": "transcriber-2", "candidates": [
+      {"candidate_id": "c005", "pages": ["work/pages/page-02.png"], "position": "3段目左", "crop": "work/crops/c005.png"},
+      {"candidate_id": "c006", "pages": ["work/pages/page-02.png"], "position": "3段目右", "crop": "work/crops/c006.png"},
+      {"candidate_id": "c007", "pages": ["work/pages/page-02.png"], "position": "4段目左", "crop": "work/crops/c007.png"},
+      {"candidate_id": "c008", "pages": ["work/pages/page-02.png"], "position": "4段目右", "crop": "work/crops/c008.png"}
+    ]}
+  ]
+}

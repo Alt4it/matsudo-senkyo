@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c021",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "市役所の移転計画を市民に知らせず議会の賛成だけで進めようとするのは市民無視", "confidence": "high"},
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "市民参加を進めます！", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "収入や年金が減り市民生活は火の車", "confidence": "low"},
+    {"block_id": "b06", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "学校給食の無償化、医療費補助、住宅支援など生活優先の市政に使うよう切り替えるべき", "confidence": "low"},
+    {"block_id": "b07", "themes": ["gyozaisei"], "achievement": false, "summary": "貴重な税金、ムダな大型開発事業に使わせません", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kankyo"], "achievement": false, "summary": "松戸の緑地・自然環境を守ります", "confidence": "high"},
+    {"block_id": "b09", "themes": ["keizai", "kosodate"], "achievement": false, "summary": "松戸の農業を支援し、無農薬と地産地消を進め、学校給食にとりいれます", "confidence": "high"},
+    {"block_id": "b10", "themes": ["other"], "achievement": false, "summary": "女性、男性、大人、子ども、外国人、障がい者、性的少数者など誰もが生きやすいまち", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kankyo"], "achievement": true, "summary": "福島原発事故後、松戸市が放射能汚染のホットスポットになり保護者らと活動", "confidence": "low"},
+    {"block_id": "b13", "themes": ["kankyo"], "achievement": false, "summary": "東海第二原発の再稼働、岸田首相の「原発新増設」には絶対反対", "confidence": "low"}
+  ],
+  "notes": [
+    "b05：現状認識の文で特定の施策がない。見出しの「市民生活」から fukushi としたが、当てはまりは弱い。",
+    "b06：給食（kosodate）、医療費補助（fukushi）、住宅支援（machi）にまたがるが、テーマは最大2つのため前2つとした。",
+    "b12：プロフィール欄の過去の活動の記述のため achievement を true としたが、公報が実績として書いているかは確定できない。放射能汚染に関するため kankyo とした。",
+    "b13：原発はテーマ基準に明記がなく、kankyo としたが other とも読める。"
+  ]
+}

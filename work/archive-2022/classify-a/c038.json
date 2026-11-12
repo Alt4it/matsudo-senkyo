@@ -1,0 +1,39 @@
+{
+  "candidate_id": "c038",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["machi", "kosodate"], "achievement": false, "summary": "人が集い、学び、交流する居場所として図書館を整備", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "子どもが自主性を育み、自ら行動できる教育の学びの寺子屋を設置", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "心を育む絵本教育の実践と講師の育成", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "リアルとオンライン併用授業", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "プログラミング教育の更なる充実", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi", "kosodate"], "achievement": false, "summary": "誰もが遊べるインクルーシブ公園の設置", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "学校給食費の無償化", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "NPO等との連携による子育て環境調査の実施", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "教員の増員による残業時間削減対策", "confidence": "high"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": false, "summary": "空家を活用した健康ステーションの設立で健康寿命をのばす", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "オンデマンドバス導入による交通不便地域の解消", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "市内全駅、公共施設のバリアフリー化", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "自治会集会所の整備", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi", "bousai"], "achievement": false, "summary": "危険な道路、踏切の整備改善", "confidence": "high"},
+    {"block_id": "b15", "themes": ["machi"], "achievement": false, "summary": "駅前、歩道にひと休みベンチの設置", "confidence": "high"},
+    {"block_id": "b16", "themes": ["gyozaisei"], "achievement": false, "summary": "情報公開の徹底", "confidence": "high"},
+    {"block_id": "b17", "themes": ["gyozaisei"], "achievement": false, "summary": "定期的な市政交流会の開催", "confidence": "low"},
+    {"block_id": "b18", "themes": ["gyozaisei"], "achievement": false, "summary": "議案に対する議員の賛否態度の公開", "confidence": "high"},
+    {"block_id": "b19", "themes": ["keizai"], "achievement": false, "summary": "デジタルコンテンツの振興", "confidence": "low"},
+    {"block_id": "b20", "themes": ["other", "keizai"], "achievement": false, "summary": "e-スポーツによる地域活性化", "confidence": "low"},
+    {"block_id": "b21", "themes": ["keizai"], "achievement": false, "summary": "地域通貨による松戸独自の経済圏の創出", "confidence": "high"},
+    {"block_id": "b22", "themes": ["keizai"], "achievement": false, "summary": "若者企業サポートの充実", "confidence": "high"},
+    {"block_id": "b23", "themes": ["kosodate", "other"], "achievement": false, "summary": "市立松戸高校スポーツ強化推進", "confidence": "high"},
+    {"block_id": "b24", "themes": ["other"], "achievement": false, "summary": "プロスポーツクラブの誘致、地元スポーツクラブのプロ化支援", "confidence": "high"},
+    {"block_id": "b25", "themes": ["other"], "achievement": false, "summary": "公共施設での表現、言論の自由を守る", "confidence": "high"},
+    {"block_id": "b26", "themes": ["other"], "achievement": false, "summary": "マンガ、アニメ、ゲームなど創造物を過度な規制から守る", "confidence": "high"}
+  ],
+  "notes": [
+    "b17：市政交流会は基準に明記がなく、市民参加の見出しの下にあるため行財政とした",
+    "b19：振興の中身が原文にないため、産業の話か確定できず経済・産業とした",
+    "b20：スポーツ（その他）と地域活性化（経済・産業）のどちらが主か判断できず両方付けた",
+    "b22：「若者企業」は書き起こしの表記のまま使った"
+  ]
+}

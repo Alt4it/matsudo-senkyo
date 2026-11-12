@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c058",
+  "order": 58,
+  "name": "柿沼みつとし",
+  "kana": "かきぬまみつとし",
+  "sort_kana": null,
+  "party": "日本維新の会",
+  "career": null,
+  "age": 46,
+  "slogan": "教育費無償化実現へ",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "身を切る改革×行財政改革",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "身を切る改革×行財政改革",
+      "page": 9
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "出産無償化×教育費無償化",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "出産無償化×教育費無償化",
+      "page": 9
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "新型コロナやあらゆる感染症から市民の健康と命を守る整備強化",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "新型コロナやあらゆる感染症から市民の健康と命を守る整備強化",
+      "page": 9
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "松戸版・子ども達の塾費用クーポン発行",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "松戸版・子ども達の塾費用クーポン発行",
+      "page": 9
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "医療、介護、福祉の拡充×松戸初！防災公園の新設",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "医療、介護、福祉の拡充×松戸初！防災公園の新設",
+      "page": 9
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "医療、介護、福祉の拡充×松戸初！防災公園の新設",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "医療、介護、福祉の拡充×松戸初！防災公園の新設",
+      "page": 9
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "青少年の健全育成及び非行防止×中学校から給食費の無償化",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "青少年の健全育成及び非行防止×中学校から給食費の無償化",
+      "page": 9
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "松戸児童相談所の新設×市民と意見交換できる仕組みつくり",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "松戸児童相談所の新設×市民と意見交換できる仕組みつくり",
+      "page": 9
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "松戸児童相談所の新設×市民と意見交換できる仕組みつくり",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "松戸児童相談所の新設×市民と意見交換できる仕組みつくり",
+      "page": 9
+    },
+    {
+      "block_id": "b09",
+      "theme": "other",
+      "achievement": false,
+      "summary": "人と動物が共存できる街づくり",
+      "heading": "カッキー 柿沼みつとしの維新八策",
+      "verbatim": "人と動物が共存できる街づくり",
+      "page": 9
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c011",
+  "order": 11,
+  "name": "冨岡けんすけ",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": "新人",
+  "age": 26,
+  "slogan": "「やさシティ」の名に恥じないまちづくり",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもたちがのびのび育てられるまちづくり",
+      "heading": "冨岡けんすけが目指す「やさシティ」の名に恥じないまちづくり",
+      "verbatim": "子どもたちがのびのび育てられるまちづくり",
+      "page": 3
+    },
+    {
+      "block_id": "b02",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "安心・安全なまちづくり",
+      "heading": "冨岡けんすけが目指す「やさシティ」の名に恥じないまちづくり",
+      "verbatim": "安心・安全なまちづくり",
+      "page": 3
+    },
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "ひとに優しいデジタル化",
+      "heading": "冨岡けんすけが目指す「やさシティ」の名に恥じないまちづくり",
+      "verbatim": "ひとに優しいデジタル化",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

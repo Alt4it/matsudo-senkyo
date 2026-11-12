@@ -1,0 +1,135 @@
+{
+  "candidate_id": "c040",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      6
+    ],
+    "position": "4段目右"
+  },
+  "name": "いいはし公明",
+  "kana": "いいはしきみあき",
+  "party": "公明党",
+  "age": 57,
+  "career": "現職4期",
+  "slogan": null,
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "policy",
+      "heading": "「輝く未来」へ 子ども・子育て支援",
+      "verbatim": "小規模保育など、多様な保育ニーズに応じた受け皿の拡大と保育士の処遇改善を図り、入所保留児童を含めた待機児童解消を推進します。",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": "「輝く未来」へ 子ども・子育て支援",
+      "verbatim": "放課後児童クラブ（保育）と放課後KIDSルーム（学習）の一体型運営を進め多様な体験・活動を行えるよう、取り組みます。",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "「快適都市」へ 人にやさしい元気な街づくり",
+      "verbatim": "松戸駅周辺や新松戸駅東側地区に商業施設・図書館などを整備し、活気や賑わいのある街づくりを進めます。",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "「快適都市」へ 人にやさしい元気な街づくり",
+      "verbatim": "コロナ禍により影響を受けた市内中小事業者の事業立て直しや、商店街に寄り添ったきめ細かい支援策を充実させます。",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "「安全・安心」へ 命を守る取り組み",
+      "verbatim": "ゾーン30やキッズゾーンなど、通学路をはじめとする市内の交通安全対策を推進します。",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "「安全・安心」へ 命を守る取り組み",
+      "verbatim": "JR松戸駅のホームドア設置などを加速させます。",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "「健康都市」へ 医療介護福祉の充実",
+      "verbatim": "8050問題や認知症など、福祉に関する困りごとを全て受け止める「福祉まるごと相談窓口」の拡充を進めます。",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "「誇れる街」へ 文化教育の推進",
+      "verbatim": "学習しやすい環境整備へ、市立小中高校のバリアフリー化やトイレの早期洋式化を推進します。",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": "「誇れる街」へ 文化教育の推進",
+      "verbatim": "学校でのいじめや貧困などの諸課題に対応するため、スクールカウンセラーやスクールソーシャルワーカー等のさらなる配置を推進します。",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "市民のかけはし！\n子どもから高齢者まで安心して暮らせるまちづくりに挑みます。",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "kind": "profile",
+      "heading": "Profile",
+      "verbatim": "党役職 千葉県本部政策局次長\n松戸総支部政策局部長",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "kind": "profile",
+      "heading": "Profile",
+      "verbatim": "議会役職 総務財務常任委員会委員長",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "kind": "profile",
+      "heading": "Profile",
+      "verbatim": "市議歴 現職4期 年齢 57歳",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "kind": "profile",
+      "heading": "Profile",
+      "verbatim": "学歴 中央学院大学商学部卒業",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "kind": "profile",
+      "heading": "Profile",
+      "verbatim": "家族構成 妻、長男、次男、両親の6人家族",
+      "page": 6
+    },
+    {
+      "block_id": "b16",
+      "kind": "other",
+      "heading": null,
+      "verbatim": "HP Twitter Facebook LINE",
+      "page": 6
+    }
+  ],
+  "issues": [
+    "氏名の右の「がめざすビジョン 5つの柱」は5つの見出しを束ねる見出しのため、ブロックにせず、各ブロックのheadingにも入れていない",
+    "各heading（例：「子ども・子育て支援」）は、1文字目や一部の文字を黒地白抜きで強調している。文字だけを書き起こした",
+    "sloganは、最も大きい文言が見出し（がめざすビジョン 5つの柱）で、吹き出し（b10）も本文と同程度の大きさのため null とした"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "candidate_id": "c017",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      4
+    ],
+    "position": "1段目左"
+  },
+  "name": "末松ひろと",
+  "kana": "すえまつひろと",
+  "party": "無所属",
+  "age": null,
+  "career": "第59代松戸市議会議長",
+  "slogan": "住んでよいまち・日本一をめざして",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "住んでよいまち・日本一をめざして",
+      "page": 4
+    },
+    {
+      "block_id": "b02",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "今を守り、そして未来への責任を果たす！",
+      "page": 4
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "（その仕事は本当に税金を使う必要があるか）",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "公共性（その仕事は市民の役に立っているか）",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "守備範囲（その仕事は行政がやるべきことか）",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "効率性（その仕事は無駄なく行われているか）",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "民間委託（その仕事は民間に任せられないか）",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "財源（その仕事は厳しい財政状況でもやるべきか）",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": "歳入・歳出のバランスの取れた健全財政の実現",
+      "verbatim": "都市型農業の振興、地元商店街の活性化、企業誘致と地元雇用創出、就労支援強化による歳入の確保",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "kind": "policy",
+      "heading": "歳入・歳出のバランスの取れた健全財政の実現",
+      "verbatim": "行政サービスの不断の見直しと、効率的・効果的な予算執行による歳出の適正化",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "kind": "policy",
+      "heading": "教育・子育て環境の整備充実",
+      "verbatim": "家庭環境（経済的状況）による教育格差の是正",
+      "page": 4
+    },
+    {
+      "block_id": "b12",
+      "kind": "policy",
+      "heading": "教育・子育て環境の整備充実",
+      "verbatim": "学校外の生活環境の安全強化、子どもの見守り活動の支援",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "kind": "policy",
+      "heading": "教育・子育て環境の整備充実",
+      "verbatim": "幼児教育の推進、安心して預けられる保育所・学童クラブ",
+      "page": 4
+    },
+    {
+      "block_id": "b14",
+      "kind": "policy",
+      "heading": "住環境の整備",
+      "verbatim": "災害に強いまちづくり（公共施設の災害対応機能の強化）",
+      "page": 4
+    },
+    {
+      "block_id": "b15",
+      "kind": "policy",
+      "heading": "住環境の整備",
+      "verbatim": "自転車駐輪場の整備促進、公共交通網の整備支援",
+      "page": 4
+    },
+    {
+      "block_id": "b16",
+      "kind": "policy",
+      "heading": "住環境の整備",
+      "verbatim": "生涯学習、生涯スポーツを楽しめる環境の整備充実",
+      "page": 4
+    },
+    {
+      "block_id": "b17",
+      "kind": "policy",
+      "heading": "公共施設の再編整備",
+      "verbatim": "今ある施設の有効活用と整備資金（基金）の確保",
+      "page": 4
+    },
+    {
+      "block_id": "b18",
+      "kind": "policy",
+      "heading": "公共施設の再編整備",
+      "verbatim": "選択と集中により必要で使いやすい公共施設へと再編整備",
+      "page": 4
+    },
+    {
+      "block_id": "b19",
+      "kind": "policy",
+      "heading": "信頼される政治・行政システムの確立",
+      "verbatim": "市民参加機会の確保、議会活性化の推進",
+      "page": 4
+    },
+    {
+      "block_id": "b20",
+      "kind": "policy",
+      "heading": "信頼される政治・行政システムの確立",
+      "verbatim": "近隣市との広域連携による課題解決、共存共栄",
+      "page": 4
+    },
+    {
+      "block_id": "b21",
+      "kind": "profile",
+      "heading": "プロフィール",
+      "verbatim": "第59代松戸市議会議長\n聖徳大学附属幼稚園\n松戸市立柿ノ木台小学校\n松戸市立第二中学校\n千葉県立国府台高等学校\n慶應義塾大学法学部\n株式会社熊谷組\n千葉商科大学・大学院客員講師\n保護司（松戸地区保護司会所属）",
+      "page": 4
+    }
+  ],
+  "issues": [
+    "careerの判断：期数の記載はなく、議員歴を示す語句は「第59代松戸市議会議長」だけなのでこれを入れた。役職であり議員歴に当たるか確認してほしい。",
+    "b21の「慶應」の2文字目は印刷がつぶれており、「應」か「応」かを確実には読み取れない。",
+    "b03の括弧書きは見出しの直下にあり、配下の項目ではなく見出しの補足とも読めるが、独立の policy ブロックにした。"
+  ]
+}

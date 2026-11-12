@@ -1,0 +1,64 @@
+{
+  "candidate_id": "c060",
+  "order": 60,
+  "name": "中村たかのり",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": 45,
+  "slogan": "次世代の子供や、若者たちのために今日からできること。それが、介護予防です！さぁ、一緒に始めましょう！",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "認知症に向けた取組が今後ますます重要になる",
+      "heading": "介護予防、認知症予防の推進",
+      "verbatim": "認知症に向けた取組が今後ますます重要になります。",
+      "page": 9
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "健康寿命を延ばして、生きがいをもって生活してほしい",
+      "heading": "介護予防、認知症予防の推進",
+      "verbatim": "おひとりおひとりが、健康寿命を延ばして、生きがいをもって生活してほしい。",
+      "page": 9
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "認知症への理解を深め、認知症になっても希望を持って過ごせる社会の実現へ頑張る",
+      "heading": "地域共生社会の実現",
+      "verbatim": "みんなが認知症への理解を深め、認知症になっても住み慣れたまちで、希望を持って過ごせる社会の実現に向けて、専門家として頑張ります。",
+      "page": 9
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "介護が必要になっても安心できる環境をつくる",
+      "heading": "特養・在宅サービスの整備、人材確保、待遇向上",
+      "verbatim": "もし、介護が必要になっても安心できる環境をつくります。",
+      "page": 9
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "ヤングケアラー問題に真剣に取り組む",
+      "heading": null,
+      "verbatim": "ヤングケアラー問題に真剣に取り組みます。",
+      "page": 9
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

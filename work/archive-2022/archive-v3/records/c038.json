@@ -1,0 +1,298 @@
+{
+  "candidate_id": "c038",
+  "order": 38,
+  "name": "石塚ゆう",
+  "kana": null,
+  "sort_kana": null,
+  "party": "完全無所属",
+  "career": null,
+  "age": 42,
+  "slogan": "子ども・若者が孤立しない松戸市へ",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "人が集い、学び、交流する居場所として図書館を整備",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "図書館の整備(人が集い、学び、交流する居場所)",
+      "page": 6
+    },
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "人が集い、学び、交流する居場所として図書館を整備",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "図書館の整備(人が集い、学び、交流する居場所)",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもが自主性を育み、自ら行動できる教育の学びの寺子屋を設置",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "学びの寺子屋の設置(子どもが自主性を育み、自ら行動できるような教育)",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "心を育む絵本教育の実践と講師の育成",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "心を育む絵本教育の実践と講師の育成",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "リアルとオンライン併用授業",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "リアルとオンライン併用授業",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "プログラミング教育の更なる充実",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "プログラミング教育の更なる充実",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "誰もが遊べるインクルーシブ公園の設置",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "インクルーシブ公園の設置（誰もが遊べる公園に）",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "誰もが遊べるインクルーシブ公園の設置",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "インクルーシブ公園の設置（誰もが遊べる公園に）",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食費の無償化",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "学校給食費の無償化",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "NPO等との連携による子育て環境調査の実施",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "NPO等との連携による子育て環境調査の実施",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "教員の増員による残業時間削減対策",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "教員の残業時間削減対策(教員の増員)",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "空家を活用した健康ステーションの設立で健康寿命をのばす",
+      "heading": "シニアの居場所",
+      "verbatim": "空家を活用した健康ステーションの設立で健康寿命をのばす",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "オンデマンドバス導入による交通不便地域の解消",
+      "heading": "シニアの居場所",
+      "verbatim": "オンデマンドバス導入による交通不便地域の解消",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市内全駅、公共施設のバリアフリー化",
+      "heading": "シニアの居場所",
+      "verbatim": "市内全駅、公共施設のバリアフリー化",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "自治会集会所の整備",
+      "heading": "シニアの居場所",
+      "verbatim": "自治会集会所の整備",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "危険な道路、踏切の整備改善",
+      "heading": "シニアの居場所",
+      "verbatim": "危険な道路、踏切の整備改善",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "危険な道路、踏切の整備改善",
+      "heading": "シニアの居場所",
+      "verbatim": "危険な道路、踏切の整備改善",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "駅前、歩道にひと休みベンチの設置",
+      "heading": "シニアの居場所",
+      "verbatim": "駅前、歩道にひと休みベンチの設置",
+      "page": 6
+    },
+    {
+      "block_id": "b16",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "情報公開の徹底",
+      "heading": "市民が決める！市民と決める！",
+      "verbatim": "情報公開の徹底",
+      "page": 6
+    },
+    {
+      "block_id": "b17",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "定期的な市政交流会の開催",
+      "heading": "市民が決める！市民と決める！",
+      "verbatim": "定期的な市政交流会の開催",
+      "page": 6
+    },
+    {
+      "block_id": "b18",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議案に対する議員の賛否態度の公開",
+      "heading": "市民が決める！市民と決める！",
+      "verbatim": "議案に対する議員の賛否態度の公開",
+      "page": 6
+    },
+    {
+      "block_id": "b19",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "デジタルコンテンツの振興",
+      "heading": "若者の居場所",
+      "verbatim": "デジタルコンテンツの振興",
+      "page": 6
+    },
+    {
+      "block_id": "b20",
+      "theme": "other",
+      "achievement": false,
+      "summary": "e-スポーツによる地域活性化",
+      "heading": "若者の居場所",
+      "verbatim": "e-スポーツによる地域活性化",
+      "page": 6
+    },
+    {
+      "block_id": "b20",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "e-スポーツによる地域活性化",
+      "heading": "若者の居場所",
+      "verbatim": "e-スポーツによる地域活性化",
+      "page": 6
+    },
+    {
+      "block_id": "b21",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "地域通貨による松戸独自の経済圏の創出",
+      "heading": "若者の居場所",
+      "verbatim": "地域通貨による松戸独自の経済圏の創出",
+      "page": 6
+    },
+    {
+      "block_id": "b22",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "若者企業サポートの充実",
+      "heading": "若者の居場所",
+      "verbatim": "若者企業サポートの充実",
+      "page": 6
+    },
+    {
+      "block_id": "b23",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "市立松戸高校スポーツ強化推進",
+      "heading": "若者の居場所",
+      "verbatim": "市立松戸高校スポーツ強化推進",
+      "page": 6
+    },
+    {
+      "block_id": "b23",
+      "theme": "other",
+      "achievement": false,
+      "summary": "市立松戸高校スポーツ強化推進",
+      "heading": "若者の居場所",
+      "verbatim": "市立松戸高校スポーツ強化推進",
+      "page": 6
+    },
+    {
+      "block_id": "b24",
+      "theme": "other",
+      "achievement": false,
+      "summary": "プロスポーツクラブの誘致、地元スポーツクラブのプロ化支援",
+      "heading": "若者の居場所",
+      "verbatim": "プロスポーツクラブの誘致、地元スポーツクラブのプロ化支援",
+      "page": 6
+    },
+    {
+      "block_id": "b25",
+      "theme": "other",
+      "achievement": false,
+      "summary": "公共施設での表現、言論の自由を守る",
+      "heading": "若者の居場所",
+      "verbatim": "公共施設での表現、言論の自由を守る",
+      "page": 6
+    },
+    {
+      "block_id": "b26",
+      "theme": "other",
+      "achievement": false,
+      "summary": "マンガ、アニメ、ゲームなど創造物を過度な規制から守る",
+      "heading": "若者の居場所",
+      "verbatim": "マンガ、アニメ、ゲームなど創造物を過度な規制から守る",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

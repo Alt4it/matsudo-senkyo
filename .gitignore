@@ -1,0 +1,7 @@
+# 公報PDFは選管サイトから入手する（Git管理しない）
+koho/*.pdf
+# ページ画像・切り抜き（PDFから再生成できる大きなファイル）
+work/**/pages/
+work/**/crops/
+*.png
+__pycache__/

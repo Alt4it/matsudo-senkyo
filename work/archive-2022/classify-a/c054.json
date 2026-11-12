@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c054",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "大型事業優先の政策から、福祉重視の政策へ！", "confidence": "low"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "第3子以降の出生に対する出産祝金100万円の段階的支給", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "病児・病後児施設の拡充など働く親の支援", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "総合医療センターにアニマルセラピー導入と近隣にドナルド・マクドナルド・ハウス誘致", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "待機児童実質ゼロ", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "防犯カメラの設置拡大などによる通学路や公園の安全確保", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kankyo"], "achievement": false, "summary": "分かりづらいゴミ分別の簡素化", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "学校給食費無償化など物価高への家計支援", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": false, "summary": "高齢者、障がい者へのタクシーチケット支給", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "いつでも気軽に受けられる検査体制の充実", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "無症状もしくは軽症陽性者の為の療養施設の整備", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi", "keizai"], "achievement": false, "summary": "松戸駅に建設中の新たな駅ビルへの百貨店誘致", "confidence": "high"},
+    {"block_id": "b15", "themes": ["machi", "other"], "achievement": false, "summary": "松戸駅東口高台エリアに多目的アリーナ建設とプロスポーツ誘致", "confidence": "high"}
+  ],
+  "notes": [
+    "b03：政策全体の方向を述べる文言で、行財政（事業の優先順位）とも読める。「福祉重視」の語から福祉・医療とした。"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c029",
+  "order": 29,
+  "name": "川井きよまさ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "国民民主党 推薦",
+  "career": "松戸市議会議員（2010-14）",
+  "age": null,
+  "slogan": "つくろう、新しい答え。",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "日本の子どもの7人に1人が貧困状態にある",
+      "heading": "教育支援",
+      "verbatim": "日本の子どもの7人に1人が貧困状態にあります。",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "生まれた環境や家庭の経済的理由で子どもの将来が左右されてはいけない",
+      "heading": "教育支援",
+      "verbatim": "生まれた環境や家庭の経済的理由で子どもの将来が左右されることがあってはいけません。",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "返済不要の奨学金創設、小中学校の給食費の段階的引き下げ（将来的に無償化）を目指す",
+      "heading": "教育支援",
+      "verbatim": "貧困からの教育格差を是正するため、返済不要の奨学金の創設、小中学校の給食費の段階的な引き下げ（将来的に無償化）を目指します。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "通信・夜間大学等を活用しキャリアアップを図る社会人が増えている",
+      "heading": "生涯学習支援",
+      "verbatim": "通信・夜間大学等の環境を活用し、キャリアアップを図る社会人が増えています。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "社会人対象の奨学金制度を創設し、年齢問わず学べる環境を整備",
+      "heading": "生涯学習支援",
+      "verbatim": "社会人対象の奨学金制度を創設し、年齢問わず自由に学習機会を選択し、学べる環境を整備します。",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者の生活の質の向上を目指し、市民スポーツ振興の促進で健康寿命を伸ばす",
+      "heading": "生涯学習支援",
+      "verbatim": "また、高齢者の生活の質の向上を目指し、市民スポーツ振興の促進で健康寿命を伸ばします。",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "地震や台風などの自然災害に対する備えは急務",
+      "heading": "防災減災対策",
+      "verbatim": "近頃頻発している地震、そして台風などの自然災害に対する備えは急務です。",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "消防職員数は504人、消防力の整備指針に基づく算出では617人で約113人不足",
+      "heading": "防災減災対策",
+      "verbatim": "松戸市の消防職員数は504人ですが、総務省消防庁が制定した消防力の整備指針に基づいて算出した場合、617人で約113人の不足となります。",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "消防職員を増員し、安心安全な街づくりを目指す",
+      "heading": "防災減災対策",
+      "verbatim": "消防職員を増員し、安心安全な街づくりを目指します。",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "住民による安定的かつ継続的な地域福祉活動には核となる人材が必要",
+      "heading": "福祉充実",
+      "verbatim": "住民による安定的かつ継続的な地域福祉活動には、核となる人材が必要です。",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "大学生など若い世代へも働きかけ、幅広い分野から人材を集め育成するシステムを構築",
+      "heading": "福祉充実",
+      "verbatim": "現代社会における、多様化するニーズにも対応できるよう大学生などの若い世代へも働きかけるなど、幅広い分野から人材を集め、育成するシステムを構築します。",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

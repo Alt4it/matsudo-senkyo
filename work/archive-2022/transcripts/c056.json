@@ -1,0 +1,134 @@
+{
+  "candidate_id": "c056",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      8
+    ],
+    "position": "4段目右"
+  },
+  "name": "岩瀬まり",
+  "kana": "いわせまり",
+  "party": "公明党",
+  "age": 61,
+  "career": "市議歴：２期",
+  "slogan": null,
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "policy",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "おくやみコーナー設置",
+      "page": 8
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "母子守る助成制度\n新生児聴覚検査・産婦健診の助成",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "市オリジナル婚姻届・出生届",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "無戸籍の方への支援強化",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "子ども医療費助成の対象年齢を高校3年生まで拡大",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "7年連続で国基準の待機児童ゼロを達成",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "パートナーシップ宣誓制度の導入",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "皆様の声をカタチにしました！",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "kind": "profile",
+      "heading": "岩瀬まりプロフィール",
+      "verbatim": "1961年5月神奈川県生まれ　61歳\n出身校：創価大学経営学部卒業\n家 族 ：夫と長男\n資 格 ：防災士\n中学校教諭一種免許状（社会科）\n高等学校教諭一種免許状（社会科）\n党役職：党総支部遊説局部長\n市議歴：２期",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "kind": "policy",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「輝く未来」へ子ども・子育て支援",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "kind": "policy",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「快適都市」へ人にやさしい元気な街づくり",
+      "page": 8
+    },
+    {
+      "block_id": "b12",
+      "kind": "policy",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「安全・安心」へ命を守る取り組み",
+      "page": 8
+    },
+    {
+      "block_id": "b13",
+      "kind": "policy",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「健康都市」へ医療・介護・福祉の充実",
+      "page": 8
+    },
+    {
+      "block_id": "b14",
+      "kind": "policy",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「誇れる街」へ文化・教育の推進",
+      "page": 8
+    },
+    {
+      "block_id": "b15",
+      "kind": "other",
+      "heading": null,
+      "verbatim": "詳しくはHPをご覧下さい！",
+      "page": 8
+    },
+    {
+      "block_id": "b16",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "「誰もが輝く 住みよい松戸に」全力で取り組みます！",
+      "page": 8
+    }
+  ],
+  "issues": [
+    "sloganをnullとした。候補はb16「「誰もが輝く 住みよい松戸に」全力で取り組みます！」だが、字の大きさがb01〜b07の箇条と同程度で「本文より明らかに大きく」に当たらないと判断した。人の判断を求めたい",
+    "b02は「母子守る助成制度」の下に小さい字で「新生児聴覚検査・産婦健診の助成」が付く。1つの箇条として改行で残した。「母子守る」は紙面の表記のまま"
+  ]
+}

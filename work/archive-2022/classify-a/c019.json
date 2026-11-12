@@ -1,0 +1,14 @@
+{
+  "candidate_id": "c019",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": false, "summary": "私を当選させれば、不正疑惑の追求 事業見直し・事業縮小化により実現", "confidence": "low"},
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": false, "summary": "百条委員会設置には議員の1／2の賛成が必要で、有権者の投票しだい", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "私を当選させれば、生活保護受給者が一人減", "confidence": "low"}
+  ],
+  "notes": [
+    "b01：原文は「不正疑惑の追求」で改行されており、次の行との関係と、何を実現するのかが読み取りにくい。並列の関係を決めず、改行を空白にして原文に近いまま要約したため low。",
+    "b04：原文は「一人減」で終わっている。生活保護の語から fukushi としたが、政策の趣旨は原文からは読み取りにくいため、言い換えずに原文のままとし、low とした。"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "candidate_id": "c064",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [9], "position": "4段目右"},
+  "name": "小黒智恵",
+  "kana": "おぐろともえ",
+  "party": null,
+  "age": 35,
+  "career": null,
+  "slogan": "子育て世帯にやさしいまちに",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "子育て世帯に\nやさしいまちに", "page": 9},
+    {"block_id": "b02", "kind": "policy", "heading": "1. キッズフレンドリーなまち", "verbatim": "ベビーカーにやさしいまちづくり", "page": 9},
+    {"block_id": "b03", "kind": "policy", "heading": "1. キッズフレンドリーなまち", "verbatim": "キッズフレンドリーな場所を増やす", "page": 9},
+    {"block_id": "b04", "kind": "policy", "heading": "1. キッズフレンドリーなまち", "verbatim": "公園の整備・改善", "page": 9},
+    {"block_id": "b05", "kind": "policy", "heading": "2. 産後ママにやさしいまち", "verbatim": "産後ママお助け隊の発足", "page": 9},
+    {"block_id": "b06", "kind": "policy", "heading": "2. 産後ママにやさしいまち", "verbatim": "産後ケアサービスの充実・拡大", "page": 9},
+    {"block_id": "b07", "kind": "policy", "heading": "3. 子育て世帯が安心して暮らせるまち", "verbatim": "市民全員で子供を見守るまちづくり", "page": 9},
+    {"block_id": "b08", "kind": "policy", "heading": "3. 子育て世帯が安心して暮らせるまち", "verbatim": "防犯対策強化", "page": 9},
+    {"block_id": "b09", "kind": "policy", "heading": "3. 子育て世帯が安心して暮らせるまち", "verbatim": "暗い場所、危険な場所の改善", "page": 9},
+    {"block_id": "b10", "kind": "policy", "heading": "4. 子育て世帯がつながるまち", "verbatim": "子育て情報の発信", "page": 9},
+    {"block_id": "b11", "kind": "policy", "heading": "4. 子育て世帯がつながるまち", "verbatim": "子育て世帯のコミュニティ作り", "page": 9},
+    {"block_id": "b12", "kind": "profile", "heading": "プロフィール", "verbatim": "関西出身、35歳、2児のママ\n広告代理店、IT企業の営業経験\n松戸青年会議所所属\n合同会社まつよん代表\n松戸市の子育て情報サイト「まつどっ子ナビ」運営者", "page": 9}
+  ],
+  "issues": [
+    "党派の記載が見当たらないため party は null。",
+    "箇条の先頭の「✓」「●」は記号として写していない。"
+  ]
+}

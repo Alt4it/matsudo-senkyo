@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c020",
+  "order": 20,
+  "name": "吉田健",
+  "kana": "よしだけん",
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": null,
+  "slogan": "吉田にやらせてください！",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "百貨店、商業施設を再誘致し、サービス業、飲食業を活性化",
+      "heading": "百貨店、商業施設を再誘致！",
+      "verbatim": "百貨店、商業施設を再誘致し、サービス業、飲食業を活性化させます！",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "スポーツ企業、団体（ダンスチーム、eスポーツなど）を誘致し松戸市のチームをつくる",
+      "heading": "スポーツ団体、企業の誘致！",
+      "verbatim": "スポーツ企業、団体（ダンスチーム、eスポーツなど）を誘致し松戸市のチームをつくり地域交流、発展させます!",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "スポーツ企業、団体（ダンスチーム、eスポーツなど）を誘致し松戸市のチームをつくる",
+      "heading": "スポーツ団体、企業の誘致！",
+      "verbatim": "スポーツ企業、団体（ダンスチーム、eスポーツなど）を誘致し松戸市のチームをつくり地域交流、発展させます!",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "道の駅やラーメン村などを開発して地方から松戸に足を運んでもらい経済発展",
+      "heading": "道の駅、ラーメン村の開発！",
+      "verbatim": "道の駅やラーメン村などを開発して地方から松戸に足を運んでもらい経済発展させます！",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "パターゴルフ場の増設",
+      "heading": "パターゴルフ場、駐輪場の充実！",
+      "verbatim": "パターゴルフ場の増設",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "駅付近の駐輪場を充実",
+      "heading": "パターゴルフ場、駐輪場の充実！",
+      "verbatim": "駅付近の駐輪場を充実させます！",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子ども食堂、子ども宅食を充実",
+      "heading": null,
+      "verbatim": "子ども食堂、子ども宅食の充実させます!",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯カメラの増設",
+      "heading": null,
+      "verbatim": "防犯カメラの増設",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

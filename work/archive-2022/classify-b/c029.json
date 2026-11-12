@@ -1,0 +1,21 @@
+{
+  "candidate_id": "c029",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "日本の子どもの7人に1人が貧困状態にある", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "生まれた環境や家庭の経済的理由で子どもの将来が左右されてはいけない", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "返済不要の奨学金創設、小中学校の給食費の段階的な引き下げ（将来的に無償化）", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "通信・夜間大学等を活用しキャリアアップを図る社会人が増えている", "confidence": "low"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "社会人対象の奨学金制度を創設し、年齢問わず学べる環境を整備", "confidence": "low"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "高齢者の生活の質の向上を目指し、市民スポーツ振興で健康寿命を伸ばす", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "地震、台風などの自然災害に対する備えは急務", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "消防職員数504人は消防力の整備指針に基づく617人に約113人不足", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "消防職員を増員し、安心安全な街づくりを目指す", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": false, "summary": "安定的かつ継続的な地域福祉活動には核となる人材が必要", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "大学生など若い世代へも働きかけ、幅広い分野から人材を集め育成するシステムを構築", "confidence": "high"}
+  ],
+  "notes": [
+    "b05・b06：社会人向けの学習支援で、kosodate の基準の「子どもと教育」のうち教育に当たるとしたが、子どもが対象ではないため迷った"
+  ]
+}

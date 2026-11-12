@@ -1,0 +1,13 @@
+{
+  "candidate_id": "c004",
+  "classifier": "A",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "summary": "いじめ110番、教育格差の是正で子供たちを笑顔に", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi", "machi"], "summary": "六実にレインボーバスを戻す、独身者の介護問題の解決で高齢者を笑顔に", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi", "kankyo"], "summary": "六実・元山・五香の再開発、新クリーンセンターの再計画", "confidence": "low"}
+  ],
+  "notes": [
+    "b04の「新・クリーンセンター」は、原文に施設の説明がない。名称から環境（ごみ）に当たるものと見て付けたが、公共施設の整備としてまちづくり・交通だけに含める見方もあるため、人の確認が必要。"
+  ]
+}

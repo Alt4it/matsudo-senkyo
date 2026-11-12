@@ -1,0 +1,640 @@
+{
+  "election": "2022-matsudo-shigikai",
+  "source_pdf": "koho/R4.11.20sigi_kouhou.pdf",
+  "note": "候補者IDは掲載順（試運転のため）。cropは候補者欄の原寸切り抜き、crops/zoom は同じ欄を4分割して2倍にしたもの。",
+  "batches": [
+    {
+      "agent": "transcriber-1",
+      "candidates": [
+        {
+          "candidate_id": "c001",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c001.png"
+        },
+        {
+          "candidate_id": "c002",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c002.png"
+        },
+        {
+          "candidate_id": "c003",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c003.png"
+        },
+        {
+          "candidate_id": "c004",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c004.png"
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-2",
+      "candidates": [
+        {
+          "candidate_id": "c005",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c005.png"
+        },
+        {
+          "candidate_id": "c006",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c006.png"
+        },
+        {
+          "candidate_id": "c007",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c007.png"
+        },
+        {
+          "candidate_id": "c008",
+          "pages": [
+            "work/pages/page-02.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c008.png"
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-3",
+      "candidates": [
+        {
+          "candidate_id": "c009",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c009.png",
+          "pdf_page": 3
+        },
+        {
+          "candidate_id": "c010",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c010.png",
+          "pdf_page": 3
+        },
+        {
+          "candidate_id": "c011",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c011.png",
+          "pdf_page": 3
+        },
+        {
+          "candidate_id": "c012",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c012.png",
+          "pdf_page": 3
+        },
+        {
+          "candidate_id": "c013",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c013.png",
+          "pdf_page": 3
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-4",
+      "candidates": [
+        {
+          "candidate_id": "c014",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c014.png",
+          "pdf_page": 3
+        },
+        {
+          "candidate_id": "c015",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c015.png",
+          "pdf_page": 3
+        },
+        {
+          "candidate_id": "c016",
+          "pages": [
+            "work/pages/page-03.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c016.png",
+          "pdf_page": 3
+        },
+        {
+          "candidate_id": "c017",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c017.png",
+          "pdf_page": 4
+        },
+        {
+          "candidate_id": "c018",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c018.png",
+          "pdf_page": 4
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-5",
+      "candidates": [
+        {
+          "candidate_id": "c019",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c019.png",
+          "pdf_page": 4
+        },
+        {
+          "candidate_id": "c020",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c020.png",
+          "pdf_page": 4
+        },
+        {
+          "candidate_id": "c021",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c021.png",
+          "pdf_page": 4
+        },
+        {
+          "candidate_id": "c022",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c022.png",
+          "pdf_page": 4
+        },
+        {
+          "candidate_id": "c023",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c023.png",
+          "pdf_page": 4
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-6",
+      "candidates": [
+        {
+          "candidate_id": "c024",
+          "pages": [
+            "work/pages/page-04.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c024.png",
+          "pdf_page": 4
+        },
+        {
+          "candidate_id": "c025",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c025.png",
+          "pdf_page": 5
+        },
+        {
+          "candidate_id": "c026",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c026.png",
+          "pdf_page": 5
+        },
+        {
+          "candidate_id": "c027",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c027.png",
+          "pdf_page": 5
+        },
+        {
+          "candidate_id": "c028",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c028.png",
+          "pdf_page": 5
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-7",
+      "candidates": [
+        {
+          "candidate_id": "c029",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c029.png",
+          "pdf_page": 5
+        },
+        {
+          "candidate_id": "c030",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c030.png",
+          "pdf_page": 5
+        },
+        {
+          "candidate_id": "c031",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c031.png",
+          "pdf_page": 5
+        },
+        {
+          "candidate_id": "c032",
+          "pages": [
+            "work/pages/page-05.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c032.png",
+          "pdf_page": 5
+        },
+        {
+          "candidate_id": "c033",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c033.png",
+          "pdf_page": 6
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-8",
+      "candidates": [
+        {
+          "candidate_id": "c034",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c034.png",
+          "pdf_page": 6
+        },
+        {
+          "candidate_id": "c035",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c035.png",
+          "pdf_page": 6
+        },
+        {
+          "candidate_id": "c036",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c036.png",
+          "pdf_page": 6
+        },
+        {
+          "candidate_id": "c037",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c037.png",
+          "pdf_page": 6
+        },
+        {
+          "candidate_id": "c038",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c038.png",
+          "pdf_page": 6
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-9",
+      "candidates": [
+        {
+          "candidate_id": "c039",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c039.png",
+          "pdf_page": 6
+        },
+        {
+          "candidate_id": "c040",
+          "pages": [
+            "work/pages/page-06.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c040.png",
+          "pdf_page": 6
+        },
+        {
+          "candidate_id": "c041",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c041.png",
+          "pdf_page": 7
+        },
+        {
+          "candidate_id": "c042",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c042.png",
+          "pdf_page": 7
+        },
+        {
+          "candidate_id": "c043",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c043.png",
+          "pdf_page": 7
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-10",
+      "candidates": [
+        {
+          "candidate_id": "c044",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c044.png",
+          "pdf_page": 7
+        },
+        {
+          "candidate_id": "c045",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c045.png",
+          "pdf_page": 7
+        },
+        {
+          "candidate_id": "c046",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c046.png",
+          "pdf_page": 7
+        },
+        {
+          "candidate_id": "c047",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c047.png",
+          "pdf_page": 7
+        },
+        {
+          "candidate_id": "c048",
+          "pages": [
+            "work/pages/page-07.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c048.png",
+          "pdf_page": 7
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-11",
+      "candidates": [
+        {
+          "candidate_id": "c049",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c049.png",
+          "pdf_page": 8
+        },
+        {
+          "candidate_id": "c050",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c050.png",
+          "pdf_page": 8
+        },
+        {
+          "candidate_id": "c051",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c051.png",
+          "pdf_page": 8
+        },
+        {
+          "candidate_id": "c052",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c052.png",
+          "pdf_page": 8
+        },
+        {
+          "candidate_id": "c053",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c053.png",
+          "pdf_page": 8
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-12",
+      "candidates": [
+        {
+          "candidate_id": "c054",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c054.png",
+          "pdf_page": 8
+        },
+        {
+          "candidate_id": "c055",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c055.png",
+          "pdf_page": 8
+        },
+        {
+          "candidate_id": "c056",
+          "pages": [
+            "work/pages/page-08.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c056.png",
+          "pdf_page": 8
+        },
+        {
+          "candidate_id": "c057",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "1段目左",
+          "crop": "work/crops/c057.png",
+          "pdf_page": 9
+        },
+        {
+          "candidate_id": "c058",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "1段目右",
+          "crop": "work/crops/c058.png",
+          "pdf_page": 9
+        }
+      ]
+    },
+    {
+      "agent": "transcriber-13",
+      "candidates": [
+        {
+          "candidate_id": "c059",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "2段目左",
+          "crop": "work/crops/c059.png",
+          "pdf_page": 9
+        },
+        {
+          "candidate_id": "c060",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "2段目右",
+          "crop": "work/crops/c060.png",
+          "pdf_page": 9
+        },
+        {
+          "candidate_id": "c061",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "3段目左",
+          "crop": "work/crops/c061.png",
+          "pdf_page": 9
+        },
+        {
+          "candidate_id": "c062",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "3段目右",
+          "crop": "work/crops/c062.png",
+          "pdf_page": 9
+        },
+        {
+          "candidate_id": "c063",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "4段目左",
+          "crop": "work/crops/c063.png",
+          "pdf_page": 9
+        },
+        {
+          "candidate_id": "c064",
+          "pages": [
+            "work/pages/page-09.png"
+          ],
+          "position": "4段目右",
+          "crop": "work/crops/c064.png",
+          "pdf_page": 9
+        }
+      ]
+    }
+  ]
+}

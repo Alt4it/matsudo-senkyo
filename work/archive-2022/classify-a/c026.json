@@ -1,0 +1,24 @@
+{
+  "candidate_id": "c026",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["machi"], "achievement": true, "summary": "市内2番目に小金原支所にエレベーターを設置", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": true, "summary": "小金原公園の改修が実現、小さなお子様からご年配の方まで世代問わず活用", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": true, "summary": "国の施策を誘致した交通手段グリーンスローモビリティの導入", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": false, "summary": "市民の声を聴き、誰もが住みやすい地域作りを実行", "confidence": "low"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "新松戸駅周辺地域の再開発へ向けて長い時間を掛けて取り組み、道筋を付ける", "confidence": "low"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "一般質問を行い大きな枠組みが決定、今後は快速列車停車の実現に向けて取り組む", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "4期16年の実績を基に、未来を見据えた街づくりを実行", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": true, "summary": "地元を守る「消防団員」としての20年の実績", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": true, "summary": "交通安全を守る「交通安全協会指導員」としての任務", "confidence": "low"},
+    {"block_id": "b11", "themes": ["bousai", "machi"], "achievement": true, "summary": "水害多発地域の道路整備を実施", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai"], "achievement": false, "summary": "強い防災意識を持って、災害に強い街づくりの実現に取り組む", "confidence": "high"}
+  ],
+  "notes": [
+    "b05：具体的な施策がなく、見出し「誰もが住みやすい地域の実現」と「地域作り」の語からまちづくりとした",
+    "b06：「長い時間を掛けて取り組み」は過去の取り組みとも読めるが、文末が「道筋を付ける！」で実績か今後の話か判別できないため false とした",
+    "b07：「大きな枠組みが決定」（実績）と「今後…取り組む」（今後の話）が同じ箇条に混ざるため false とした",
+    "b10：「任務」は実績の語を含まないが、b09・b11と並ぶ活動の記述で過去の実績に近いと判断して true とした。今も続く任務とも読める"
+  ]
+}

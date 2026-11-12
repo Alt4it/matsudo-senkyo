@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c003",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "多様な保育の受け皿拡大と保育士の処遇改善で待機児童解消を推進", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "放課後児童クラブと放課後KIDSルームの一体型運営を進める", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "松戸駅周辺や新松戸駅東側地区に商業施設・図書館などを整備", "confidence": "high"},
+    {"block_id": "b05", "themes": ["keizai"], "achievement": false, "summary": "コロナ禍で影響を受けた市内中小事業者や商店街への支援策を充実", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "ゾーン30やキッズゾーンなど通学路をはじめ交通安全対策を推進", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai", "machi"], "achievement": false, "summary": "JR松戸駅のホームドア設置などを加速", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "「健康都市」へ、医療・介護・福祉を充実", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "8050問題や認知症など福祉の困りごとを受け止める相談窓口を拡充", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate", "other"], "achievement": false, "summary": "「誇れる街」へ、文化・教育を推進", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "市立小中高校のバリアフリー化とトイレの早期洋式化を推進", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": false, "summary": "学校のいじめや貧困に対応するスクールカウンセラー等のさらなる配置を推進", "confidence": "high"}
+  ],
+  "notes": [
+    "b07：見出し「安全・安心」から防災・安全、駅の設備整備としてまちづくり・交通の2つを付けた。",
+    "b10：教育は kosodate、文化は other の基準に当たるため2つ付けた。"
+  ]
+}

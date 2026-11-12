@@ -1,0 +1,31 @@
+{
+  "candidate_id": "c048",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["gyozaisei"], "achievement": false, "summary": "肥大化する市債（借金）に歯止めをかけて事業を再建", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "総合医療センターを民営化して小・中学校の給食無償化", "confidence": "low"},
+    {"block_id": "b04", "themes": ["gyozaisei", "fukushi"], "achievement": false, "summary": "総合医療センター民営化で、年額30億の赤字削減", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "市役所の移転、現地建て替えで費用を40億円削除", "confidence": "low"},
+    {"block_id": "b06", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "クリーンセンター早期建て替え委託費用の削減", "confidence": "low"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "小・中学校給食の無償化・高校教育の無償化", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "デジタル民生員制度で高齢者の孤立化対策", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "LINEを使った安否通知見守りサービス", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "歩道のセミフラットを標準としてバリアフリー化促進", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "新松戸駅の常磐線快速停車の早期実現", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai", "kankyo"], "achievement": false, "summary": "太陽光利用ゼロエネルギー街路灯/防犯カメラの設置", "confidence": "high"},
+    {"block_id": "b13", "themes": ["bousai"], "achievement": false, "summary": "避難所開設ツールの標準設置、垂直避難・在宅避難など防災基盤の整備", "confidence": "high"},
+    {"block_id": "b14", "themes": ["bousai", "other"], "achievement": false, "summary": "共助の要となる町会（地域自治）活動支援と加入促進", "confidence": "high"},
+    {"block_id": "b15", "themes": ["machi"], "achievement": false, "summary": "松戸競輪場の多機能化でパブリックビューイング", "confidence": "high"},
+    {"block_id": "b16", "themes": ["other"], "achievement": false, "summary": "フットサルなど地元スポーツのプロ化支援", "confidence": "high"},
+    {"block_id": "b17", "themes": ["machi", "other"], "achievement": false, "summary": "工業団地冷蔵倉庫複合型スケートリンク建設検討", "confidence": "high"},
+    {"block_id": "b18", "themes": ["gyozaisei"], "achievement": false, "summary": "行政手続オンライン化・RPA活用・自治体DXへ推進", "confidence": "high"},
+    {"block_id": "b19", "themes": ["gyozaisei"], "achievement": false, "summary": "ネーミングライツで財政収入増や事業コスト削減", "confidence": "high"},
+    {"block_id": "b20", "themes": ["keizai"], "achievement": false, "summary": "矢切のねぎ、松戸のレモンなど６次産業促進", "confidence": "high"}
+  ],
+  "notes": [
+    "b03：給食無償化のkosodateと総合医療センターのfukushiを付けたが、民営化をgyozaiseiとも読めるためlow",
+    "b05：要約の「削除」は書き起こしの表記のまま。意味を推測して「削減」に言い換えていない。原文の確認が必要なためlow",
+    "b06：クリーンセンターの内容が原文にないためkankyoを付けず、委託費用の削減と建て替えからgyozaiseiとmachiとした。kankyoとも読めるためlow"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c031",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [5], "position": "4段目左"},
+  "name": "中村のりこ",
+  "kana": null,
+  "party": "NHK党",
+  "age": null,
+  "career": null,
+  "slogan": "NHK受信料の支払いは国民の義務ではありません！",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": null, "verbatim": "NHK受信料の支払いは国民の義務ではありません！", "page": 5},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "元NHK職員でジャーナリストの立花孝志が党首を務めるNHK党は、犯罪や不祥事ばかりのNHKに納得していない、NHKの集金人が怖い、受信料制度は不平等だ、などの理由でNHKに受信料を支払わない方を応援・お守りする政党です。", "page": 5},
+    {"block_id": "b03", "kind": "policy", "heading": "年金受給者の方のNHK受信料を無料にします！", "verbatim": "ＮＨＫには受信料が割引や無料になる免除制度があるにもかかわらず、年金で生活している方には適用されません。", "page": 5},
+    {"block_id": "b04", "kind": "policy", "heading": "年金受給者の方のNHK受信料を無料にします！", "verbatim": "これっておかしくないですか？", "page": 5},
+    {"block_id": "b05", "kind": "policy", "heading": "年金受給者の方のNHK受信料を無料にします！", "verbatim": "ＮＨＫ受信料の支払いは任意であり、支払い義務はありません。", "page": 5},
+    {"block_id": "b06", "kind": "policy", "heading": "年金受給者の方のNHK受信料を無料にします！", "verbatim": "NHK党では、年金受給者のNHK受信料を肩代わりすることで無料にしています。", "page": 5},
+    {"block_id": "b07", "kind": "policy", "heading": "年金受給者の方のNHK受信料を無料にします！", "verbatim": "また、現在ＮＨＫ受信料が銀行引き落としになっている方も諦めずにご相談下さい。", "page": 5},
+    {"block_id": "b08", "kind": "policy", "heading": "NHKからの請求書が来なくなる方法 請求書代理受領サービス", "verbatim": "右のＱＲコードから委任していただくことで、あなたのお宅にＮＨＫからの請求書が届かなくなります。", "page": 5},
+    {"block_id": "b09", "kind": "policy", "heading": "NHKからの請求書が来なくなる方法 請求書代理受領サービス", "verbatim": "また、時効の援用手続きやＮＨＫへの電話対応、訪問対応も我々があなたの代わりに対応致します。", "page": 5},
+    {"block_id": "b10", "kind": "policy", "heading": "NHKからの請求書が来なくなる方法 請求書代理受領サービス", "verbatim": "ＮＨＫから請求書が届くたびに金額が増えて怖い、ＮＨＫから手紙が来ることが精神的に苦痛だという方も、安心して受信料の不払いをしてください。", "page": 5},
+    {"block_id": "b11", "kind": "other", "heading": null, "verbatim": "中村のりこ ホットライン 080-9576-1637", "page": 5},
+    {"block_id": "b12", "kind": "policy", "heading": null, "verbatim": "ひとり親家庭への支援の拡充", "page": 5},
+    {"block_id": "b13", "kind": "policy", "heading": null, "verbatim": "生活保護世帯への現物支給", "page": 5},
+    {"block_id": "b14", "kind": "policy", "heading": null, "verbatim": "スマートフォン購入時の助成金支給", "page": 5}
+  ],
+  "issues": [
+    "kana：姓「中村」にふりがながなく読みが公報から分からないため null（名のかな部分は「のりこ」）。",
+    "slogan：文字が最も大きいのは「年金受給者の方のNHK受信料を無料にします！」だが、下の本文を束ねる見出しと判断して除き、次に大きく紙面の上にある「NHK受信料の支払いは国民の義務ではありません！」を採った。両者の大きさは近く、どちらを採るかは要確認。",
+    "b03〜b07 の heading：「年金受給者の方のNHK受信料を無料にします！」は主張でもあるが、見出しを独立させない基準に従い heading とした。",
+    "b08〜b10 の heading：見出し「NHKからの請求書が来なくなる方法」と、その右の囲み「請求書代理受領サービス」を連結した。",
+    "b02：党の紹介文のため message とした。",
+    "b03〜b10：字間の広い「ＮＨＫ」「ＱＲ」は全角、詰まった「NHK」は半角で写し分けた。紙面の字形からの判断で、文字コードまでは確定できない。",
+    "b11：電話番号は紙面の記載どおり。サイトに掲載してよいかは人の判断が必要。",
+    "b08 の文中に「右のＱＲコード」とあるが、QRコード自体は本文に含めていない。"
+  ]
+}

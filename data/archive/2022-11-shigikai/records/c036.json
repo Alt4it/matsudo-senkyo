@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c036",
+  "order": 36,
+  "name": "井出まさこ",
+  "kana": "いでまさこ",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": null,
+  "age": 55,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保育の受け皿拡大と保育士処遇改善で、入所保留児童含む待機児童解消を推進",
+      "heading": "「輝く未来」へ 子ども・子育て支援",
+      "verbatim": "小規模保育など、多様な保育ニーズに応じた受け皿の拡大と保育士の処遇改善を図り、入所保留児童を含めた待機児童解消を推進します。",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "放課後児童クラブと放課後KIDSルームの一体型運営を進める",
+      "heading": "「輝く未来」へ 子ども・子育て支援",
+      "verbatim": "放課後児童クラブ（保育）と放課後KIDSルーム（学習）の一体型運営を進め多様な体験・活動を行えるよう、取り組みます。",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸駅周辺や新松戸駅東側地区に商業施設・図書館など整備し活気ある街づくり",
+      "heading": "「快適都市」へ 人にやさしい元気な街づくり",
+      "verbatim": "松戸駅周辺や新松戸駅東側地区に商業施設・図書館などを整備し、活気や賑わいのある街づくりを進めます。",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "コロナ禍で影響を受けた市内中小事業者の立て直しや商店街への支援策を充実",
+      "heading": "「快適都市」へ 人にやさしい元気な街づくり",
+      "verbatim": "コロナ禍により影響を受けた市内中小事業者の事業立て直しや、商店街に寄り添ったきめ細かい支援策を充実させます。",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "ゾーン30やキッズゾーンなど、通学路をはじめ市内の交通安全対策を推進",
+      "heading": "「安全・安心」へ 命を守る取り組み",
+      "verbatim": "ゾーン30やキッズゾーンなど、通学路をはじめとする市内の交通安全対策を推進します。",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "JR松戸駅のホームドア設置などを加速",
+      "heading": "「安全・安心」へ 命を守る取り組み",
+      "verbatim": "JR松戸駅のホームドア設置などを加速させます。",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "JR松戸駅のホームドア設置などを加速",
+      "heading": "「安全・安心」へ 命を守る取り組み",
+      "verbatim": "JR松戸駅のホームドア設置などを加速させます。",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "8050問題や認知症など困りごとを全て受け止める「福祉まるごと相談窓口」を拡充",
+      "heading": "「健康都市」へ 医療介護福祉の充実",
+      "verbatim": "8050問題や認知症など、福祉に関する困りごとを全て受け止める「福祉まるごと相談窓口」の拡充を進めます。",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学習環境整備へ、市立小中高校のバリアフリー化やトイレ早期洋式化を推進",
+      "heading": "「誇れる街」へ 文化教育の推進",
+      "verbatim": "学習しやすい環境整備へ、市立小中高校のバリアフリー化やトイレの早期洋式化を推進します。",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校のいじめや貧困などに対応し、スクールカウンセラー等のさらなる配置を推進",
+      "heading": "「誇れる街」へ 文化教育の推進",
+      "verbatim": "学校でのいじめや貧困などの諸課題に対応するため、スクールカウンセラーやスクールソーシャルワーカー等のさらなる配置を推進します。",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "candidate_id": "c032",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の完全無償化を", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "県・国に働きかけと市独自の教員確保で教員不足解消", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "学校体育館へのエアコン設置・トイレの洋式化", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "金ケ作地域の下水道の改善を", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "0歳から5歳児まで6年間入所できる認可保育所の整備", "confidence": "high"},
+    {"block_id": "b06", "themes": ["keizai", "kosodate"], "achievement": false, "summary": "従事者の労働条件を保証する公契約条例の制定（学童指導員など）", "confidence": "low"},
+    {"block_id": "b07", "themes": ["machi", "bousai"], "achievement": false, "summary": "東平賀地区の「車の抜け道」対策", "confidence": "low"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "小金原旧ゆうかり学園跡地（残土置場見直し）", "confidence": "low"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "北小金駅北口の通路・階段の改善", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "小金城趾駅階段の改善（バリアフリー化）", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi", "gyozaisei"], "achievement": false, "summary": "福祉や教育に「お金がない」といいながら大型開発は「全部やる」では理解は得られない", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "東松戸の区画整理事業には12名の地権者が見直しを求めている", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "新市役所の建替計画が決まっていないのに大規模な造成が進められている", "confidence": "high"},
+    {"block_id": "b14", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "子ども、高齢者にやさしく、子育て支援、事業者支援を行う街づくりを進める", "confidence": "low"},
+    {"block_id": "b15", "themes": ["other"], "achievement": false, "summary": "9条改憲 軍事費2倍化 岸田自公政治ノー", "confidence": "low"}
+  ],
+  "notes": [
+    "b06：公契約条例は労働条件の話として経済・産業（雇用）とし、括弧内の学童指導員から子育て・教育も付けた。行財政とも読める",
+    "b07：原文は「車の抜け道」対策のみで内容の記載がなく、まちづくり・交通と交通安全のどちらとも断定できない",
+    "b08：跡地の残土置場の見直しで、まちづくりに最も近いと判断した。内容の記載が少ない",
+    "b14：子ども・高齢者・子育て・事業者支援・街づくりが並ぶが、テーマは2つまでのため kosodate・fukushi とした。keizai・machi も当てはまる",
+    "b15：市政以外の立場の表明で、当てはまるテーマがないためその他とした。要約は意味の関係を変えないよう原文のままとした"
+  ]
+}

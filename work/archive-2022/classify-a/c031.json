@@ -1,0 +1,25 @@
+{
+  "candidate_id": "c031",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "achievement": false, "summary": "NHK受信料の支払いは国民の義務ではない", "confidence": "high"},
+    {"block_id": "b03", "themes": ["other"], "achievement": false, "summary": "NHKには免除制度があるが、年金で生活している方には適用されない", "confidence": "high"},
+    {"block_id": "b04", "themes": ["other"], "achievement": false, "summary": "これっておかしくないですか？", "confidence": "low"},
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "NHK受信料の支払いは任意で、支払い義務はない", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "NHK党では年金受給者のNHK受信料を肩代わりし無料にしている", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "現在NHK受信料が銀行引き落としの方も諦めずにご相談を", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "QRコードから委任すると、NHKからの請求書が届かなくなる", "confidence": "high"},
+    {"block_id": "b09", "themes": ["other"], "achievement": false, "summary": "時効の援用手続きやNHKへの電話対応、訪問対応も代わりに対応", "confidence": "high"},
+    {"block_id": "b10", "themes": ["other"], "achievement": false, "summary": "請求書で金額が増えて怖い、手紙が苦痛な方も、安心して受信料の不払いを", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi", "kosodate"], "achievement": false, "summary": "ひとり親家庭への支援の拡充", "confidence": "low"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "生活保護世帯への現物支給", "confidence": "high"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "スマートフォン購入時の助成金支給", "confidence": "low"}
+  ],
+  "notes": [
+    "b04：単独では政策の内容を持たない問いかけの文。原文のまま要約とし、見出しに合わせてその他とした",
+    "b06：「無料にしています」は現在の取り組みとも実績とも読めるが、公報は実績として掲げていないので false とした",
+    "b12：原文に子どもの語はないが、ひとり親家庭の支援として福祉・医療と子育て・教育の両方を付けた",
+    "b14：対象や目的の記載がなく当てはまるテーマがないためその他とした"
+  ]
+}

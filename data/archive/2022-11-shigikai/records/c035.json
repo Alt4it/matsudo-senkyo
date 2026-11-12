@@ -1,0 +1,100 @@
+{
+  "candidate_id": "c035",
+  "order": 35,
+  "name": "工藤すず子",
+  "kana": "くどう",
+  "sort_kana": null,
+  "party": "社民党",
+  "career": "5期17年市議を経験",
+  "age": null,
+  "slogan": "がんこに平和 くらしが一番",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "other",
+      "achievement": false,
+      "summary": "物価高騰から市民生活を守る対策強化を",
+      "heading": null,
+      "verbatim": "物価高騰から市民生活を守る対策強化を！",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小中学校の給食費無償化を",
+      "heading": null,
+      "verbatim": "小中学校の給食費無償化を！",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "女性が一人でも生きていける社会を",
+      "heading": null,
+      "verbatim": "女性が一人でも生きていける社会を！",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "若者にやりがいある安定した職の確保を",
+      "heading": null,
+      "verbatim": "若者にやりがいある安定した職の確保を！",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "安心の老後のため介護・医療の充実を",
+      "heading": null,
+      "verbatim": "安心の老後のため介護・医療の充実を！",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "気候危機の中、江戸川氾濫を想定し、本気の対策を",
+      "heading": null,
+      "verbatim": "気候危機の中、江戸川氾濫を想定し、本気の対策を！",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "コロナ対策に東松戸病院の活用を",
+      "heading": null,
+      "verbatim": "コロナ対策に東松戸病院の活用を！",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市役所庁舎は現地建て替えで再考を",
+      "heading": null,
+      "verbatim": "市役所庁舎は現地建て替えで再考を！",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "公契約条例で働くものと地域経済の活性化を",
+      "heading": null,
+      "verbatim": "公契約条例で働くものと地域経済の活性化を！",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

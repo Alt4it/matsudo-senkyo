@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c035",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["fukushi"], "achievement": false, "summary": "物価高騰から市民生活を守る対策強化を", "confidence": "low"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "小中学校の給食費無償化を", "confidence": "high"},
+    {"block_id": "b04", "themes": ["other"], "achievement": false, "summary": "女性が一人でも生きていける社会を", "confidence": "low"},
+    {"block_id": "b05", "themes": ["keizai"], "achievement": false, "summary": "若者にやりがいある安定した職の確保を", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "安心の老後のため介護・医療の充実を", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "気候危機の中、江戸川氾濫を想定し、本気の対策を", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "コロナ対策に東松戸病院の活用を", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "市役所庁舎は現地建て替えで再考を", "confidence": "high"},
+    {"block_id": "b10", "themes": ["keizai"], "achievement": false, "summary": "公契約条例で働くものと地域経済の活性化を", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：対策の内容の記載がなく、市民生活の支援として福祉・医療に最も近いと判断した。経済・産業とも読める",
+    "b04：当てはまるテーマの基準がなくその他とした。雇用や福祉とも読める"
+  ]
+}

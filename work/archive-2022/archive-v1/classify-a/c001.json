@@ -1,0 +1,19 @@
+{
+  "candidate_id": "c001",
+  "classifier": "A",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "summary": "平和基金で長崎への平和大使派遣を継続し広島へ拡大、憲法9条改悪に反対", "confidence": "high"},
+    {"block_id": "b02", "themes": ["fukushi", "kosodate"], "summary": "特定健診・地域包括ケア・移動助成、放課後児童クラブとキッズルームの充実", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "summary": "学校施設整備、トイレ洋式化、就学援助充実、スポーツ施設整備、給食無償化", "confidence": "high"},
+    {"block_id": "b04", "themes": ["keizai"], "summary": "若者や高齢者の就労支援を促進、労働相談の充実や中小企業退職金補助の実績", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai", "kankyo"], "summary": "分散備蓄倉庫全校実現、避難困難者支援を全市に拡大、LED・太陽光など導入促進", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "summary": "交通困難地域のコミュニティバス運行、新八柱駅周辺整備、駅のバリアフリー促進", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "summary": "市立総合医療センターで医療体制、コロナ病床確保、東松戸病院廃止に反対", "confidence": "high"},
+    {"block_id": "b08", "themes": ["gyozaisei", "machi"], "summary": "申請主義から出前主義へ、支所機能充実、コンパクトな庁舎建設、広報まつど宅配拡大", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi", "kosodate"], "summary": "実績としてPCR検査、待機児童入所施設、出張相談拡大、駅前広場整備計画など", "confidence": "low"}
+  ],
+  "notes": [
+    "b09は実績の列挙で、福祉・医療（PCR検査、出張相談）、子育て・教育（待機児童、子どもの貧困ガイドブック）、まちづくり・交通（八柱駅南口、バリアフリー化）の3テーマにまたがる。各2項目で並ぶが上限2つのため、福祉・医療と子育て・教育を付けた。"
+  ]
+}

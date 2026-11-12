@@ -1,0 +1,82 @@
+{
+  "candidate_id": "c002",
+  "order": 2,
+  "name": "関根ジロー",
+  "kana": null,
+  "sort_kana": null,
+  "party": "立憲民主党",
+  "career": "市議３期",
+  "age": 38,
+  "slogan": "関根ジローは学校トイレの洋式化を推進してきました。",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "学校トイレの洋式化を推進してきた",
+      "heading": null,
+      "verbatim": "関根ジローは学校トイレの洋式化を推進してきました。",
+      "page": 2
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "2023年度末、市内校舎トイレ約70%、体育館トイレ100%が洋式に",
+      "heading": null,
+      "verbatim": "そして、ついに2023年度末、松戸市内の校舎トイレ約70%、体育館トイレの100%が洋式になります！",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "色覚に配慮し、学校のチョークを見やすくした",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "色覚に配慮し、学校のチョークを見やすくしました！",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "公立保育所にアレルギーフリー給食を導入",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "公立保育所にアレルギーフリー給食を導入！",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "市立総合医療センターにWi-Fiを導入",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "市立総合医療センターにWi-Fiを導入！",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "多機能トイレに補助犬ステッカーの掲示",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "多機能トイレに補助犬ステッカーの掲示！",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "羽田空港直通・ディズニーランド直通バスを実現（ディズニーはコロナ禍で運行中止）",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "羽田空港直通・ディズニーランド直通バスの実現！\n（ディズニー直行バスはコロナ禍の影響で運行中止に）",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "candidate_id": "c038",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      6
+    ],
+    "position": "3段目右"
+  },
+  "name": "石塚ゆう",
+  "kana": null,
+  "party": "完全無所属",
+  "age": 42,
+  "career": null,
+  "slogan": "子ども・若者が孤立しない松戸市へ",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "図書館の整備(人が集い、学び、交流する居場所)",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "学びの寺子屋の設置(子どもが自主性を育み、自ら行動できるような教育)",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "心を育む絵本教育の実践と講師の育成",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "リアルとオンライン併用授業",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "プログラミング教育の更なる充実",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "インクルーシブ公園の設置（誰もが遊べる公園に）",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "学校給食費の無償化",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "NPO等との連携による子育て環境調査の実施",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": "子ども・子育て世代の居場所",
+      "verbatim": "教員の残業時間削減対策(教員の増員)",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "kind": "policy",
+      "heading": "シニアの居場所",
+      "verbatim": "空家を活用した健康ステーションの設立で健康寿命をのばす",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "kind": "policy",
+      "heading": "シニアの居場所",
+      "verbatim": "オンデマンドバス導入による交通不便地域の解消",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "kind": "policy",
+      "heading": "シニアの居場所",
+      "verbatim": "市内全駅、公共施設のバリアフリー化",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "kind": "policy",
+      "heading": "シニアの居場所",
+      "verbatim": "自治会集会所の整備",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "kind": "policy",
+      "heading": "シニアの居場所",
+      "verbatim": "危険な道路、踏切の整備改善",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "kind": "policy",
+      "heading": "シニアの居場所",
+      "verbatim": "駅前、歩道にひと休みベンチの設置",
+      "page": 6
+    },
+    {
+      "block_id": "b16",
+      "kind": "policy",
+      "heading": "市民が決める！市民と決める！",
+      "verbatim": "情報公開の徹底",
+      "page": 6
+    },
+    {
+      "block_id": "b17",
+      "kind": "policy",
+      "heading": "市民が決める！市民と決める！",
+      "verbatim": "定期的な市政交流会の開催",
+      "page": 6
+    },
+    {
+      "block_id": "b18",
+      "kind": "policy",
+      "heading": "市民が決める！市民と決める！",
+      "verbatim": "議案に対する議員の賛否態度の公開",
+      "page": 6
+    },
+    {
+      "block_id": "b19",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "デジタルコンテンツの振興",
+      "page": 6
+    },
+    {
+      "block_id": "b20",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "e-スポーツによる地域活性化",
+      "page": 6
+    },
+    {
+      "block_id": "b21",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "地域通貨による松戸独自の経済圏の創出",
+      "page": 6
+    },
+    {
+      "block_id": "b22",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "若者企業サポートの充実",
+      "page": 6
+    },
+    {
+      "block_id": "b23",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "市立松戸高校スポーツ強化推進",
+      "page": 6
+    },
+    {
+      "block_id": "b24",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "プロスポーツクラブの誘致、地元スポーツクラブのプロ化支援",
+      "page": 6
+    },
+    {
+      "block_id": "b25",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "公共施設での表現、言論の自由を守る",
+      "page": 6
+    },
+    {
+      "block_id": "b26",
+      "kind": "policy",
+      "heading": "若者の居場所",
+      "verbatim": "マンガ、アニメ、ゲームなど創造物を過度な規制から守る",
+      "page": 6
+    },
+    {
+      "block_id": "b27",
+      "kind": "profile",
+      "heading": null,
+      "verbatim": "明地区こあら食堂の会代表（子ども食堂）",
+      "page": 6
+    },
+    {
+      "block_id": "b28",
+      "kind": "profile",
+      "heading": "プロフィール",
+      "verbatim": "1980年5月31日生まれ\n上本郷第二小学校、松戸市立第六中学校、松戸市立松戸高等学校を経て、社会に出る。家庭の事情で一度は断念したが、働きながら中央大学にて学び、5年かけて卒業。その後、会社経営などに携わり、代議士、参議院議員秘書を務める。",
+      "page": 6
+    },
+    {
+      "block_id": "b29",
+      "kind": "profile",
+      "heading": "地域活動",
+      "verbatim": "松戸市消防団第三分団\n明地区こあら食堂の会 代表\n松戸市地域防災リーダー\n松戸新田第四町会 役員\n防犯指導員\n松戸新田神明神社 奉賛会 役員\n交通指導員\n元民生児童委員\n松戸宿坂川献灯まつり 青年団\n松戸商工議会義 青年部（松戸YEG）\n絵本読み語りアカデミー認定講師\n表現の自由を守るための約束賛同",
+      "page": 6
+    }
+  ],
+  "issues": [
+    "kana：ふりがなの記載なし。姓「石塚」の読みが公報から分からないためnull",
+    "party：紙面の表記「完全無所属」をそのまま入れた。円形の飾りの中に「42歳」と並ぶ表記",
+    "b13とb14、b16とb17は紙面の同じ行に「・」で2項目が並ぶため、別ブロックにした",
+    "b29の「松戸商工議会義」は小さな字で、この字面に見えるので見たまま写した（語の意味から読み替えていない）。紙面で要確認",
+    "b22の「若者企業」は紙面のまま。「企業」と読めたので直していない",
+    "QRコードは本文に含めていない"
+  ]
+}

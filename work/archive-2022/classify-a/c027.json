@@ -1,0 +1,16 @@
+{
+  "candidate_id": "c027",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["keizai"], "achievement": false, "summary": "耕作放棄地を借り上げ、市民が自給自足に取り組める「コミュニティ農園」を整える", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "失敗を恐れない教育や多文化と触れ合う教育でグローバルに活躍できる人材を育てる", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "新京成線松戸駅からくぬぎ駅間の路線を地下化", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "路線の跡地は道路として供用し、新たな交通軸とする", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "スポーツを通じて子どもたちの健全な成長を育み、市民の健康を促す", "confidence": "low"},
+    {"block_id": "b06", "themes": ["machi", "bousai"], "achievement": false, "summary": "防災機能を備えたスポーツ施設を設け、プロスポーツの拠点誘致も働きかける", "confidence": "high"}
+  ],
+  "notes": [
+    "b05：子どもの成長と市民の健康の両方を目的とする内容として kosodate・fukushi を付けたが、スポーツとしてその他（other）にも当てはまる。テーマは2つまでのため迷った"
+  ]
+}

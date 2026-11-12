@@ -1,0 +1,16 @@
+{
+  "candidate_id": "c037",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "achievement": false, "summary": "ノラ猫不妊化費用の全額助成を実現する", "confidence": "high"},
+    {"block_id": "b02", "themes": ["other"], "achievement": false, "summary": "行政主体の譲渡会実施で屋外に暮らす猫を減らす", "confidence": "high"},
+    {"block_id": "b03", "themes": ["other"], "achievement": false, "summary": "教育を通じて動物愛護やペット飼育に関する啓発を進める", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai", "other"], "achievement": false, "summary": "震災時のペット同行避難の受け入れ態勢を具体的に改善する", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei"], "achievement": false, "summary": "政務活動費で市議のガソリン代が精算できるのは不適切、当選後すぐに改善を提案", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "義務教育の給食費を無償化する", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "体育館などの学校施設へのエアコン設置を進める", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "シルバーパスの導入を実現する", "confidence": "high"}
+  ],
+  "notes": []
+}

@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c028",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "実効性のあるイジメ対策条例の制定を目指す", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "警察や児童相談所と連携し、児童虐待の根絶を目指す", "confidence": "high"},
+    {"block_id": "b03", "themes": ["other"], "achievement": false, "summary": "警察や保健所と連携し、DV（家庭内暴力）の撲滅を目指す", "confidence": "low"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "元陸上自衛官としてお困りごとを目の当たりにし、地域防災力を高める必要を感じた", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "水難事故や自然災害で尊い命が失われている", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "そうした事を未然に防ぐには更なる防災対策が必要", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "危険な箇所を把握し、点検を行い、対策を講じなければならない", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "災害に強い街づくりを推奨", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai", "kosodate"], "achievement": false, "summary": "防災対策、教育問題、児童問題、街全体の活性化は喫緊の課題、実行力と発信力で挑戦", "confidence": "low"}
+  ],
+  "notes": [
+    "b03：DV（家庭内暴力）に当てはまるテーマの基準がなく、その他とした。福祉・医療や防犯としても読める",
+    "b10：防災・教育・児童・街の活性化の4つが並ぶが、テーマは2つまでのため bousai・kosodate とした。machi も当てはまる"
+  ]
+}

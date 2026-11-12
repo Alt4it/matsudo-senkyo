@@ -1,0 +1,13 @@
+{
+  "candidate_id": "c007",
+  "classifier": "B",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei", "fukushi"], "summary": "市立総合医療センター民営化で毎年25億円の赤字穴埋め不要に、病院は残る", "confidence": "high"},
+    {"block_id": "b02", "themes": ["gyozaisei", "fukushi"], "summary": "実績：東松戸病院廃止で年間5億円削減", "confidence": "high"}
+  ],
+  "notes": [
+    "b01：原文は図の中の文字で、書き写し担当が読み順と「毎赤字」の表記を要確認としている。要約は図の読み順（見出し→左の建物→民営化→右の建物）を前提にしているため、原文画像との照合が必要。",
+    "b02：今後の公約ではなく実績の記載。原文の「実績」の語を要約に残した。"
+  ]
+}

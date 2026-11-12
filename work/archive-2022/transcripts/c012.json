@@ -1,0 +1,114 @@
+{
+  "candidate_id": "c012",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      3
+    ],
+    "position": "2段目右"
+  },
+  "name": "湯浅あや",
+  "kana": "ゆあさあや",
+  "party": "無所属",
+  "age": 46,
+  "career": null,
+  "slogan": "議員削減。ういた財源を福祉へ！",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "議員削減。ういた財源を福祉へ！",
+      "page": 3
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 1 福祉費20%増を目指す",
+      "verbatim": "GPS端末などによる児童の見守りシステムの導入",
+      "page": 3
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 2 全世代が安心して暮らせるまちへ！",
+      "verbatim": "実感できる子育て支援",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 2 全世代が安心して暮らせるまちへ！",
+      "verbatim": "特色ある公園作り",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 3 議会を身近に",
+      "verbatim": "市内全市民センターにて子連れで行ける議会報告会",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 4 市民の声を市政に届けましょう",
+      "verbatim": "議員定数削減",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 4 市民の声を市政に届けましょう",
+      "verbatim": "住民投票条例常設化",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 5 STOP!税金の無駄を省く",
+      "verbatim": "ネーミングライツの促進",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 6 未来を担う子ども達に負担を残しません",
+      "verbatim": "大型事業見直し",
+      "page": 3
+    },
+    {
+      "block_id": "b10",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 6 未来を担う子ども達に負担を残しません",
+      "verbatim": "予算決算の説明会",
+      "page": 3
+    },
+    {
+      "block_id": "b11",
+      "kind": "policy",
+      "heading": "湯浅あやの六つの柱 6 未来を担う子ども達に負担を残しません",
+      "verbatim": "公務員給与の更なる見直し",
+      "page": 3
+    },
+    {
+      "block_id": "b12",
+      "kind": "other",
+      "heading": null,
+      "verbatim": "市民力公認",
+      "page": 3
+    },
+    {
+      "block_id": "b13",
+      "kind": "profile",
+      "heading": "プロフィール",
+      "verbatim": "・1976年生まれ　46歳　・高塚幼稚園卒園　・東部小、第五中、市川昴高等学校卒業\n・湯浅クリーニング・リテールベーカリー・介護事業所勤務\n・障害児親の会なないろのハーフトーン　・障害者計画推進協議会策定部会委員\n・地域福祉計画推進委員会委員　資格：介護福祉士、手話検定１級　家族：両親、娘、猫３匹",
+      "page": 3
+    }
+  ],
+  "issues": [
+    "b13「市川昴」の「昴」は「昂」との区別に確信がない",
+    "b12「市民力公認」は党派欄の「無所属」とは別の表示のため、party には入れず other とした。扱いの確認をお願いしたい",
+    "heading は上位の「湯浅あやの六つの柱」と各項目の見出しを半角スペースでつないだ。番号は炎の図の中の数字。箇条の記号「・」は policy の verbatim に含めていない"
+  ]
+}

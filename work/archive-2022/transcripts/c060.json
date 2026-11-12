@@ -1,0 +1,128 @@
+{
+  "candidate_id": "c060",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      9
+    ],
+    "position": "2段目右"
+  },
+  "name": "中村たかのり",
+  "kana": null,
+  "party": null,
+  "age": 45,
+  "career": null,
+  "slogan": "次世代の子供や、若者たちのために今日からできること。それが、介護予防です！さぁ、一緒に始めましょう！",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "message",
+      "heading": "介護予防、認知症予防の推進",
+      "verbatim": "介護予防とは「要介護状態になるのをできる限り遅らせること」「要介護状態の方も悪化をできる限り防いで、軽減を目指すこと」です。",
+      "page": 9
+    },
+    {
+      "block_id": "b02",
+      "kind": "message",
+      "heading": "介護予防、認知症予防の推進",
+      "verbatim": "2025年には約700万人、高齢者の約 5 人に 1 人が認知症になるといわれています。",
+      "page": 9
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "介護予防、認知症予防の推進",
+      "verbatim": "認知症に向けた取組が今後ますます重要になります。",
+      "page": 9
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "介護予防、認知症予防の推進",
+      "verbatim": "おひとりおひとりが、健康寿命を延ばして、生きがいをもって生活してほしい。",
+      "page": 9
+    },
+    {
+      "block_id": "b05",
+      "kind": "message",
+      "heading": "介護予防、認知症予防の推進",
+      "verbatim": "一緒に介護予防始めましょう。",
+      "page": 9
+    },
+    {
+      "block_id": "b06",
+      "kind": "message",
+      "heading": "地域共生社会の実現",
+      "verbatim": "認知症は誰でもなるかもしれません。",
+      "page": 9
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "地域共生社会の実現",
+      "verbatim": "みんなが認知症への理解を深め、認知症になっても住み慣れたまちで、希望を持って過ごせる社会の実現に向けて、専門家として頑張ります。",
+      "page": 9
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "特養・在宅サービスの整備、人材確保、待遇向上",
+      "verbatim": "もし、介護が必要になっても安心できる環境をつくります。",
+      "page": 9
+    },
+    {
+      "block_id": "b09",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "次世代の子供や、若者たちのために今日からできること。\nそれが、介護予防です！さぁ、一緒に始めましょう！",
+      "page": 9
+    },
+    {
+      "block_id": "b10",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "今、介護を頑張っているあなたの声、聞かせてください。",
+      "page": 9
+    },
+    {
+      "block_id": "b11",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "ヤングケアラー問題に真剣に取り組みます。",
+      "page": 9
+    },
+    {
+      "block_id": "b12",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "介護予防講座で市内各地を巡回中！",
+      "page": 9
+    },
+    {
+      "block_id": "b13",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "たくさん笑って健康寿命をのばしましょう！",
+      "page": 9
+    },
+    {
+      "block_id": "b14",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "介護予防を始めましょう",
+      "page": 9
+    },
+    {
+      "block_id": "b15",
+      "kind": "profile",
+      "heading": "中村たかのりプロフィール",
+      "verbatim": "1977年(昭和52年)5月28日生まれ\n45歳　栃木県出身\n千葉大学　法経学部法学科卒\n介護支援専門員・介護福祉士\nキャラバン・メイト\n消費生活サポーター",
+      "page": 9
+    }
+  ],
+  "issues": [
+    "氏名の「中村」にふりがながなく、姓の読みが公報から分からないため kana は null（名の「たかのり」のみ読みが分かる）。",
+    "b14 はハートのイラストの周囲に円弧状に書かれた文字。「介」の周辺が細かく白抜きだが「介護予防を始めましょう」と読んだ。",
+    "b02 の「約 5 人に 1 人」は紙面の字間どおり数字の前後を空けて写した。全角・半角は字形から確定できない。"
+  ]
+}

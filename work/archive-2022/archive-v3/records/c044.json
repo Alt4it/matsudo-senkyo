@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c044",
+  "order": 44,
+  "name": "みのわ信矢",
+  "kana": "みのわしんや",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "現在4期目",
+  "age": null,
+  "slogan": "実績と信頼の5期へ！！",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "“介護のプロ”として高齢者の生活を守り、在宅医療の充実を実現",
+      "heading": "高齢者の暮らしを守る",
+      "verbatim": "みのわ信矢は“介護のプロ”として高齢者の生活を守り、住み慣れた家で受けられる在宅医療の充実を実現します。",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "3人以上の育児家庭への市民税減税など少子化対策に切り込む",
+      "heading": "女性・子どもを守る",
+      "verbatim": "深刻な少子化の中で、3人以上の育児家庭への市民税減税など、思いきった少子化対策に切り込みます！",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "いじめや学級崩壊など教育現場の混乱は深刻な問題",
+      "heading": "教育を守る",
+      "verbatim": "相次ぐいじめや学級崩壊など、教育現場の混乱は深刻な問題。",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "松戸の教育を再建",
+      "heading": "教育を守る",
+      "verbatim": "松戸の教育を再建します！",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "松戸市は全国に先駆けてコロナワクチン接種を実現",
+      "heading": "コロナや災害から命を守る",
+      "verbatim": "松戸市は全国に先駆けてコロナワクチン接種を実現しました。",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "コロナや災害から命を守る",
+      "verbatim": "大地震や集中豪雨、台風や真夏の高温。",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "あらゆる災害や異常気象から市民の命を守る",
+      "heading": "コロナや災害から命を守る",
+      "verbatim": "あらゆる災害や異常気象から市民の命を守ります。",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ペットの遺棄や動物虐待が社会問題化する今、動物殺処分ゼロを実現",
+      "heading": "動物を守る",
+      "verbatim": "ペットの遺棄や動物虐待が社会問題化している今、動物殺処分ゼロを実現させます！",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "other",
+      "achievement": false,
+      "summary": "旧統一教会と政治の関係や東京五輪の利権汚職は有権者に強い不信感をもたらした",
+      "heading": "「カルト宗教」や「利権団体」に頼らない政治を実践します！",
+      "verbatim": "旧統一教会と政治の関係や、東京五輪の利権汚職は、有権者に強い不信感をもたらしました。",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": false,
+      "summary": "歪んだ関係は正すべき",
+      "heading": "「カルト宗教」や「利権団体」に頼らない政治を実践します！",
+      "verbatim": "歪んだ関係は正すべきです。",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": false,
+      "summary": "宗教や利権団体に縛られず、市民とつながる政治を実践している",
+      "heading": "「カルト宗教」や「利権団体」に頼らない政治を実践します！",
+      "verbatim": "宗教や利権団体に縛られない政治を行うため、みのわ信矢は3輪バイクで市内を駆け回り、市民とつながる政治を実践しています！",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議会改革",
+      "heading": null,
+      "verbatim": "議会改革",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

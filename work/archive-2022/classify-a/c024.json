@@ -1,0 +1,21 @@
+{
+  "candidate_id": "c024",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "SDGsの推進", "confidence": "low"},
+    {"block_id": "b07", "themes": ["kosodate", "other"], "achievement": false, "summary": "子育て・文化・教育・スポーツのまちづくり", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "高齢者・障がい者・医療・介護・福祉、豊かな人生を支える地域共生のまちづくり", "confidence": "high"},
+    {"block_id": "b09", "themes": ["keizai"], "achievement": false, "summary": "経済活性化・雇用創出、活力のある産業振興のまちづくり", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "防犯・防災（減災）、命を守る安全で安心して暮らせるまちづくり", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "まちの再生・リニューアルによる魅力ある多世代型コンパクトシティのまちづくり", "confidence": "high"},
+    {"block_id": "b12", "themes": ["other"], "achievement": false, "summary": "参加・協働（パートナーシップ）・地域共生のまちづくり", "confidence": "low"},
+    {"block_id": "b13", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "公共施設再編と行財政改革を推進し、「まち・ひと・しごと」創生のまちづくり", "confidence": "high"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "「まち・ひと・しごと」の地方創生と好循環を目ざし『幸福健康都市・松戸』を創る", "confidence": "low"}
+  ],
+  "notes": [
+    "b05：原文は「SDGsの推進」のみで具体的な分野の記載がなく、公報以外の知識で環境などに寄せずその他とした",
+    "b12：市民参加・協働はどのテーマの基準にも直接当てはまらないためその他とした",
+    "b14：全体の決意を述べる文で特定の分野に絞れないためその他とした"
+  ]
+}

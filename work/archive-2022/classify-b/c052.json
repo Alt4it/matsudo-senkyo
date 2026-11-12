@@ -1,0 +1,14 @@
+{
+  "candidate_id": "c052",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "妊娠時からではなく、妊活時から切れ目のない支援", "confidence": "low"},
+    {"block_id": "b03", "themes": ["other"], "achievement": false, "summary": "多様性をパワーに！", "confidence": "low"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "“インクルーシブ”防災", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：妊活の支援は criteria に明記がない。子育て・教育と福祉・医療の両方に近いと判断して2つ付けた。",
+    "b03：具体的な施策の記載がなく、criteria の例にある多文化共生に当たるかも本文だけでは確定できないため、その他とした。"
+  ]
+}

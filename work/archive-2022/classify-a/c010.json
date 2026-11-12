@@ -1,0 +1,19 @@
+{
+  "candidate_id": "c010",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate", "gyozaisei"], "achievement": true, "summary": "平成23年12月議会一般質問で、市立小中学校の冷暖房化をPFI方式で提案", "confidence": "high"},
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": true, "summary": "市はこの提案を採用", "confidence": "high"},
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": true, "summary": "平成28年に「4億円以上の費用を削減し」実現", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": true, "summary": "学校給食費を市の会計に組み入れる公会計制度を令和元年12月議会で提案", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": true, "summary": "本年４月より「公会計制度」が導入された", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": true, "summary": "市営住宅入居の保証人を不要にする提案をし、令和2年3月に実現", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": true, "summary": "平成18年12月議会一般質問で提案", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": true, "summary": "予算要望を通して市長に直接訴えるなどした結果、平成24年に実現", "confidence": "high"}
+  ],
+  "notes": [
+    "b03・b04：本文に対象の記載がなく、見出しの「PFI方式提案」「費用を削減」から gyozaisei とした。b02 の続きとして読めば kosodate も考えられる。",
+    "b08：要約に対象を補っていない。テーマは見出しの「バリアフリー化」「北小金駅」「エレベーター設置」から判断した。"
+  ]
+}

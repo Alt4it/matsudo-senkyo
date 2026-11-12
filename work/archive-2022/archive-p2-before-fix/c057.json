@@ -1,0 +1,32 @@
+{
+  "candidate_id": "c057",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [9], "position": "1段目左"},
+  "name": "しぎはらまい",
+  "kana": "しぎはらまい",
+  "party": "参政党",
+  "age": 37,
+  "career": null,
+  "slogan": "松戸生まれ\n松戸育ち\n人が大好き37歳",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "しぎはら まいです。", "page": 9},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "松戸市生まれ 松戸市育ちの37才です。", "page": 9},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "私は、自分の時間とエネルギーを、未来を担う若い世代のために使っていきたいと思います。", "page": 9},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "お母さん、お父さん、おじいちゃん、おばあちゃんみんなで一緒に新しい街づくりをしませんか", "page": 9},
+    {"block_id": "b05", "kind": "message", "heading": null, "verbatim": "子どもの笑顔があふれる松戸\n大人も元気になれる街", "page": 9},
+    {"block_id": "b06", "kind": "other", "heading": null, "verbatim": "文、イラスト しぎはらまい", "page": 9},
+    {"block_id": "b07", "kind": "message", "heading": null, "verbatim": "松戸生まれ\n松戸育ち\n人が大好き37歳", "page": 9},
+    {"block_id": "b08", "kind": "profile", "heading": "しぎはらまい（鴫原舞）プロフィール", "verbatim": "■経歴\n1984年　松戸生まれ松戸育ち\n1996年　根木内小学校卒業\n2000年　女子美術大学付属中学校卒業\n2003年　女子美術大学付属高校\n2007年　女子美術大学 芸術学部 工芸学科卒業\n心理カウンセラー\n松戸が好きになる！歴史勉強会会長\n参政党　千葉支部 松戸支部準備会会長", "page": 9},
+    {"block_id": "b09", "kind": "profile", "heading": "しぎはらまい（鴫原舞）プロフィール", "verbatim": "■専門知識を使った地域への社会貢献（プロポノ）\n≪ぽっかぽかカウンセリング≫", "page": 9},
+    {"block_id": "b10", "kind": "message", "heading": null, "verbatim": "国民が政治に参加する", "page": 9},
+    {"block_id": "b11", "kind": "other", "heading": null, "verbatim": "参政党\nDO IT YOURSELF !!", "page": 9}
+  ],
+  "issues": [
+    "b01〜b06は手書き文字。読点は紙面では点に近い形で、b02〜b04・b06では「、」として写した",
+    "kindがpolicyのブロックがない。政策の箇条がなく、b03〜b05を訴え（message）とした。b05をpolicyとするかは人の判断を求めたい",
+    "sloganは字が最も大きいb07を採ったが、自己紹介に近い文言で主張として読めるか迷った。次に大きいのはb05",
+    "b09の「プロポノ」は紙面の表記のまま（「ポ」に見える）",
+    "nameは紙面の大きな氏名どおりかな表記にした。漢字表記「鴫原舞」はプロフィール見出しにのみある",
+    "partyは「参政党公認」の表記と参政党のロゴから「参政党」とした",
+    "age は紙面の「37歳」による"
+  ]
+}

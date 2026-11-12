@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c039",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b07", "themes": ["keizai"], "achievement": false, "summary": "ソーシャルビジネスで社会課題の解決を", "confidence": "low"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "市議会議員として地域課題の解決を", "confidence": "low"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "持続可能な福祉政策、誰もが自立して暮らせる街を目指す", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "子どもが健やかに育つ環境づくりのために全力で行動", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "大規模災害から市民の生活や生命を守るために行動", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "投資すべきことには投資を、将来世代への責任のために行動", "confidence": "low"},
+    {"block_id": "b13", "themes": ["bousai"], "achievement": false, "summary": "防犯・治安対策の強化、安心して暮らせる街を目指す", "confidence": "high"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "新規住民・旧住民の「かけはし」に、地域コミュニティ活性化のため行動", "confidence": "low"},
+    {"block_id": "b15", "themes": ["machi", "keizai"], "achievement": false, "summary": "魅力ある都市空間・住環境の整備・産業振興のために行動", "confidence": "high"}
+  ],
+  "notes": [
+    "b07：ソーシャルビジネスの中身が原文にないため、ビジネスの語から経済・産業とした",
+    "b08：対象の分野が原文にないためその他とした",
+    "b12：投資の対象が原文にないため、市の財政の話として行財政とした",
+    "b14：地域コミュニティ活性化は基準に明記がないためその他とした"
+  ]
+}

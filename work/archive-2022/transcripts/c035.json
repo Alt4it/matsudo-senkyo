@@ -1,0 +1,99 @@
+{
+  "candidate_id": "c035",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      6
+    ],
+    "position": "2段目左"
+  },
+  "name": "工藤すず子",
+  "kana": "くどう",
+  "party": "社民党",
+  "age": null,
+  "career": "5期17年市議を経験",
+  "slogan": "がんこに平和 くらしが一番",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "一人ひとりが大切にされる安心・安全の松戸市政を！",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "物価高騰から市民生活を守る対策強化を！",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "小中学校の給食費無償化を！",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "女性が一人でも生きていける社会を！",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "若者にやりがいある安定した職の確保を！",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "安心の老後のため介護・医療の充実を！",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "気候危機の中、江戸川氾濫を想定し、本気の対策を！",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "コロナ対策に東松戸病院の活用を！",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "市役所庁舎は現地建て替えで再考を！",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "公契約条例で働くものと地域経済の活性化を！",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "kind": "profile",
+      "heading": "プロフィール",
+      "verbatim": "1953年愛媛県生まれ／広島県立広島商業高校卒／5期17年市議を経験\n【現在】社民党千葉県連合代表",
+      "page": 6
+    }
+  ],
+  "issues": [
+    "kana：ふりがなは「工藤」の「くどう」のみ。名の「子」に読みの記載がないため、姓までとした（「すず」はかなで読めるが「子」は補わない）",
+    "b07の「氾」は字形が「汜」にも見え、判別に迷った。紙面で要確認"
+  ]
+}

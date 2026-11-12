@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c027",
+  "order": 27,
+  "name": "石井よしたか",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": null,
+  "slogan": "松戸トランスフォーム",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "耕作放棄地を借り上げ、市民が自給自足に取り組める「コミュニティ農園」を整える",
+      "heading": "松戸の農業を救う！ コミュニティ農園計画",
+      "verbatim": "市内の耕作放棄地を借り上げて、市民が自然に親しみ自給自足に取り組める「コミュニティ農園」を整えます。",
+      "page": 5
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "失敗を恐れない教育や多文化と触れ合う教育でグローバルに活躍できる人材を育てる",
+      "heading": "松戸の子どもを育む！ 個性に寄り添う教育",
+      "verbatim": "失敗を恐れない教育や多文化と触れ合う教育を導入し、グローバルに活躍できる人材を育てます。",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新京成線松戸駅からくぬぎ駅間の路線を地下化",
+      "heading": "松戸の街を直す！ 新京成地下化計画",
+      "verbatim": "新京成線松戸駅からくぬぎ駅間の路線を地下化します。",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "路線の跡地は道路として供用し、新たな交通軸とする",
+      "heading": "松戸の街を直す！ 新京成地下化計画",
+      "verbatim": "路線の跡地は道路として供用し、新たな交通軸とします。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "スポーツを通じて子どもたちの健全な成長を育み、市民の健康を促す",
+      "heading": "松戸の健康をつくる！ 松戸デポルターレ計画",
+      "verbatim": "スポーツを通じて、子どもたちの健全な成長を育み、市民の健康を促すプロジェクトです。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "スポーツを通じて子どもたちの健全な成長を育み、市民の健康を促す",
+      "heading": "松戸の健康をつくる！ 松戸デポルターレ計画",
+      "verbatim": "スポーツを通じて、子どもたちの健全な成長を育み、市民の健康を促すプロジェクトです。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "防災機能を備えたスポーツ施設を設け、プロスポーツの拠点誘致も働きかける",
+      "heading": "松戸の健康をつくる！ 松戸デポルターレ計画",
+      "verbatim": "防災機能を備えたスポーツ施設を設け、プロスポーツの拠点誘致も働きかけます。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防災機能を備えたスポーツ施設を設け、プロスポーツの拠点誘致も働きかける",
+      "heading": "松戸の健康をつくる！ 松戸デポルターレ計画",
+      "verbatim": "防災機能を備えたスポーツ施設を設け、プロスポーツの拠点誘致も働きかけます。",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

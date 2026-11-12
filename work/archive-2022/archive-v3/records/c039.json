@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c039",
+  "order": 39,
+  "name": "鈴木だいすけ",
+  "kana": "すずきだいすけ",
+  "sort_kana": null,
+  "party": "自由民主党",
+  "career": "松戸市議会議員（3期・平成22年初当選）",
+  "age": 44,
+  "slogan": "松戸だいすき!",
+  "policies": [
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ソーシャルビジネスで社会課題の解決を",
+      "heading": null,
+      "verbatim": "ソーシャルビジネスで社会課題の解決を!",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "市議会議員として地域課題の解決を",
+      "heading": null,
+      "verbatim": "市議会議員として地域課題の解決を!",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "持続可能な福祉政策、誰もが自立して暮らせる街を目指す",
+      "heading": "❶持続可能な福祉政策",
+      "verbatim": "誰もが自立して暮らせる街を目指し行動します!",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもが健やかに育つ環境づくりのために全力で行動",
+      "heading": "❷イクメン宣言",
+      "verbatim": "子どもが健やかに育つ環境づくりのために全力で行動します!",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "大規模災害から市民の生活や生命を守るために行動",
+      "heading": "❸防災・減災対策",
+      "verbatim": "大規模災害から市民の生活や生命を守るために行動します!",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "投資すべきことには投資を、将来世代への責任のために行動",
+      "heading": "❹投資すべきことには投資を",
+      "verbatim": "将来世代への責任のために行動します!",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯・治安対策の強化、安心して暮らせる街を目指す",
+      "heading": "❺防犯・治安対策の強化",
+      "verbatim": "安心して暮らせる街を目指して行動します!",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": false,
+      "summary": "新規住民・旧住民の「かけはし」に、地域コミュニティ活性化のため行動",
+      "heading": "❻新規住民・旧住民の「かけはし」に",
+      "verbatim": "地域コミュニティ活性化の為に行動します!",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "魅力ある都市空間・住環境の整備・産業振興のために行動",
+      "heading": "❼元気なまちに",
+      "verbatim": "魅力ある都市空間・住環境の整備・産業振興の為に行動します!",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "魅力ある都市空間・住環境の整備・産業振興のために行動",
+      "heading": "❼元気なまちに",
+      "verbatim": "魅力ある都市空間・住環境の整備・産業振興の為に行動します!",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

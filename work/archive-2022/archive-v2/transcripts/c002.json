@@ -1,0 +1,132 @@
+{
+  "candidate_id": "c002",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      2
+    ],
+    "position": "1段目右"
+  },
+  "name": "関根ジロー",
+  "kana": null,
+  "party": "立憲民主党",
+  "age": 38,
+  "career": "市議３期",
+  "slogan": "関根ジローは学校トイレの洋式化を推進してきました。",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "関根ジローは学校トイレの洋式化を推進してきました。",
+      "page": 2
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "そして、ついに2023年度末、松戸市内の校舎トイレ約70%、体育館トイレの100%が洋式になります！",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "色覚に配慮し、学校のチョークを見やすくしました！",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "公立保育所にアレルギーフリー給食を導入！",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "市立総合医療センターにWi-Fiを導入！",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "多機能トイレに補助犬ステッカーの掲示！",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "こんなことも 3期12年で取り組んできたこと",
+      "verbatim": "羽田空港直通・ディズニーランド直通バスの実現！\n（ディズニー直行バスはコロナ禍の影響で運行中止に）",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "kind": "profile",
+      "heading": null,
+      "verbatim": "この3期12年間で、私は全国最大規模の政策コンテスト「マニフェスト大賞」を10回受賞。",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "市民の困りごと解決の視点から生まれた政策案を、具体的な政策実現につなげてきました。",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "ライフワークの「トイレ」問題を始め、松戸市民の生活の身近な問題に寄りそってきました。",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "私が生まれ育ち、そして家族や地域の皆さまと一緒に人生を送っている「私たちの松戸市」のために、これからも働かせてください。",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "kind": "message",
+      "heading": "関根ジローはNO！選挙カー",
+      "verbatim": "昼寝の赤ちゃん、授業中の子どもたち、オンライン会議中や夜勤明けの皆さん…生活の妨げとなり、騒音・渋滞・税金ムダづかいの選挙カーを、関根ジローは使いません。",
+      "page": 2
+    },
+    {
+      "block_id": "b13",
+      "kind": "profile",
+      "heading": null,
+      "verbatim": "38歳 3児のパパ",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "kind": "profile",
+      "heading": null,
+      "verbatim": "北松戸さつき幼稚園、松戸市立上本郷小、明大明治中高・明大法・明大院 卒業。\nＮＴＴ東日本社員、市議３期。",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "kind": "other",
+      "heading": null,
+      "verbatim": "立憲民主党 The Constitutional Democratic Party of Japan",
+      "page": 2
+    }
+  ],
+  "issues": [
+    "kana：氏名にふりがながなく姓の読みが分からないため、基準どおり null（「ジロー」のかな部分のみは入れていない）",
+    "slogan：b01を採った。「2023年度末…」（b02）と「関根ジローはNO！選挙カー」も大きいが、字の大きさがわずかに小さいか、見出しと判断した",
+    "b14・career：「ＮＴＴ」「３」は字間が広いので全角で写したが、全角か半角かは画像から断定できない",
+    "b12：選挙カーを使わない旨の文は政策以外の訴えと判断して message にしたが、判断に迷う。見出し「関根ジローはNO！選挙カー」は本文に含まれるとして独立させていない",
+    "b08：受賞の記述を実績として policy にしたが、profile とも読める",
+    "b03〜b07の見出しは、吹き出しの「こんなことも」と帯の「3期12年で取り組んできたこと」をつないだ",
+    "b08〜b11の縦書き本文は、右の列から左の列へ読んだ"
+  ]
+}

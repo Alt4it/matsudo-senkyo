@@ -1,0 +1,190 @@
+{
+  "candidate_id": "c046",
+  "order": 46,
+  "name": "うつの史行",
+  "kana": "うつのふみゆき",
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": "市議５期",
+  "age": null,
+  "slogan": "学校給食の完全無償化を",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食の完全無償化を",
+      "heading": null,
+      "verbatim": "学校給食の完全無償化を",
+      "page": 7
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "東松戸病院・梨香苑は存続を。跡地売却は中止を",
+      "heading": null,
+      "verbatim": "東松戸病院・梨香苑は存続を。跡地売却は中止を。",
+      "page": 7
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "高塚、秋山など東部地域にコミュニティバス運行を",
+      "heading": null,
+      "verbatim": "高塚、秋山など東部地域にコミュニティバス運行を。",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "通学路、生活道路の安全・水害対策",
+      "heading": null,
+      "verbatim": "通学路、生活道路の安全・水害対策。",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "放課後児童クラブ充実、指導員処遇改善",
+      "heading": null,
+      "verbatim": "放課後児童クラブ充実、指導員処遇改善。",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "財源は無謀な開発見直しで",
+      "heading": null,
+      "verbatim": "財源は無謀な開発見直しで",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "北総線運賃引下げ（10万人署名実施）",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "北総線運賃引下げ (10万人署名実施)",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "子ども医療費助成、18歳まで拡大",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "子ども医療費助成、18歳まで拡大",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "子ども医療費助成、18歳まで拡大",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "子ども医療費助成、18歳まで拡大",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "市立病院シャトルバスを２倍に",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "市立病院シャトルバスを２倍に",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "市立病院シャトルバスを２倍に",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "市立病院シャトルバスを２倍に",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "稔台交番前の水害対策が完了",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "稔台交番前の水害対策が完了",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "防災倉庫を全小中学校に配置",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "防災倉庫を全小中学校に配置",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "シルバー人材センターの時給アップなど多数",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "シルバー人材センターの時給アップなど多数",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "keizai",
+      "achievement": true,
+      "summary": "シルバー人材センターの時給アップなど多数",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "シルバー人材センターの時給アップなど多数",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "コロナ対策と称して60分の質問時間が自民公明の多数で25分に削減された",
+      "heading": "発言は議員の「いのち」です",
+      "verbatim": "コロナ対策と称して60分の質問時間が自民公明の多数で25分に削減されました。",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議員の発言は「市民の声そのもの」であり議員の「いのち」",
+      "heading": "発言は議員の「いのち」です",
+      "verbatim": "議員の発言は「市民の声そのもの」であり議員の「いのち」です。",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "換気の問題は議場を開放し窓を開け、常に換気の状態にすれば解決できる",
+      "heading": "発言は議員の「いのち」です",
+      "verbatim": "換気の問題は、学校のように議場を開放し、窓を開け、常に換気の状態にすれば解決できます。",
+      "page": 7
+    },
+    {
+      "block_id": "b16",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "コロナを理由に質問時間が過度に制限されるなか、市政・議会改革に全力を尽くす",
+      "heading": null,
+      "verbatim": "コロナを理由に質問時間が過度に制限されるなか、「暮らしの声を最も市政に届ける議員」として市政・議会改革に全力を尽くします。",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

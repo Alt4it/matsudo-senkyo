@@ -1,0 +1,11 @@
+{
+  "candidate_id": "c063",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "学力（テストの点数）より学習力（自ら考え自ら学ぶ力）高い日本人の育成", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi", "kankyo"], "achievement": false, "summary": "化学的な物質に依存しない食と医療の実現と、それを支える循環型の環境の追求", "confidence": "high"},
+    {"block_id": "b04", "themes": ["other"], "achievement": false, "summary": "日本の舵取りに外国勢力が関与できない体制づくり", "confidence": "high"}
+  ],
+  "notes": []
+}

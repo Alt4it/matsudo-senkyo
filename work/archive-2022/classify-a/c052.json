@@ -1,0 +1,14 @@
+{
+  "candidate_id": "c052",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "妊娠時からではなく、妊活時から切れ目のない支援", "confidence": "low"},
+    {"block_id": "b03", "themes": ["other"], "achievement": false, "summary": "多様性をパワーに！", "confidence": "low"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "“インクルーシブ”防災", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：妊活時の支援は criteria に明記がなく、子育て・教育と福祉・医療のどちらも考えられる。「切れ目のない支援」の語から子育て・教育とした。",
+    "b03：原文に具体的な施策がなく、対象分野を特定できないため、その他とした。"
+  ]
+}

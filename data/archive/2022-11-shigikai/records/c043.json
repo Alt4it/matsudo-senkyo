@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c043",
+  "order": 43,
+  "name": "ひろせみつお",
+  "kana": "ひろせみつお",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 35,
+  "slogan": "笑顔溢れるワクワクする街へ！",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": false,
+      "summary": "地域対抗交流スポーツ大会、ラーメン祭りなど市民が楽しめるイベントを開く",
+      "heading": "松戸市の松戸市による松戸市民のためのイベントを開催",
+      "verbatim": "地域対抗交流スポーツ大会、ラーメン激戦区を活かしたラーメン祭りなど、松戸市民が楽しめるイベントを開きます！",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "松戸市民限定のクーポンを発行し、住んでいる街で遊べる環境をつくる",
+      "heading": "松戸市の松戸市による松戸市民のためのイベントを開催",
+      "verbatim": "さらに松戸市民限定のクーポンを発行して住んでいる街で遊べる・楽しめるという環境づくりを行い、笑顔溢れる松戸を目指します！",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸市民限定のクーポンを発行し、住んでいる街で遊べる環境をつくる",
+      "heading": "松戸市の松戸市による松戸市民のためのイベントを開催",
+      "verbatim": "さらに松戸市民限定のクーポンを発行して住んでいる街で遊べる・楽しめるという環境づくりを行い、笑顔溢れる松戸を目指します！",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "ポイ捨て吸い殻を無くすべく利便性の良い場所に喫煙所を開設",
+      "heading": "モクモクストリート開設",
+      "verbatim": "そこでポイ捨て吸い殻を無くすべく利便性の良い場所に喫煙所を開設します！",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "喫煙所の灰皿のデザインを募集するなど、キレイな松戸づくりを行う",
+      "heading": "モクモクストリート開設",
+      "verbatim": "そしてさらにその喫煙所で使用する灰皿のデザインを募集するなど、吸う人も吸わない人も気持ちよく暮らせるキレイな松戸づくりを行います！",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "other",
+      "achievement": false,
+      "summary": "SNSで映えるスポットを発掘し「発信したくなる松戸」を目指してPR活動を行う",
+      "heading": "SNSに映える松戸をPR",
+      "verbatim": "SNSで映えるスポットをたくさん発掘し「発信したくなる松戸」を目指してPR活動を積極的に行います！",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "受験対策だけでなく学びたい分野を思う存分学習できる環境を作る",
+      "heading": "学習塾無料化の推進",
+      "verbatim": "リモート授業が増え、学力低下・コミュニケーション力の低下が叫ばれており、受験対策だけでなく学びたい分野の学習が思う存分にできる環境作りを行います！",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保護者や教員の負担が減り、皆に余裕が生まれる暮らしができる街を実現",
+      "heading": "学習塾無料化の推進",
+      "verbatim": "保護者の方や教員の負担が減り、皆に余裕が生まれる暮らしが出来る街を実現します！",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "夜間に大人限定の図書館開放を行い、社会人が学びを深められる場所を作る",
+      "heading": "大人のための学び舎がある街",
+      "verbatim": "夜間に大人限定の図書館開放を行い、仕事終わりの社会人がくつろぎながら学びを深められる場所、気持ちのクールスポットを作ります！",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": false,
+      "summary": "老若男女、国籍を問わず互いの文化や言語を教え合う国際交流スポットを作る",
+      "heading": "松戸市民×松戸在住外国人の交流",
+      "verbatim": "老若男女問わず、国籍も問わず互いの文化や言語を教え合える、外国人居住の多い松戸市ならではの国際交流スポットを作ります！",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "梨、矢切ネギ、松戸枝豆などの栽培・収穫方法を学ぶ体験の機会を作る",
+      "heading": "松戸の農産物を守る",
+      "verbatim": "梨、矢切ネギ、松戸枝豆などの栽培・収穫方法について学ぶ体験の機会を作り、松戸市民の生きる力を養います！",
+      "page": 7
+    },
+    {
+      "block_id": "b16",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸の農業を身近に感じることで、松戸ブランドを誇りに持てる街を作る",
+      "heading": "松戸の農産物を守る",
+      "verbatim": "また松戸の農業をより身近に感じることで、松戸ブランドを誇りに持てる街を作ります！",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

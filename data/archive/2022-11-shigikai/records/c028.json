@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c028",
+  "order": 28,
+  "name": "後藤たけし",
+  "kana": null,
+  "sort_kana": null,
+  "party": "令和タケちゃん党",
+  "career": null,
+  "age": 28,
+  "slogan": "実行力と発信力",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "実効性のあるイジメ対策条例の制定を目指す",
+      "heading": "イジメ0",
+      "verbatim": "松戸市に実効性のあるイジメ対策条例の制定を目指します。",
+      "page": 5
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "警察や児童相談所と連携し、児童虐待の根絶を目指す",
+      "heading": "児童虐待0",
+      "verbatim": "警察や児童相談所と連携し、児童虐待の根絶を目指します。",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": false,
+      "summary": "警察や保健所と連携し、DV（家庭内暴力）の撲滅を目指す",
+      "heading": "DV（家庭内暴力）0",
+      "verbatim": "警察や保健所と連携し、DV（家庭内暴力）の撲滅を目指します。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "そうした事を未然に防ぐには更なる防災対策が必要",
+      "heading": null,
+      "verbatim": "そうした事を未然に防ぐ為には更なる防災対策が必要と考えます。",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "危険な箇所を把握し、点検を行い、対策を講じなければならない",
+      "heading": null,
+      "verbatim": "危険な箇所を把握し、点検を行い、対策を講じなければなりません。",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害に強い街づくりを推奨",
+      "heading": null,
+      "verbatim": "災害に強い街づくりを推奨します。",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防災対策、教育問題、児童問題、街全体の活性化は喫緊の課題、実行力と発信力で挑戦",
+      "heading": null,
+      "verbatim": "防災対策、教育問題、児童問題、街全体の活性化は喫緊の課題であり、私はその課題に実行力と発信力をもってチャレンジしてまいります。",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "防災対策、教育問題、児童問題、街全体の活性化は喫緊の課題、実行力と発信力で挑戦",
+      "heading": null,
+      "verbatim": "防災対策、教育問題、児童問題、街全体の活性化は喫緊の課題であり、私はその課題に実行力と発信力をもってチャレンジしてまいります。",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

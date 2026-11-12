@@ -1,0 +1,73 @@
+{
+  "candidate_id": "c004",
+  "order": 4,
+  "name": "大和山太郎",
+  "kana": "おおわやま",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 49,
+  "slogan": "笑顔計画",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "いじめ110番",
+      "heading": "子供たちを笑顔に",
+      "verbatim": "いじめ110番",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "教育格差是正",
+      "heading": "子供たちを笑顔に",
+      "verbatim": "教育格差是正",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "六実にレインボーバスを戻そう",
+      "heading": "高齢者を笑顔に",
+      "verbatim": "六実にレインボーバスを戻そう",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "独身者の介護問題の解決",
+      "heading": "高齢者を笑顔に",
+      "verbatim": "独身者の介護問題の解決",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "六実・元山・五香の再開発",
+      "heading": "六実・六高台を笑顔に",
+      "verbatim": "六実・元山・五香の再開発",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新・クリーンセンターの再計画",
+      "heading": "六実・六高台を笑顔に",
+      "verbatim": "新・クリーンセンターの再計画",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-07",
+    "changes": []
+  }
+}

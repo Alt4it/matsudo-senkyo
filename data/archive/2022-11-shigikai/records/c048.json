@@ -1,0 +1,244 @@
+{
+  "candidate_id": "c048",
+  "order": 48,
+  "name": "田中むつお",
+  "kana": null,
+  "sort_kana": null,
+  "party": "日本維新の会",
+  "career": null,
+  "age": null,
+  "slogan": "安心の街づくり　集いと賑わいの街づくり",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "肥大化する市債（借金）に歯止めをかけて事業を再建",
+      "heading": "松戸経済を建て直す",
+      "verbatim": "肥大化する市債（借金）に歯止めをかけて事業を再建",
+      "page": 7
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "総合医療センターを民営化して小・中学校の給食無償化",
+      "heading": null,
+      "verbatim": "総合医療センターを民営化して小・中学校の給食無償化",
+      "page": 7
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "総合医療センターを民営化して小・中学校の給食無償化",
+      "heading": null,
+      "verbatim": "総合医療センターを民営化して小・中学校の給食無償化",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "総合医療センター民営化で、年額30億の赤字削減",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "総合医療センター民営化で、年額30億の赤字削減",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "総合医療センター民営化で、年額30億の赤字削減",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "総合医療センター民営化で、年額30億の赤字削減",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市役所の移転、現地建て替えで費用を40億円削除",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "市役所の移転、現地建て替えで費用を40億円削除",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市役所の移転、現地建て替えで費用を40億円削除",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "市役所の移転、現地建て替えで費用を40億円削除",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "クリーンセンター早期建て替え委託費用の削減",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "クリーンセンター早期建て替え委託費用の削減",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "クリーンセンター早期建て替え委託費用の削減",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "クリーンセンター早期建て替え委託費用の削減",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小・中学校給食の無償化・高校教育の無償化",
+      "heading": "教育・福祉の充実した街づくり",
+      "verbatim": "小・中学校給食の無償化・ 高校教育の無償化",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "デジタル民生員制度で高齢者の孤立化対策",
+      "heading": "教育・福祉の充実した街づくり",
+      "verbatim": "デジタル民生員制度で高齢者の孤立化対策",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "LINEを使った安否通知見守りサービス",
+      "heading": "教育・福祉の充実した街づくり",
+      "verbatim": "LINEを使った安否通知見守りサービス",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "歩道のセミフラットを標準としてバリアフリー化促進",
+      "heading": "安心して暮らせる街づくり",
+      "verbatim": "歩道のセミフラットを標準としてバリアフリー化促進",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新松戸駅の常磐線快速停車の早期実現",
+      "heading": "安心して暮らせる街づくり",
+      "verbatim": "新松戸駅の常磐線快速停車の早期実現",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "太陽光利用ゼロエネルギー街路灯/防犯カメラの設置",
+      "heading": "安心して暮らせる街づくり",
+      "verbatim": "太陽光利用ゼロエネルギー街路灯/防犯カメラの設置",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "太陽光利用ゼロエネルギー街路灯/防犯カメラの設置",
+      "heading": "安心して暮らせる街づくり",
+      "verbatim": "太陽光利用ゼロエネルギー街路灯/防犯カメラの設置",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所開設ツールの標準設置、垂直避難・在宅避難など防災基盤の整備",
+      "heading": "災害に強い街づくり",
+      "verbatim": "避難所開設ツールの標準設置　垂直避難・在宅避難など防災基盤の整備",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "共助の要となる町会（地域自治）活動支援と加入促進",
+      "heading": "災害に強い街づくり",
+      "verbatim": "共助の要となる町会（地域自治）活動支援と加入促進",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸競輪場の多機能化でパブリックビューイング",
+      "heading": "集いと賑わいの街づくり",
+      "verbatim": "松戸競輪場の多機能化でパブリックビューイング",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "theme": "other",
+      "achievement": false,
+      "summary": "松戸競輪場の多機能化でパブリックビューイング",
+      "heading": "集いと賑わいの街づくり",
+      "verbatim": "松戸競輪場の多機能化でパブリックビューイング",
+      "page": 7
+    },
+    {
+      "block_id": "b16",
+      "theme": "other",
+      "achievement": false,
+      "summary": "フットサルなど地元スポーツのプロ化支援",
+      "heading": "集いと賑わいの街づくり",
+      "verbatim": "フットサルなど地元スポーツのプロ化支援",
+      "page": 7
+    },
+    {
+      "block_id": "b17",
+      "theme": "other",
+      "achievement": false,
+      "summary": "工業団地冷蔵倉庫複合型スケートリンク建設検討",
+      "heading": "集いと賑わいの街づくり",
+      "verbatim": "工業団地冷蔵倉庫複合型スケートリンク建設検討",
+      "page": 7
+    },
+    {
+      "block_id": "b18",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "行政手続オンライン化・RPA活用・自治体DXへ推進",
+      "heading": "未来にむけての街づくり",
+      "verbatim": "行政手続オンライン化・RPA活用・自治体DXへ推進",
+      "page": 7
+    },
+    {
+      "block_id": "b19",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "ネーミングライツで財政収入増や事業コスト削減",
+      "heading": "未来にむけての街づくり",
+      "verbatim": "ネーミングライツで財政収入増や事業コスト削減",
+      "page": 7
+    },
+    {
+      "block_id": "b20",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "矢切のねぎ、松戸のレモンなど６次産業促進",
+      "heading": "未来にむけての街づくり",
+      "verbatim": "矢切のねぎ、松戸のレモンなど６次産業促進",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

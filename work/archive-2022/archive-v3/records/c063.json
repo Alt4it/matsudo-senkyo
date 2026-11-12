@@ -1,0 +1,55 @@
+{
+  "candidate_id": "c063",
+  "order": 63,
+  "name": "大橋ひろし",
+  "kana": "おおはしひろし",
+  "sort_kana": null,
+  "party": "参政党",
+  "career": null,
+  "age": null,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学力（テストの点数）より学習力（自ら考え自ら学ぶ力）高い日本人の育成",
+      "heading": "一、子供の教育",
+      "verbatim": "学力（テストの点数）より学習力（自ら考え自ら学ぶ力）高い日本人の育成",
+      "page": 9
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "化学的な物質に依存しない食と医療の実現と、それを支える循環型の環境の追求",
+      "heading": "二、食と健康、環境保全",
+      "verbatim": "化学的な物質に依存しない食と医療の実現と、それを支える循環型の環境の追求",
+      "page": 9
+    },
+    {
+      "block_id": "b03",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "化学的な物質に依存しない食と医療の実現と、それを支える循環型の環境の追求",
+      "heading": "二、食と健康、環境保全",
+      "verbatim": "化学的な物質に依存しない食と医療の実現と、それを支える循環型の環境の追求",
+      "page": 9
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "日本の舵取りに外国勢力が関与できない体制づくり",
+      "heading": "三、国の守り",
+      "verbatim": "日本の舵取りに外国勢力が関与できない体制づくり",
+      "page": 9
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

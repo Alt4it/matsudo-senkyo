@@ -1,0 +1,25 @@
+{
+  "candidate_id": "c043",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["other"], "achievement": false, "summary": "地域対抗交流スポーツ大会、ラーメン祭りなど市民が楽しめるイベントを開く", "confidence": "high"},
+    {"block_id": "b04", "themes": ["other", "keizai"], "achievement": false, "summary": "松戸市民限定のクーポンを発行し、住んでいる街で遊べる環境をつくる", "confidence": "low"},
+    {"block_id": "b05", "themes": ["kankyo"], "achievement": false, "summary": "街中のポイ捨て率が一番多いゴミはたばこの吸い殻", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kankyo"], "achievement": false, "summary": "ポイ捨て吸い殻を無くすべく利便性の良い場所に喫煙所を開設", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kankyo"], "achievement": false, "summary": "喫煙所の灰皿のデザインを募集するなど、キレイな松戸づくりを行う", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "都会の一面もあり歴史感じる一面もある松戸", "confidence": "low"},
+    {"block_id": "b09", "themes": ["other"], "achievement": false, "summary": "SNSで映えるスポットを発掘し「発信したくなる松戸」を目指してPR活動を行う", "confidence": "low"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "受験対策だけでなく学びたい分野を思う存分学習できる環境を作る", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": false, "summary": "保護者や教員の負担が減り、皆に余裕が生まれる暮らしができる街を実現", "confidence": "high"},
+    {"block_id": "b13", "themes": ["kosodate"], "achievement": false, "summary": "夜間に大人限定の図書館開放を行い、社会人が学びを深められる場所を作る", "confidence": "low"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "老若男女、国籍を問わず互いの文化や言語を教え合う国際交流スポットを作る", "confidence": "high"},
+    {"block_id": "b15", "themes": ["keizai"], "achievement": false, "summary": "梨、矢切ネギ、松戸枝豆などの栽培・収穫方法を学ぶ体験の機会を作る", "confidence": "high"},
+    {"block_id": "b16", "themes": ["keizai"], "achievement": false, "summary": "松戸の農業を身近に感じることで、松戸ブランドを誇りに持てる街を作る", "confidence": "high"}
+  ],
+  "notes": [
+    "b04：クーポンの発行は経済・産業とも読めるが、原文の目的は遊べる環境づくりであり、イベントの見出しの下にあるため両方付けた",
+    "b08、b09：PRの目的が観光とは原文に書かれていないためその他とした",
+    "b13：大人向けの学びの場で、基準の「子どもと教育」のうち教育に当たるとして子育て・教育とした"
+  ]
+}

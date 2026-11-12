@@ -1,0 +1,31 @@
+{
+  "candidate_id": "c028",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [5], "position": "2段目右"},
+  "name": "後藤たけし",
+  "kana": null,
+  "party": "令和タケちゃん党",
+  "age": 28,
+  "career": null,
+  "slogan": "実行力と発信力",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": "イジメ0", "verbatim": "松戸市に実効性のあるイジメ対策条例の制定を目指します。", "page": 5},
+    {"block_id": "b02", "kind": "policy", "heading": "児童虐待0", "verbatim": "警察や児童相談所と連携し、児童虐待の根絶を目指します。", "page": 5},
+    {"block_id": "b03", "kind": "policy", "heading": "DV（家庭内暴力）0", "verbatim": "警察や保健所と連携し、DV（家庭内暴力）の撲滅を目指します。", "page": 5},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "私は元陸上自衛官として給水活動や除雪活動等、地域の方のすぐそばでお困りごとを目の当たりにし、地域防災力を高める必要があると切に感じました。", "page": 5},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "水難事故や自然災害で尊い命が失われています。", "page": 5},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "そうした事を未然に防ぐ為には更なる防災対策が必要と考えます。", "page": 5},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "危険な箇所を把握し、点検を行い、対策を講じなければなりません。", "page": 5},
+    {"block_id": "b08", "kind": "policy", "heading": null, "verbatim": "災害に強い街づくりを推奨します。", "page": 5},
+    {"block_id": "b09", "kind": "message", "heading": null, "verbatim": "私は松戸市在住では有りますが、松戸市出身ではなく、いわゆる「地盤・看板」はありません。つまり、一切のしがらみがなく、誰に忖度することもなく、松戸市民に寄り添った政治を行う事ができます。", "page": 5},
+    {"block_id": "b10", "kind": "policy", "heading": null, "verbatim": "防災対策、教育問題、児童問題、街全体の活性化は喫緊の課題であり、私はその課題に実行力と発信力をもってチャレンジしてまいります。", "page": 5},
+    {"block_id": "b11", "kind": "message", "heading": null, "verbatim": "ぜひ皆様の一票を後藤たけしへと投じていただきますようお願い申し上げます。", "page": 5},
+    {"block_id": "b12", "kind": "profile", "heading": "プロフィール", "verbatim": "平成６年（１９９４年）４月１９日北海道上富良野町で陸上自衛官である父の長男として生まれる。\n青年期を大分県で過ごし、県内の高校を卒業する。\n平成２４年（２０１２年）４月陸上自衛隊に入隊し、戦車乗員として勤務。\n退官後、土木系会社にて橋や線路等のインフラ点検業務に携わる。\n平成３０年（２０１８年）YouTube チャンネルを開設し、社会活動家として全国で活動中。", "page": 5}
+  ],
+  "issues": [
+    "kana：「後藤」にふりがながなく姓の読みが公報から分からないため null。氏名の横の「令和タケちゃん党」は党派として扱った",
+    "見出しの番号（01、02、03、）は heading に含めていない。各見出しの「0」には小さく「ゼロ」とルビがある（heading には含めていない）",
+    "全体の題「令和タケちゃんこと 後藤たけしの３つの政策」は見出しのためブロックにしていない（文字はここに記録）",
+    "slogan：「実行力」「発信力」の間の「と」は黒丸の中の白抜き文字で、つないで読んだ",
+    "b04〜b08・b10：見出しのない本文の段落だが、防災対策などの政策の内容なので policy とし、文ごとに分けた。b09・b11 は政策以外の訴えとして message とした"
+  ]
+}

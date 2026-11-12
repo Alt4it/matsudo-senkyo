@@ -1,0 +1,19 @@
+{
+  "candidate_id": "c013",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["fukushi"], "achievement": false, "summary": "老々介護やヤングケアラーの負担を減らせる介護サービスの充実", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "救命救急搬送時間の短縮。たらい回しのない救急システムの構築", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "大地震や非常事態に備えたライフラインの整備、避難訓練や避難所周知の徹底", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "税金が無駄に使われないよう、市役所の移転問題に積極的に訴え取り組む", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kankyo"], "achievement": false, "summary": "ゴミ処理場の新規増設（現在、許容量を超え、近隣市に年間30億で委託）", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "空き家、ゴミ屋敷対策として条例を制定", "confidence": "low"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "松戸駅東口にエスカレーターの設置", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "ひとり暮らしの高齢者に、緊急時に駆けつけられる「見守りサービス」の無料設置", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "子どもたちを守るため、通学路、遊び場に防犯カメラの設置・増設", "confidence": "high"}
+  ],
+  "notes": [
+    "b07：空き家を住宅の話として machi としたが、ゴミ屋敷の部分は kankyo と読む余地があるため low。文末の「制定」は見出しの「実行します！」から今後の話と読み、achievement は false。"
+  ]
+}

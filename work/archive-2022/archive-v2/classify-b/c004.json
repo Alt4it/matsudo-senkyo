@@ -1,0 +1,18 @@
+{
+  "candidate_id": "c004",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "いじめ110番", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "いじめ110番", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "教育格差是正", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "六実にレインボーバスを戻そう", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "独身者の介護問題の解決", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "六実・元山・五香の再開発", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kankyo", "machi"], "achievement": false, "summary": "新・クリーンセンターの再計画", "confidence": "low"}
+  ],
+  "notes": [
+    "b02・b04：同じ文言が紙面の2か所にあり、書き写しどおり別々に分類した。",
+    "b11：公報の文言だけでは「クリーンセンター」の内容が説明されていない。名称からごみ関連施設と読んで kankyo、公共施設の計画として machi を付けたが、判断に迷うので low。"
+  ]
+}

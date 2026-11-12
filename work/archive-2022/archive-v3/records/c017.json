@@ -1,0 +1,208 @@
+{
+  "candidate_id": "c017",
+  "order": 17,
+  "name": "末松ひろと",
+  "kana": "すえまつひろと",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "第59代松戸市議会議長",
+  "age": null,
+  "slogan": "住んでよいまち・日本一をめざして",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "その仕事は本当に税金を使う必要があるか",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "（その仕事は本当に税金を使う必要があるか）",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "公共性（その仕事は市民の役に立っているか）",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "公共性（その仕事は市民の役に立っているか）",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "守備範囲（その仕事は行政がやるべきことか）",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "守備範囲（その仕事は行政がやるべきことか）",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "効率性（その仕事は無駄なく行われているか）",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "効率性（その仕事は無駄なく行われているか）",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "民間委託（その仕事は民間に任せられないか）",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "民間委託（その仕事は民間に任せられないか）",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "財源（その仕事は厳しい財政状況でもやるべきか）",
+      "heading": "5つの視点で行政をチェックします",
+      "verbatim": "財源（その仕事は厳しい財政状況でもやるべきか）",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "都市型農業振興、地元商店街活性化、企業誘致と地元雇用創出、就労支援で歳入確保",
+      "heading": "歳入・歳出のバランスの取れた健全財政の実現",
+      "verbatim": "都市型農業の振興、地元商店街の活性化、企業誘致と地元雇用創出、就労支援強化による歳入の確保",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "都市型農業振興、地元商店街活性化、企業誘致と地元雇用創出、就労支援で歳入確保",
+      "heading": "歳入・歳出のバランスの取れた健全財政の実現",
+      "verbatim": "都市型農業の振興、地元商店街の活性化、企業誘致と地元雇用創出、就労支援強化による歳入の確保",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "行政サービスの不断の見直しと、効率的・効果的な予算執行による歳出の適正化",
+      "heading": "歳入・歳出のバランスの取れた健全財政の実現",
+      "verbatim": "行政サービスの不断の見直しと、効率的・効果的な予算執行による歳出の適正化",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "家庭環境（経済的状況）による教育格差の是正",
+      "heading": "教育・子育て環境の整備充実",
+      "verbatim": "家庭環境（経済的状況）による教育格差の是正",
+      "page": 4
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校外の生活環境の安全強化、子どもの見守り活動の支援",
+      "heading": "教育・子育て環境の整備充実",
+      "verbatim": "学校外の生活環境の安全強化、子どもの見守り活動の支援",
+      "page": 4
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "学校外の生活環境の安全強化、子どもの見守り活動の支援",
+      "heading": "教育・子育て環境の整備充実",
+      "verbatim": "学校外の生活環境の安全強化、子どもの見守り活動の支援",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "幼児教育の推進、安心して預けられる保育所・学童クラブ",
+      "heading": "教育・子育て環境の整備充実",
+      "verbatim": "幼児教育の推進、安心して預けられる保育所・学童クラブ",
+      "page": 4
+    },
+    {
+      "block_id": "b14",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害に強いまちづくり（公共施設の災害対応機能の強化）",
+      "heading": "住環境の整備",
+      "verbatim": "災害に強いまちづくり（公共施設の災害対応機能の強化）",
+      "page": 4
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "自転車駐輪場の整備促進、公共交通網の整備支援",
+      "heading": "住環境の整備",
+      "verbatim": "自転車駐輪場の整備促進、公共交通網の整備支援",
+      "page": 4
+    },
+    {
+      "block_id": "b16",
+      "theme": "other",
+      "achievement": false,
+      "summary": "生涯学習、生涯スポーツを楽しめる環境の整備充実",
+      "heading": "住環境の整備",
+      "verbatim": "生涯学習、生涯スポーツを楽しめる環境の整備充実",
+      "page": 4
+    },
+    {
+      "block_id": "b17",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "今ある施設の有効活用と整備資金（基金）の確保",
+      "heading": "公共施設の再編整備",
+      "verbatim": "今ある施設の有効活用と整備資金（基金）の確保",
+      "page": 4
+    },
+    {
+      "block_id": "b17",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "今ある施設の有効活用と整備資金（基金）の確保",
+      "heading": "公共施設の再編整備",
+      "verbatim": "今ある施設の有効活用と整備資金（基金）の確保",
+      "page": 4
+    },
+    {
+      "block_id": "b18",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "選択と集中により必要で使いやすい公共施設へと再編整備",
+      "heading": "公共施設の再編整備",
+      "verbatim": "選択と集中により必要で使いやすい公共施設へと再編整備",
+      "page": 4
+    },
+    {
+      "block_id": "b19",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市民参加機会の確保、議会活性化の推進",
+      "heading": "信頼される政治・行政システムの確立",
+      "verbatim": "市民参加機会の確保、議会活性化の推進",
+      "page": 4
+    },
+    {
+      "block_id": "b20",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "近隣市との広域連携による課題解決、共存共栄",
+      "heading": "信頼される政治・行政システムの確立",
+      "verbatim": "近隣市との広域連携による課題解決、共存共栄",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c026",
+  "order": 26,
+  "name": "渋谷つよし",
+  "kana": "しぶやつよし",
+  "sort_kana": null,
+  "party": "自民党",
+  "career": "松戸市市議会議員(4期)",
+  "age": 46,
+  "slogan": "松戸の未来に確かな実行力を！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "市内2番目に小金原支所にエレベーターを設置",
+      "heading": "誰もが住みやすい地域の実現",
+      "verbatim": "市民の誰もが利用しやすい施設に！いち早く、市内2番目に小金原支所にエレベーターを設置。",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "小金原公園の改修が実現、小さなお子様からご年配の方まで世代問わず活用",
+      "heading": "誰もが住みやすい地域の実現",
+      "verbatim": "小金原公園の改修が実現！小さなお子様からご年配の方まで世代問わずに活用頂いています！",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "国の施策を誘致した交通手段グリーンスローモビリティの導入",
+      "heading": "誰もが住みやすい地域の実現",
+      "verbatim": "市民の声を聴いて、議会に届ける！国の施策を誘致した交通手段グリーンスローモビリティの導入！",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市民の声を聴き、誰もが住みやすい地域作りを実行",
+      "heading": "誰もが住みやすい地域の実現",
+      "verbatim": "これからも市民の声を聴き、誰もが住みやすい地域作りを実行していきます！",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新松戸駅周辺地域の再開発へ向けて長い時間を掛けて取り組み、道筋を付ける",
+      "heading": "未来を見据えた街づくり",
+      "verbatim": "新松戸駅周辺地域の再開発へ向けて、議員活動の長い時間を掛けて取り組み、道筋を付ける！",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "一般質問を行い大きな枠組みが決定、今後は快速列車停車の実現に向けて取り組む",
+      "heading": "未来を見据えた街づくり",
+      "verbatim": "何度も一般質問を行い、市長と地元住民の皆様との会合の場を設置し、共に取り組み、大きな枠組みが決定。今後、快速列車停車の必要性を強く感じ、松戸市、議会と連携し実現に向けて歩みを止めずに取り組む！",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "4期16年の実績を基に、未来を見据えた街づくりを実行",
+      "heading": "未来を見据えた街づくり",
+      "verbatim": "4期16年の実績を基に、未来を見据えた街づくりを実行していきます!",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "水害多発地域の道路整備を実施",
+      "heading": "災害に強い街づくり",
+      "verbatim": "水害多発地域の道路整備を実施",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "水害多発地域の道路整備を実施",
+      "heading": "災害に強い街づくり",
+      "verbatim": "水害多発地域の道路整備を実施",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "強い防災意識を持って、災害に強い街づくりの実現に取り組む",
+      "heading": "災害に強い街づくり",
+      "verbatim": "強い防災意識を持って、松戸を守るために、災害に強い街づくりの実現に取り組んでいきます！",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

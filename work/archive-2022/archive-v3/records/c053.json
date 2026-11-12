@@ -1,0 +1,145 @@
+{
+  "candidate_id": "c053",
+  "order": 53,
+  "name": "ミールかずえ",
+  "kana": "ミールかずえ",
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": "2018年市議会議員に",
+  "age": null,
+  "slogan": "学校給食の完全無償化を",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食の完全無償化を",
+      "heading": null,
+      "verbatim": "学校給食の完全無償化を",
+      "page": 8
+    },
+    {
+      "block_id": "b02",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市役所は現地建て替えで",
+      "heading": null,
+      "verbatim": "市役所は現地建て替えで",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "非正規労働者の賃金アップ",
+      "heading": null,
+      "verbatim": "非正規労働者の賃金アップ",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "市独自の給付型奨学金制度を",
+      "heading": null,
+      "verbatim": "市独自の給付型奨学金制度を",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "先生を増やして少人数学級を",
+      "heading": null,
+      "verbatim": "先生を増やして少人数学級を",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "コミュニティバスを早期に実現",
+      "heading": null,
+      "verbatim": "コミュニティバスを早期に実現",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ジェンダー平等の社会を",
+      "heading": null,
+      "verbatim": "ジェンダー平等の社会を",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "高校卒業までの医療費助成",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "高校卒業までの医療費助成",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "高校卒業までの医療費助成",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "高校卒業までの医療費助成",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "松戸に児童相談所新設(2026年度開所予定)",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "松戸に児童相談所新設(2026年度開所予定)",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "栄町中堀川沿いの市道の改修。〝転んでケガ〟は管理者(市)の責任と追及し改善へ",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "栄町中堀川沿いの市道の改修\n市道にせり出した段差。「〝転んでケガ〟は管理者(市)の責任」と追及し、改善されることになりました。",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "危険な盛土による宅地造成中止(大橋地域)",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "危険な盛土による宅地造成中止(大橋地域)",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "危険な盛土による宅地造成中止(大橋地域)",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "危険な盛土による宅地造成中止(大橋地域)",
+      "page": 8
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "市民の声を葬る市議会",
+      "verbatim": "この間、①減らない年金への改善 ②最低賃金を時給1500円に ③木更津駐屯地へのオスプレイ配備やめよ ④性急な改憲やめよ ⑤核兵器禁止条約の批准を、などを提案。",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

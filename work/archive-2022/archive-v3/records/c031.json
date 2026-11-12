@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c031",
+  "order": 31,
+  "name": "中村のりこ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "NHK党",
+  "career": null,
+  "age": null,
+  "slogan": "NHK受信料の支払いは国民の義務ではありません！",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "other",
+      "achievement": false,
+      "summary": "NHK受信料の支払いは国民の義務ではない",
+      "heading": null,
+      "verbatim": "NHK受信料の支払いは国民の義務ではありません！",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": false,
+      "summary": "NHKには免除制度があるが、年金で生活している方には適用されない",
+      "heading": "年金受給者の方のNHK受信料を無料にします！",
+      "verbatim": "ＮＨＫには受信料が割引や無料になる免除制度があるにもかかわらず、年金で生活している方には適用されません。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "NHK受信料の支払いは任意で、支払い義務はない",
+      "heading": "年金受給者の方のNHK受信料を無料にします！",
+      "verbatim": "ＮＨＫ受信料の支払いは任意であり、支払い義務はありません。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "NHK党では年金受給者のNHK受信料を肩代わりし無料にしている",
+      "heading": "年金受給者の方のNHK受信料を無料にします！",
+      "verbatim": "NHK党では、年金受給者のNHK受信料を肩代わりすることで無料にしています。",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "現在NHK受信料が銀行引き落としの方も諦めずにご相談を",
+      "heading": "年金受給者の方のNHK受信料を無料にします！",
+      "verbatim": "また、現在ＮＨＫ受信料が銀行引き落としになっている方も諦めずにご相談下さい。",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "QRコードから委任すると、NHKからの請求書が届かなくなる",
+      "heading": "NHKからの請求書が来なくなる方法 請求書代理受領サービス",
+      "verbatim": "右のＱＲコードから委任していただくことで、あなたのお宅にＮＨＫからの請求書が届かなくなります。",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "other",
+      "achievement": false,
+      "summary": "時効の援用手続きやNHKへの電話対応、訪問対応も代わりに対応",
+      "heading": "NHKからの請求書が来なくなる方法 請求書代理受領サービス",
+      "verbatim": "また、時効の援用手続きやＮＨＫへの電話対応、訪問対応も我々があなたの代わりに対応致します。",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "other",
+      "achievement": false,
+      "summary": "請求書で金額が増えて怖い、手紙が苦痛な方も、安心して受信料の不払いを",
+      "heading": "NHKからの請求書が来なくなる方法 請求書代理受領サービス",
+      "verbatim": "ＮＨＫから請求書が届くたびに金額が増えて怖い、ＮＨＫから手紙が来ることが精神的に苦痛だという方も、安心して受信料の不払いをしてください。",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "ひとり親家庭への支援の拡充",
+      "heading": null,
+      "verbatim": "ひとり親家庭への支援の拡充",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "生活保護世帯への現物支給",
+      "heading": null,
+      "verbatim": "生活保護世帯への現物支給",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": false,
+      "summary": "スマートフォン購入時の助成金支給",
+      "heading": null,
+      "verbatim": "スマートフォン購入時の助成金支給",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

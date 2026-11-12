@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c033",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["gyozaisei"], "achievement": false, "summary": "「市民の・役に立つ・所」を徹底し、行財政改革", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi", "keizai"], "achievement": false, "summary": "利便性向上と経済が発展する基盤を整備", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "子どもは宝", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "松戸市の将来を担う子ども達の未来を真剣に考える", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "「健康医療都市まつど」に恥じない、市民に優しい街", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "松戸市で暮らしてきた全ての方が、松戸市を選んで良かったと思える街", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "子・親・家族すべての市民が安心して暮らせる街", "confidence": "high"},
+    {"block_id": "b09", "themes": ["keizai"], "achievement": false, "summary": "松戸市のポテンシャルを引き出し、企業育成・誘致を図る", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "松戸に住んで、来て、楽しめる街", "confidence": "low"}
+  ],
+  "notes": [
+    "b07・b08：本文だけでは分野が定まらないので、見出し（医療・福祉の充実／防災・防犯）に合わせた",
+    "b10：見出し「賑わいのある街」と本文のみで具体策がなく、まちづくりとしたが、経済・産業（観光）とも読める"
+  ]
+}

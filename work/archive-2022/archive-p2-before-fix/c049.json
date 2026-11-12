@@ -1,0 +1,33 @@
+{
+  "candidate_id": "c049",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [8], "position": "1段目左"},
+  "name": "山中けいじ",
+  "kana": "やまなかけいじ",
+  "party": "無所属",
+  "age": 43,
+  "career": "松戸市議会議員選挙に４回連続当選",
+  "slogan": "0からの出発！松戸を諦めない",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "0からの出発！松戸を諦めない", "page": 8},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "皆様から頂いた26,835票を胸に、市民力を前へ！", "page": 8},
+    {"block_id": "b03", "kind": "policy", "heading": "1 治安対策は急務！", "verbatim": "児童用見守りGPS端末の導入!", "page": 8},
+    {"block_id": "b04", "kind": "policy", "heading": "2 徹底した行財政改革", "verbatim": "行政の無駄を徹底的に省く", "page": 8},
+    {"block_id": "b05", "kind": "policy", "heading": "2 徹底した行財政改革", "verbatim": "入札改革やネーミングライツの導入", "page": 8},
+    {"block_id": "b06", "kind": "policy", "heading": "3 全ての年代が安心できるまち", "verbatim": "多世代交流施設や機会の促進", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": "4 市民感覚で働く議員", "verbatim": "議会質問100％の継続", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": "4 市民感覚で働く議員", "verbatim": "「個々の議員の賛否態度公開」の続行", "page": 8},
+    {"block_id": "b09", "kind": "policy", "heading": "5 大型事業の見直し！", "verbatim": "市役所建替え見直しで億単位のコストカット!", "page": 8},
+    {"block_id": "b10", "kind": "policy", "heading": "6 本当に子育てしやすいまち", "verbatim": "学校給食の無償化を現状より推進!", "page": 8},
+    {"block_id": "b11", "kind": "policy", "heading": "6 本当に子育てしやすいまち", "verbatim": "図書館・スポーツ・文化施設、公園の充実", "page": 8},
+    {"block_id": "b12", "kind": "policy", "heading": "7 議員定数の削減", "verbatim": "44人は多すぎる！（県内市でワースト1位の削減率）", "page": 8},
+    {"block_id": "b13", "kind": "policy", "heading": "7 議員定数の削減", "verbatim": "現状44人➡まずは4人減らして2億円を福祉へ!", "page": 8},
+    {"block_id": "b14", "kind": "policy", "heading": "7 議員定数の削減", "verbatim": "４人会派が組めれば削減議案を議員提出します", "page": 8},
+    {"block_id": "b15", "kind": "message", "heading": null, "verbatim": "市民力代表", "page": 8},
+    {"block_id": "b16", "kind": "profile", "heading": "プロフィール", "verbatim": "・1979年５月28日生まれ。政治とは無縁の家庭に生まれ育つ\n・二三ヶ丘幼稚園、横須賀小学校、小金中学校卒業\n・早稲田大学高等学院（在学中、英国に１年間単身で留学）卒業\n・早稲田大学政治経済学部政治学科卒業\n・日本ユニシス（株）を経て松下政経塾に入塾（26期生）\n・松戸市議会議員選挙に４回連続当選\n・本年６月の市長選挙にて次点（２位）\n趣味：マラソン、読書、手話（手話検定１級）\n家族：妻、娘（１歳）", "page": 8}
+  ],
+  "issues": [
+    "b01とslogan：公報では「0」に「ゼロ」、「出発」に「スタート」のふりがながある。verbatimには親字だけを写した。",
+    "上位の見出し「山中けいじの七つの柱」は、各箇条のheadingに番号付きの柱の見出しを採ったためブロックにしていない。",
+    "数字と漢字の間などの字間の空きは文字として写していない。半角・全角は字形からの判断で、確定できない。"
+  ]
+}

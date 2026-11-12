@@ -1,0 +1,64 @@
+{
+  "candidate_id": "c007",
+  "order": 7,
+  "name": "がんのさとし",
+  "kana": "がんのさとし",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "松戸市議会議員1期",
+  "age": null,
+  "slogan": "ガンガン頑張る！！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "経営コンサルタントの目線で財政再建",
+      "heading": null,
+      "verbatim": "経営コンサルタントの目線で財政再建",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "経営コンサルタントの目線で財政再建",
+      "verbatim": "松戸市立 総合医療センター\n毎赤字の穴埋めに\n毎年25億円の税金\n民営化\n××病院\n赤字の穴埋め不要\n病院は残ります",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "経営コンサルタントの目線で財政再建",
+      "verbatim": "松戸市立 総合医療センター\n毎赤字の穴埋めに\n毎年25億円の税金\n民営化\n××病院\n赤字の穴埋め不要\n病院は残ります",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "東松戸病院廃止で年間５億円削減",
+      "heading": "実績",
+      "verbatim": "東松戸病院廃止で年間５億円削減できました！",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "東松戸病院廃止で年間５億円削減",
+      "heading": "実績",
+      "verbatim": "東松戸病院廃止で年間５億円削減できました！",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

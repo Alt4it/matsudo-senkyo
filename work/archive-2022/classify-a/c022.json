@@ -1,0 +1,29 @@
+{
+  "candidate_id": "c022",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["machi"], "achievement": false, "summary": "市役所新庁舎は松戸駅東側の新拠点ゾーンへの移転建替えを推進", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "新松戸駅快速停車は新松戸地域の最重要課題と言える", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "その実現のため駅東側の区画整理事業の早期完成が必要と考え強力に推進", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "介護人材不足は松戸市に限らず全国的に深刻な課題", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "仕事量に比べて報酬が安いから", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "松戸市独自の手当てを支給できる制度を創設し特養などの稼働ベッドを増やす", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi", "other"], "achievement": false, "summary": "人口49万人余の松戸市としてはスポーツ施設の少なさが課題", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi", "other"], "achievement": false, "summary": "今後の公共施設再編の際には常にスポーツ施設を併設できないか検討を推進", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "次なる駅前開発は北小金駅北口側と考える", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi", "keizai"], "achievement": false, "summary": "本土寺などの観光資源を活用した再開発へ検討準備協議会を立ち上げる", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": true, "summary": "小中学校へのエアコンの設置", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": true, "summary": "江戸川河川敷グランド草刈増および水洗トイレの設置", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi"], "achievement": true, "summary": "コミュニティバス・グリーンスローモビリティの本格運行", "confidence": "high"},
+    {"block_id": "b15", "themes": ["machi"], "achievement": true, "summary": "三ヶ月の島谷台公園に待望のトイレ設置", "confidence": "high"},
+    {"block_id": "b16", "themes": ["kosodate"], "achievement": true, "summary": "横須賀小放課後児童クラブの校庭内に誘致", "confidence": "high"},
+    {"block_id": "b17", "themes": ["machi"], "achievement": true, "summary": "新松戸東側区画整理事業の認可取得し事業進捗", "confidence": "high"},
+    {"block_id": "b18", "themes": ["kosodate"], "achievement": true, "summary": "保育所・幼稚園預かり保育の送迎ステーション駅近に増設", "confidence": "high"},
+    {"block_id": "b19", "themes": ["machi"], "achievement": true, "summary": "都市計画道路337号線（幸谷・二ツ木間）の開通", "confidence": "high"}
+  ],
+  "notes": [
+    "b12〜b19：見出しの「主な活動実績報告」により achievement を true とした。",
+    "b13・b15・b19：書き写し担当が字形の確認を求めている語を含むが、書き起こしのまま要約に使った。"
+  ]
+}

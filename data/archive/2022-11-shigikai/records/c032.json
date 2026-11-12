@@ -1,0 +1,172 @@
+{
+  "candidate_id": "c032",
+  "order": 32,
+  "name": "しまむら新一",
+  "kana": "しまむらしんいち",
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": null,
+  "age": null,
+  "slogan": "学校給食の完全無償化を",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食の完全無償化を",
+      "heading": null,
+      "verbatim": "学校給食の完全無償化を",
+      "page": 5
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "県・国に働きかけと市独自の教員確保で教員不足解消",
+      "heading": null,
+      "verbatim": "県・国に働きかけと市独自の教員確保で教員不足解消。",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校体育館へのエアコン設置・トイレの洋式化",
+      "heading": null,
+      "verbatim": "学校体育館へのエアコン設置・トイレの洋式化。",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "金ケ作地域の下水道の改善を",
+      "heading": null,
+      "verbatim": "金ケ作地域の下水道の改善を。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "0歳から5歳児まで6年間入所できる認可保育所の整備",
+      "heading": null,
+      "verbatim": "0歳から5歳児まで6年間入所できる認可保育所の整備",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "従事者の労働条件を保証する公契約条例の制定（学童指導員など）",
+      "heading": null,
+      "verbatim": "従事者の労働条件を保証する公契約条例の制定（学童指導員など）",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "従事者の労働条件を保証する公契約条例の制定（学童指導員など）",
+      "heading": null,
+      "verbatim": "従事者の労働条件を保証する公契約条例の制定（学童指導員など）",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "東平賀地区の「車の抜け道」対策",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "東平賀地区の「車の抜け道」対策",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "小金原旧ゆうかり学園跡地（残土置場見直し）",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "小金原旧ゆうかり学園跡地（残土置場見直し）",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "北小金駅北口の通路・階段の改善",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "北小金駅北口の通路・階段の改善",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "小金城趾駅階段の改善（バリアフリー化）",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "小金城趾駅階段の改善（バリアフリー化）",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "福祉や教育に「お金がない」といいながら大型開発は「全部やる」では理解は得られない",
+      "heading": "まちづくりは誰のため",
+      "verbatim": "福祉や教育などには「お金がない」といいながら、大型開発は「全部やる」では市民の理解は得られません。",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "福祉や教育に「お金がない」といいながら大型開発は「全部やる」では理解は得られない",
+      "heading": "まちづくりは誰のため",
+      "verbatim": "福祉や教育などには「お金がない」といいながら、大型開発は「全部やる」では市民の理解は得られません。",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "東松戸の区画整理事業には12名の地権者が見直しを求めている",
+      "heading": "まちづくりは誰のため",
+      "verbatim": "東松戸の区画整理事業には12名の地権者が見直しを求めています。",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新市役所の建替計画が決まっていないのに大規模な造成が進められている",
+      "heading": "まちづくりは誰のため",
+      "verbatim": "新市役所の建替計画が決まっていないのに大規模な造成が進められています。",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子ども、高齢者にやさしく、子育て支援、事業者支援を行う街づくりを進める",
+      "heading": null,
+      "verbatim": "子ども、高齢者にやさしく、子育て支援、事業者支援を行う街づくりを進め、誰もが住みやすい街にします。",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "子ども、高齢者にやさしく、子育て支援、事業者支援を行う街づくりを進める",
+      "heading": null,
+      "verbatim": "子ども、高齢者にやさしく、子育て支援、事業者支援を行う街づくりを進め、誰もが住みやすい街にします。",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "candidate_id": "c019",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": false, "summary": "私を当選させれば、不正疑惑の追求 事業見直し・事業縮小化により実現", "confidence": "low"},
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": false, "summary": "50%の理由は、特別委員会（百条委員会）設置に議員の1／2の賛成が必要なため", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "私を当選させれば、生活保護受給者が一人減", "confidence": "low"}
+  ],
+  "notes": [
+    "b01：何を実現するのかが原文から特定できないため、語句を原文に近いまま残した。",
+    "b04：文意が原文だけでは特定できないため、生活保護の語から fukushi とし、要約は原文のままにした。"
+  ]
+}

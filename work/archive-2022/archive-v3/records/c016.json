@@ -1,0 +1,73 @@
+{
+  "candidate_id": "c016",
+  "order": 16,
+  "name": "成島りょうた",
+  "kana": "なりしまりょうた",
+  "sort_kana": null,
+  "party": "立憲民主党",
+  "career": "松戸市議会議員（一期目）",
+  "age": null,
+  "slogan": "全ての子供達が愛情を感じる社会を目指して",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "福祉において「制度の穴」を防がなければならない",
+      "heading": null,
+      "verbatim": "福祉において「制度の穴」を防がなければなりません。",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "多くの制度を作るのではなく、多くの人に届く支援が必要",
+      "heading": null,
+      "verbatim": "多くの制度を作るのではなく、多くの人に届く支援が必要なのです。",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "大型事業だけでなく、生活に密着した問題の解決に取り組む",
+      "heading": null,
+      "verbatim": "成島りょうたは、大型事業だけでなく、生活に密着した問題の解決に取り組みます。",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "在宅介護の充実を",
+      "heading": null,
+      "verbatim": "在宅介護の充実を。",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "家庭ごみ回収、ビンと缶は週に一回は回収を",
+      "heading": null,
+      "verbatim": "家庭ごみ回収、ビンと缶は週に一回は回収を。",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校施設の老朽化対策を",
+      "heading": null,
+      "verbatim": "学校施設の老朽化対策を。",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c056",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "achievement": true, "summary": "おくやみコーナー設置", "confidence": "low"},
+    {"block_id": "b02", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "新生児聴覚検査・産婦健診の助成", "confidence": "high"},
+    {"block_id": "b03", "themes": ["other"], "achievement": true, "summary": "市オリジナル婚姻届・出生届", "confidence": "low"},
+    {"block_id": "b04", "themes": ["other"], "achievement": true, "summary": "無戸籍の方への支援強化", "confidence": "low"},
+    {"block_id": "b05", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "子ども医療費助成の対象年齢を高校3年生まで拡大", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": true, "summary": "7年連続で国基準の待機児童ゼロを達成", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": true, "summary": "パートナーシップ宣誓制度の導入", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "「輝く未来」へ子ども・子育て支援", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "「快適都市」へ人にやさしい元気な街づくり", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai"], "achievement": false, "summary": "「安全・安心」へ命を守る取り組み", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "「健康都市」へ医療・介護・福祉の充実", "confidence": "high"},
+    {"block_id": "b14", "themes": ["kosodate", "other"], "achievement": false, "summary": "「誇れる街」へ文化・教育の推進", "confidence": "high"}
+  ],
+  "notes": [
+    "b01・b03：窓口や届の様式に関する記述で、行財政の criteria（行政改革・デジタル化など）に当たるかを本文だけでは判断できないためその他とした。",
+    "b04：無戸籍の方への支援は criteria に明記がなく、福祉・医療（生活困窮者支援など）に当たるかも本文だけでは判断できないためその他とした。"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "candidate_id": "c062",
+  "order": 62,
+  "name": "竹内さちえ",
+  "kana": "たけうちさちえ",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 48,
+  "slogan": "政治は生活！",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議員定数を削減し、そのぶん福祉へ",
+      "heading": "1 財政健全化 ～未来世代にツケを残さない市政を～",
+      "verbatim": "議員定数を削減し、そのぶん福祉へ",
+      "page": 9
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "議員定数を削減し、そのぶん福祉へ",
+      "heading": "1 財政健全化 ～未来世代にツケを残さない市政を～",
+      "verbatim": "議員定数を削減し、そのぶん福祉へ",
+      "page": 9
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "教育の私費負担軽減、多世代交流機会の創出",
+      "heading": "2 本当に子育てしやすいまち、いくつになっても住み続けたいまちへ",
+      "verbatim": "教育の私費負担軽減、多世代交流機会の創出",
+      "page": 9
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "教育の私費負担軽減、多世代交流機会の創出",
+      "heading": "2 本当に子育てしやすいまち、いくつになっても住み続けたいまちへ",
+      "verbatim": "教育の私費負担軽減、多世代交流機会の創出",
+      "page": 9
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "少人数学級の推進、ICT活用による学びの保障と充実",
+      "heading": "3 生きる力を育む教育を",
+      "verbatim": "少人数学級の推進、ICT活用による学びの保障と充実",
+      "page": 9
+    },
+    {
+      "block_id": "b06",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "子連れで参加しやすい議会報告会の開催",
+      "heading": "4 もっと市民に開かれた議会へ",
+      "verbatim": "子連れで参加しやすい議会報告会の開催",
+      "page": 9
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

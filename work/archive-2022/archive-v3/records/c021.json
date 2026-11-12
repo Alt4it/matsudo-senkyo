@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c021",
+  "order": 21,
+  "name": "増田かおる",
+  "kana": "ますだかおる",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "松戸市議会議員（2期）",
+  "age": null,
+  "slogan": "市民無視の政治を変えたい!!",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市役所の移転計画を市民に知らせず議会の賛成だけで進めようとするのは市民無視",
+      "heading": "市民に知らせない市役所移転に異議あり！ 民主主義をとりもどしたい",
+      "verbatim": "多額の税金を使う市役所の移転計画を市民に知らせず、議会の賛成だけで進めようとするのは市民無視。",
+      "page": 4
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市役所の移転計画を市民に知らせず議会の賛成だけで進めようとするのは市民無視",
+      "heading": "市民に知らせない市役所移転に異議あり！ 民主主義をとりもどしたい",
+      "verbatim": "多額の税金を使う市役所の移転計画を市民に知らせず、議会の賛成だけで進めようとするのは市民無視。",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市民参加を進める！",
+      "heading": "市民に知らせない市役所移転に異議あり！ 民主主義をとりもどしたい",
+      "verbatim": "市民参加を進めます！",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食の無償化、医療費補助、住宅支援など生活優先の市政に使うよう切り替えるべき",
+      "heading": "このままじゃ生活していけない！！ 市民生活を最優先したい",
+      "verbatim": "学校給食の無償化、医療費補助、住宅支援など生活優先の市政に使うよう切り替えるべきです。",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "学校給食の無償化、医療費補助、住宅支援など生活優先の市政に使うよう切り替えるべき",
+      "heading": "このままじゃ生活していけない！！ 市民生活を最優先したい",
+      "verbatim": "学校給食の無償化、医療費補助、住宅支援など生活優先の市政に使うよう切り替えるべきです。",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "貴重な税金、ムダな大型開発事業に使わせない",
+      "heading": "このままじゃ生活していけない！！ 市民生活を最優先したい",
+      "verbatim": "貴重な税金、ムダな大型開発事業に使わせません。",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "松戸の緑地・自然環境を守る",
+      "heading": "STOP！気候危機　松戸のみどりと農業を守りたい！",
+      "verbatim": "松戸の緑地・自然環境を守ります。",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸の農業を支援し、無農薬と地産地消を進め、学校給食にとりいれる",
+      "heading": "STOP！気候危機　松戸のみどりと農業を守りたい！",
+      "verbatim": "松戸の農業を支援し、無農薬と地産地消を進め、学校給食にとりいれます。",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "松戸の農業を支援し、無農薬と地産地消を進め、学校給食にとりいれる",
+      "heading": "STOP！気候危機　松戸のみどりと農業を守りたい！",
+      "verbatim": "松戸の農業を支援し、無農薬と地産地消を進め、学校給食にとりいれます。",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "other",
+      "achievement": false,
+      "summary": "女性、男性、子ども、外国人、障がい者、性的少数者など誰もが生きやすいまちをめざす",
+      "heading": "女性議員の視点でジェンダー平等の松戸市にしたい！",
+      "verbatim": "女性、男性、大人、子ども、外国人、障がい者、性的少数者など、松戸に住む誰もが生きやすいまちをめざします。",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "東海第二原発の再稼働、岸田首相の「原発新増設」には絶対反対",
+      "heading": "プロフィール",
+      "verbatim": "たった100kmの距離の東海第二原発の再稼働、岸田首相の「原発新増設」には絶対反対です。",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

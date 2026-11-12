@@ -1,0 +1,15 @@
+{
+  "candidate_id": "c041",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "学校リニューアル、デジタル人材育成、不妊治療、障がい児対策、学校給食など", "confidence": "low"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "8支所、図書館、地域施設を充実させ本庁舎に行かなくて済む公共施設の再編", "confidence": "high"},
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "簡素な行政手続きでみんなの時間を大切にするまち", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kankyo"], "achievement": false, "summary": "ゴミ分別の簡素化や収集方法の見直しで市民・地域の負担軽減", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi", "keizai"], "achievement": false, "summary": "新松戸駅への快速停車の実現、松戸駅周辺の活性化、新産業誘致など", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：1文に多くの分野が並ぶため、中心と読めるテーマ2つに絞り、40字に収まらない項目は要約から省いて「など」とした。原文の確認が必要"
+  ]
+}

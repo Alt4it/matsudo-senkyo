@@ -1,0 +1,64 @@
+{
+  "candidate_id": "c052",
+  "order": 52,
+  "name": "岡本ゆうこ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "立憲民主党",
+  "career": "2018年松戸市議初当選",
+  "age": null,
+  "slogan": "自分らしく生きられる社会へ",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "妊娠時からではなく、妊活時から切れ目のない支援",
+      "heading": null,
+      "verbatim": "妊娠時からではなく、妊活時から切れ目のない支援",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": false,
+      "summary": "多様性をパワーに！",
+      "heading": null,
+      "verbatim": "多様性をパワーに！",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "“インクルーシブ”防災",
+      "heading": null,
+      "verbatim": "“インクルーシブ”防災",
+      "page": 8
+    },
+    {
+      "block_id": "b07p",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "不妊治療費助成拡大、パートナーシップ宣誓制度、ペット同行避難所開設等の実現に尽力",
+      "heading": null,
+      "verbatim": "市政において、不妊治療費助成対象範囲の拡大やパートナーシップ宣誓制度、ペット同行避難所開設、コロナ禍における東海第二原発広域避難計画に係る松戸市受入避難者数の調整等の実現に尽力。",
+      "page": 8
+    },
+    {
+      "block_id": "b07p",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "不妊治療費助成拡大、パートナーシップ宣誓制度、ペット同行避難所開設等の実現に尽力",
+      "heading": null,
+      "verbatim": "市政において、不妊治療費助成対象範囲の拡大やパートナーシップ宣誓制度、ペット同行避難所開設、コロナ禍における東海第二原発広域避難計画に係る松戸市受入避難者数の調整等の実現に尽力。",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

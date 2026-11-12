@@ -1,0 +1,93 @@
+{
+  "candidate_id": "c034",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      6
+    ],
+    "position": "1段目右"
+  },
+  "name": "そりはし忍",
+  "kana": "そりはししのぶ",
+  "party": "無所属",
+  "age": 51,
+  "career": null,
+  "slogan": "葬儀屋歴25年 3500人の方をお見送り",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "上記の経験から、松戸市の改革改善に取り組みます",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "全ての人が安心・安全に暮らせるまちづくり",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "子どもの未来に責任を持つまちづくり",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "誰もが移動しやすく環境に優しいまちづくり",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "北小金地域のみなさま",
+      "verbatim": "北口にロータリー実現",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "北小金地域のみなさま",
+      "verbatim": "グリーンスローモビリティーの早期実用化、対象地域拡大",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "小金原、八ヶ崎地域のみなさま",
+      "verbatim": "新松戸駅快速停車に合わせて駅東口の区画整理地内にロータリーを実現し、小金原、八ヶ崎から新松戸行きのバス路線を実現します。",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "小金原、八ヶ崎地域のみなさま",
+      "verbatim": "小金原商店街を買い物しやすく、多くの人が集まって多世代交流出来る全ての市民の憩いの場所にするために、活性化させます。",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": "新松戸地域のみなさま",
+      "verbatim": "サンライトパストラル、パークハウス等の築40年以上経過する\nマンションの長寿命化や建て替え等の計画推進を支援",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "kind": "profile",
+      "heading": null,
+      "verbatim": "朝刊を配達しながら県立高校を卒業\n葬祭業に15年勤務して独立、株式会社アテスエ創業\n趣味：ボクシング",
+      "page": 6
+    }
+  ],
+  "issues": [
+    "b01は見出しではなく文と判断し、messageとした。配下のb02〜b04との関係は要確認",
+    "b09は紙面で□が2つ（「…築40年以上経過する」「マンションの…」）に分かれているが、1つの文と読めるので1ブロックにし、□の位置で改行した",
+    "b10の社名「アテスエ」の末字は片仮名「エ」と読んだが、漢字「工」と字形が近い。氏名以外の固有名詞のため要確認"
+  ]
+}

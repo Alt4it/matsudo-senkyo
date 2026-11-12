@@ -1,0 +1,93 @@
+{
+  "candidate_id": "c005",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {
+      "block_id": "b02",
+      "themes": [
+        "kosodate"
+      ],
+      "achievement": false,
+      "summary": "保育の受け皿拡大と保育士処遇改善で、入所保留児童含む待機児童解消を推進",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b03",
+      "themes": [
+        "kosodate"
+      ],
+      "achievement": false,
+      "summary": "放課後児童クラブと放課後KIDSルームの一体型運営を進める",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b04",
+      "themes": [
+        "machi"
+      ],
+      "achievement": false,
+      "summary": "松戸駅周辺や新松戸駅東側地区に商業施設・図書館など整備し活気ある街づくり",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b05",
+      "themes": [
+        "keizai"
+      ],
+      "achievement": false,
+      "summary": "コロナ禍で影響を受けた市内中小事業者の立て直しや商店街への支援策を充実",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b06",
+      "themes": [
+        "bousai"
+      ],
+      "achievement": false,
+      "summary": "ゾーン30やキッズゾーンなど、通学路をはじめ市内の交通安全対策を推進",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b07",
+      "themes": [
+        "bousai",
+        "machi"
+      ],
+      "achievement": false,
+      "summary": "JR松戸駅のホームドア設置などを加速",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b09",
+      "themes": [
+        "fukushi"
+      ],
+      "achievement": false,
+      "summary": "8050問題や認知症など困りごとを全て受け止める「福祉まるごと相談窓口」を拡充",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b11",
+      "themes": [
+        "kosodate"
+      ],
+      "achievement": false,
+      "summary": "学習環境整備へ、市立小中高校のバリアフリー化やトイレ早期洋式化を推進",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b12",
+      "themes": [
+        "kosodate"
+      ],
+      "achievement": false,
+      "summary": "学校のいじめや貧困などに対応し、スクールカウンセラー等のさらなる配置を推進",
+      "confidence": "high"
+    }
+  ],
+  "notes": [
+    "b07：見出しが「安全・安心」で、駅の設備でもあるため bousai と machi の2つを付けた",
+    "b12：字数の都合で、要約では「スクールソーシャルワーカー」を「等」に含めた"
+  ]
+}

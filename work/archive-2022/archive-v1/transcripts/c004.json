@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c004",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [2], "position": "2段目右"},
+  "name": "大和山太郎",
+  "kana": "おおわやま",
+  "party": "無所属",
+  "age": 49,
+  "status": null,
+  "slogan": "笑顔計画",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "verbatim": "スマイルプロジェクト 笑顔計画\nいじめ110番", "page": 2},
+    {"block_id": "b02", "kind": "policy", "verbatim": "六高台で塾長25年\n子供たちを笑顔に\nいじめ110番 教育格差是正", "page": 2},
+    {"block_id": "b03", "kind": "policy", "verbatim": "只今、母を介護中\n高齢者を笑顔に\n六実にレインボーバスを戻そう\n独身者の介護問題の解決", "page": 2},
+    {"block_id": "b04", "kind": "policy", "verbatim": "生涯六実っ子宣言\n六実・六高台を笑顔に\n六実・元山・五香の再開発\n新・クリーンセンターの再計画", "page": 2},
+    {"block_id": "b05", "kind": "profile", "verbatim": "＜プロフィール＞\n1973年(昭和48年)5月29日生まれ 49歳\n六実保育園卒園、六実小学校卒業\n1988年 六実中学校卒業\n1991年 千葉県立国府台高校卒業\n1996年 千葉大学文学部行動科学科卒業\n1997年 学習塾「やまと学院.」を設立。\n六高台で学習塾を25年間経営中。", "page": 2},
+    {"block_id": "b06", "kind": "other", "verbatim": "WEBサイト LINE Instagram\nTARO_OWAYAMA", "page": 2}
+  ],
+  "issues": [
+    "kanaはふりがなが振られた「大和山」の分（おおわやま）のみ。「太郎」にふりがなの記載はない",
+    "b05の「やまと学院.」の「.」は字が小さく、記号か汚れか迷った。見えたとおり写した"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "candidate_id": "c019",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      4
+    ],
+    "position": "2段目左"
+  },
+  "name": "中山統晶",
+  "kana": null,
+  "party": null,
+  "age": null,
+  "career": null,
+  "slogan": null,
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "policy",
+      "heading": "50%の公約",
+      "verbatim": "私を当選させれば、不正疑惑の追求\n事業見直し・事業縮小化により実現",
+      "page": 4
+    },
+    {
+      "block_id": "b02",
+      "kind": "other",
+      "heading": "50%の公約",
+      "verbatim": "詳細は、Twitter : 中山貴晶@Nakayama_Kisyo",
+      "page": 4
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": "50%の公約",
+      "verbatim": "50%の理由は、特別委員会（百条委員会）設置には、議員の1／2の賛成が必要であり、有権者がどちら側の議員に投票するかしだい。",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "100%の公約",
+      "verbatim": "私を当選させれば、生活保護受給者が一人減",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "kind": "profile",
+      "heading": null,
+      "verbatim": "ボランティア活動：1年間ボランティア計画に参加。献血150回以上。骨髄提供1回。",
+      "page": 4
+    }
+  ],
+  "issues": [
+    "name：毛筆体の氏名欄の3文字目は「統」と読んだが、b02のTwitter表記は活字で「中山貴晶」と読め、3文字目が異なる。氏名の字の確認が必要。どちらも見えたとおりに記載した",
+    "kana：公報にふりがながないのでnull。b02の「Nakayama_Kisyo」はアカウント名なので読みとして使っていない",
+    "slogan：「50%の公約」「100%の公約」は最も大きいが配下の内容を束ねる見出しと判断し、白抜きの文は政策の箇条なのでnull",
+    "b04：「一人減」で終わっている（紙面のまま。枠内の続きはない）",
+    "b03：「50%」「1／2」の数字・記号の全角半角は断定できない"
+  ]
+}

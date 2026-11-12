@@ -1,0 +1,31 @@
+{
+  "candidate_id": "c016",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [3], "position": "4段目右"},
+  "name": "成島りょうた",
+  "kana": "なりしまりょうた",
+  "party": "立憲民主党",
+  "age": null,
+  "career": "松戸市議会議員（一期目）",
+  "slogan": "全ての子供達が愛情を感じる社会を目指して",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "全ての子供達が愛情を感じる社会を目指して", "page": 3},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "介護スタッフとして、ケアマネジャーとして介護現場を見てきました。現役子育て世代として学校現場を見てきました。", "page": 3},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "福祉において「制度の穴」を防がなければなりません。", "page": 3},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "多くの制度を作るのではなく、多くの人に届く支援が必要なのです。", "page": 3},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "成島りょうたは、大型事業だけでなく、生活に密着した問題の解決に取り組みます。", "page": 3},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "在宅介護の充実を。", "page": 3},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "家庭ごみ回収、ビンと缶は週に一回は回収を。", "page": 3},
+    {"block_id": "b08", "kind": "policy", "heading": null, "verbatim": "学校施設の老朽化対策を。", "page": 3},
+    {"block_id": "b09", "kind": "policy", "heading": null, "verbatim": "成島りょうたは、公費の無駄遣いである選挙カーを使いません。", "page": 3},
+    {"block_id": "b10", "kind": "profile", "heading": null, "verbatim": "ケアマネジャー", "page": 3},
+    {"block_id": "b11", "kind": "profile", "heading": "■成島りょうたプロフィール", "verbatim": "福祉のプロ", "page": 3},
+    {"block_id": "b12", "kind": "profile", "heading": "■成島りょうたプロフィール", "verbatim": "埼玉県三郷市出身。昭和46年（1971年）3月15日生まれ。\n日本航空高等学校卒、日本航空学園千歳校卒、聖徳大学心理福祉学部卒（通信教育）。", "page": 3},
+    {"block_id": "b13", "kind": "profile", "heading": "■成島りょうたプロフィール", "verbatim": "経済的には苦しい家庭でしたが、愛情ある環境で育ちました。中学時代、弁当が質素であることを理由にイジメに遭いました。中学卒業を機に実家を離れ、高校からは学生寮へ。高校一年の時に、実家が破産。福祉関係者のお力添えいただいたおかげで、高校は無事に卒業できました。この一件が、私が福祉に興味を持ったきっかけです。", "page": 3},
+    {"block_id": "b14", "kind": "profile", "heading": null, "verbatim": "松戸市議会議員（一期目）\n趣　味：釣り、温泉旅行、武道、詩吟、歴史探訪など。\n資　格：ケアマネジャー、介護福祉士、ホームヘルパー2級、社会福祉主事、手話検定5級、初級システムアドミニストレータ、危険物取扱者乙種第4類など。\n所属政党：立憲民主党、所属団体など：日本尊厳死協会、松戸市消防団員、千葉県交通松戸市青少年相談員など", "page": 3}
+  ],
+  "issues": [
+    "b14の「千葉県交通松戸市青少年相談員」は語のつながりが不自然に見えるが、紙面のとおりに写した。",
+    "b02は経験を述べる文のため message とした。b03〜b05は政策の考え方とも訴えとも読めるが policy とした。kindの確認をしてほしい。",
+    "選挙カーの図の中の文字（「○○候補」と見える部分。×印で隠れている）は主張ではないため書き起こしていない。"
+  ]
+}

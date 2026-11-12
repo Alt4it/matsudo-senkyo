@@ -1,0 +1,13 @@
+{
+  "name": "松戸市議会議員一般選挙（2022年・試運転）",
+  "date": "投票日 2022年11月20日",
+  "sourceNote": "出典：松戸市選挙管理委員会 選挙公報（令和4年11月20日執行）",
+  "sourceUrl": null,
+  "trial": true,
+  "trialNote": "これは<b>試運転用のデータ</b>です。令和4年（2022年）11月20日執行の選挙の公報を使っており、これからの選挙の候補者情報ではありません。",
+  "orderLabel": "掲載",
+  "pageOffset": 1,
+  "voteInfoUrl": null,
+  "operator": null,
+  "contact": null
+}

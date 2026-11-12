@@ -1,0 +1,13 @@
+{
+  "candidate_id": "c008",
+  "classifier": "B",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "summary": "共働きの環境整備、学校の安全対策、給食無償化、送迎サービス拡充、孤育て防止", "confidence": "high"},
+    {"block_id": "b03", "themes": ["bousai", "machi"], "summary": "通学路の安全対策、防災拠点の公園設置、防災・減災強化、犬猫殺処分ゼロ、道路整備", "confidence": "low"},
+    {"block_id": "b04", "themes": ["fukushi", "machi"], "summary": "就労支援、生産品の常設販売所、65歳問題解消、低速車両・コミュニティバス拡大", "confidence": "high"}
+  ],
+  "notes": [
+    "b03：動物愛護（other）も含むが、上限が2テーマのため、項目数の多い bousai と machi を付けた。other を外してよいか迷った。"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "candidate_id": "c034",
+  "order": 34,
+  "name": "そりはし忍",
+  "kana": "そりはししのぶ",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 51,
+  "slogan": "葬儀屋歴25年 3500人の方をお見送り",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "全ての人が安心・安全に暮らせるまちづくり",
+      "heading": null,
+      "verbatim": "全ての人が安心・安全に暮らせるまちづくり",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもの未来に責任を持つまちづくり",
+      "heading": null,
+      "verbatim": "子どもの未来に責任を持つまちづくり",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "誰もが移動しやすく環境に優しいまちづくり",
+      "heading": null,
+      "verbatim": "誰もが移動しやすく環境に優しいまちづくり",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "誰もが移動しやすく環境に優しいまちづくり",
+      "heading": null,
+      "verbatim": "誰もが移動しやすく環境に優しいまちづくり",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "北口にロータリー実現",
+      "heading": "北小金地域のみなさま",
+      "verbatim": "北口にロータリー実現",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "グリーンスローモビリティーの早期実用化、対象地域拡大",
+      "heading": "北小金地域のみなさま",
+      "verbatim": "グリーンスローモビリティーの早期実用化、対象地域拡大",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新松戸駅快速停車に合わせ駅東口にロータリー、小金原、八ヶ崎から新松戸行きバス路線",
+      "heading": "小金原、八ヶ崎地域のみなさま",
+      "verbatim": "新松戸駅快速停車に合わせて駅東口の区画整理地内にロータリーを実現し、小金原、八ヶ崎から新松戸行きのバス路線を実現します。",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "小金原商店街を多世代交流出来る憩いの場所にするために活性化",
+      "heading": "小金原、八ヶ崎地域のみなさま",
+      "verbatim": "小金原商店街を買い物しやすく、多くの人が集まって多世代交流出来る全ての市民の憩いの場所にするために、活性化させます。",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "サンライトパストラル、パークハウス等の築40年以上のマンションの長寿命化等を支援",
+      "heading": "新松戸地域のみなさま",
+      "verbatim": "サンライトパストラル、パークハウス等の築40年以上経過する\nマンションの長寿命化や建て替え等の計画推進を支援",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

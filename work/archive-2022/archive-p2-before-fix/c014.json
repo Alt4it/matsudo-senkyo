@@ -1,0 +1,25 @@
+{
+  "candidate_id": "c014",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [3], "position": "3段目右"},
+  "name": "ちだたかし",
+  "kana": "ちだたかし",
+  "party": "日本改革党",
+  "age": null,
+  "career": null,
+  "slogan": "平和守れない\n9条廃止",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": null, "verbatim": "平和守れない\n9条廃止", "page": 3},
+    {"block_id": "b02", "kind": "policy", "heading": null, "verbatim": "外国人生活保護廃止", "page": 3},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "スパイ防止法制定", "page": 3},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "消費税減税-廃止", "page": 3},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "二次元規制反対", "page": 3},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "NHKスクランブル", "page": 3},
+    {"block_id": "b07", "kind": "other", "heading": null, "verbatim": "NHKに関するご相談は\n070-2677-8910\nまでお気軽にどうぞ(日中)", "page": 3},
+    {"block_id": "b08", "kind": "message", "heading": null, "verbatim": "日本人の日本人による日本人のための政治\n代表 くつざわ亮治", "page": 3}
+  ],
+  "issues": [
+    "sloganの判断：黒い楕円の「平和守れない／9条廃止」を、最も大きく紙面の上にある文言として採った。政策の箇条とも読め、同じく大きい楕円の「NHKスクランブル」もあるため確認してほしい。",
+    "b04の「-」は短い横棒で、ハイフン・ダッシュ・長音のどれかは字形から区別できない。紙面の形に近いハイフンで写した。",
+    "紙面下の帯「日本改革党」は party と同じ文言のためブロックにしていない。"
+  ]
+}

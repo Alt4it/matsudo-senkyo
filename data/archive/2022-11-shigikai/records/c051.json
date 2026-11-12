@@ -1,0 +1,136 @@
+{
+  "candidate_id": "c051",
+  "order": 51,
+  "name": "山口正子",
+  "kana": "やまぐちまさこ",
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": "３期12年",
+  "age": null,
+  "slogan": "学校給食の完全無償化を",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食の完全無償化を",
+      "heading": null,
+      "verbatim": "学校給食の完全無償化を",
+      "page": 8
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "東松戸病院・梨香苑廃止条例の撤回を。跡地売却は中止を",
+      "heading": null,
+      "verbatim": "東松戸病院・梨香苑廃止条例撤回を。跡地売却は中止を。",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "国民健康保険料(均等割廃止)と介護保険料の引き下げを",
+      "heading": null,
+      "verbatim": "国民健康保険料(均等割廃止)と介護保険料の引き下げを。",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "コロナ対策で痛感、松戸市独自の保健所設置を",
+      "heading": null,
+      "verbatim": "コロナ対策で痛感、松戸市独自の保健所設置を。",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "補聴器の購入補助。年金で入れる特養ホームを",
+      "heading": null,
+      "verbatim": "補聴器の購入補助。年金で入れる特養ホームを。",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "コミュニティバスを交通空白地域に走らせる",
+      "heading": null,
+      "verbatim": "コミュニティバスを交通空白地域に走らせます。",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "馬橋弁天歩道橋下の信号機設置",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "馬橋弁天歩道橋下の信号機設置",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "新松戸イオン前交差点のスクランブル化",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "新松戸イオン前交差点のスクランブル化",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "千駄堀口交差点の信号機設置(今年度内)",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "千駄堀口交差点の信号機設置(今年度内)",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "医療費助成、高校卒業まで拡充",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "医療費助成、高校卒業まで拡充",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "医療費助成、高校卒業まで拡充",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "医療費助成、高校卒業まで拡充",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "産後の健診費用２回まで5,000円補助",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "産後の健診費用２回まで5,000円補助",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "産後の健診費用２回まで5,000円補助",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "産後の健診費用２回まで5,000円補助",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

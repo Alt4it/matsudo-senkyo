@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c054",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [8], "position": "3段目右"},
+  "name": "木村みね子",
+  "kana": null,
+  "party": null,
+  "age": null,
+  "career": "4期連続当選",
+  "slogan": "大型事業優先の政策から、福祉重視の政策へ！",
+  "blocks": [
+    {"block_id": "b01", "kind": "profile", "heading": null, "verbatim": "市議5期目に挑戦", "page": 8},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "住み続けたい街No.1を目指して！", "page": 8},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "大型事業優先の政策から、福祉重視の政策へ！", "page": 8},
+    {"block_id": "b04", "kind": "policy", "heading": "1 安心して子どもを産み、育てることができる環境づくり", "verbatim": "第3子以降の出生に対する出産祝金100万円の段階的支給", "page": 8},
+    {"block_id": "b05", "kind": "policy", "heading": "1 安心して子どもを産み、育てることができる環境づくり", "verbatim": "病児・病後児施設の拡充など働く親の支援", "page": 8},
+    {"block_id": "b06", "kind": "policy", "heading": "2 子どもたちが笑顔で健やかに育める社会づくり", "verbatim": "総合医療センターにアニマルセラピー導入と近隣にドナルド・マクドナルド・ハウスの誘致", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": "2 子どもたちが笑顔で健やかに育める社会づくり", "verbatim": "待機児童実質ゼロ", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": "2 子どもたちが笑顔で健やかに育める社会づくり", "verbatim": "防犯カメラの設置拡大などによる通学路や公園の安全確保", "page": 8},
+    {"block_id": "b09", "kind": "policy", "heading": "3 あらゆる市民にとって暮らしやすく優しい街づくり", "verbatim": "分かりづらいゴミ分別の簡素化", "page": 8},
+    {"block_id": "b10", "kind": "policy", "heading": "3 あらゆる市民にとって暮らしやすく優しい街づくり", "verbatim": "学校給食費無償化など物価高への家計支援", "page": 8},
+    {"block_id": "b11", "kind": "policy", "heading": "3 あらゆる市民にとって暮らしやすく優しい街づくり", "verbatim": "高齢者、障がい者へのタクシーチケット支給", "page": 8},
+    {"block_id": "b12", "kind": "policy", "heading": "4 新型コロナなど感染症から生命と健康を守る体制強化", "verbatim": "いつでも気軽に受けられる検査体制の充実", "page": 8},
+    {"block_id": "b13", "kind": "policy", "heading": "4 新型コロナなど感染症から生命と健康を守る体制強化", "verbatim": "無症状もしくは軽症陽性者の為の療養施設の整備", "page": 8},
+    {"block_id": "b14", "kind": "policy", "heading": "5 北千住と柏の間の谷底と揶揄される街から魅力ある街づくり", "verbatim": "松戸駅に建設中の新たな駅ビルへの百貨店誘致", "page": 8},
+    {"block_id": "b15", "kind": "policy", "heading": "5 北千住と柏の間の谷底と揶揄される街から魅力ある街づくり", "verbatim": "松戸駅東口高台エリアに多目的アリーナ建設とプロスポーツ誘致", "page": 8},
+    {"block_id": "b16", "kind": "profile", "heading": "木村みね子プロフィール", "verbatim": "●学歴・職歴\n松戸市立常盤平第一小学校\n松戸市立第四中学校\n東京家政学院高等学校\n東京家政学院短期大学　各卒業\n銀行勤務 他", "page": 8},
+    {"block_id": "b17", "kind": "profile", "heading": "木村みね子プロフィール", "verbatim": "●松戸市議会議員\n2006年11月　初当選より　4期連続当選", "page": 8},
+    {"block_id": "b18", "kind": "profile", "heading": "木村みね子プロフィール", "verbatim": "●市議会などにおける主な経歴\n第68代松戸市議会議長\n第67代松戸市議会副議長\n教育環境常任委員長\n健康福祉常任委員長\n松戸市農業委員など", "page": 8}
+  ],
+  "issues": [
+    "careerは議員歴の語句として「4期連続当選」を採った。紙面には「市議5期目に挑戦」（b01）もあり、どちらを採るか迷った",
+    "「木村みね子の重点政策」は全体の大見出しのため、ブロックにもheadingにもしていない（headingには1〜5の各見出しを使った）",
+    "heading の番号は紙面の四角囲みの数字。番号と見出しの間の半角空白は書き起こし時に区切りとして入れたもの",
+    "b03はスローガンでもあるが、政策の方向を述べる文言なのでkindをpolicyとした。messageとの間で迷った"
+  ]
+}

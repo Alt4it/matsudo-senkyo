@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c060",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["fukushi"], "achievement": false, "summary": "介護予防は要介護状態を遅らせ、悪化を防いで軽減を目指すこと", "confidence": "high"},
+    {"block_id": "b02", "themes": ["fukushi"], "achievement": false, "summary": "2025年には約700万人、高齢者の約5人に1人が認知症になるといわれる", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "認知症に向けた取組が今後ますます重要になる", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "健康寿命を延ばして、生きがいをもって生活してほしい", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "一緒に介護予防始めましょう", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "認知症は誰でもなるかもしれない", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "認知症への理解を深め、認知症になっても希望を持って過ごせる社会の実現へ頑張る", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "介護が必要になっても安心できる環境をつくる", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": false, "summary": "ヤングケアラー問題に真剣に取り組む", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "介護予防講座で市内各地を巡回中！", "confidence": "low"}
+  ],
+  "notes": [
+    "b12：現在行っている活動の記述で、過去の実績とも今後の公約とも言い切れない。実績を示す見出しや文末がないため achievement を false とした。"
+  ]
+}

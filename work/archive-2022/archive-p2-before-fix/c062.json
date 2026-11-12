@@ -1,0 +1,27 @@
+{
+  "candidate_id": "c062",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [9], "position": "3段目右"},
+  "name": "竹内さちえ",
+  "kana": "たけうちさちえ",
+  "party": "無所属",
+  "age": 48,
+  "career": null,
+  "slogan": "政治は生活！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "政治は生活！", "page": 9},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "主婦の声を、生活者目線を！", "page": 9},
+    {"block_id": "b03", "kind": "policy", "heading": "1 財政健全化 ～未来世代にツケを残さない市政を～", "verbatim": "議員定数を削減し、そのぶん福祉へ", "page": 9},
+    {"block_id": "b04", "kind": "policy", "heading": "2 本当に子育てしやすいまち、いくつになっても住み続けたいまちへ", "verbatim": "教育の私費負担軽減、多世代交流機会の創出", "page": 9},
+    {"block_id": "b05", "kind": "policy", "heading": "3 生きる力を育む教育を", "verbatim": "少人数学級の推進、ICT活用による学びの保障と充実", "page": 9},
+    {"block_id": "b06", "kind": "policy", "heading": "4 もっと市民に開かれた議会へ", "verbatim": "子連れで参加しやすい議会報告会の開催", "page": 9},
+    {"block_id": "b07", "kind": "other", "heading": null, "verbatim": "※その他の政策は公式サイトをご覧ください。", "page": 9},
+    {"block_id": "b08", "kind": "other", "heading": null, "verbatim": "市民力公認", "page": 9},
+    {"block_id": "b09", "kind": "profile", "heading": "プロフィール", "verbatim": "1974 年生まれ、神奈川県立光陵高等学校卒、白百合女子大学文学部卒\n栗ケ沢小学校ＰＴＡ元会長。強制加入や活動強要を是正し、参加しやすいＰＴＡに転換。\nまつど子育てコネクト（マツコ）元代表。「裏まつど議会だより」で政治参加の裾野を広げる。\n山中けいじ主催「けいじの政治塾」8 期生として、市政への課題意識を高める。", "page": 9}
+  ],
+  "issues": [
+    "党派欄は枠内の「無所属」とした。別に大きく「市民力公認」とあり、イラスト付きの表示で党派かどうか判断できないため b08 に other として残した。人の確認を希望。",
+    "「竹内さちえの四つの柱」は内容を束ねる見出しと判断し、slogan にもブロックにも入れなかった。",
+    "見出しの番号1〜4は炎形の図案の中にあるが、紙面の文字として heading に残した。箇条の先頭の「・」は記号として写していない。",
+    "b09 の「栗ケ沢」の「ケ」は大きさから「ケ」とした。「ヶ」の可能性もある。「ＰＴＡ」は字間の広さから全角としたが確定できない。"
+  ]
+}

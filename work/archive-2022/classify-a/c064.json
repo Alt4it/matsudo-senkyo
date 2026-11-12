@@ -1,0 +1,18 @@
+{
+  "candidate_id": "c064",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate", "machi"], "achievement": false, "summary": "ベビーカーにやさしいまちづくり", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "キッズフレンドリーな場所を増やす", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "公園の整備・改善", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "産後ママお助け隊の発足", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "産後ケアサービスの充実・拡大", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "市民全員で子供を見守るまちづくり", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "防犯対策強化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "暗い場所、危険な場所の改善", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "子育て情報の発信", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "子育て世帯のコミュニティ作り", "confidence": "high"}
+  ],
+  "notes": []
+}

@@ -1,0 +1,199 @@
+{
+  "candidate_id": "c001",
+  "order": 1,
+  "name": "二階堂剛",
+  "kana": "にかいどうつよし",
+  "sort_kana": null,
+  "party": "立憲民主党",
+  "career": "松戸市議会議員選挙に9期目当選する",
+  "age": null,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "other",
+      "achievement": false,
+      "summary": "平和基金を活用し、長崎市の平和大使派遣を継続、広島市へ拡大",
+      "heading": "平和事業充実・憲法9条改悪反対",
+      "verbatim": "平和基金を活用し、長崎市の平和大使派遣の継続、広島市への拡大する",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "特定健診受診率向上で元気高齢者拡大、地域包括ケア充実で介護不安解消、移動手段助成",
+      "heading": "高齢者の介護・子育て支援に全力",
+      "verbatim": "特定健診の受診率向上で元気高齢者拡大し、地域包括ケアの充実で介護不安の解消し、移動手段の助成",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "放課後児童クラブと放課後キッズルームの充実、子育て支援を応援",
+      "heading": "高齢者の介護・子育て支援に全力",
+      "verbatim": "放課後児童クラブの充実と放課後キッズルームの充実、子育て支援を応援",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小中学校エアコン設置にPFI方式を提案し全校設置、トイレ洋式化促進、学校施設整備",
+      "heading": "教育施設、就学支援の充実",
+      "verbatim": "小中学校のエアコン設置にPFI方式を提案し全校設置、トイレ洋式化促進、4年度末（小学校61%、中学校57%、体育館平均78%）学校施設の整備",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "就学援助制度充実、スポーツ施設整備、学校給食の無償化",
+      "heading": "教育施設、就学支援の充実",
+      "verbatim": "就学援助制度充実、スポーツ施設整備、学校給食の無償化",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "労働相談・就労支援・中小企業退職金制度補助を実現、若者や高齢者の就労支援を促進",
+      "heading": "若者、高齢者の就労支援",
+      "verbatim": "労働相談の充実、就労支援、中小企業退職金制度促進の補助を実現してきましたが、若者や高齢者の就労支援の促進",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "分散備蓄倉庫を全校実現、避難困難者の避難行動支援を全市に拡大、災害弱者対策充実",
+      "heading": "災害に強い街づくり、原発に頼らない街づくりを",
+      "verbatim": "分散備蓄倉庫全校実現し、避難困難者の避難行動支援対策を全市に拡大、災害弱者対策を充実",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "LED導入促進、公共施設の太陽光パネル設置など自然エネルギー導入促進",
+      "heading": "災害に強い街づくり、原発に頼らない街づくりを",
+      "verbatim": "LEDの導入促進、公共施設の太陽光パネル設置など自然エネルギー導入促進",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "コミュニティバス運行、新八柱駅周辺道路整備、南口駅前広場改修、ホームドア設置",
+      "heading": "誰にも優しいバリアフリーの街づくり、公共交通の利用助成",
+      "verbatim": "交通困難地域のコミュニティバスの運行JR新八柱駅周辺道路整備と南口駅前広場早期改修、JR松戸駅のバリアフリー促進。JR駅ホームドア設置促進",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "コミュニティバス運行、新八柱駅周辺道路整備、南口駅前広場改修、ホームドア設置",
+      "heading": "誰にも優しいバリアフリーの街づくり、公共交通の利用助成",
+      "verbatim": "交通困難地域のコミュニティバスの運行JR新八柱駅周辺道路整備と南口駅前広場早期改修、JR松戸駅のバリアフリー促進。JR駅ホームドア設置促進",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "地域連携で健康を守る体制促進、新型コロナ対策病床確保、東松戸病院廃止反対",
+      "heading": "市立総合医療センターで安心医療体制",
+      "verbatim": "地域連携で市民の健康を守る体制促進、新型コロナ感染症対策病床確保\n東松戸病院廃止反対",
+      "page": 2
+    },
+    {
+      "block_id": "b16",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "支所機能充実、コンパクトな庁舎建設、広報まつど宅配5,200部増を実現し拡大",
+      "heading": "市役所庁舎、申請主義から「出前主義」へ",
+      "verbatim": "支所機能の充実、コンパクトな庁舎建設、市民への情報提供「広報まつど」新聞未購読者への宅配5,200部増実現し、さらなる拡大",
+      "page": 2
+    },
+    {
+      "block_id": "b16",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "支所機能充実、コンパクトな庁舎建設、広報まつど宅配5,200部増を実現し拡大",
+      "heading": "市役所庁舎、申請主義から「出前主義」へ",
+      "verbatim": "支所機能の充実、コンパクトな庁舎建設、市民への情報提供「広報まつど」新聞未購読者への宅配5,200部増実現し、さらなる拡大",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "新型コロナ感染症の抗原検査からPCR検査実現",
+      "heading": "実現しました！",
+      "verbatim": "新型コロナ感染症の抗原検査からPCR検査実現",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "年度途中からの待機児童入所施設の実現（26ヵ所）",
+      "heading": "実現しました！",
+      "verbatim": "年度途中からの待機児童入所施設の実現（26ヵ所）",
+      "page": 2
+    },
+    {
+      "block_id": "b19",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "地域包括支援センターのコンビニ・他、出張相談拡大（96回）",
+      "heading": "実現しました！",
+      "verbatim": "地域包括支援センターのコンビニ・他、出張相談拡大（96回）",
+      "page": 2
+    },
+    {
+      "block_id": "b20",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "八柱駅南口駅前広場・バス停など整備計画実現",
+      "heading": "実現しました！",
+      "verbatim": "八柱駅南口駅前広場・バス停など整備計画実現",
+      "page": 2
+    },
+    {
+      "block_id": "b21",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "市民センターのバリアフリー化促進（八柱市民センター他）",
+      "heading": "実現しました！",
+      "verbatim": "市民センターのバリアフリー化促進（八柱市民センター他）",
+      "page": 2
+    },
+    {
+      "block_id": "b22",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "仮称「子どもの貧困対策早期発見支援ガイドブック」",
+      "heading": "実現しました！",
+      "verbatim": "仮称「子どもの貧困対策早期発見支援ガイドブック」",
+      "page": 2
+    },
+    {
+      "block_id": "b22",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "仮称「子どもの貧困対策早期発見支援ガイドブック」",
+      "heading": "実現しました！",
+      "verbatim": "仮称「子どもの貧困対策早期発見支援ガイドブック」",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-07",
+    "changes": []
+  }
+}

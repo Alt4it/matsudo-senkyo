@@ -1,0 +1,25 @@
+{
+  "candidate_id": "c008",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "安心して共働きできる環境整備", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate", "bousai"], "achievement": false, "summary": "小中学校の窓枠落下防止等、安全対策", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "小・中学校の学校給食無償化を促進", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "保育園・幼稚園の安全な送迎サービスの拡充", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "「“孤”育て」を防ぐ、松戸でつながるプロジェクト応援", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "暗く危険な箇所の再点検と通学路の安全対策", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai", "machi"], "achievement": false, "summary": "防災拠点となる公園の設置", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai"], "achievement": false, "summary": "自然災害に備えた防災・減災の強化", "confidence": "high"},
+    {"block_id": "b13", "themes": ["other"], "achievement": false, "summary": "動物愛護を推進し、犬猫殺処分ゼロを目指す", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi", "bousai"], "achievement": false, "summary": "地割れや段差のある道路の整備、横断歩道等の道路区画線の引き直し", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi", "keizai"], "achievement": false, "summary": "高齢者・障がい者の就労支援や体制づくり", "confidence": "high"},
+    {"block_id": "b16", "themes": ["fukushi"], "achievement": false, "summary": "就労事業所生産品の常設販売所設置", "confidence": "high"},
+    {"block_id": "b17", "themes": ["fukushi"], "achievement": false, "summary": "介護保険に移行する「65歳問題」の解消", "confidence": "high"},
+    {"block_id": "b18", "themes": ["machi"], "achievement": false, "summary": "低速車両（グリーンスローモビリティ）やコミュニティバスの運行拡大", "confidence": "high"}
+  ],
+  "notes": [
+    "b15：本文に対象の記載がないため、見出し「高齢者も障がい者も輝けるまち！」から対象を補って要約した",
+    "b06：学校施設の安全対策なので kosodate と bousai の2つを付けた"
+  ]
+}

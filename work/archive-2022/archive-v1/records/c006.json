@@ -1,0 +1,74 @@
+{
+  "candidate_id": "c006",
+  "order": 6,
+  "name": "鈴木秀介",
+  "kana": "すずき",
+  "party": "無所属",
+  "status": null,
+  "age": 60,
+  "slogan": "民間の感覚を政治に！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "summary": "財源を確保し給食の無償化など子育て・教育環境を整備",
+      "verbatim": "1 子育て、教育環境の整備\n・財源を確保し給食の無償化など",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "summary": "高齢化に伴う通院、介護、一人暮らしなどの諸問題に対応",
+      "verbatim": "2 高齢化に伴う諸問題\n・通院、介護や一人暮らしなど諸問題に対応",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "summary": "新拠点ゾーン構想の必要性を十分チェック",
+      "verbatim": "3 新拠点ゾーン構想など\n・新拠点ゾーン構想の必要性を十分チェック",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "summary": "新拠点ゾーン構想の必要性を十分チェック",
+      "verbatim": "3 新拠点ゾーン構想など\n・新拠点ゾーン構想の必要性を十分チェック",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "gyozaisei",
+      "summary": "税金の使い方を見直し、必要なところにお金が回っているかチェック",
+      "verbatim": "4 健全な財政政策\n・税金の使い方を見直し必要なところにお金が回っているかをチェック",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "summary": "松戸市の医療体制を整備",
+      "verbatim": "5 医療体制の充実\n・松戸市の医療体制を整備してまいります。",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "keizai",
+      "summary": "企業誘致、商店街の活性化等を図る",
+      "verbatim": "6 活気ある街へ\n・企業誘致、商店街の活性化等を図ってまいります。",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "summary": "松戸市議会議員の4名削減を行う",
+      "verbatim": "7 定数削減\n・松戸市議会議員の４名削減を行ってまいります。",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

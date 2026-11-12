@@ -1,0 +1,181 @@
+{
+  "candidate_id": "c008",
+  "order": 8,
+  "name": "戸張ともこ",
+  "kana": "とばりともこ",
+  "sort_kana": null,
+  "party": "立憲民主党",
+  "career": "松戸市議会議員・1期4年間",
+  "age": null,
+  "slogan": "笑顔で一人ひとりが輝ける松戸市に！",
+  "policies": [
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "安心して共働きできる環境整備",
+      "heading": "子ども達、子育て世帯が輝けるまち！",
+      "verbatim": "安心して共働きできる環境整備。",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小中学校の窓枠落下防止等、安全対策",
+      "heading": "子ども達、子育て世帯が輝けるまち！",
+      "verbatim": "小中学校の窓枠落下防止等、安全対策。",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "小中学校の窓枠落下防止等、安全対策",
+      "heading": "子ども達、子育て世帯が輝けるまち！",
+      "verbatim": "小中学校の窓枠落下防止等、安全対策。",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小・中学校の学校給食無償化を促進",
+      "heading": "子ども達、子育て世帯が輝けるまち！",
+      "verbatim": "小・中学校の学校給食無償化を促進。",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保育園・幼稚園の安全な送迎サービスの拡充",
+      "heading": "子ども達、子育て世帯が輝けるまち！",
+      "verbatim": "保育園・幼稚園の安全な送迎サービスの拡充。",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "「“孤”育て」を防ぐ、松戸でつながるプロジェクト応援",
+      "heading": "子ども達、子育て世帯が輝けるまち！",
+      "verbatim": "「“孤”育て」を防ぐ、松戸でつながるプロジェクト応援！",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "暗く危険な箇所の再点検と通学路の安全対策",
+      "heading": "安全・安心して暮らせるまちづくり！",
+      "verbatim": "暗く危険な箇所の再点検と通学路の安全対策。",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防災拠点となる公園の設置",
+      "heading": "安全・安心して暮らせるまちづくり！",
+      "verbatim": "防災拠点となる公園の設置。",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "防災拠点となる公園の設置",
+      "heading": "安全・安心して暮らせるまちづくり！",
+      "verbatim": "防災拠点となる公園の設置。",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "自然災害に備えた防災・減災の強化",
+      "heading": "安全・安心して暮らせるまちづくり！",
+      "verbatim": "自然災害に備えた防災・減災の強化。",
+      "page": 2
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": false,
+      "summary": "動物愛護を推進し、犬猫殺処分ゼロを目指す",
+      "heading": "安全・安心して暮らせるまちづくり！",
+      "verbatim": "動物愛護を推進し、犬猫殺処分ゼロを目指す。",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "地割れや段差のある道路の整備、横断歩道等、道路区画線の引き直し",
+      "heading": "安全・安心して暮らせるまちづくり！",
+      "verbatim": "地割れや段差のある道路の整備、横断歩道等、道路区画線の引き直し。",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "地割れや段差のある道路の整備、横断歩道等、道路区画線の引き直し",
+      "heading": "安全・安心して暮らせるまちづくり！",
+      "verbatim": "地割れや段差のある道路の整備、横断歩道等、道路区画線の引き直し。",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "就労支援や体制づくり",
+      "heading": "高齢者も障がい者も輝けるまち！",
+      "verbatim": "就労支援や体制づくり。",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "就労支援や体制づくり",
+      "heading": "高齢者も障がい者も輝けるまち！",
+      "verbatim": "就労支援や体制づくり。",
+      "page": 2
+    },
+    {
+      "block_id": "b16",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "就労事業所生産品の常設販売所設置",
+      "heading": "高齢者も障がい者も輝けるまち！",
+      "verbatim": "就労事業所生産品の常設販売所設置。",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "介護保険に移行する「65歳問題」の解消",
+      "heading": "高齢者も障がい者も輝けるまち！",
+      "verbatim": "介護保険に移行する「65歳問題」の解消。",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "低速車両（グリーンスローモビリティ）やコミュニティバスの運行拡大",
+      "heading": "高齢者も障がい者も輝けるまち！",
+      "verbatim": "低速車両（グリーンスローモビリティ）やコミュニティバスの運行拡大。",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

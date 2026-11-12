@@ -1,0 +1,154 @@
+{
+  "candidate_id": "c050",
+  "order": 50,
+  "name": "浦野真",
+  "kana": "うらのしん",
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": null,
+  "age": null,
+  "slogan": "学校給食の完全無償化を",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食の完全無償化を",
+      "heading": null,
+      "verbatim": "学校給食の完全無償化を",
+      "page": 8
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "市独自の給付型奨学金を",
+      "heading": null,
+      "verbatim": "市独自の給付型奨学金を",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "若者向け就労相談窓口を",
+      "heading": null,
+      "verbatim": "若者向け就労相談窓口を",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "補聴器助成、コミバス運行拡大で年をとっても住みやすく",
+      "heading": null,
+      "verbatim": "補聴器助成、コミバス運行拡大で年をとっても住みやすく",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "補聴器助成、コミバス運行拡大で年をとっても住みやすく",
+      "heading": null,
+      "verbatim": "補聴器助成、コミバス運行拡大で年をとっても住みやすく",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "商工費倍増。市独自の融資制度、リフォーム助成を",
+      "heading": null,
+      "verbatim": "商工費倍増。市独自の融資制度、リフォーム助成を",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議会の質問時間を元に戻し、市民の声が通る議会に",
+      "heading": null,
+      "verbatim": "議会の質問時間を元に戻し、市民の声が通る議会に",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "ＵＲ団地をさらに住みやすく（修繕費制度の改善を実現）",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "ＵＲ団地をさらに住みやすく(修繕費制度の改善を実現)",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "高柳クリーンセンターの早期建替、お風呂やスポーツ施設の継続を",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "高柳クリーンセンターの早期建替、お風呂やスポーツ施設の継続を",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "県道２８１号、国道４６４号など歩道の安全対策を",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "県道２８１号、国道４６４号など歩道の安全対策を",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "県道２８１号、国道４６４号など歩道の安全対策を",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "県道２８１号、国道４６４号など歩道の安全対策を",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "北総線のさらなる運賃値下げを（10月から一部値下げ）",
+      "heading": "地域要求の実現に全力",
+      "verbatim": "北総線のさらなる運賃値下げを(10月から一部値下げ)",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "２歳児までの小規模保育園は柏市９園、船橋市23園に対し松戸市は78園",
+      "heading": "いま松戸の保育は非常事態",
+      "verbatim": "２歳児までを対象とする小規模保育園(園庭や調理室も不要)に特化し、柏市９園、船橋市23園に対し松戸市は78園(2020/4現在)。",
+      "page": 8
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "３歳以上の受け皿が足りない深刻な事態",
+      "heading": "いま松戸の保育は非常事態",
+      "verbatim": "３歳以上の受け皿が足りない深刻な事態です。",
+      "page": 8
+    },
+    {
+      "block_id": "b13",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "安さ・便利さ・手軽さ追求のシワ寄せをうけるのは声を上げれない子どもたち",
+      "heading": "いま松戸の保育は非常事態",
+      "verbatim": "安さ・便利さ・手軽さ追求のシワ寄せをうけるのは声を上げれない子どもたちです。",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

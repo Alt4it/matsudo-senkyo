@@ -1,0 +1,16 @@
+{
+  "candidate_id": "c055",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "森のホール前新駅（複線）設置促進", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi", "kosodate"], "achievement": false, "summary": "常盤平団地の再編に向け準備。緑を残し高層化と戸建の建設、小・中一貫校", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "小・中学校給食の無償化（まずは小学校より所得制限をもうける）", "confidence": "high"},
+    {"block_id": "b07", "themes": ["keizai"], "achievement": false, "summary": "松戸卸売市場の公設市場の撤退", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "４年後の市長候補の擁立（だしたい人の人選、なるべくなら女性中心に検討）", "confidence": "low"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "公立保育園の民営化の促進", "confidence": "high"}
+  ],
+  "notes": [
+    "b08：市長候補の擁立は criteria のどのテーマにも当てはまりにくく、その他とした。行財政とも考えられる。要約では原文の「市長になりたい人より」と、続く文「これらのことを…取り組んでいきたいと思います。」を省いた。"
+  ]
+}

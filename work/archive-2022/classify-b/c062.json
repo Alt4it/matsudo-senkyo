@@ -1,0 +1,12 @@
+{
+  "candidate_id": "c062",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["gyozaisei", "fukushi"], "achievement": false, "summary": "議員定数を削減し、そのぶん福祉へ", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "教育の私費負担軽減、多世代交流機会の創出", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "少人数学級の推進、ICT活用による学びの保障と充実", "confidence": "high"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "子連れで参加しやすい議会報告会の開催", "confidence": "high"}
+  ],
+  "notes": []
+}

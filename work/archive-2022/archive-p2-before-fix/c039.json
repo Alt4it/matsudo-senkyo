@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c039",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [6], "position": "4段目左"},
+  "name": "鈴木だいすけ",
+  "kana": "すずきだいすけ",
+  "party": "自由民主党 公認",
+  "age": 44,
+  "career": "松戸市議会議員（3期・平成22年初当選）",
+  "slogan": "松戸だいすき!",
+  "blocks": [
+    {"block_id": "b01", "kind": "other", "heading": null, "verbatim": "i love MTD まつど", "page": 6},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "3児の父・責任世代の声を市政へ", "page": 6},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "松戸だいすき!", "page": 6},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "自信は確信に〜このまちの「ミライ」を皆様と共に描き実現します!", "page": 6},
+    {"block_id": "b05", "kind": "message", "heading": null, "verbatim": "「自信は確信に」誰よりも早く現場に駆けつけ、誰よりも話を聞き、共に考え、行動します。LOVE MTD♪", "page": 6},
+    {"block_id": "b06", "kind": "message", "heading": null, "verbatim": "「松戸だいすき!鈴木だいすけ7つの行動（seven actions）」を市民の皆様にここに宣言したいと思います。", "page": 6},
+    {"block_id": "b07", "kind": "policy", "heading": "松戸だいすき! 鈴木だいすけ 7つの行動 seven actions", "verbatim": "ソーシャルビジネスで社会課題の解決を!", "page": 6},
+    {"block_id": "b08", "kind": "policy", "heading": "松戸だいすき! 鈴木だいすけ 7つの行動 seven actions", "verbatim": "市議会議員として地域課題の解決を!", "page": 6},
+    {"block_id": "b09", "kind": "policy", "heading": "❶持続可能な福祉政策", "verbatim": "誰もが自立して暮らせる街を目指し行動します!", "page": 6},
+    {"block_id": "b10", "kind": "policy", "heading": "❷イクメン宣言", "verbatim": "子どもが健やかに育つ環境づくりのために全力で行動します!", "page": 6},
+    {"block_id": "b11", "kind": "policy", "heading": "❸防災・減災対策", "verbatim": "大規模災害から市民の生活や生命を守るために行動します!", "page": 6},
+    {"block_id": "b12", "kind": "policy", "heading": "❹投資すべきことには投資を", "verbatim": "将来世代への責任のために行動します!", "page": 6},
+    {"block_id": "b13", "kind": "policy", "heading": "❺防犯・治安対策の強化", "verbatim": "安心して暮らせる街を目指して行動します!", "page": 6},
+    {"block_id": "b14", "kind": "policy", "heading": "❻新規住民・旧住民の「かけはし」に", "verbatim": "地域コミュニティ活性化の為に行動します!", "page": 6},
+    {"block_id": "b15", "kind": "policy", "heading": "❼元気なまちに", "verbatim": "魅力ある都市空間・住環境の整備・産業振興の為に行動します!", "page": 6},
+    {"block_id": "b16", "kind": "profile", "heading": "鈴木だいすけ プロフィール", "verbatim": "昭和53年2月7日生まれの44歳、杖を使えばどこにでもいけるまで回復した父と型破りな母(ヨガインストラクター)優しい妻(元損保会社事務職)と可愛い長女(10歳・河原塚小学校)・大谷翔平が好きな長男(7歳・河原塚小学校)とやんちゃな次男(3歳・高塚幼稚園)と河原塚在住", "page": 6},
+    {"block_id": "b17", "kind": "profile", "heading": "鈴木だいすけ プロフィール", "verbatim": "学歴 東京都立秋川高等学校卒業\n明治大学商学部卒業", "page": 6},
+    {"block_id": "b18", "kind": "profile", "heading": "鈴木だいすけ プロフィール", "verbatim": "趣味 読書（長谷川慶太郎・山本七平・小室直樹・司馬遼太郎・宮城谷昌光・塩野七生・クラウゼヴィッツなど乱読を持って是とする）", "page": 6},
+    {"block_id": "b19", "kind": "profile", "heading": "鈴木だいすけ プロフィール", "verbatim": "現在 松戸市議会議員（3期・平成22年初当選）\n就労継続支援B型事業所ONEHEART松戸代表", "page": 6},
+    {"block_id": "b20", "kind": "other", "heading": null, "verbatim": "松戸だいすき情報発信中! http://www.suzukidaisuke.jp/ 松戸だいすき", "page": 6},
+    {"block_id": "b21", "kind": "other", "heading": null, "verbatim": "まつどだいすき\n情報発信中!!", "page": 6},
+    {"block_id": "b22", "kind": "other", "heading": null, "verbatim": "自民党\n自民党公認", "page": 6}
+  ],
+  "issues": [
+    "b18の「クラウゼヴィッツ」の「ヴ」は字が小さく「ウ」の可能性がある。原寸で要確認",
+    "b18の「乱読を持って是とする」は紙面の表記どおり",
+    "partyは紙面の「自由民主党 公認」をそのまま入れた。「公認」を党派に含めるかは要判断",
+    "b01はロゴ（iの横にハート、ハート内にlove、MTDの下に小さく「まつど」）を文字だけ書き起こした",
+    "sloganは氏名に次いで大きい「松戸だいすき!」を採った。次に大きい文言は b04 の「自信は確信に〜」"
+  ]
+}

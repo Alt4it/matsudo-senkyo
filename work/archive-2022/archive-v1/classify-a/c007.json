@@ -1,0 +1,12 @@
+{
+  "candidate_id": "c007",
+  "classifier": "A",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei", "fukushi"], "summary": "総合医療センター民営化で毎年25億円の税金での穴埋めを不要に、病院は残る", "confidence": "low"},
+    {"block_id": "b02", "themes": ["gyozaisei", "fukushi"], "summary": "実績:東松戸病院廃止で年間5億円削減", "confidence": "high"}
+  ],
+  "notes": [
+    "b01は図の中の文字の書き起こしで、読み順は紙面に明示がなく、「毎赤字の穴埋めに」の箇所は書き写し担当が確認を求めている。要約は「毎年25億円の税金」の記載と図の流れを読んで作ったため、原文画像との照合が必要。"
+  ]
+}

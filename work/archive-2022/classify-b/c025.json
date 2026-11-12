@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c025",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["bousai"], "achievement": false, "summary": "防犯カメラ・街路灯の充実", "confidence": "high"},
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "市民の命を守る「防犯防災都市・松戸」の推進", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "搬送から受け入れまで救急医療体制を強化", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "UR賃貸住宅のリニューアルを推進", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "高齢者フレイル予防の推進", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "いじめ・虐待・ヤングケアラー・貧困など負の連鎖を断ち切る施策を強化", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "小学校の給食無償化の推進", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kankyo"], "achievement": false, "summary": "里山など緑地の保全", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "調整池を活用したグラウンドの整備", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate", "machi"], "achievement": false, "summary": "老朽化が著しい学校施設の早期改修と校庭の夜間照明の設置", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "北千葉道路の早期開通と沿線の開発促進", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "東松戸駅周辺の活性化と、北千葉道路と新松戸を結ぶ3・3・7号線の早期開通", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi", "keizai"], "achievement": false, "summary": "魅力ある店や元気な企業の誘致など主要駅周辺に魅力ある駅前空間を創造", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi"], "achievement": false, "summary": "運転免許返納後も安心できるコミュニティバスなど交通インフラの普及促進", "confidence": "high"},
+    {"block_id": "b15", "themes": ["keizai"], "achievement": false, "summary": "農作物など地域ブランドの推進とPR活動の強化", "confidence": "high"}
+  ],
+  "notes": []
+}

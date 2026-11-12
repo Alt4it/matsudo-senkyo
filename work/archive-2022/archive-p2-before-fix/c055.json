@@ -1,0 +1,29 @@
+{
+  "candidate_id": "c055",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [8], "position": "4段目左"},
+  "name": "小沢あけみ（暁民）",
+  "kana": null,
+  "party": null,
+  "age": null,
+  "career": null,
+  "slogan": "正しいことのためには骨身を惜しまず行動します！！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "正しいことのためには骨身を惜しまず行動します！！", "page": 8},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "こうと決めたら最後までやりぬく", "page": 8},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "流した汗が正しく報われるような社会、正直者が損をしないような社会をつくるために──。", "page": 8},
+    {"block_id": "b04", "kind": "policy", "heading": "小沢あけみの決意", "verbatim": "1 森のホール前新駅（複線）設置促進", "page": 8},
+    {"block_id": "b05", "kind": "policy", "heading": "小沢あけみの決意", "verbatim": "2 常盤平団地の再編に向け準備にとりかかる（緑を残し団地の高層化と戸建の建設・常盤平第１小学校を常盤平中学校の小・中一貫校）", "page": 8},
+    {"block_id": "b06", "kind": "policy", "heading": "小沢あけみの決意", "verbatim": "3 小・中学校給食の無償化（まずは小学校より所得制限をもうける）", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": "小沢あけみの決意", "verbatim": "4 松戸卸売市場の公設市場の撤退", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": "小沢あけみの決意", "verbatim": "5 ４年後の市長候補の擁立（市長になりたい人より、だしたい人の人選、なるべくなら女性中心に検討する）これらのことを志を共有する皆さんと一緒に取り組んでいきたいと思います。", "page": 8},
+    {"block_id": "b09", "kind": "policy", "heading": "小沢あけみの決意", "verbatim": "6 ・公立保育園の民営化の促進", "page": 8}
+  ],
+  "issues": [
+    "氏名は紙面では「小沢あけみ」の横に小さく「（暁　民）」と併記。字間が空いているが「暁民」としてnameに括弧ごと入れた。nameの持ち方は要確認",
+    "姓「小沢」のふりがながないためkanaはnull（「あけみ」は分かる）",
+    "b08は箇条5の中に「これらのことを…思います。」の文が続く。紙面の箇条1つとして分けなかった",
+    "b09は番号6の直後に「・」があり、そのまま写した。前に文字が欠けているようには見えない",
+    "番号（1〜6）は紙面の四角囲みの数字。番号と本文の間の半角空白は書き起こし時に区切りとして入れたもの",
+    "縦書きの数字「第１」「４年後」は全角で写した"
+  ]
+}

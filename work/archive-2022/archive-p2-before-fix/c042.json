@@ -1,0 +1,31 @@
+{
+  "candidate_id": "c042",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [7], "position": "1段目右"},
+  "name": "広瀬ゆうと",
+  "kana": "ひろせゆうと",
+  "party": "無所属",
+  "age": 26,
+  "career": "新人",
+  "slogan": "魅力ある松戸を創るために",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "魅力ある松戸を創るために", "page": 7},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "大好きな松戸のために、若さと行動力を活かし、全てをかけて尽くします!", "page": 7},
+    {"block_id": "b03", "kind": "profile", "heading": null, "verbatim": "新人", "page": 7},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "YOUと松戸を変えたい!", "page": 7},
+    {"block_id": "b05", "kind": "profile", "heading": null, "verbatim": "松戸市生まれ、\n松戸市育ち。", "page": 7},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "1 親子で手軽に遊べる施設の誘致・公園の整備", "page": 7},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "2 松戸市にプロスポーツチームを!", "page": 7},
+    {"block_id": "b08", "kind": "policy", "heading": null, "verbatim": "3 公的賃貸住宅の整備を目指します!", "page": 7},
+    {"block_id": "b09", "kind": "policy", "heading": null, "verbatim": "4 松戸駅にショッピングモールの誘致と市役所と駅直結の連絡通路の設置", "page": 7},
+    {"block_id": "b10", "kind": "policy", "heading": null, "verbatim": "5 多様な世代の課題をIT技術で解決!", "page": 7},
+    {"block_id": "b11", "kind": "policy", "heading": null, "verbatim": "6 SNS時代における行政広報の強化", "page": 7},
+    {"block_id": "b12", "kind": "message", "heading": null, "verbatim": "証券会社出身の私だからこそ、市の財政や予算をしっかりと分析したうえで、皆さんの目となり耳となり市政をチェックし、皆さんの口となって市政へ意見や思いを反映させる。それが私の一番の仕事であり役目だと思っています。ぜひとも私にそんな仕事をさせてください。", "page": 7},
+    {"block_id": "b13", "kind": "profile", "heading": null, "verbatim": "あさひ幼稚園・松飛台第二小学校・常盤平中学校・我孫子高校・拓殖大学政経学部法律政治学科・大学卒業後は証券会社に勤務", "page": 7}
+  ],
+  "issues": [
+    "b04の「YOU」は、YとOの間に小さく「ゆ」、OとUの間に小さく「う」が添えられている。verbatimにはYOUのみ書いた",
+    "sloganは最も大きい「魅力ある松戸を創るために」を採った。次に大きい文言は b04 の「YOUと松戸を変えたい!」",
+    "b12は縦書き（右の行から左へ）として読んだ",
+    "氏名の2字目は「瀬」と読んだ（太字のため異体字「瀨」でないか原寸で要確認）"
+  ]
+}

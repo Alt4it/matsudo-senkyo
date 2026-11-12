@@ -1,0 +1,100 @@
+{
+  "candidate_id": "c033",
+  "order": 33,
+  "name": "大谷しげのり",
+  "kana": "おおたにしげのり",
+  "sort_kana": null,
+  "party": "自民党",
+  "career": "2018年 松戸市議会議員選挙 二期目当選",
+  "age": 44,
+  "slogan": "夢つなぐ未来へ",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "「市民の・役に立つ・所」を徹底し、行財政改革",
+      "heading": "①行財政改革",
+      "verbatim": "「市民の・役に立つ・所」を徹底し、行財政改革。",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "利便性向上と経済が発展する基盤を整備",
+      "heading": "②社会基盤整備",
+      "verbatim": "利便性向上と経済が発展する基盤を整備。",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "利便性向上と経済が発展する基盤を整備",
+      "heading": "②社会基盤整備",
+      "verbatim": "利便性向上と経済が発展する基盤を整備。",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "松戸市の将来を担う子ども達の未来を真剣に考える",
+      "heading": "③子育て・教育",
+      "verbatim": "松戸市の将来を担う子ども達の未来を真剣に考えます。",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "「健康医療都市まつど」に恥じない、市民に優しい街",
+      "heading": "④医療・福祉の充実",
+      "verbatim": "「健康医療都市まつど」に恥じない、市民に優しい街。",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "松戸市で暮らしてきた全ての方が、松戸市を選んで良かったと思える街",
+      "heading": "④医療・福祉の充実",
+      "verbatim": "松戸市で暮らしてきた全ての方が、この松戸市を選んで良かったと思える街。",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "子・親・家族すべての市民が安心して暮らせる街",
+      "heading": "⑤防災・防犯",
+      "verbatim": "子・親・家族すべての市民が安心して暮らせる街。",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸市のポテンシャルを引き出し、企業育成・誘致を図る",
+      "heading": "⑥産業発展・企業誘致",
+      "verbatim": "松戸市のポテンシャルを引き出し、企業育成・誘致を図ります。",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸に住んで、来て、楽しめる街",
+      "heading": "⑦賑わいのある街",
+      "verbatim": "松戸に住んで、来て、楽しめる街",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

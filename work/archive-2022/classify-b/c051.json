@@ -1,0 +1,26 @@
+{
+  "candidate_id": "c051",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の完全無償化を", "confidence": "high"},
+    {"block_id": "b02", "themes": ["fukushi"], "achievement": false, "summary": "東松戸病院・梨香苑廃止条例撤回を。跡地売却は中止を。", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "国民健康保険料(均等割廃止)と介護保険料の引き下げを", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "コロナ対策で痛感、松戸市独自の保健所設置を", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "補聴器の購入補助。年金で入れる特養ホームを。", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "コミュニティバスを交通空白地域に走らせる", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": true, "summary": "馬橋弁天歩道橋下の信号機設置", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": true, "summary": "新松戸イオン前交差点のスクランブル化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": true, "summary": "千駄堀口交差点の信号機設置(今年度内)", "confidence": "low"},
+    {"block_id": "b10", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "医療費助成、高校卒業まで拡充", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "産後の健診費用２回まで5,000円補助", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "病院廃止を採決した今年３月10日の市議会常任委員会は傍聴者であふれた", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "廃止条例に反対したのは共産党・山口議員含め３人だけ", "confidence": "high"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": false, "summary": "賛成多数(７人)で可決された", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": false, "summary": "共産党市議団は2109筆の『病院残せ』の署名を提出してきた", "confidence": "low"}
+  ],
+  "notes": [
+    "b09：見出しは「ごいっしょに実現できました」だが、本文に「(今年度内)」とあり完了前の可能性がある。見出しに従い achievement を true とした。",
+    "b15：過去の活動の記述だが、見出しも文末も実現を示す形ではないため achievement を false とした。"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "candidate_id": "c053",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の完全無償化を", "confidence": "high"},
+    {"block_id": "b02", "themes": ["machi"], "achievement": false, "summary": "市役所は現地建て替えで", "confidence": "high"},
+    {"block_id": "b03", "themes": ["keizai"], "achievement": false, "summary": "非正規労働者の賃金アップ", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "市独自の給付型奨学金制度を", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "先生を増やして少人数学級を", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "コミュニティバスを早期に実現", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "ジェンダー平等の社会を", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "高校卒業までの医療費助成", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": true, "summary": "松戸に児童相談所新設(2026年度開所予定)", "confidence": "low"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": true, "summary": "栄町中堀川沿いの市道の改修。市の責任と追及し、改善されることに", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai", "machi"], "achievement": true, "summary": "危険な盛土による宅地造成中止(大橋地域)", "confidence": "low"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "国に意見書を上げるのも市議会の仕事", "confidence": "high"},
+    {"block_id": "b13", "themes": ["other"], "achievement": false, "summary": "年金改善、最賃1500円、オスプレイ・性急な改憲やめよ、核兵器禁止条約批准を提案", "confidence": "low"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "自公などの反対で否決されている", "confidence": "low"}
+  ],
+  "notes": [
+    "b09：見出しは「ごいっしょに実現できました」だが、本文に「2026年度開所予定」とあり開所前である。見出しに従い achievement を true とした。",
+    "b11：宅地造成は criteria に明記がない。「危険な」から防災・安全、宅地からまちづくり・交通に近いと判断して2つ付けた。",
+    "b13：5項目が年金・賃金・防衛・憲法・核兵器にまたがり、criteria のどれにも収まらないためその他とした。40字に収めるため「木更津駐屯地への」「配備」などを省き、「最低賃金を時給1500円に」を「最賃1500円」と短くした。要約だけでは正確さに欠けるおそれがあるので、原文との確認を求める。",
+    "b14：市議会での否決を述べる文なので行財政としたが、否決された提案の内容は国政に関わるものでもあり迷った。"
+  ]
+}

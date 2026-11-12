@@ -1,0 +1,15 @@
+{
+  "candidate_id": "c020",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["keizai"], "achievement": false, "summary": "百貨店、商業施設を再誘致し、サービス業、飲食業を活性化", "confidence": "high"},
+    {"block_id": "b05", "themes": ["other", "keizai"], "achievement": false, "summary": "スポーツ企業、団体を誘致し松戸市のチームをつくり地域交流、発展させる", "confidence": "high"},
+    {"block_id": "b06", "themes": ["keizai"], "achievement": false, "summary": "道の駅やラーメン村などを開発し地方から松戸に足を運んでもらい経済発展させる", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "パターゴルフ場の増設", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "駅付近の駐輪場を充実させる", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "子ども食堂、子ども宅食の充実", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "防犯カメラの増設", "confidence": "high"}
+  ],
+  "notes": []
+}

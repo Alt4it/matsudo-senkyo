@@ -1,0 +1,159 @@
+{
+  "candidate_id": "c046",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      7
+    ],
+    "position": "3段目右"
+  },
+  "name": "うつの史行",
+  "kana": "うつのふみゆき",
+  "party": "日本共産党",
+  "age": null,
+  "career": "市議５期",
+  "slogan": "学校給食の完全無償化を",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "学校給食の完全無償化を",
+      "page": 7
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "東松戸病院・梨香苑は存続を。跡地売却は中止を。",
+      "page": 7
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "高塚、秋山など東部地域にコミュニティバス運行を。",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "通学路、生活道路の安全・水害対策。",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "放課後児童クラブ充実、指導員処遇改善。",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "財源は無謀な開発見直しで",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "北総線運賃引下げ (10万人署名実施)",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "子ども医療費助成、18歳まで拡大",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "市立病院シャトルバスを２倍に",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "kind": "policy",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "稔台交番前の水害対策が完了",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "kind": "policy",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "防災倉庫を全小中学校に配置",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "kind": "policy",
+      "heading": "ごいっしょに実現できました",
+      "verbatim": "シルバー人材センターの時給アップなど多数",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "kind": "policy",
+      "heading": "発言は議員の「いのち」です",
+      "verbatim": "コロナ対策と称して60分の質問時間が自民公明の多数で25分に削減されました。",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "kind": "policy",
+      "heading": "発言は議員の「いのち」です",
+      "verbatim": "議員の発言は「市民の声そのもの」であり議員の「いのち」です。",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "kind": "policy",
+      "heading": "発言は議員の「いのち」です",
+      "verbatim": "換気の問題は、学校のように議場を開放し、窓を開け、常に換気の状態にすれば解決できます。",
+      "page": 7
+    },
+    {
+      "block_id": "b16",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "コロナを理由に質問時間が過度に制限されるなか、「暮らしの声を最も市政に届ける議員」として市政・議会改革に全力を尽くします。",
+      "page": 7
+    },
+    {
+      "block_id": "b17",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "「国葬」強行\n統一協会癒着\n岸田自公政治ノー",
+      "page": 7
+    },
+    {
+      "block_id": "b18",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "発言回数No.1",
+      "page": 7
+    },
+    {
+      "block_id": "b19",
+      "kind": "profile",
+      "heading": null,
+      "verbatim": "1976年葛飾区生まれ。千駄堀在住。江戸川学園取手高～明治大学卒(法学部)市議５期(幹事長)八柱保育所父母会元役員、風の子放課後児童クラブ保護者会元役員　家族:妻１男\n趣味:バイク・ロードバイク",
+      "page": 7
+    }
+  ],
+  "issues": [
+    "氏名の大見出しは「うつの史行」。「史行」にふりがなはなく、kana の「ふみゆき」は氏名横の小さな表記「宇津野ふみゆき」から取った",
+    "slogan は「学校給食の完全無償化を」を採った。左の縦帯「岸田自公政治ノー」もほぼ同じ大きさだが、紙面の上にある方を採った",
+    "b02〜b05 は「学校給食の完全無償化を」の直下にあるが内容が別のため、見出しの配下とせず heading なしにした。b01 はこれらと並ぶ主張として policy にした",
+    "b18「発言回数No.1」はQRコード下の説明文字。kind は判断に迷い message にした",
+    "行頭の「・」「◉」は紙面どおり残した",
+    "b07 と b19 の括弧は半角、b09 の「２」、b19 の「５」「１」は全角に見えたが、全角半角の区別は見た目の判断。数字と単位の間の組版上の空きは写していない"
+  ]
+}

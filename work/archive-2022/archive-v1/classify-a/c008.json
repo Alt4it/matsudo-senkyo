@@ -1,0 +1,13 @@
+{
+  "candidate_id": "c008",
+  "classifier": "A",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "summary": "共働きできる環境、学校の安全対策、給食無償化、送迎サービス拡充など", "confidence": "high"},
+    {"block_id": "b03", "themes": ["bousai", "machi"], "summary": "通学路の安全対策、防災・減災の強化、犬猫殺処分ゼロを目指す、道路の整備", "confidence": "low"},
+    {"block_id": "b04", "themes": ["fukushi", "machi"], "summary": "高齢者・障がい者の就労支援、65歳問題の解消、コミュニティバス等の運行拡大", "confidence": "high"}
+  ],
+  "notes": [
+    "b03は防災・安全（通学路、防災・減災）、まちづくり・交通（公園の設置、道路の整備）、その他（動物愛護）の3テーマにまたがる。上限2つのため項目数の多い2テーマを付け、動物愛護のその他は付けていない。"
+  ]
+}

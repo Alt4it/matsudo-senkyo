@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c043",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [7], "position": "2段目左"},
+  "name": "ひろせみつお",
+  "kana": "ひろせみつお",
+  "party": "無所属",
+  "age": 35,
+  "career": null,
+  "slogan": "笑顔溢れるワクワクする街へ！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "笑顔溢れるワクワクする街へ！", "page": 7},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "たのシティまつど計画、学びの渡し教育 導入宣言！", "page": 7},
+    {"block_id": "b03", "kind": "policy", "heading": "松戸市の松戸市による松戸市民のためのイベントを開催", "verbatim": "地域対抗交流スポーツ大会、ラーメン激戦区を活かしたラーメン祭りなど、松戸市民が楽しめるイベントを開きます！", "page": 7},
+    {"block_id": "b04", "kind": "policy", "heading": "松戸市の松戸市による松戸市民のためのイベントを開催", "verbatim": "さらに松戸市民限定のクーポンを発行して住んでいる街で遊べる・楽しめるという環境づくりを行い、笑顔溢れる松戸を目指します！", "page": 7},
+    {"block_id": "b05", "kind": "policy", "heading": "モクモクストリート開設", "verbatim": "街中のポイ捨て率が一番多いゴミはたばこの吸い殻です。", "page": 7},
+    {"block_id": "b06", "kind": "policy", "heading": "モクモクストリート開設", "verbatim": "そこでポイ捨て吸い殻を無くすべく利便性の良い場所に喫煙所を開設します！", "page": 7},
+    {"block_id": "b07", "kind": "policy", "heading": "モクモクストリート開設", "verbatim": "そしてさらにその喫煙所で使用する灰皿のデザインを募集するなど、吸う人も吸わない人も気持ちよく暮らせるキレイな松戸づくりを行います！", "page": 7},
+    {"block_id": "b08", "kind": "policy", "heading": "SNSに映える松戸をPR", "verbatim": "都会の一面もあり歴史感じる一面もある松戸。", "page": 7},
+    {"block_id": "b09", "kind": "policy", "heading": "SNSに映える松戸をPR", "verbatim": "SNSで映えるスポットをたくさん発掘し「発信したくなる松戸」を目指してPR活動を積極的に行います！", "page": 7},
+    {"block_id": "b10", "kind": "message", "heading": null, "verbatim": "松戸を\n笑顔いっぱいの\n楽しい街に", "page": 7},
+    {"block_id": "b11", "kind": "policy", "heading": "学習塾無料化の推進", "verbatim": "リモート授業が増え、学力低下・コミュニケーション力の低下が叫ばれており、受験対策だけでなく学びたい分野の学習が思う存分にできる環境作りを行います！", "page": 7},
+    {"block_id": "b12", "kind": "policy", "heading": "学習塾無料化の推進", "verbatim": "保護者の方や教員の負担が減り、皆に余裕が生まれる暮らしが出来る街を実現します！", "page": 7},
+    {"block_id": "b13", "kind": "policy", "heading": "大人のための学び舎がある街", "verbatim": "夜間に大人限定の図書館開放を行い、仕事終わりの社会人がくつろぎながら学びを深められる場所、気持ちのクールスポットを作ります！", "page": 7},
+    {"block_id": "b14", "kind": "policy", "heading": "松戸市民×松戸在住外国人の交流", "verbatim": "老若男女問わず、国籍も問わず互いの文化や言語を教え合える、外国人居住の多い松戸市ならではの国際交流スポットを作ります！", "page": 7},
+    {"block_id": "b15", "kind": "policy", "heading": "松戸の農産物を守る", "verbatim": "梨、矢切ネギ、松戸枝豆などの栽培・収穫方法について学ぶ体験の機会を作り、松戸市民の生きる力を養います！", "page": 7},
+    {"block_id": "b16", "kind": "policy", "heading": "松戸の農産物を守る", "verbatim": "また松戸の農業をより身近に感じることで、松戸ブランドを誇りに持てる街を作ります！", "page": 7},
+    {"block_id": "b17", "kind": "message", "heading": null, "verbatim": "松戸を\n皆が学べる\n街に", "page": 7},
+    {"block_id": "b18", "kind": "message", "heading": "出馬理由", "verbatim": "「やさシティまつど」に住んでいる市民の方はとても温かく優しい方ばかり。そんな松戸をもっと多くの方にアピールしたい、自信をもって「松戸は最高の街です」と他市・他県の人に紹介したいと思っています。出身は「長崎」ですが、今では『松戸』を第二のふるさととしてこれからも大切にしたい街です。生まれも育ちも松戸ではありませんが、外様だからこそ見える視点があり、松戸をもっと楽しくワクワクする街にしていきたいのです。私と一緒に松戸を笑顔で溢れる街に変えていきましょう！", "page": 7},
+    {"block_id": "b19", "kind": "profile", "heading": "プロフィール", "verbatim": "生年月日：1987年6月29日（35歳）", "page": 7},
+    {"block_id": "b20", "kind": "profile", "heading": "プロフィール", "verbatim": "出身地：長崎県", "page": 7},
+    {"block_id": "b21", "kind": "profile", "heading": "プロフィール", "verbatim": "最終学歴：長崎県立諫早農業高等学校", "page": 7},
+    {"block_id": "b22", "kind": "profile", "heading": "プロフィール", "verbatim": "趣味：ゴルフ、バスケットボール、野球、熱帯魚飼育、映画鑑賞、ギター、サックス、手相鑑定、タロット鑑定、将棋、木工", "page": 7},
+    {"block_id": "b23", "kind": "profile", "heading": "プロフィール", "verbatim": "職歴：長崎県立諫早農業高等学校 実習助手 11年間勤務\n外務省 期間業務職員 2年半勤務", "page": 7},
+    {"block_id": "b24", "kind": "profile", "heading": "プロフィール", "verbatim": "資格：ファイナンシャルプランナー（FP）2級\nプライベートバンカー（PB）プライマリー\n証券外務員1級、心理カウンセラー", "page": 7},
+    {"block_id": "b25", "kind": "other", "heading": null, "verbatim": "日々の活動はこちら\nInstagram @hirose_mitsuo\nTwitter @hirosemitsuo", "page": 7}
+  ],
+  "issues": [
+    "b02は左右の枠を束ねる行だが、「導入宣言！」という主張を含むためmessageブロックとした。左の枠が「たのシティまつど計画」、右の枠が「学びの渡し教育」に吹き出しの形でつながっている（どちらのheadingにも入れていない）",
+    "b18の「やさシティまつど」は、b02の「たのシティまつど」とは別の語として紙面どおり写した",
+    "headingの行頭の「●」は記号のため省いた",
+    "b19〜b24の項目名のうち「出身地」「趣味」「職歴」「資格」は紙面で字間が空いている（例：「出 身 地」）。詰めて書いた"
+  ]
+}

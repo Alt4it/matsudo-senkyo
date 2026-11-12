@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c024",
+  "order": 24,
+  "name": "深山よしかず",
+  "kana": "みやまよしかず",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "松戸市議会第66代議長",
+  "age": null,
+  "slogan": "有言実行",
+  "policies": [
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "SDGsの推進",
+      "heading": null,
+      "verbatim": "SDGsの推進",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子育て・文化・教育・スポーツのまちづくり",
+      "heading": "次世代の絆",
+      "verbatim": "時を育む、子育て・文化・教育・スポーツのまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "子育て・文化・教育・スポーツのまちづくり",
+      "heading": "次世代の絆",
+      "verbatim": "時を育む、子育て・文化・教育・スポーツのまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者・障がい者・医療・介護・福祉、豊かな人生を支える地域共生のまちづくり",
+      "heading": "地域の絆",
+      "verbatim": "高齢者・障がい者・医療・介護・福祉\n自立と思いやりの豊かな人生を支える\n地域共生のまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "経済活性化・雇用創出、活力のある産業振興のまちづくり",
+      "heading": "賑わいの絆",
+      "verbatim": "経済活性化・雇用創出、活力のある産業振興のまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯・防災（減災）、命を守る安全で安心して暮らせるまちづくり",
+      "heading": "安心の絆",
+      "verbatim": "防犯・防災（減災）、命を守る安全で安心して暮らせるまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "まちの再生・リニューアルによる魅力ある多世代型コンパクトシティのまちづくり",
+      "heading": "快適な絆",
+      "verbatim": "まちの再生・リニューアルによる魅力ある多世代型コンパクトシティのまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b12",
+      "theme": "other",
+      "achievement": false,
+      "summary": "参加・協働（パートナーシップ）・地域共生のまちづくり",
+      "heading": "参画の絆",
+      "verbatim": "参加・協働（パートナーシップ）・地域共生のまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "公共施設再編と行財政改革を推進し、「まち・ひと・しごと」創生のまちづくり",
+      "heading": "縮充の絆",
+      "verbatim": "公共施設再編と行財政改革を推進し、「まち・ひと・しごと」創生のまちづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公共施設再編と行財政改革を推進し、「まち・ひと・しごと」創生のまちづくり",
+      "heading": "縮充の絆",
+      "verbatim": "公共施設再編と行財政改革を推進し、「まち・ひと・しごと」創生のまちづくり",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

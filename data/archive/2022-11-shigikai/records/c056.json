@@ -1,0 +1,154 @@
+{
+  "candidate_id": "c056",
+  "order": 56,
+  "name": "岩瀬まり",
+  "kana": "いわせまり",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "市議歴：２期",
+  "age": 61,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "other",
+      "achievement": true,
+      "summary": "おくやみコーナー設置",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "おくやみコーナー設置",
+      "page": 8
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "母子守る助成制度。新生児聴覚検査・産婦健診の助成",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "母子守る助成制度\n新生児聴覚検査・産婦健診の助成",
+      "page": 8
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "母子守る助成制度。新生児聴覚検査・産婦健診の助成",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "母子守る助成制度\n新生児聴覚検査・産婦健診の助成",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": true,
+      "summary": "市オリジナル婚姻届・出生届",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "市オリジナル婚姻届・出生届",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": true,
+      "summary": "無戸籍の方への支援強化",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "無戸籍の方への支援強化",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "子ども医療費助成の対象年齢を高校3年生まで拡大",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "子ども医療費助成の対象年齢を高校3年生まで拡大",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "子ども医療費助成の対象年齢を高校3年生まで拡大",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "子ども医療費助成の対象年齢を高校3年生まで拡大",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "7年連続で国基準の待機児童ゼロを達成",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "7年連続で国基準の待機児童ゼロを達成",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": true,
+      "summary": "パートナーシップ宣誓制度の導入",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "パートナーシップ宣誓制度の導入",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "「輝く未来」へ子ども・子育て支援",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「輝く未来」へ子ども・子育て支援",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "「快適都市」へ人にやさしい元気な街づくり",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「快適都市」へ人にやさしい元気な街づくり",
+      "page": 8
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "「安全・安心」へ命を守る取り組み",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「安全・安心」へ命を守る取り組み",
+      "page": 8
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "「健康都市」へ医療・介護・福祉の充実",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「健康都市」へ医療・介護・福祉の充実",
+      "page": 8
+    },
+    {
+      "block_id": "b14",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "「誇れる街」へ文化・教育の推進",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「誇れる街」へ文化・教育の推進",
+      "page": 8
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": false,
+      "summary": "「誇れる街」へ文化・教育の推進",
+      "heading": "岩瀬まりがめざすビジョン",
+      "verbatim": "「誇れる街」へ文化・教育の推進",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

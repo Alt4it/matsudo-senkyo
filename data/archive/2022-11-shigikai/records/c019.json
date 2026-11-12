@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c019",
+  "order": 19,
+  "name": "中山統晶",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": null,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "私を当選させれば、不正疑惑の追求 事業見直し・事業縮小化により実現",
+      "heading": "50%の公約",
+      "verbatim": "私を当選させれば、不正疑惑の追求\n事業見直し・事業縮小化により実現",
+      "page": 4
+    },
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "50%の理由は、百条委員会設置に議員の1／2の賛成が必要で、有権者の投票しだい",
+      "heading": "50%の公約",
+      "verbatim": "50%の理由は、特別委員会（百条委員会）設置には、議員の1／2の賛成が必要であり、有権者がどちら側の議員に投票するかしだい。",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "私を当選させれば、生活保護受給者が一人減",
+      "heading": "100%の公約",
+      "verbatim": "私を当選させれば、生活保護受給者が一人減",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

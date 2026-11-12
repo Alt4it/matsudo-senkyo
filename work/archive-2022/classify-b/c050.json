@@ -1,0 +1,24 @@
+{
+  "candidate_id": "c050",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の完全無償化を", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "市独自の給付型奨学金を", "confidence": "high"},
+    {"block_id": "b03", "themes": ["keizai"], "achievement": false, "summary": "若者向け就労相談窓口を", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi", "machi"], "achievement": false, "summary": "補聴器助成、コミバス運行拡大で年をとっても住みやすく", "confidence": "high"},
+    {"block_id": "b05", "themes": ["keizai"], "achievement": false, "summary": "商工費倍増。市独自の融資制度、リフォーム助成を", "confidence": "high"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "議会の質問時間を元に戻し、市民の声が通る議会に", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "ＵＲ団地をさらに住みやすく（修繕費制度の改善を実現）", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "高柳クリーンセンターの早期建替、お風呂やスポーツ施設の継続を", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai", "machi"], "achievement": false, "summary": "県道２８１号、国道４６４号など歩道の安全対策を", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "北総線のさらなる運賃値下げを（10月から一部値下げ）", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "小規模保育園は柏市９園、船橋市23園に対し松戸市は78園（2020/4現在）", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": false, "summary": "３歳以上の受け皿が足りない深刻な事態", "confidence": "high"},
+    {"block_id": "b13", "themes": ["kosodate"], "achievement": false, "summary": "安さ・便利さ・手軽さ追求のシワ寄せをうけるのは声を上げれない子どもたち", "confidence": "high"}
+  ],
+  "notes": [
+    "b07：今後の話（さらに住みやすく）と実績（修繕費制度の改善を実現）が同じ箇条に混ざるためachievementはfalseとした",
+    "b10：今後の話（さらなる運賃値下げ）と実施済みの話（10月から一部値下げ）が同じ箇条に混ざるためachievementはfalseとした"
+  ]
+}

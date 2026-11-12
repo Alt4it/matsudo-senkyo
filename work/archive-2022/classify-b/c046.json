@@ -1,0 +1,26 @@
+{
+  "candidate_id": "c046",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の完全無償化を", "confidence": "high"},
+    {"block_id": "b02", "themes": ["fukushi"], "achievement": false, "summary": "東松戸病院・梨香苑は存続を。跡地売却は中止を。", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "高塚、秋山など東部地域にコミュニティバス運行を", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "通学路、生活道路の安全・水害対策", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "放課後児童クラブ充実、指導員処遇改善", "confidence": "high"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "財源は無謀な開発見直しで", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": true, "summary": "北総線運賃引下げ（10万人署名実施）", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "子ども医療費助成、18歳まで拡大", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi", "fukushi"], "achievement": true, "summary": "市立病院シャトルバスを２倍に", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": true, "summary": "稔台交番前の水害対策が完了", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": true, "summary": "防災倉庫を全小中学校に配置", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi", "keizai"], "achievement": true, "summary": "シルバー人材センターの時給アップなど多数", "confidence": "low"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": false, "summary": "コロナ対策と称して60分の質問時間が自民公明の多数で25分に削減された", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "議員の発言は「市民の声そのもの」であり議員の「いのち」", "confidence": "high"},
+    {"block_id": "b15", "themes": ["gyozaisei"], "achievement": false, "summary": "換気の問題は議場を開放し窓を開け常に換気の状態にすれば解決できる", "confidence": "high"},
+    {"block_id": "b16", "themes": ["gyozaisei"], "achievement": false, "summary": "「暮らしの声を最も市政に届ける議員」として市政・議会改革に全力を尽くす", "confidence": "high"}
+  ],
+  "notes": [
+    "b12：シルバー人材センターの内容が原文になく、高齢者関連のfukushiと時給（雇用）のkeizaiのどちらが主か迷うためlow"
+  ]
+}

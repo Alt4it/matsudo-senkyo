@@ -1,0 +1,194 @@
+{
+  "candidate_id": "c048",
+  "source": {
+    "pdf": "koho/R4.11.20sigi_kouhou.pdf",
+    "pages": [
+      7
+    ],
+    "position": "4段目右"
+  },
+  "name": "田中むつお",
+  "kana": null,
+  "party": "日本維新の会",
+  "age": null,
+  "career": null,
+  "slogan": "安心の街づくり　集いと賑わいの街づくり",
+  "blocks": [
+    {
+      "block_id": "b01",
+      "kind": "message",
+      "heading": null,
+      "verbatim": "安心の街づくり　集いと賑わいの街づくり",
+      "page": 7
+    },
+    {
+      "block_id": "b02",
+      "kind": "policy",
+      "heading": "松戸経済を建て直す",
+      "verbatim": "肥大化する市債（借金）に歯止めをかけて事業を再建",
+      "page": 7
+    },
+    {
+      "block_id": "b03",
+      "kind": "policy",
+      "heading": null,
+      "verbatim": "総合医療センターを民営化して小・中学校の給食無償化",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "kind": "policy",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "総合医療センター民営化で、年額30億の赤字削減",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "kind": "policy",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "市役所の移転、現地建て替えで費用を40億円削除",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "kind": "policy",
+      "heading": "市債に依存しない街づくり",
+      "verbatim": "クリーンセンター早期建て替え委託費用の削減",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "kind": "policy",
+      "heading": "教育・福祉の充実した街づくり",
+      "verbatim": "小・中学校給食の無償化・ 高校教育の無償化",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "kind": "policy",
+      "heading": "教育・福祉の充実した街づくり",
+      "verbatim": "デジタル民生員制度で高齢者の孤立化対策",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "kind": "policy",
+      "heading": "教育・福祉の充実した街づくり",
+      "verbatim": "LINEを使った安否通知見守りサービス",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "kind": "policy",
+      "heading": "安心して暮らせる街づくり",
+      "verbatim": "歩道のセミフラットを標準としてバリアフリー化促進",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "kind": "policy",
+      "heading": "安心して暮らせる街づくり",
+      "verbatim": "新松戸駅の常磐線快速停車の早期実現",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "kind": "policy",
+      "heading": "安心して暮らせる街づくり",
+      "verbatim": "太陽光利用ゼロエネルギー街路灯/防犯カメラの設置",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "kind": "policy",
+      "heading": "災害に強い街づくり",
+      "verbatim": "避難所開設ツールの標準設置　垂直避難・在宅避難など防災基盤の整備",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "kind": "policy",
+      "heading": "災害に強い街づくり",
+      "verbatim": "共助の要となる町会（地域自治）活動支援と加入促進",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "kind": "policy",
+      "heading": "集いと賑わいの街づくり",
+      "verbatim": "松戸競輪場の多機能化でパブリックビューイング",
+      "page": 7
+    },
+    {
+      "block_id": "b16",
+      "kind": "policy",
+      "heading": "集いと賑わいの街づくり",
+      "verbatim": "フットサルなど地元スポーツのプロ化支援",
+      "page": 7
+    },
+    {
+      "block_id": "b17",
+      "kind": "policy",
+      "heading": "集いと賑わいの街づくり",
+      "verbatim": "工業団地冷蔵倉庫複合型スケートリンク建設検討",
+      "page": 7
+    },
+    {
+      "block_id": "b18",
+      "kind": "policy",
+      "heading": "未来にむけての街づくり",
+      "verbatim": "行政手続オンライン化・RPA活用・自治体DXへ推進",
+      "page": 7
+    },
+    {
+      "block_id": "b19",
+      "kind": "policy",
+      "heading": "未来にむけての街づくり",
+      "verbatim": "ネーミングライツで財政収入増や事業コスト削減",
+      "page": 7
+    },
+    {
+      "block_id": "b20",
+      "kind": "policy",
+      "heading": "未来にむけての街づくり",
+      "verbatim": "矢切のねぎ、松戸のレモンなど６次産業促進",
+      "page": 7
+    },
+    {
+      "block_id": "b21",
+      "kind": "profile",
+      "heading": "プロフィール",
+      "verbatim": "1965年1月11日　葛飾区亀有生まれ\n新松戸南中学校、松戸馬橋高校 第一期卒\nGOGOドライクリーニング\n株式会社リクルートスタッフィング\n株式会社リヴァ\nダイセーロジスティクス株式会社",
+      "page": 7
+    },
+    {
+      "block_id": "b22",
+      "kind": "profile",
+      "heading": "地域活動",
+      "verbatim": "新松戸地区防犯協会　総務部長\n新松戸まつり実行委員会　事務局長\n自衛隊千葉地方協力本部　自衛官募集相談員\n新松戸サッカークラブ　顧問\n新松戸雅ノ會　神輿会代表",
+      "page": 7
+    },
+    {
+      "block_id": "b23",
+      "kind": "other",
+      "heading": null,
+      "verbatim": "日本維新の会\n私も応援しています！\n日本維新の会　共同代表\n吉村　洋文",
+      "page": 7
+    },
+    {
+      "block_id": "b24",
+      "kind": "other",
+      "heading": null,
+      "verbatim": "詳しい政策はこちらから\nhttps://tanaka620.com",
+      "page": 7
+    }
+  ],
+  "issues": [
+    "氏名「田中」にふりがながなく、かなは「むつお」のみのため、基準どおり kana は null にした",
+    "b05 は紙面の表記「削除」のまま写した（「削減」の誤りとは判断せず直していない）",
+    "slogan はイラストを挟んで並ぶ「安心の街づくり」「集いと賑わいの街づくり」を1つの文言として採った。間の区切りは全角空白で表した",
+    "b13 の「垂直避難・在宅避難など防災基盤の整備」は行頭の●がなく字下げされた行のため、前の行と同じ箇条として1ブロックにした",
+    "b21「GOGOドライクリーニング」の4文字目が細く「0」にも見える。「O」と読んだ",
+    "b03「総合医療センターを民営化して小・中学校の給食無償化」は配下に箇条がないため heading なしの policy にした"
+  ]
+}

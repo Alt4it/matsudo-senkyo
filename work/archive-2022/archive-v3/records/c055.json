@@ -1,0 +1,82 @@
+{
+  "candidate_id": "c055",
+  "order": 55,
+  "name": "小沢あけみ（暁民）",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": null,
+  "slogan": "正しいことのためには骨身を惜しまず行動します！！",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "森のホール前新駅（複線）設置促進",
+      "heading": "小沢あけみの決意",
+      "verbatim": "森のホール前新駅（複線）設置促進",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "常盤平団地の再編準備（緑を残し高層化と戸建、第１小を常盤平中の小・中一貫校）",
+      "heading": "小沢あけみの決意",
+      "verbatim": "常盤平団地の再編に向け準備にとりかかる（緑を残し団地の高層化と戸建の建設・常盤平第１小学校を常盤平中学校の小・中一貫校）",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "常盤平団地の再編準備（緑を残し高層化と戸建、第１小を常盤平中の小・中一貫校）",
+      "heading": "小沢あけみの決意",
+      "verbatim": "常盤平団地の再編に向け準備にとりかかる（緑を残し団地の高層化と戸建の建設・常盤平第１小学校を常盤平中学校の小・中一貫校）",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小・中学校給食の無償化（まずは小学校より所得制限をもうける）",
+      "heading": "小沢あけみの決意",
+      "verbatim": "小・中学校給食の無償化（まずは小学校より所得制限をもうける）",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸卸売市場の公設市場の撤退",
+      "heading": "小沢あけみの決意",
+      "verbatim": "松戸卸売市場の公設市場の撤退",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "４年後の市長候補の擁立（なりたい人よりだしたい人、なるべくなら女性中心に検討）",
+      "heading": "小沢あけみの決意",
+      "verbatim": "４年後の市長候補の擁立（市長になりたい人より、だしたい人の人選、なるべくなら女性中心に検討する）",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "公立保育園の民営化の促進",
+      "heading": "小沢あけみの決意",
+      "verbatim": "公立保育園の民営化の促進",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>まつど選挙公報ナビ</title>
+<style>
+:root{
+  --paper:#eff2f6; --sheet:#ffffff; --ink:#1b2230; --graphite:#566072; --rule:#d3d9e2;
+  --marker:#ffe600; --action:#2343c4;
+  --gutter:clamp(1rem,4vw,2.5rem);
+  --tabs-h:3.5rem;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);line-height:1.75;font-size:1rem;
+  font-family:"BIZ UDPGothic","Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans CJK JP","Noto Sans JP","Yu Gothic UI",Meiryo,sans-serif;
+  font-feature-settings:"palt";padding-bottom:calc(var(--tabs-h) + env(safe-area-inset-bottom) + 1rem)}
+button,input,select{font:inherit;color:inherit}
+button{background:none;border:0;padding:0;cursor:pointer;text-align:left}
+:focus-visible{outline:3px solid var(--action);outline-offset:2px;border-radius:4px}
+mark{background:var(--marker);color:inherit;padding:0 .1em}
+.wrap{max-width:72rem;margin:0 auto;padding-inline:var(--gutter)}
+
+/* 冒頭 */
+.notice{background:var(--ink);color:#fff;font-size:.875rem;line-height:1.6;padding:.7rem var(--gutter)}
+.notice b{color:var(--marker)}
+.hero{padding-block:clamp(1.75rem,6vw,3.75rem) clamp(1.25rem,4vw,2.25rem)}
+.brand{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem .75rem;margin:0;font-size:1rem;font-weight:700}
+.top{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:.4rem 1rem}
+.sizes{display:flex;align-items:center;gap:.15rem;font-size:.82rem;color:var(--graphite)}
+.sizes span{margin-right:.3rem}
+.sizes button{min-height:2.75rem;min-width:2.75rem;padding:0 .55rem;text-align:center;border-radius:4px;color:var(--ink)}
+.sizes button[aria-pressed="true"]{background:var(--marker);font-weight:700}
+#app:focus{outline:none}
+.badge{font-size:.75rem;font-weight:400;border:1px solid var(--graphite);color:var(--graphite);border-radius:3px;padding:.05em .5em}
+.lead{margin:.6rem 0 .75rem;font-size:clamp(1.85rem,6.2vw,3.5rem);font-weight:700;line-height:1.28;max-width:17em}
+.lead span{display:inline-block}
+.meta{margin:0;color:var(--graphite);font-size:.9rem}
+/* 最初の画面以外は見出しを省いて、内容を先に見せる */
+.compact .lead{display:none}
+.compact .hero{padding-block:1.1rem .9rem}
+.compact .meta{margin-top:.15rem;font-size:.8rem}
+
+/* 画面の切り替え（スマホは下、広い画面は上） */
+nav{position:fixed;inset:auto 0 0 0;z-index:10;display:grid;grid-template-columns:repeat(3,1fr);
+  background:var(--ink);padding-bottom:env(safe-area-inset-bottom)}
+nav button{height:var(--tabs-h);text-align:center;color:#c9d0dc;font-size:.82rem}
+nav button[aria-selected="true"]{color:var(--ink);background:var(--marker);font-weight:700}
+nav button:focus-visible{outline-color:#fff;outline-offset:-4px}
+
+main{padding-bottom:1rem}
+
+/* 並び順と絞り込み */
+.toolbar{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin-bottom:1.1rem}
+.toolbar label{display:flex;align-items:center;gap:.4rem;font-size:.9rem;color:var(--graphite)}
+.toolbar select,.toolbar input{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:.55rem .7rem;min-height:2.75rem;font-size:1rem}
+.toolbar input{flex:1 1 14rem;min-width:0}
+
+/* 候補者の情報 */
+.who{display:flex;flex-wrap:wrap;gap:.15rem .7rem;align-items:baseline;font-size:.875rem;color:var(--graphite)}
+.who .name{color:var(--ink);font-size:1.0625rem;font-weight:700}
+.order{font-size:.75rem}
+.draft{background:#fde2e1;color:#9b1c1c;font-size:.75rem;padding:0 .5em;border-radius:3px}
+.none{color:var(--graphite);font-weight:400}
+
+/* スローガン一覧 */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,19rem),1fr));gap:.75rem}
+.tile{background:var(--sheet);border-radius:10px;padding:1.15rem 1.2rem 1rem;display:flex;flex-direction:column}
+.tile .slogan{flex:1}
+.slogan{margin:0 0 .9rem;font-size:1.2rem;font-weight:700;line-height:1.55;white-space:pre-line}
+.themes{display:flex;flex-wrap:wrap;gap:.1rem .7rem;margin:.55rem 0 0;padding:0;list-style:none;font-size:.78rem;color:var(--graphite)}
+.open{margin-top:.8rem;color:var(--action);font-size:.9rem;font-weight:700;min-height:2.75rem;text-decoration:underline;text-underline-offset:.2em}
+
+/* テーマ別に比べる */
+.chips{display:flex;gap:.35rem;overflow-x:auto;margin:0 calc(var(--gutter) * -1) 1.1rem;padding:.5rem var(--gutter);
+  position:sticky;top:0;z-index:5;background:var(--paper);scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;padding:.5rem .85rem;min-height:2.75rem;border-radius:4px;font-size:.95rem;white-space:nowrap;
+  background:linear-gradient(var(--marker),var(--marker)) no-repeat 0 100%/0 100%;transition:background-size .22s ease-out}
+.chip .n{color:var(--graphite);font-size:.78rem;margin-left:.35rem}
+.chip[aria-pressed="true"]{background-size:100% 100%;font-weight:700}
+.chip[aria-pressed="true"] .n{color:var(--ink)}
+
+.row{background:var(--sheet);border-radius:10px;padding:1.1rem 1.2rem;margin-bottom:.75rem}
+.row .who{margin-bottom:.75rem}
+.name-link{font-weight:700;color:var(--ink);font-size:1.0625rem;text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:.25em}
+.item+.item{margin-top:1.15rem}
+.src{display:block;color:var(--graphite);font-size:.78rem;margin-bottom:.15rem}
+.orig{line-height:1.8;max-width:44em;white-space:pre-line}
+.orig .h{display:block;font-weight:700}
+.sum{margin:.45rem 0 0;max-width:44em;background:var(--paper);border-radius:6px;padding:.45rem .7rem;font-size:.85rem;color:var(--graphite);line-height:1.65}
+.sum-label{font-size:.72rem;border:1px solid var(--graphite);border-radius:3px;padding:0 .35em;margin-right:.5em;vertical-align:.1em}
+.note{font-size:.85rem;color:var(--graphite);margin:-.4rem 0 1rem}
+.links{display:flex;flex-wrap:wrap;gap:.2rem 1.2rem;margin:.6rem 0 0;padding:0;list-style:none;font-size:.88rem}
+.links a{color:var(--action);font-weight:700;text-underline-offset:.2em}
+.links .pending{color:var(--graphite)}
+.policy h3 + p,.policy h3 + ul{margin-top:0}
+.policy p,.policy li{max-width:40em}
+.policy dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:.2rem 1rem;font-size:.9rem}
+.policy dt{color:var(--graphite)}
+.policy dd{margin:0}
+.ach{display:inline-block;font-size:.75rem;font-weight:400;border:1px solid var(--ink);border-radius:3px;padding:0 .4em;margin-right:.45em;vertical-align:.1em}
+.empty{color:var(--graphite);font-size:.9rem;padding:.25rem 0 1rem;line-height:1.8}
+
+/* 候補者から見る */
+.list-row{display:block;width:100%;background:var(--sheet);border-radius:10px;padding:1rem 1.2rem;margin-bottom:.5rem}
+.list-row .slogan{display:block;margin:.3rem 0 0;font-size:1.05rem}
+
+/* 候補者の詳細 */
+.back{margin-bottom:.9rem}
+.back button{color:var(--action);font-weight:700;min-height:2.75rem;text-decoration:underline;text-underline-offset:.2em}
+.detail-card{background:var(--sheet);border-radius:10px;padding:clamp(1.25rem,4vw,2.5rem)}
+.kana{margin:0;color:var(--graphite);font-size:.875rem}
+.detail-card h2{margin:0 0 .5rem;font-size:clamp(1.7rem,5vw,2.5rem);line-height:1.3}
+.detail-card .slogan{font-size:clamp(1.2rem,3vw,1.5rem);margin:1.1rem 0 1.75rem;max-width:30em}
+.detail-card h3{margin:2rem 0 .75rem;font-size:1.05rem;background:var(--paper);padding:.35rem .7rem;border-radius:4px}
+.detail-card ul{margin:0;padding-left:1.2em;font-size:.9rem}
+.plain{margin:0;font-size:.9rem;color:var(--graphite)}
+.source{font-size:.8rem;color:var(--graphite);margin:1.75rem 0 0}
+
+footer{margin-top:1.5rem;padding-block:1.75rem;font-size:.875rem;color:var(--graphite);line-height:1.8}
+footer h2{font-size:.95rem;margin:0 0 .4rem;color:var(--ink)}
+footer ul{margin:0;padding-left:1.2em;max-width:46em}
+
+@media (min-width:48rem){
+  body{padding-bottom:0}
+  nav{position:sticky;inset:0 auto auto 0;display:flex;gap:0;padding-inline:max(var(--gutter),calc((100vw - 72rem) / 2 + var(--gutter)))}
+  nav button{padding-inline:1.4rem;font-size:.95rem}
+  .chips{flex-wrap:wrap;overflow:visible;top:var(--tabs-h)}
+  .row{display:grid;grid-template-columns:13.5rem minmax(0,1fr);gap:1.75rem;padding:1.3rem 1.5rem}
+  .row .who{flex-direction:column;gap:.1rem;margin:0}
+  .list-row{display:grid;grid-template-columns:18rem minmax(0,1fr);gap:1.25rem;align-items:baseline}
+  .list-row .slogan{margin:0}
+}
+@media (prefers-reduced-motion:reduce){.chip{transition:none}}
+</style>
+</head>
+<body>
+<div id="notice"></div>
+<header class="wrap hero">
+  <div class="top">
+    <h1 class="brand">まつど選挙公報ナビ <span class="badge">試作版</span></h1>
+    <div class="sizes" role="group" aria-label="文字サイズ">
+      <span aria-hidden="true">文字</span>
+      <button data-size="100%" aria-pressed="true" aria-label="文字サイズ 標準">標準</button>
+      <button data-size="115%" aria-pressed="false" aria-label="文字サイズ 大">大</button>
+      <button data-size="130%" aria-pressed="false" aria-label="文字サイズ 特大">特大</button>
+    </div>
+  </div>
+  <p class="lead" id="lead"></p>
+  <p class="meta" id="meta"></p>
+  <ul class="links" id="links"></ul>
+</header>
+<nav role="tablist" aria-label="表示の切り替え">
+  <button role="tab" data-view="slogans">スローガン一覧</button>
+  <button role="tab" data-view="themes">テーマ別に比べる</button>
+  <button role="tab" data-view="list">候補者から見る</button>
+</nav>
+<main class="wrap" id="app" tabindex="-1" style="padding-top:1.25rem"></main>
+<footer class="wrap">
+  <p>このサイトは選挙公報だけを情報源に、全候補者を同じ形式で整理しています。評価・推薦・順位付けはしません。<a href="#/policy">編集方針・運営者・訂正の受け付け</a></p>
+</footer>
+
+<script src="data.js"></script>
+<script>
+/* ===== データ（site/data.js を scripts/build_data.py が生成） ===== */
+const D = window.KOHO_DATA || {election:{name:"データがありません",date:"",sourceNote:""},themes:[],candidates:[]};
+const ELECTION = D.election, THEMES = D.themes, CANDIDATES = D.candidates;
+const pol = (c,t) => c.policies[t] || [];
+
+/* ===== 状態 ===== */
+let view = "slogans", theme = THEMES[0], sort = "shuffle", query = "", selected = null;
+/* フィッシャー–イェーツ法。どの並びも同じ確率になる */
+function shuffle(list){
+  const a=[...list];
+  for(let i=a.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
+  return a;
+}
+let shuffled = shuffle(CANDIDATES);
+
+const $app = document.getElementById("app");
+const notes=[];
+if(D.sample) notes.push("表示中の候補者・政策はすべて<b>架空のサンプル</b>です。実在の候補者とは関係ありません。");
+if(ELECTION.trial) notes.push(ELECTION.trialNote);
+const ORDER_LABEL = ELECTION.orderLabel || "届出";
+if(D.preview) notes.push("<b>確認用プレビュー</b>：未確認の記録を含みます。公開しないでください。");
+document.getElementById("notice").innerHTML=notes.map(n=>`<div class="notice">${n}</div>`).join("");
+document.getElementById("lead").innerHTML = `<span>候補者${CANDIDATES.length}人の公報を、</span><span>同じテーマで</span><span>読み比べる</span>`;
+document.getElementById("meta").textContent = `${ELECTION.name}　${ELECTION.date}`;
+const linkOrPending=(url,label)=>url?`<li><a href="${esc(url)}" target="_blank" rel="noopener">${label}</a></li>`:`<li class="pending">${label}（準備中）</li>`;
+document.getElementById("links").innerHTML =
+  linkOrPending(ELECTION.sourceUrl,"選挙公報（PDF原本）")+linkOrPending(ELECTION.voteInfoUrl,"投票所・期日前投票の案内")+`<li><a href="#/policy">編集方針</a></li>`;
+
+function esc(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
+/* 検索語に蛍光ペンを引く（エスケープ済みの文字列に対して行う） */
+function hl(s){
+  const text=esc(s), q=query.trim();
+  if(!q) return text;
+  return text.replace(new RegExp(esc(q).replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),"gi"),m=>`<mark>${m}</mark>`);
+}
+function ordered(){
+  let list = sort==="order" ? [...CANDIDATES].sort((a,b)=>a.order-b.order)
+           : sort==="kana" ? [...CANDIDATES].sort((a,b)=>{const x=a.sortKana||a.kana||"",y=b.sortKana||b.kana||"";return (!x-!y)||x.localeCompare(y,"ja")})
+           : shuffled;
+  const q=query.trim().toLowerCase();
+  if(q){
+    list = list.filter(c=>[c.name,c.kana,c.party,c.career,c.slogan,...Object.values(c.policies).flat().map(p=>p.s+p.h+p.q)].join(" ").toLowerCase().includes(q));
+  }
+  return list;
+}
+function slogan(c){
+  return c.slogan?`「${hl(c.slogan)}」`:`<span class="none">スローガンの記載なし</span>`;
+}
+/* 原文が主、要約は従。要約がない項目は原文だけを出す */
+function item(p){
+  const mark=p.achievement?`<span class="ach">実績</span>`:"";
+  const head=p.h?`<span class="h">${hl(p.h)}</span>`:"";
+  return `<div class="item"><span class="src">${mark}公報原文${p.page?`（${p.page}ページ）`:""}</span><div class="orig">${head}${hl(p.q)}</div>${p.s?`<p class="sum"><span class="sum-label">要約</span>${hl(p.s)}</p>`:""}</div>`;
+}
+function who(c,link){
+  const name = link ? `<button class="name-link" data-open="${c.id}">${hl(c.name)}</button>` : `<span class="name">${hl(c.name)}</span>`;
+  return `<span class="who">${c.name?name:""}${c.party?`<span>${hl(c.party)}</span>`:""}${c.career?`<span>議員歴：${hl(c.career)}</span>`:""}${c.age?`<span>${c.age}歳</span>`:""}${c.order?`<span class="order">${ORDER_LABEL}${c.order}番</span>`:""}${c.draft?`<span class="draft">未確認</span>`:""}</span>`;
+}
+function toolbar(){
+  return `<div class="toolbar">
+    <label>並び順 <select id="sort">
+      <option value="shuffle"${sort==="shuffle"?" selected":""}>シャッフル</option>
+      <option value="order"${sort==="order"?" selected":""}>${ORDER_LABEL}順</option>
+      <option value="kana"${sort==="kana"?" selected":""}>五十音順</option>
+    </select></label>
+    <input id="q" type="search" aria-label="キーワードで絞り込み" placeholder="キーワードで絞り込み（例：給食、バス）" value="${esc(query)}">
+  </div>`;
+}
+function bindToolbar(){
+  document.getElementById("sort").onchange=e=>{sort=e.target.value;render()};
+  const q=document.getElementById("q");
+  q.oninput=e=>{query=e.target.value;render(true)};
+}
+const NO_MATCH = `<div class="empty">該当する候補者がいません。別のキーワードを試してください。</div>`;
+
+function renderSlogans(){
+  const list=ordered();
+  return toolbar()+(list.length?`<div class="grid">${list.map(c=>`
+    <article class="tile">
+      <p class="slogan">${slogan(c)}</p>
+      ${who(c)}
+      <ul class="themes" aria-label="公報に記載のあるテーマ">${Object.keys(c.policies).filter(t=>pol(c,t).length).map(t=>`<li>${esc(t)}</li>`).join("")}</ul>
+      <div><button class="open" data-open="${c.id}" aria-label="${esc(c.name)}の政策を見る">政策を見る</button></div>
+    </article>`).join("")}</div>`:NO_MATCH);
+}
+function renderThemes(){
+  const list=ordered();
+  const chips=THEMES.map(t=>{
+    const n=CANDIDATES.filter(c=>pol(c,t).length).length;
+    return `<button class="chip" data-theme="${esc(t)}" aria-pressed="${t===theme}">${esc(t)}<span class="n">${n}人</span></button>`;
+  }).join("");
+  const withP=list.filter(c=>pol(c,theme).length), without=list.filter(c=>!pol(c,theme).length);
+  return toolbar()+`<div class="chips">${chips}</div>
+    <p class="note">公報の記載量は候補者により異なります。公報で触れられていない分野も、候補者に考えがないとは限りません。</p>
+    ${withP.map(c=>`<section class="row">${who(c,true)}<div>${pol(c,theme).map(item).join("")}</div></section>`).join("")}
+    ${!list.length?NO_MATCH:without.length?`<div class="empty">「${esc(theme)}」について公報では触れられていません：${without.map(c=>esc(c.name)).join("、")}</div>`:""}`;
+}
+function renderList(){
+  if(selected){
+    const c=CANDIDATES.find(x=>x.id===selected);
+    return `<div class="detail"><div class="back"><button data-back>戻る</button></div>
+      <article class="detail-card">
+        ${c.kana?`<p class="kana">${esc(c.kana)}</p>`:""}
+        <h2>${esc(c.name)}</h2>
+        ${who({...c,name:""})}
+        <p class="slogan">${slogan(c)}</p>
+        ${THEMES.map(t=>pol(c,t).length?`<h3>${esc(t)}</h3>${pol(c,t).map(item).join("")}`:"").join("")}
+        <h3>公報で触れられていないテーマ</h3><p class="plain">${THEMES.filter(t=>!pol(c,t).length).join("、")||"なし"}</p>
+        ${(c.changes||[]).length?`<h3>訂正履歴</h3><ul>${c.changes.map(x=>`<li>${esc(x.date)}：${esc(x.what)}（${esc(x.reason)}）</li>`).join("")}</ul>`:""}
+        <p class="source">${esc(ELECTION.sourceNote)}</p>
+      </article></div>`;
+  }
+  const list=ordered();
+  return toolbar()+(list.map(c=>`<button class="list-row" data-open="${c.id}">${who(c)}<span class="slogan">${slogan(c)}</span></button>`).join("")||NO_MATCH);
+}
+
+function renderPolicy(){
+  const crit=D.themeCriteria||{};
+  const op=ELECTION.operator?esc(ELECTION.operator):"（準備中）";
+  const ct=ELECTION.contact?esc(ELECTION.contact):"（準備中）";
+  return `<article class="detail-card policy">
+    <h2>編集方針</h2>
+    <h3>このサイトの目的</h3>
+    <p>候補者の選挙公報を、全員同じ形式・同じテーマで読み比べられるようにし、調べて選ぶための材料を提供します。あわせて、選挙時点の公約を記録として残します。</p>
+    <h3>情報源</h3>
+    <p>${esc(ELECTION.sourceNote)}のみです。候補者のSNS・Webサイト・報道などの情報は加えていません。五十音順の並べ替えに使う読みだけは、公報に記載がない場合に選挙管理委員会の資料で補う場合があります（画面には表示しません）。</p>
+    <h3>作り方</h3>
+    <p>公報の書き起こし・テーマ分類・要約は、AI（Anthropic社のClaude）を使って作成し、運営者が公報の原文と照合して確認しました。それでも読み取りや要約に誤りが残る可能性があります。正確な内容は必ず公報の原文でご確認ください。</p>
+    <ul>
+      <li>各項目は公報の原文を主に表示し、要約は補助として添えています。</li>
+      <li>具体的な施策・対象・数値・期限が書かれていない公約や、図の解釈が必要な箇所は、要約を作らず原文だけを表示します。</li>
+      <li>「実績」の印は、公報が過去の実績として書いている項目に付けています。</li>
+    </ul>
+    <h3>テーマ分類</h3>
+    <p>テーマの分類は運営の判断です。1つの項目に最大2つのテーマを付け、2つ目は本文に明記があるときだけ付けています。基準は次のとおりです。</p>
+    <dl>${THEMES.map(t=>`<dt>${esc(t)}</dt><dd>${esc(crit[t]||"")}</dd>`).join("")}</dl>
+    <h3>公報の記載量について</h3>
+    <p>公報の記載量や書き方は候補者により異なります。あるテーマが公報で触れられていないことは、その候補者がその分野に考えを持っていないことを意味しません。</p>
+    <h3>評価・推薦をしないこと</h3>
+    <p>候補者の評価・推薦・順位付け・相性診断は行いません。並び順は初期表示がシャッフルで、${ORDER_LABEL}順・五十音順も選べます。</p>
+    <h3>運営者と訂正の受け付け</h3>
+    <dl><dt>運営者</dt><dd>${op}</dd><dt>連絡先</dt><dd>${ct}</dd></dl>
+    <p>誤りを見つけた場合は、上記の連絡先にお知らせください。公報の原文と照合して訂正し、訂正した日付と内容を各候補者のページの「訂正履歴」に表示します。</p>
+  </article>`;
+}
+function render(keepFocus){
+  document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-selected",b.dataset.view===view));
+  document.body.classList.toggle("compact", view!=="slogans");
+  $app.innerHTML = view==="slogans"?renderSlogans():view==="themes"?renderThemes():view==="policy"?renderPolicy():renderList();
+  if(document.getElementById("sort")) bindToolbar();
+  if(keepFocus){const q=document.getElementById("q"); if(q){q.focus(); q.setSelectionRange(q.value.length,q.value.length);}}
+}
+/* ===== URL と画面の対応（#/slogans、#/themes/テーマ名、#/list、#/c/候補者ID） ===== */
+const hashFor = {slogans:()=>"#/slogans", themes:()=>`#/themes/${encodeURIComponent(theme)}`, list:()=>"#/list"};
+const scrollMemo = {};
+let lastHash = location.hash, cameFromInside = false;
+if("scrollRestoration" in history) history.scrollRestoration="manual";
+
+function applyRoute(){
+  let parts=[];
+  try{ parts=decodeURIComponent(location.hash.replace(/^#\/?/,"")).split("/"); }catch(e){}
+  const [v,arg]=parts, c=CANDIDATES.find(x=>x.id===arg);
+  selected=null;
+  if(v==="c"&&c){view="list";selected=c.id}
+  else if(v==="themes"){view="themes";if(THEMES.includes(arg))theme=arg}
+  else if(v==="list")view="list";
+  else if(v==="policy")view="policy";
+  else view="slogans";
+  document.title = c&&v==="c" ? `${c.name}｜まつど選挙公報ナビ` : view==="policy" ? "編集方針｜まつど選挙公報ナビ" : "まつど選挙公報ナビ";
+  render();
+}
+function go(hash){
+  if(location.hash===hash){window.scrollTo(0,0);return}
+  location.hash=hash;
+}
+window.addEventListener("hashchange",()=>{
+  scrollMemo[lastHash]=window.scrollY;
+  lastHash=location.hash;
+  cameFromInside=true;
+  applyRoute();
+  window.scrollTo(0,scrollMemo[location.hash]||0);
+  $app.focus({preventScroll:true});
+});
+document.querySelector("nav").onclick=e=>{
+  const v=e.target.closest("button")?.dataset.view;
+  if(v){const h=hashFor[v](); delete scrollMemo[h]; go(h)}
+};
+$app.onclick=e=>{
+  const t=e.target.closest("[data-theme]");
+  if(t){
+    theme=t.dataset.theme;
+    history.replaceState(null,"",hashFor.themes());  /* テーマの切り替えは履歴に積まない */
+    lastHash=location.hash;
+    render();
+    const sel=document.querySelector('.chip[aria-pressed="true"]');
+    if(sel){sel.focus({preventScroll:true}); sel.scrollIntoView({block:"nearest",inline:"center"});}
+    return;
+  }
+  const o=e.target.closest("[data-open]");
+  if(o){const h=`#/c/${o.dataset.open}`; delete scrollMemo[h]; go(h); return}
+  if(e.target.closest("[data-back]")){ if(cameFromInside) history.back(); else go("#/list"); }
+};
+
+/* ===== 文字サイズ（保存はしない。再読み込みで標準に戻る） ===== */
+document.querySelector(".sizes").onclick=e=>{
+  const b=e.target.closest("[data-size]");
+  if(!b) return;
+  document.documentElement.style.fontSize=b.dataset.size;
+  document.querySelectorAll("[data-size]").forEach(x=>x.setAttribute("aria-pressed",x===b));
+};
+applyRoute();
+</script>
+</body>
+</html>

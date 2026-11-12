@@ -1,0 +1,31 @@
+{
+  "candidate_id": "c009",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "achievement": false, "summary": "松戸にコミュニティFM放送局を！", "confidence": "high"},
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "イベントなどで住民同士の連携を深め、災害時に生かせる体系を作る", "confidence": "high"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "防災食の活用法、避難所運営を学べる「防災フェス」で自然災害への意識啓発", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "市の災害放送と連携し、安全を確保できる情報を発信", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "事件事故、特殊詐欺、行方不明者捜索など犯罪を未然に防ぐ情報を届ける", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "町会自治会の健康食講座や、体操・ダンスのサークルの開催を促進", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "当事者に寄り添った福祉を提案", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "高齢の親と障がいを持つ子の同居施設など新しい形の入居施設の設立をめざす", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "ヤングケアラー支援、相談窓口の設置、悩みを一人で抱え込まない体系づくり", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "市民交流による子育て支援・相談会、子育て応援マップの制作などを実施", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "子どもと大人が楽しめるイベントを開催し、地域で子育てにかかわる体系づくり", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "一人暮らし世帯の孤独化の解消、介護相談、同じ悩みの住民同士の集いを実施", "confidence": "high"},
+    {"block_id": "b13", "themes": ["keizai"], "achievement": false, "summary": "地域イベントなどの協力と告知、新店舗情報など経済発展に貢献する情報を発信", "confidence": "high"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "若い世代の芸術家たちの活躍の場を広げる", "confidence": "high"},
+    {"block_id": "b15", "themes": ["other", "kosodate"], "achievement": false, "summary": "市にゆかりのアーティストと学生のコラボなど、学生の意欲を保てる機会を作る", "confidence": "high"},
+    {"block_id": "b16", "themes": ["other"], "achievement": false, "summary": "異種芸術家同士のコラボなどのイベントも開催", "confidence": "high"},
+    {"block_id": "b17", "themes": ["other"], "achievement": false, "summary": "農業体験イベントや自然体験イベントで、子どもも大人も学べる機会を作る", "confidence": "low"},
+    {"block_id": "b18", "themes": ["other"], "achievement": false, "summary": "地域の魅力を発信する、市民による市民のための番組を作る", "confidence": "high"},
+    {"block_id": "b20", "themes": ["other"], "achievement": false, "summary": "松戸市にコミュニティFM放送局の開局を目指し奮闘中", "confidence": "high"},
+    {"block_id": "b21", "themes": ["other"], "achievement": false, "summary": "コミュニティ放送が安心・安全、地域交流、経済の発展などに役立つ情報を届ける", "confidence": "low"}
+  ],
+  "notes": [
+    "b17：農業体験・自然体験を通じた学びの機会で、kosodate・keizai・kankyo のいずれとも読めるが、どれにも明確に当てはまらないため other とした。",
+    "b21：コミュニティ放送の情報が複数の分野にまたがり、1つの分野に絞れないため other とした。"
+  ]
+}

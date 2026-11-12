@@ -1,0 +1,18 @@
+{
+  "candidate_id": "c034",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "全ての人が安心・安全に暮らせるまちづくり", "confidence": "low"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "子どもの未来に責任を持つまちづくり", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi", "kankyo"], "achievement": false, "summary": "誰もが移動しやすく環境に優しいまちづくり", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": false, "summary": "北口にロータリー実現", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "グリーンスローモビリティーの早期実用化、対象地域拡大", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "新松戸駅東口にロータリー、小金原、八ヶ崎から新松戸行きのバス路線を実現", "confidence": "high"},
+    {"block_id": "b08", "themes": ["keizai"], "achievement": false, "summary": "小金原商店街を多世代交流出来る憩いの場所にするために活性化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "築40年以上経過するマンションの長寿命化や建て替え等の計画推進を支援", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：「安心・安全」の語から防災・安全としたが、災害や防犯の具体的な記載はなく、福祉・医療やまちづくりとも読める"
+  ]
+}

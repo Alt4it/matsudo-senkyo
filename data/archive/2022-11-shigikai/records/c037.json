@@ -1,0 +1,100 @@
+{
+  "candidate_id": "c037",
+  "order": 37,
+  "name": "川野ひろし",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": null,
+  "slogan": "人と動物にやさしい松戸市へ",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ノラ猫不妊化費用の全額助成を実現",
+      "heading": "本当の意味で犬猫殺処分ゼロに",
+      "verbatim": "ノラ猫不妊化費用の全額助成を実現します",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "theme": "other",
+      "achievement": false,
+      "summary": "行政主体の譲渡会実施で屋外に暮らす猫を減らす",
+      "heading": "本当の意味で犬猫殺処分ゼロに",
+      "verbatim": "行政主体の譲渡会実施で屋外に暮らす猫を減らします",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": false,
+      "summary": "教育を通じて動物愛護やペット飼育の啓発を進める",
+      "heading": "本当の意味で犬猫殺処分ゼロに",
+      "verbatim": "教育を通じて動物愛護やペット飼育に関する啓発を進めます",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "震災時のペット同行避難の受け入れ態勢について具体的な改善を行う",
+      "heading": "ペット防災",
+      "verbatim": "震災が起きた場合のペット同行避難について松戸市は受け入れ態勢の整備がされていません。動物対応の現場で実際に動いてきた私が具体的な改善を行います",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "震災時のペット同行避難の受け入れ態勢について具体的な改善を行う",
+      "heading": "ペット防災",
+      "verbatim": "震災が起きた場合のペット同行避難について松戸市は受け入れ態勢の整備がされていません。動物対応の現場で実際に動いてきた私が具体的な改善を行います",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "政務活動費で市議のガソリン代が精算できるのは不適切で、当選後すぐに改善を提案",
+      "heading": "議会改革",
+      "verbatim": "市民の血税が原資である政務活動費で市議のガソリン代が精算できるのは不適切であり当選後すぐに改善を提案します",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "義務教育の給食費を無償化",
+      "heading": "子育て・高齢者支援",
+      "verbatim": "義務教育の給食費を無償化します",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "体育館などの学校施設へのエアコン設置を進める",
+      "heading": "子育て・高齢者支援",
+      "verbatim": "体育館などの学校施設へのエアコン設置を進めます",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "シルバーパスの導入を実現",
+      "heading": "子育て・高齢者支援",
+      "verbatim": "シルバーパスの導入を実現します",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

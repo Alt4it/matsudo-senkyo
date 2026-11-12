@@ -1,0 +1,13 @@
+{
+  "candidate_id": "c005",
+  "classifier": "B",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "summary": "保育の受け皿拡大と保育士処遇改善で待機児童解消、放課後児童クラブ等の一体型運営", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi", "keizai"], "summary": "松戸駅周辺・新松戸駅東側に商業施設や図書館を整備、中小事業者・商店街を支援", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai"], "summary": "ゾーン30等で通学路など交通安全対策を推進、JR松戸駅ホームドア設置を加速", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "summary": "8050問題や認知症など困りごとを受け止める福祉まるごと相談窓口の拡充", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "summary": "市立小中高校のバリアフリー化・トイレ洋式化、スクールカウンセラー等の配置推進", "confidence": "high"}
+  ],
+  "notes": []
+}

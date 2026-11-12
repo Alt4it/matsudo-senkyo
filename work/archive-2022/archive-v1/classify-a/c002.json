@@ -1,0 +1,12 @@
+{
+  "candidate_id": "c002",
+  "classifier": "A",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "summary": "学校トイレ洋式化を推進、2023年度末に校舎約70%・体育館100%が洋式に", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate", "fukushi"], "summary": "実績:見やすいチョーク、アレルギーフリー給食、医療センターWi-Fi、直通バス等", "confidence": "low"}
+  ],
+  "notes": [
+    "b02は実績の列挙で、子育て・教育（チョーク、給食）、福祉・医療（医療センターWi-Fi、補助犬ステッカー）、まちづくり・交通（直通バス）の3テーマにまたがる。上限2つのため項目数の多い2テーマを付けた。"
+  ]
+}

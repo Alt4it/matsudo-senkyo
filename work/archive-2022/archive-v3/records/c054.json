@@ -1,0 +1,163 @@
+{
+  "candidate_id": "c054",
+  "order": 54,
+  "name": "木村みね子",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": "4期連続当選",
+  "age": null,
+  "slogan": "大型事業優先の政策から、福祉重視の政策へ！",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "大型事業優先の政策から、福祉重視の政策へ！",
+      "heading": null,
+      "verbatim": "大型事業優先の政策から、福祉重視の政策へ！",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "第3子以降の出生に対する出産祝金100万円の段階的支給",
+      "heading": "1 安心して子どもを産み、育てることができる環境づくり",
+      "verbatim": "第3子以降の出生に対する出産祝金100万円の段階的支給",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "病児・病後児施設の拡充など働く親の支援",
+      "heading": "1 安心して子どもを産み、育てることができる環境づくり",
+      "verbatim": "病児・病後児施設の拡充など働く親の支援",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "総合医療センターにアニマルセラピー導入と近隣にドナルド・マクドナルド・ハウス誘致",
+      "heading": "2 子どもたちが笑顔で健やかに育める社会づくり",
+      "verbatim": "総合医療センターにアニマルセラピー導入と近隣にドナルド・マクドナルド・ハウスの誘致",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "総合医療センターにアニマルセラピー導入と近隣にドナルド・マクドナルド・ハウス誘致",
+      "heading": "2 子どもたちが笑顔で健やかに育める社会づくり",
+      "verbatim": "総合医療センターにアニマルセラピー導入と近隣にドナルド・マクドナルド・ハウスの誘致",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "待機児童実質ゼロ",
+      "heading": "2 子どもたちが笑顔で健やかに育める社会づくり",
+      "verbatim": "待機児童実質ゼロ",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯カメラの設置拡大などによる通学路や公園の安全確保",
+      "heading": "2 子どもたちが笑顔で健やかに育める社会づくり",
+      "verbatim": "防犯カメラの設置拡大などによる通学路や公園の安全確保",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "分かりづらいゴミ分別の簡素化",
+      "heading": "3 あらゆる市民にとって暮らしやすく優しい街づくり",
+      "verbatim": "分かりづらいゴミ分別の簡素化",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食費無償化など物価高への家計支援",
+      "heading": "3 あらゆる市民にとって暮らしやすく優しい街づくり",
+      "verbatim": "学校給食費無償化など物価高への家計支援",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者、障がい者へのタクシーチケット支給",
+      "heading": "3 あらゆる市民にとって暮らしやすく優しい街づくり",
+      "verbatim": "高齢者、障がい者へのタクシーチケット支給",
+      "page": 8
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "いつでも気軽に受けられる検査体制の充実",
+      "heading": "4 新型コロナなど感染症から生命と健康を守る体制強化",
+      "verbatim": "いつでも気軽に受けられる検査体制の充実",
+      "page": 8
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "無症状もしくは軽症陽性者の為の療養施設の整備",
+      "heading": "4 新型コロナなど感染症から生命と健康を守る体制強化",
+      "verbatim": "無症状もしくは軽症陽性者の為の療養施設の整備",
+      "page": 8
+    },
+    {
+      "block_id": "b14",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸駅に建設中の新たな駅ビルへの百貨店誘致",
+      "heading": "5 北千住と柏の間の谷底と揶揄される街から魅力ある街づくり",
+      "verbatim": "松戸駅に建設中の新たな駅ビルへの百貨店誘致",
+      "page": 8
+    },
+    {
+      "block_id": "b14",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸駅に建設中の新たな駅ビルへの百貨店誘致",
+      "heading": "5 北千住と柏の間の谷底と揶揄される街から魅力ある街づくり",
+      "verbatim": "松戸駅に建設中の新たな駅ビルへの百貨店誘致",
+      "page": 8
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸駅東口高台エリアに多目的アリーナ建設とプロスポーツ誘致",
+      "heading": "5 北千住と柏の間の谷底と揶揄される街から魅力ある街づくり",
+      "verbatim": "松戸駅東口高台エリアに多目的アリーナ建設とプロスポーツ誘致",
+      "page": 8
+    },
+    {
+      "block_id": "b15",
+      "theme": "other",
+      "achievement": false,
+      "summary": "松戸駅東口高台エリアに多目的アリーナ建設とプロスポーツ誘致",
+      "heading": "5 北千住と柏の間の谷底と揶揄される街から魅力ある街づくり",
+      "verbatim": "松戸駅東口高台エリアに多目的アリーナ建設とプロスポーツ誘致",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c061",
+  "order": 61,
+  "name": "DELI",
+  "kana": "デリ",
+  "sort_kana": null,
+  "party": null,
+  "career": "松戸市議2期",
+  "age": 47,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "行政の私物化が起きないよう決定の経緯や根拠を市民と共有しながら進めることが大切",
+      "heading": "行政の私物化が起きないよう市民との情報共有を進めたい",
+      "verbatim": "市長や一部の人による行政の私物化が起きないように、決定の経緯や根拠を市民の皆さんと共有しながら進めることが大切です。",
+      "page": 9
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "感染者の1割程度いると推測される後遺症患者への対応も重要",
+      "heading": "コロナは安心できる状況ではない",
+      "verbatim": "さらに感染者の1割程度いると推測される後遺症患者への対応も重要です。",
+      "page": 9
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "3×3プロバスケットボールチームを誘致し、パークスポーツ振興の起爆剤に",
+      "heading": "3×3プロバスケチーム誘致を起爆剤に",
+      "verbatim": "3×3プロバスケットボールチームを誘致し、スケートボードやBMX、ボルダリングなど、パークスポーツ振興の起爆剤にしていきたいです。",
+      "page": 9
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "「脱被ばく」や「避難計画などを含めた防災行政」推進",
+      "heading": null,
+      "verbatim": "「脱被ばく」や「避難計画などを含めた防災行政」推進",
+      "page": 9
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "2020年8月から毎週日曜日にコロナ関連情報のライブ配信、市の政策に反映",
+      "heading": "毎週日曜日に YouTube 等で公開ライブ配信\nコロナ検査体制や後遺症対応などを市政に反映",
+      "verbatim": "2020 年 8 月から、毎週日曜日に地域の感染状況やコロナ関連情報共有のために専門家を交えたライブ配信を開始し、市の政策に反映。",
+      "page": 9
+    },
+    {
+      "block_id": "b09",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "一般質問で総合政策会議の会議録未作成が明らかになり、今年2月より作成",
+      "heading": "総合政策会議の会議録作成を実現",
+      "verbatim": "昨年の私の一般質問で、市の最高幹部が参加する総合政策会議で会議録の未作成が明らかになり、今年 2 月より会議録を作成。",
+      "page": 9
+    },
+    {
+      "block_id": "b10",
+      "theme": "other",
+      "achievement": true,
+      "summary": "図書館限定専門職としての司書の採用はなかったが、昨年度より確保を実現",
+      "heading": "図書館限定専門職としての司書採用実現",
+      "verbatim": "松戸市では、これまで図書館限定専門職としての司書の採用はなかったが、昨年度より経験豊富な司書の確保を実現。",
+      "page": 9
+    },
+    {
+      "block_id": "b11",
+      "theme": "other",
+      "achievement": true,
+      "summary": "スケートボード練習場が予算化され、松戸運動公園に実現予定",
+      "heading": "スケートボード練習場の実現",
+      "verbatim": "議員一期目から要望してきたスケートボード練習場が予算化され、松戸運動公園に実現予定。",
+      "page": 9
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "スケートボード練習場が予算化され、松戸運動公園に実現予定",
+      "heading": "スケートボード練習場の実現",
+      "verbatim": "議員一期目から要望してきたスケートボード練習場が予算化され、松戸運動公園に実現予定。",
+      "page": 9
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "避難計画案の問題点を指摘し、松戸市は受け入れ可能な人数を7200人に下方修正へ",
+      "heading": "無謀な避難計画の是正をめざす",
+      "verbatim": "従来の「東海第二原発で原子力災害が発生した時に、水戸市から 1 万 6000 人が松戸市に避難する」という無謀な避難計画案の問題点を指摘し、松戸市は受け入れ可能な人数を 7200 人に下方修正することに。",
+      "page": 9
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

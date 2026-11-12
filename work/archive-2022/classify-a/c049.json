@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c049",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["bousai", "kosodate"], "achievement": false, "summary": "児童用見守りGPS端末の導入", "confidence": "high"},
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "行政の無駄を徹底的に省く", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei"], "achievement": false, "summary": "入札改革やネーミングライツの導入", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "多世代交流施設や機会の促進", "confidence": "low"},
+    {"block_id": "b07", "themes": ["gyozaisei"], "achievement": false, "summary": "議会質問100％の継続", "confidence": "high"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "「個々の議員の賛否態度公開」の続行", "confidence": "high"},
+    {"block_id": "b09", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "市役所建替え見直しで億単位のコストカット", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の無償化を現状より推進", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi", "kosodate"], "achievement": false, "summary": "図書館・スポーツ・文化施設、公園の充実", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "44人は多すぎる（県内市でワースト1位の削減率）", "confidence": "high"},
+    {"block_id": "b13", "themes": ["gyozaisei", "fukushi"], "achievement": false, "summary": "現状44人からまずは4人減らして2億円を福祉へ", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "４人会派が組めれば削減議案を議員提出する", "confidence": "high"}
+  ],
+  "notes": [
+    "b06：施設の話として、まちづくり・交通とした。交流機会の促進も含むためその他とも読める",
+    "b07、b08：「継続」「続行」は今後の方針として書かれているため achievement を false とした"
+  ]
+}

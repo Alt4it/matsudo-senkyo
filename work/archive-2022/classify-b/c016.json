@@ -1,0 +1,19 @@
+{
+  "candidate_id": "c016",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "福祉において「制度の穴」を防がなければならない", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "多くの制度を作るのではなく、多くの人に届く支援が必要", "confidence": "low"},
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "大型事業だけでなく、生活に密着した問題の解決に取り組む", "confidence": "low"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "在宅介護の充実を", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kankyo"], "achievement": false, "summary": "家庭ごみ回収、ビンと缶は週に一回は回収を", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "学校施設の老朽化対策を", "confidence": "high"},
+    {"block_id": "b09", "themes": ["gyozaisei"], "achievement": false, "summary": "公費の無駄遣いである選挙カーを使わない", "confidence": "low"}
+  ],
+  "notes": [
+    "b04：文中に分野の明記がなく、直前の b03 の福祉の話の続きと読んで fukushi とした。",
+    "b05：特定の分野を示さない方針のため other とした。",
+    "b09：市の施策ではなく候補者自身の行動だが、公費に関するため gyozaisei とした。other とも読める。"
+  ]
+}

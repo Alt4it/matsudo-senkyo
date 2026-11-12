@@ -1,0 +1,17 @@
+{
+  "candidate_id": "c058",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "教育費無償化実現へ", "confidence": "high"},
+    {"block_id": "b02", "themes": ["gyozaisei"], "achievement": false, "summary": "身を切る改革×行財政改革", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "出産無償化×教育費無償化", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "新型コロナやあらゆる感染症から市民の健康と命を守る整備強化", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "松戸版・子ども達の塾費用クーポン発行", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi", "bousai"], "achievement": false, "summary": "医療、介護、福祉の拡充×松戸初！防災公園の新設", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "青少年の健全育成及び非行防止×中学校から給食費の無償化", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate", "gyozaisei"], "achievement": false, "summary": "松戸児童相談所の新設×市民と意見交換できる仕組みつくり", "confidence": "high"},
+    {"block_id": "b09", "themes": ["other"], "achievement": false, "summary": "人と動物が共存できる街づくり", "confidence": "high"}
+  ],
+  "notes": []
+}

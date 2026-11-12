@@ -1,0 +1,17 @@
+{
+  "candidate_id": "c006",
+  "classifier": "A",
+  "themes_version": "draft-1",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "summary": "財源を確保し給食の無償化などで子育て・教育環境を整備", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi"], "summary": "高齢化に伴う通院、介護、一人暮らしなどの諸問題に対応", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "summary": "新拠点ゾーン構想の必要性を十分チェック", "confidence": "low"},
+    {"block_id": "b05", "themes": ["gyozaisei"], "summary": "税金の使い方を見直し、必要なところにお金が回っているかチェック", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "summary": "松戸市の医療体制を整備", "confidence": "high"},
+    {"block_id": "b07", "themes": ["keizai"], "summary": "企業誘致、商店街の活性化等を図る", "confidence": "high"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "summary": "松戸市議会議員を4名削減", "confidence": "high"}
+  ],
+  "notes": [
+    "b04の「新拠点ゾーン構想」は、原文に内容の説明がない。名称からまちづくり・交通としたが、必要性のチェックという点で行財政に当たる可能性もある。"
+  ]
+}

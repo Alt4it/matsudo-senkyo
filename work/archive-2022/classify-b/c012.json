@@ -1,0 +1,21 @@
+{
+  "candidate_id": "c012",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei", "fukushi"], "achievement": false, "summary": "議員削減。ういた財源を福祉へ！", "confidence": "high"},
+    {"block_id": "b02", "themes": ["kosodate", "bousai"], "achievement": false, "summary": "GPS端末などによる児童の見守りシステムの導入", "confidence": "low"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "実感できる子育て支援", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "特色ある公園作り", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei"], "achievement": false, "summary": "市内全市民センターにて子連れで行ける議会報告会", "confidence": "high"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "議員定数削減", "confidence": "high"},
+    {"block_id": "b07", "themes": ["gyozaisei"], "achievement": false, "summary": "住民投票条例常設化", "confidence": "high"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "ネーミングライツの促進", "confidence": "high"},
+    {"block_id": "b09", "themes": ["gyozaisei"], "achievement": false, "summary": "大型事業見直し", "confidence": "high"},
+    {"block_id": "b10", "themes": ["gyozaisei"], "achievement": false, "summary": "予算決算の説明会", "confidence": "high"},
+    {"block_id": "b11", "themes": ["gyozaisei"], "achievement": false, "summary": "公務員給与の更なる見直し", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：見出しは福祉費に関するものだが、内容は児童の見守りのため kosodate と bousai を付けた。見守りの目的が原文にないため、bousai（防犯）に当たるかは確定できない。"
+  ]
+}

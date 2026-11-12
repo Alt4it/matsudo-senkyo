@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c053",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [8], "position": "3段目左"},
+  "name": "ミールかずえ",
+  "kana": "ミールかずえ",
+  "party": "日本共産党",
+  "age": null,
+  "career": "2018年市議会議員に",
+  "slogan": "学校給食の完全無償化を",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": null, "verbatim": "学校給食の完全無償化を", "page": 8},
+    {"block_id": "b02", "kind": "policy", "heading": null, "verbatim": "市役所は現地建て替えで", "page": 8},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "非正規労働者の賃金アップ", "page": 8},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "市独自の給付型奨学金制度を", "page": 8},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "先生を増やして少人数学級を", "page": 8},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "コミュニティバスを早期に実現", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "ジェンダー平等の社会を", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": "ごいっしょに実現できました", "verbatim": "高校卒業までの医療費助成", "page": 8},
+    {"block_id": "b09", "kind": "policy", "heading": "ごいっしょに実現できました", "verbatim": "松戸に児童相談所新設(2026年度開所予定)", "page": 8},
+    {"block_id": "b10", "kind": "policy", "heading": "ごいっしょに実現できました", "verbatim": "栄町中堀川沿いの市道の改修\n市道にせり出した段差。「〝転んでケガ〟は管理者(市)の責任」と追及し、改善されることになりました。", "page": 8},
+    {"block_id": "b11", "kind": "policy", "heading": "ごいっしょに実現できました", "verbatim": "危険な盛土による宅地造成中止(大橋地域)", "page": 8},
+    {"block_id": "b12", "kind": "policy", "heading": "市民の声を葬る市議会", "verbatim": "国に意見書を上げるのも市議会の仕事です。", "page": 8},
+    {"block_id": "b13", "kind": "policy", "heading": "市民の声を葬る市議会", "verbatim": "この間、①減らない年金への改善 ②最低賃金を時給1500円に ③木更津駐屯地へのオスプレイ配備やめよ ④性急な改憲やめよ ⑤核兵器禁止条約の批准を、などを提案。", "page": 8},
+    {"block_id": "b14", "kind": "policy", "heading": "市民の声を葬る市議会", "verbatim": "自公などの反対で否決されています。", "page": 8},
+    {"block_id": "b15", "kind": "message", "heading": null, "verbatim": "コロナも物価高騰も無策\n岸田自公政治ノー", "page": 8},
+    {"block_id": "b16", "kind": "message", "heading": null, "verbatim": "初当選から４年、多くの生活相談を受け支援につないできました。生活道路の改善も実現できました。何としても再び市議会で働かせてください。", "page": 8},
+    {"block_id": "b17", "kind": "profile", "heading": null, "verbatim": "１９６９年東京生まれ。千葉県立東葛飾高校卒、都立大学法学部卒。㈶法律扶助協会を経て、日本司法支援センター(法テラス)神奈川地方事務所総務課長等を歴任。2018年市議会議員に。松戸新田在住。", "page": 8}
+  ],
+  "issues": [
+    "name：大きく「ミールかずえ」とあり、「かずえ」の横に「計恵」と小さく併記されている。QRコードの説明にも「ミール計恵」とある。nameは大きい表記を採った。どちらを氏名とするかは要確認。",
+    "kana：氏名のかな部分をそのままつないだため、カタカナの「ミール」を含む。",
+    "slogan：左の縦帯「岸田自公政治ノー」と「学校給食の完全無償化を」は字の大きさがほぼ同じのため、基準どおり紙面の上にある後者を採った。",
+    "career：議員歴を示す語句として「2018年市議会議員に」を抜き出した。本文には「初当選から４年」もある。",
+    "b07：「ジェンダー平等の社会を」は◉の箇条ではなく、イラスト上の枠内の文言。独立した主張としてpolicyにした。",
+    "b10：「栄町中堀川沿いの市道の改修」の下の小さい字の説明は同じ箇条の補足と判断し、1ブロックにまとめた（複数の文を含む）。",
+    "b15：左の縦帯は政策の箇条ではなく訴えと判断しmessageにした。kindの判断は要確認。",
+    "QRコードの説明「ミール計恵 HP」は本文に含めていない。",
+    "数字と漢字の間、括弧の内側などの字間の空きは文字として写していない。半角・全角は字形からの判断で、確定できない。"
+  ]
+}

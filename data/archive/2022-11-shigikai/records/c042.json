@@ -1,0 +1,82 @@
+{
+  "candidate_id": "c042",
+  "order": 42,
+  "name": "広瀬ゆうと",
+  "kana": "ひろせゆうと",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "新人",
+  "age": 26,
+  "slogan": "魅力ある松戸を創るために",
+  "policies": [
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "親子で手軽に遊べる施設の誘致・公園の整備",
+      "heading": null,
+      "verbatim": "親子で手軽に遊べる施設の誘致・公園の整備",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "親子で手軽に遊べる施設の誘致・公園の整備",
+      "heading": null,
+      "verbatim": "親子で手軽に遊べる施設の誘致・公園の整備",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "松戸市にプロスポーツチームを",
+      "heading": null,
+      "verbatim": "松戸市にプロスポーツチームを!",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公的賃貸住宅の整備を目指す",
+      "heading": null,
+      "verbatim": "公的賃貸住宅の整備を目指します!",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸駅にショッピングモールの誘致と市役所と駅直結の連絡通路の設置",
+      "heading": null,
+      "verbatim": "松戸駅にショッピングモールの誘致と市役所と駅直結の連絡通路の設置",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "theme": "other",
+      "achievement": false,
+      "summary": "多様な世代の課題をIT技術で解決",
+      "heading": null,
+      "verbatim": "多様な世代の課題をIT技術で解決!",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "SNS時代における行政広報の強化",
+      "heading": null,
+      "verbatim": "SNS時代における行政広報の強化",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "こばやし",
+    "checked_at": "2026-11-08",
+    "changes": []
+  }
+}

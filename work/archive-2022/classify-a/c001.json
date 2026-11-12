@@ -1,0 +1,171 @@
+{
+  "candidate_id": "c001",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {
+      "block_id": "b02",
+      "themes": [
+        "other"
+      ],
+      "achievement": false,
+      "summary": "平和基金を活用し、長崎市の平和大使派遣を継続、広島市へ拡大",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b03",
+      "themes": [
+        "fukushi"
+      ],
+      "achievement": false,
+      "summary": "特定健診受診率向上、地域包括ケア充実で介護不安解消、移動手段の助成",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b04",
+      "themes": [
+        "kosodate"
+      ],
+      "achievement": false,
+      "summary": "放課後児童クラブと放課後キッズルームの充実、子育て支援を応援",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b05",
+      "themes": [
+        "kosodate"
+      ],
+      "achievement": false,
+      "summary": "小中学校エアコン設置にPFI方式を提案し全校設置、トイレ洋式化促進、学校施設整備",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b06",
+      "themes": [
+        "kosodate",
+        "other"
+      ],
+      "achievement": false,
+      "summary": "就学援助制度充実、スポーツ施設整備、学校給食の無償化",
+      "confidence": "low"
+    },
+    {
+      "block_id": "b07",
+      "themes": [
+        "keizai"
+      ],
+      "achievement": false,
+      "summary": "労働相談・就労支援・中小企業退職金制度補助を実現、若者や高齢者の就労支援を促進",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b09",
+      "themes": [
+        "bousai"
+      ],
+      "achievement": false,
+      "summary": "分散備蓄倉庫を全校実現、避難困難者の避難行動支援を全市に拡大、災害弱者対策充実",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b10",
+      "themes": [
+        "kankyo"
+      ],
+      "achievement": false,
+      "summary": "LED導入促進、公共施設の太陽光パネル設置など自然エネルギー導入促進",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b12",
+      "themes": [
+        "machi"
+      ],
+      "achievement": false,
+      "summary": "コミュニティバス運行、新八柱駅周辺整備、南口広場改修、駅バリアフリーとホームドア",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b14",
+      "themes": [
+        "fukushi"
+      ],
+      "achievement": false,
+      "summary": "地域連携で健康を守る体制促進、新型コロナ対策病床確保、東松戸病院廃止反対",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b16",
+      "themes": [
+        "gyozaisei",
+        "machi"
+      ],
+      "achievement": false,
+      "summary": "支所機能充実、コンパクトな庁舎建設、「広報まつど」宅配5,200部増をさらに拡大",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b17",
+      "themes": [
+        "fukushi"
+      ],
+      "achievement": true,
+      "summary": "新型コロナ感染症の抗原検査からPCR検査実現",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b18",
+      "themes": [
+        "kosodate"
+      ],
+      "achievement": true,
+      "summary": "年度途中からの待機児童入所施設の実現（26ヵ所）",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b19",
+      "themes": [
+        "fukushi"
+      ],
+      "achievement": true,
+      "summary": "地域包括支援センターのコンビニ・他、出張相談拡大（96回）",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b20",
+      "themes": [
+        "machi"
+      ],
+      "achievement": true,
+      "summary": "八柱駅南口駅前広場・バス停など整備計画実現",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b21",
+      "themes": [
+        "machi"
+      ],
+      "achievement": true,
+      "summary": "市民センターのバリアフリー化促進（八柱市民センター他）",
+      "confidence": "high"
+    },
+    {
+      "block_id": "b22",
+      "themes": [
+        "kosodate",
+        "fukushi"
+      ],
+      "achievement": true,
+      "summary": "仮称「子どもの貧困対策早期発見支援ガイドブック」",
+      "confidence": "high"
+    }
+  ],
+  "notes": [
+    "b05：全校設置（過去）とトイレ洋式化促進などの今後の話が同じ文に混ざるため achievement は false",
+    "b06：「スポーツ施設整備」を教育施設の見出しの一部と見るか、文化・スポーツ（その他）と見るかで迷った。kosodate と other を付けて low とした",
+    "b07：「実現してきましたが」と今後の「促進」が同じ文に混ざるため achievement は false",
+    "b09：「全校実現」と今後の「拡大」「充実」が同じ文に混ざるため achievement は false",
+    "b16：「5,200部増実現」と「さらなる拡大」が同じ文に混ざるため achievement は false",
+    "b12：字数の都合で、要約では「南口駅前広場」を「南口広場」、「JR松戸駅のバリアフリー」「JR駅ホームドア」を「駅バリアフリーとホームドア」に縮めた"
+  ]
+}

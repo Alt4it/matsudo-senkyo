@@ -1,0 +1,38 @@
+{
+  "candidate_id": "c032",
+  "source": {"pdf": "koho/R4.11.20sigi_kouhou.pdf", "pages": [5], "position": "4段目右"},
+  "name": "しまむら新一",
+  "kana": "しまむらしんいち",
+  "party": "日本共産党",
+  "age": null,
+  "career": null,
+  "slogan": "学校給食の完全無償化を",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": null, "verbatim": "学校給食の完全無償化を", "page": 5},
+    {"block_id": "b02", "kind": "policy", "heading": null, "verbatim": "県・国に働きかけと市独自の教員確保で教員不足解消。", "page": 5},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "学校体育館へのエアコン設置・トイレの洋式化。", "page": 5},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "金ケ作地域の下水道の改善を。", "page": 5},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "0歳から5歳児まで6年間入所できる認可保育所の整備", "page": 5},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "従事者の労働条件を保証する公契約条例の制定（学童指導員など）", "page": 5},
+    {"block_id": "b07", "kind": "policy", "heading": "地域要求の実現に全力", "verbatim": "東平賀地区の「車の抜け道」対策", "page": 5},
+    {"block_id": "b08", "kind": "policy", "heading": "地域要求の実現に全力", "verbatim": "小金原旧ゆうかり学園跡地（残土置場見直し）", "page": 5},
+    {"block_id": "b09", "kind": "policy", "heading": "地域要求の実現に全力", "verbatim": "北小金駅北口の通路・階段の改善", "page": 5},
+    {"block_id": "b10", "kind": "policy", "heading": "地域要求の実現に全力", "verbatim": "小金城趾駅階段の改善（バリアフリー化）", "page": 5},
+    {"block_id": "b11", "kind": "policy", "heading": "まちづくりは誰のため", "verbatim": "福祉や教育などには「お金がない」といいながら、大型開発は「全部やる」では市民の理解は得られません。", "page": 5},
+    {"block_id": "b12", "kind": "policy", "heading": "まちづくりは誰のため", "verbatim": "東松戸の区画整理事業には12名の地権者が見直しを求めています。", "page": 5},
+    {"block_id": "b13", "kind": "policy", "heading": "まちづくりは誰のため", "verbatim": "新市役所の建替計画が決まっていないのに大規模な造成が進められています。", "page": 5},
+    {"block_id": "b14", "kind": "policy", "heading": null, "verbatim": "子ども、高齢者にやさしく、子育て支援、事業者支援を行う街づくりを進め、誰もが住みやすい街にします。", "page": 5},
+    {"block_id": "b15", "kind": "policy", "heading": null, "verbatim": "9条改憲 軍事費2倍化 岸田自公政治ノー", "page": 5},
+    {"block_id": "b16", "kind": "profile", "heading": null, "verbatim": "1955年千葉市生まれ。5歳から常盤平団地に入居。常盤平第一小、常盤平中、小金高校、東洋大卒。千葉県教員養成所。市内小学校（古ケ崎、松飛台第二、八ケ崎第二、上本郷）35年間勤務。", "page": 5}
+  ],
+  "issues": [
+    "name：大きな文字は「しまむら新一」、その横に小さく「嶋村 しんいち」と併記されている。大きな表記を name とし、kana は かな部分「しまむら」とふりがな「しんいち」をつないだ。小さい併記の扱いは要確認。",
+    "name：大きな文字の「新」と「一」の間に大きな空きがあるが、併記の「しんいち」から1語の「新一」と読んだ。",
+    "slogan：左の帯の「岸田自公政治ノー」も大きいが、文字幅は「学校給食の完全無償化を」の方が大きいと判断した。",
+    "b05：数字の前後の字間（「0 歳」など）、b12 と b16 の「12 名」「5 歳」「35 年間」「1955 年」の字間は組版上の空きと判断し、空白を写していない。",
+    "b06・b08・b10・b16：括弧は紙面では幅の狭い字形で内側に空きがある箇所もあるが、全角の括弧で写し、空白は写していない。",
+    "b06：「保証」は紙面の表記どおり。",
+    "b15：左の帯の文言。縦書きで右の行「9条改憲」、左の行「軍事費2倍化」、続けて大きく「岸田自公政治ノー」の順に読んだ。市政以外の主張だが、政策への立場の表明として policy とした。kind の判断は要確認。",
+    "QRコードの下の「先生足りないトーク」はQRコードの説明と判断し、本文に含めていない。"
+  ]
+}

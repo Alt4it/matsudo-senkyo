@@ -1,0 +1,73 @@
+{
+  "candidate_id": "c014",
+  "order": 14,
+  "name": "ちだたかし",
+  "kana": "ちだたかし",
+  "sort_kana": null,
+  "party": "日本改革党",
+  "career": null,
+  "age": null,
+  "slogan": "平和守れない\n9条廃止",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "other",
+      "achievement": false,
+      "summary": "平和守れない 9条廃止",
+      "heading": null,
+      "verbatim": "平和守れない\n9条廃止",
+      "page": 3
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "外国人生活保護廃止",
+      "heading": null,
+      "verbatim": "外国人生活保護廃止",
+      "page": 3
+    },
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": false,
+      "summary": "スパイ防止法制定",
+      "heading": null,
+      "verbatim": "スパイ防止法制定",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "消費税減税-廃止",
+      "heading": null,
+      "verbatim": "消費税減税-廃止",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "二次元規制反対",
+      "heading": null,
+      "verbatim": "二次元規制反対",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "NHKスクランブル",
+      "heading": null,
+      "verbatim": "NHKスクランブル",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "checked_by": null,
+    "checked_at": null,
+    "changes": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "candidate_id": "c053",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の完全無償化を", "confidence": "high"},
+    {"block_id": "b02", "themes": ["machi"], "achievement": false, "summary": "市役所は現地建て替えで", "confidence": "high"},
+    {"block_id": "b03", "themes": ["keizai"], "achievement": false, "summary": "非正規労働者の賃金アップ", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "市独自の給付型奨学金制度を", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "先生を増やして少人数学級を", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "コミュニティバスを早期に実現", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "ジェンダー平等の社会を", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "高校卒業までの医療費助成", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": true, "summary": "松戸に児童相談所新設(2026年度開所予定)", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": true, "summary": "栄町中堀川沿いの市道の改修。段差を管理者(市)の責任と追及し改善へ", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai", "machi"], "achievement": true, "summary": "危険な盛土による宅地造成中止(大橋地域)", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "国に意見書を上げるのも市議会の仕事", "confidence": "low"},
+    {"block_id": "b13", "themes": ["other", "gyozaisei"], "achievement": false, "summary": "減らない年金への改善、最低賃金を時給1500円に、などを提案", "confidence": "low"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "自公などの反対で否決されている", "confidence": "low"}
+  ],
+  "notes": [
+    "b09：開所は予定だが、見出し「ごいっしょに実現できました」に従い achievement を true とした。",
+    "b12・b14：議会の役割や採決結果の記述で、議会改革そのものではないが、見出し「市民の声を葬る市議会」から行財政とした。",
+    "b13：提案は5項目あり40字に収まらないため、原文の順に先頭2項目を残し、残りは原文の「など」に含めた（オスプレイ配備、改憲、核兵器禁止条約が要約から落ちている）。原文のみの表示とするか人の判断を求めたい。テーマは内容が国政の課題のためその他、市議会での提案のため行財政を併記した。achievement は、提案が否決された記述のため false とした。"
+  ]
+}
