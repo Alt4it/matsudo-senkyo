@@ -1,0 +1,21 @@
+{
+  "candidate_id": "c055",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi", "kosodate"], "achievement": false, "summary": "高すぎる国保税の減免、子どもの均等割り無料化", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "補聴器購入補助の増額", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "タクシー料金の半額補助制度", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "廃止された六実老人福祉センターの代替施設を", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "中学校給食の無償化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "教員不足解消", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "通学道路、生活道路の安全対策", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "小金原団地と総合医療センターを直接結ぶ公共交通機関を", "confidence": "high"}
+  ],
+  "notes": [
+    "b04：国保税の減免と子どもの均等割り無料化の2行。子どもの明記があるため kosodate を2つ目に付けた。「高すぎる」は原文の表現をそのまま残した。",
+    "b06：見出し「高齢者を応援」の下の箇条のため fukushi とした。要約には見出しの対象（高齢者）を補っていない。",
+    "b02「「市役所の現地建て替え」をリード」は kind が message のため分類対象外。"
+  ]
+}

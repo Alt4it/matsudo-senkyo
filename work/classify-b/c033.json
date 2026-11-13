@@ -1,0 +1,30 @@
+{
+  "candidate_id": "c033",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": false, "summary": "引きつづき松戸市財政・経費縮減に取り組む", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi", "gyozaisei"], "achievement": false, "summary": "新庁舎整備で改修工事も併せた複合的な案まで幅広く検討し公表", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei", "fukushi"], "achievement": true, "summary": "病院職員と協議し600床から549床に削減、経費削減に取り組む", "confidence": "low"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": true, "summary": "小中学校の通学路の安全対策で多くの危険箇所の改善を実現", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": true, "summary": "市内交差点、狭隘道路等を整備", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "引き続き道路整備等に取り組む", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "松戸市の行政や市議会の不可解な実態などを追究し報告", "confidence": "high"},
+    {"block_id": "b14", "themes": ["kosodate"], "achievement": false, "summary": "嘘のない「待機児童ゼロ」を必ず実現させたい", "confidence": "high"},
+    {"block_id": "b15", "themes": ["kosodate"], "achievement": true, "summary": "小中学校の完全冷房化を実現", "confidence": "high"},
+    {"block_id": "b16", "themes": ["machi"], "achievement": true, "summary": "下水道施設整備の遅れている地域でも2年前倒しで整備完了", "confidence": "high"},
+    {"block_id": "b17", "themes": ["fukushi", "machi"], "achievement": true, "summary": "市内公園に健康遊具を設置", "confidence": "low"},
+    {"block_id": "b18", "themes": ["fukushi"], "achievement": false, "summary": "歩け歩け・グランドゴルフを引き続き応援", "confidence": "low"},
+    {"block_id": "b19", "themes": ["fukushi"], "achievement": false, "summary": "来年度も高齢者福祉に対する予算の増額を図る", "confidence": "high"},
+    {"block_id": "b20", "themes": ["machi", "fukushi"], "achievement": false, "summary": "各駅バリアフリー100%実現を推進", "confidence": "low"}
+  ],
+  "notes": [
+    "b05：「削減し」（済）と「経費削減に取り組んでいます」（継続中）が同じ文にあるが、今後の約束ではなく既に行った内容の説明として achievement を true にした。false とする余地があり low。テーマは c032 b02 と同じく行財政＋福祉・医療（本文「床」「病院職員」）。",
+    "b08：「危険」「不便」「迷惑」の解消は具体的な施策・対象がないため要約しない。テーマは見出し「防犯・安全対策」による。",
+    "b12：議会・行政の実態の報告を情報公開に近いとみて行財政とした。",
+    "b17：健康遊具（健康づくり）を主に福祉・医療、本文の「公園」から2つ目にまちづくり・交通を付けた。",
+    "b18：本文はスポーツ（その他）とも読めるが、見出し「医療・福祉の充実」と合わせて健康づくりとして福祉・医療にした。low。",
+    "b20：本文の「各駅」からまちづくり・交通、バリアフリーと見出しから福祉・医療を付けた。主従に迷った。"
+  ]
+}

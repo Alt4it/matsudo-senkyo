@@ -1,0 +1,21 @@
+{
+  "candidate_id": "c031",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": false, "summary": "「市民の・役立つ・所」を徹底し、行財政改革", "confidence": "low"},
+    {"block_id": "b02", "themes": ["machi", "keizai"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b06", "themes": ["keizai"], "achievement": false, "summary": "松戸のポテンシャルを引き出し、企業育成・誘致を図る", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b01: 「行財政改革」の具体的な中身は書かれていないが、方針の語が明記されているため原文のままを要約とした。空要約とする判断もあり得る。",
+    "b02〜b05・b07: 具体的な施策・対象・数値・期限が書かれていない抽象的な公約のため要約しない。",
+    "b02: 本文に「利便性向上」と「経済が発展する基盤」が明記されているため、まちづくり・交通と経済・産業の2テーマとした。",
+    "b05: 本文に防災・防犯の語はなく、見出し「防災・防犯」に従って防災・安全とした。",
+    "b07: 「住んで、来て、楽しめる街」は見出し「賑わいのある街」に沿うもの。まちづくり・交通としたが、経済・産業（観光）とする判断もあり得る。"
+  ]
+}

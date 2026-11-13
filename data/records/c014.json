@@ -1,0 +1,217 @@
+{
+  "candidate_id": "c014",
+  "order": 14,
+  "name": "戸張ともこ",
+  "kana": "とばりともこ",
+  "sort_kana": null,
+  "party": "立憲民主党",
+  "career": null,
+  "age": null,
+  "slogan": "安心・安全な街へ全力で挑む！",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "命を守る。暮らしを支える。支援が届く松戸へ。",
+      "verbatim": "災害のときに避難できること。",
+      "page": 2
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "命を守る。暮らしを支える。支援が届く松戸へ。",
+      "verbatim": "困ったときに相談できること。",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "命を守る。暮らしを支える。支援が届く松戸へ。",
+      "verbatim": "年齢や家庭の事情が変わっても、必要な支援が続くこと。",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "命を守る。暮らしを支える。支援が届く松戸へ。",
+      "verbatim": "市民の声と現場の実情をもとに、防災・福祉・子育てをつなぐまちづくりを進めます！",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "命を守る。暮らしを支える。支援が届く松戸へ。",
+      "verbatim": "市民の声と現場の実情をもとに、防災・福祉・子育てをつなぐまちづくりを進めます！",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "一人で避難できない方に、実際に動ける支援",
+      "verbatim": "誰が・いつ・どこへ・どう支援するか具体化",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "福祉専門職と地域が連携し、移動手段と受入先を確認",
+      "heading": "一人で避難できない方に、実際に動ける支援",
+      "verbatim": "福祉専門職と地域が連携し、移動手段と受入先を確認",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "福祉専門職と地域が連携し、移動手段と受入先を確認",
+      "heading": "一人で避難できない方に、実際に動ける支援",
+      "verbatim": "福祉専門職と地域が連携し、移動手段と受入先を確認",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "訓練で確かめ、支援する側の安全も守る",
+      "heading": "一人で避難できない方に、実際に動ける支援",
+      "verbatim": "訓練で確かめ、支援する側の安全も守る",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "水・道路冠水の発生場所と原因を検証",
+      "heading": "豪雨被害を繰り返さない地域ごとの浸水対策",
+      "verbatim": "水・道路冠水の発生場所と原因を検証",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "河川・水路・雨水排水対策で国・県と連携",
+      "heading": "豪雨被害を繰り返さない地域ごとの浸水対策",
+      "verbatim": "河川・水路・雨水排水対策で国・県と連携",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "整備の優先順位と進捗を公表し、避難情報も改善",
+      "heading": "豪雨被害を繰り返さない地域ごとの浸水対策",
+      "verbatim": "整備の優先順位と進捗を公表し、避難情報も改善",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "18歳・65歳の節目や親亡き後も支援を引き継ぐ",
+      "heading": "年齢や家族の事情が変わっても、支援が続く仕組み",
+      "verbatim": "18歳・65歳の節目や親亡き後も支援を引き継ぐ",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "年齢や家族の事情が変わっても、支援が続く仕組み",
+      "verbatim": "デジタル化で取り残される人を守る",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "年齢や家族の事情が変わっても、支援が続く仕組み",
+      "verbatim": "デジタル化で取り残される人を守る",
+      "page": 2
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "相談だけで終わらせず、支援につながったか確認",
+      "heading": "年齢や家族の事情が変わっても、支援が続く仕組み",
+      "verbatim": "相談だけで終わらせず、支援につながったか確認",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "不登校や生きづらさを抱える人が安心できる居場所",
+      "heading": "子どもの学びと居場所を守り、家庭を支える",
+      "verbatim": "不登校や生きづらさを抱える人が安心できる居場所",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "ひとり親家庭・ヤングケアラーへの支援",
+      "heading": "子どもの学びと居場所を守り、家庭を支える",
+      "verbatim": "ひとり親家庭・ヤングケアラーへの支援",
+      "page": 2
+    },
+    {
+      "block_id": "b16",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子どもの学びと居場所を守り、家庭を支える",
+      "verbatim": "本人と保護者の声を大切にする",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所のトイレ・プライバシー・乳幼児・アレルギー対応",
+      "heading": "災害時にも、日常にも、頼れる市役所へ",
+      "verbatim": "避難所のトイレ・プライバシー・乳幼児・アレルギー対応",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "建て替え中も相談・手続きを継続",
+      "heading": "災害時にも、日常にも、頼れる市役所へ",
+      "verbatim": "建て替え中も相談・手続きを継続",
+      "page": 2
+    },
+    {
+      "block_id": "b19",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "費用・工程・変更理由を示し、将来の負担を点検",
+      "heading": "災害時にも、日常にも、頼れる市役所へ",
+      "verbatim": "費用・工程・変更理由を示し、将来の負担を点検",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

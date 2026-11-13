@@ -1,0 +1,19 @@
+{
+  "candidate_id": "c037",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "給食費無償化の安定的継続、第２子以降の保育料無償化、進学時の負担軽減", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "エリア分けをして中学校部活動の地域クラブへの移行を目指す", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "市内全小中学校へ水道直結型ウォーターサーバーの早期設置", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate", "machi"], "achievement": false, "summary": "サッカーや野球などのボール遊びができる公園づくり", "confidence": "low"}
+  ],
+  "notes": [
+    "b05：「子供達の安全を第一に。」は具体的な施策・対象がないため要約しない。見出し「教育環境のインフラ改善」から子育て・教育としたが、防災・安全とも読め low。",
+    "b06・b09：要約の「中学校部活動」「市内全小中学校へ水道直結型ウォーターサーバー」は見出しの語をそのまま使った。",
+    "b10：「子供達にもっと自由を！」は抽象的な公約のため要約しない。",
+    "b11：見出し「子供達の遊び場アップデート」から子育て・教育、本文の「公園づくり」からまちづくり・交通を付けた。主従に迷った。"
+  ]
+}

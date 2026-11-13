@@ -1,0 +1,29 @@
+{
+  "candidate_id": "c058",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [8], "position": "1段目右"},
+  "name": "野村雅之",
+  "kana": "のむらまさゆき",
+  "party": "無所属",
+  "age": null,
+  "career": null,
+  "slogan": "私は松戸を骨まで愛しています",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": "2040年問題は待ったなし！", "verbatim": "高齢者人口ピーク時に対応する条例の制定", "page": 8},
+    {"block_id": "b02", "kind": "policy", "heading": "2040年問題は待ったなし！", "verbatim": "高齢者住宅を旧法務局跡地に建設する提言", "page": 8},
+    {"block_id": "b03", "kind": "policy", "heading": "地球温暖化を止める！", "verbatim": "冠水対策推進とハザードマップの見直し", "page": 8},
+    {"block_id": "b04", "kind": "policy", "heading": "地球温暖化を止める！", "verbatim": "公共交通推進とSDGsの積極的な啓発", "page": 8},
+    {"block_id": "b05", "kind": "policy", "heading": "教育の全面的見直し！", "verbatim": "松戸市の学校選択制の見直し", "page": 8},
+    {"block_id": "b06", "kind": "policy", "heading": "教育の全面的見直し！", "verbatim": "400以上の雨漏り校舎の早期修繕", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": "争いごとをなくす！", "verbatim": "世界平和都市宣言（1985）の再確認", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": "争いごとをなくす！", "verbatim": "松戸市から国や県への平和メッセージの発信", "page": 8},
+    {"block_id": "b09", "kind": "message", "heading": null, "verbatim": "これからも命を懸けてお守りします", "page": 8},
+    {"block_id": "b10", "kind": "profile", "heading": "プロフィール", "verbatim": "●1958年富山県生まれ 常盤平団地在住28年\n●日本体育大学体育学部社会体育学科卒業。\n●教師生活35年。\n●アスリート時代はバドミントン国体選手として活躍。\n●母（91歳）の介護中\n●エッセイスト", "page": 8},
+    {"block_id": "b11", "kind": "profile", "heading": null, "verbatim": "コロナ禍よりボランティア清掃を毎朝実施", "page": 8}
+  ],
+  "issues": [
+    "政策4項目の上に「政策」という総見出しの帯があるが、ブロックにはしていない。",
+    "各見出し末尾の「!」は幅の狭い字形に見えるが、全角「！」で記した。",
+    "b11はイラスト下の説明文。",
+    "年齢の記載なし（1958年生まれの記載のみ。計算していない）。議員歴の記載なし。"
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "candidate_id": "c042",
+  "order": 42,
+  "name": "原ゆうじ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "平成22年松戸市議会議員初当選、以降4期連続当選",
+  "age": null,
+  "slogan": "無駄を省き、財源確保&借金に頼らず街も人も元気に!",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市役所建て替えは現地建て替えと既存建物の活用で150億円以上の削減を",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "市役所建て替え事業 現地建て替え&既存建物の活用で150億円以上の削減を!",
+      "page": 6
+    },
+    {
+      "block_id": "b01",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市役所建て替えは現地建て替えと既存建物の活用で150億円以上の削減を",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "市役所建て替え事業 現地建て替え&既存建物の活用で150億円以上の削減を!",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "移転建て替えから現地建て替えの推進で55億円の削減",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "移転建て替え（712億円）→現地建て替え（657億円）推進で55億円の削減",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "移転建て替えから現地建て替えの推進で55億円の削減",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "移転建て替え（712億円）→現地建て替え（657億円）推進で55億円の削減",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "耐震性に問題のない別館、議会棟の継続使用で更に100億円以上の削減",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "耐震性に問題のない別館、議会棟の継続使用で更に100億円以上の削減",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "耐震性に問題のない別館、議会棟の継続使用で更に100億円以上の削減",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "耐震性に問題のない別館、議会棟の継続使用で更に100億円以上の削減",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "合計で150億円以上の削減を目指す",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "①②合計で150億円以上の削減を目指します!",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新松戸駅東側区画整理事業で市が建てる14階建てマンションの販売計画の見直し",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "新松戸駅東側区画整理事業（松戸市施行）\n市が建てる14階建てマンションの販売計画の見直し",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "赤字販売は許さない、販売計画の見直しを",
+      "heading": "大型事業の見直し:最重要政策!",
+      "verbatim": "赤字販売は許さない!販売計画の見直しを!",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "入札改革、随意契約の見直し、防犯カメラ付き防犯灯で初期費用を10分の1に",
+      "heading": "行政改革の断行&収入増加策の実施",
+      "verbatim": "行政改革の断行!\n入札改革!ごみ収集事業など随意契約の見直し\n防犯カメラ付き防犯灯の導入で、初期費用を10分の1に!",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "入札改革、随意契約の見直し、防犯カメラ付き防犯灯で初期費用を10分の1に",
+      "heading": "行政改革の断行&収入増加策の実施",
+      "verbatim": "行政改革の断行!\n入札改革!ごみ収集事業など随意契約の見直し\n防犯カメラ付き防犯灯の導入で、初期費用を10分の1に!",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市有車を週末に市民へ貸し出し、ネーミングライツ導入など広告事業を強化",
+      "heading": "行政改革の断行&収入増加策の実施",
+      "verbatim": "収入増加策の実施\n市有車を週末、市民へ貸し出し（カーシェアリング）\n広告事業の強化!ネーミングライツ（命名権）導入など",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "PPA事業で太陽光発電設備&蓄電池の無料設置を市施設（避難所）へ拡大",
+      "heading": "一石三鳥 環境&経済性&災害対策の再エネ導入!",
+      "verbatim": "*PPA事業による市施設への太陽光発電設備&蓄電池の無料設置を拡大\n現在市内小中学校23校に設置済（原ゆうじ提案が実現）\n→さらに市施設（避難所）へ設置拡大を目指します。\n（*PPA事業とは?事業者が設備を無料設置、発電された電気を市が購入）",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "PPA事業で太陽光発電設備&蓄電池の無料設置を市施設（避難所）へ拡大",
+      "heading": "一石三鳥 環境&経済性&災害対策の再エネ導入!",
+      "verbatim": "*PPA事業による市施設への太陽光発電設備&蓄電池の無料設置を拡大\n現在市内小中学校23校に設置済（原ゆうじ提案が実現）\n→さらに市施設（避難所）へ設置拡大を目指します。\n（*PPA事業とは?事業者が設備を無料設置、発電された電気を市が購入）",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "地域電力会社を設立し新ごみ焼却炉の電気を市内施設へ、カーボンゼロ前倒し",
+      "heading": "一石三鳥 環境&経済性&災害対策の再エネ導入!",
+      "verbatim": "自治体（地域）電力会社の設立を!\n地域電力会社を設立し、新ごみ焼却炉で発電される電気を市内施設へ送電\n電気の地産地消&カーボンゼロの達成を2050年より前倒しして達成します。",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "CO2と電気量の削減、避難所の非常電源確保を達成",
+      "heading": "一石三鳥 環境&経済性&災害対策の再エネ導入!",
+      "verbatim": "アイディアでCO2&電気量削減&避難所の非常電源確保を達成!",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "CO2と電気量の削減、避難所の非常電源確保を達成",
+      "heading": "一石三鳥 環境&経済性&災害対策の再エネ導入!",
+      "verbatim": "アイディアでCO2&電気量削減&避難所の非常電源確保を達成!",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "21世紀の森と広場、ペットエリアの増設",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "21世紀の森と広場、ペットエリアの増設で人もペットも元気に!",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": false,
+      "summary": "21世紀の森と広場、ペットエリアの増設",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "21世紀の森と広場、ペットエリアの増設で人もペットも元気に!",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "theme": "other",
+      "achievement": false,
+      "summary": "運動公園野球場を硬式球使用可能な球場へ改装（防球ネットを10m高く）",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "運動公園野球場（現状:軟式野球場）を硬式球使用可能な球場へ改装（防球ネットを10m高く）\n50万人の街にふさわしい高校野球の試合が可能な球場に!",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "運動公園野球場を硬式球使用可能な球場へ改装（防球ネットを10m高く）",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "運動公園野球場（現状:軟式野球場）を硬式球使用可能な球場へ改装（防球ネットを10m高く）\n50万人の街にふさわしい高校野球の試合が可能な球場に!",
+      "page": 6
+    },
+    {
+      "block_id": "b16",
+      "theme": "other",
+      "achievement": false,
+      "summary": "室内公式50mプール、室内運動場、室内こどもの遊び場の設置",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "室内公式50mプール&室内運動場（グランドゴルフ等に使用）&室内こどもの遊び場の設置",
+      "page": 6
+    },
+    {
+      "block_id": "b16",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "室内公式50mプール、室内運動場、室内こどもの遊び場の設置",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "室内公式50mプール&室内運動場（グランドゴルフ等に使用）&室内こどもの遊び場の設置",
+      "page": 6
+    },
+    {
+      "block_id": "b17",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者の外出支援にバス運賃半額、タクシー料金助成制度の導入を",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "更なる高齢者の外出支援策の充実を!バス、タクシー料金助成制度導入を!\n65歳以上:バス運賃半額制度（新潟市で実施）\n75歳以上:タクシー料金助成500円チケット配布（市川市で実施）",
+      "page": 6
+    },
+    {
+      "block_id": "b17",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "高齢者の外出支援にバス運賃半額、タクシー料金助成制度の導入を",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "更なる高齢者の外出支援策の充実を!バス、タクシー料金助成制度導入を!\n65歳以上:バス運賃半額制度（新潟市で実施）\n75歳以上:タクシー料金助成500円チケット配布（市川市で実施）",
+      "page": 6
+    },
+    {
+      "block_id": "b18",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食の早期完全無償化を",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "学校給食の早期完全無償化を!",
+      "page": 6
+    },
+    {
+      "block_id": "b19",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保育所保育料の第2子以降の無料化を",
+      "heading": "街も人も元気に! 活気ある元気な松戸を目指します!",
+      "verbatim": "保育所保育料の第2子以降の無料化を!（山梨県北杜市で実施）",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

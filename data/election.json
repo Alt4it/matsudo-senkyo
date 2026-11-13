@@ -2,12 +2,12 @@
   "name": "松戸市議会議員一般選挙",
   "date": "投票日 2026年11月15日",
   "sourceNote": "出典：松戸市選挙管理委員会 選挙公報（令和8年11月15日執行）",
-  "sourceUrl": null,
-  "voteInfoUrl": null,
-  "operator": null,
-  "contact": null,
+  "sourceUrl": "https://www.city.matsudo.chiba.jp/shisei/senkyo/matsudo_gikai/senkyokouhou.html",
+  "voteInfoUrl": "https://www.city.matsudo.chiba.jp/shisei/senkyo/matsudo_gikai/index.html",
+  "operator": "小林",
+  "contact": "97typemuro@gmail.com",
   "trial": false,
   "trialNote": "",
-  "orderLabel": "届出",
+  "orderLabel": "掲載",
   "pageOffset": 0
 }

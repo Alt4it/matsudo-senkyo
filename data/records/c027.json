@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c027",
+  "order": 27,
+  "name": "川井きよまさ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "国民民主党",
+  "career": "元 松戸市議会議員",
+  "age": null,
+  "slogan": "地域の現場から市政を。",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者の移動・外出を支える",
+      "heading": "福祉　誰もが安心して暮らせる松戸へ。",
+      "verbatim": "高齢者の移動・外出を支える",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "福祉　誰もが安心して暮らせる松戸へ。",
+      "verbatim": "孤立のない地域づくり",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "地域の相談・支援体制を強化",
+      "heading": "福祉　誰もが安心して暮らせる松戸へ。",
+      "verbatim": "地域の相談・支援体制を強化",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害時の「逃げ遅れゼロ」へ",
+      "heading": "防災　地域の力で、命を守る松戸へ。",
+      "verbatim": "災害時の「逃げ遅れゼロ」へ",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所をもっと安心・快適に",
+      "heading": "防災　地域の力で、命を守る松戸へ。",
+      "verbatim": "避難所をもっと安心・快適に",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "地域防災の担い手を増やす",
+      "heading": "防災　地域の力で、命を守る松戸へ。",
+      "verbatim": "地域防災の担い手を増やす",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "市内危険箇所の改善",
+      "heading": "くらし　身近な困りごとを、着実に解決。",
+      "verbatim": "市内危険箇所の改善",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯対策でもっと安心な街へ",
+      "heading": "くらし　身近な困りごとを、着実に解決。",
+      "verbatim": "防犯対策でもっと安心な街へ",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "",
+      "heading": "くらし　身近な困りごとを、着実に解決。",
+      "verbatim": "物価高からくらしを守る",
+      "page": 4
+    },
+    {
+      "block_id": "b12",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市民目線でムダをチェック",
+      "heading": "財政　ムダを省き、必要なところへ。",
+      "verbatim": "市民目線でムダをチェック",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "国・県のお金をしっかり活用",
+      "heading": "財政　ムダを省き、必要なところへ。",
+      "verbatim": "国・県のお金をしっかり活用",
+      "page": 4
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "財政　ムダを省き、必要なところへ。",
+      "verbatim": "将来にツケを残さない財政へ",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

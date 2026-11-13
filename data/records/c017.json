@@ -1,0 +1,154 @@
+{
+  "candidate_id": "c017",
+  "order": 17,
+  "name": "岩瀬まり",
+  "kana": "いわせまり",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "市議3期",
+  "age": null,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "市立中学の女子生徒のスラックス選択制度を提案、20校中18校で実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "令和元年6月議会で市立中学の女子生徒のスラックス選択制度を提案。現在20校中18校で実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b02",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "通学路等の防犯カメラを今後5年計画で順次1000台追加",
+      "heading": "岩瀬まりが実現します*!*",
+      "verbatim": "通学路等の防犯カメラを今後5年計画で順次1000台追加。",
+      "page": 3
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "ヤングケアラー相談体制の強化、コーディネーター配置の推進",
+      "heading": "岩瀬まりが実現します*!*",
+      "verbatim": "ヤングケアラー相談体制強化、コーディネーター配置の推進。",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "女性の社会的自立へ「子育て支援の充実・ジェンダーギャップの是正」に挑む",
+      "heading": "岩瀬まりが実現します*!*",
+      "verbatim": "女性の社会的自立へ「子育て支援の充実・ジェンダーギャップの是正」に挑む。",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "女性の社会的自立へ「子育て支援の充実・ジェンダーギャップの是正」に挑む",
+      "heading": "岩瀬まりが実現します*!*",
+      "verbatim": "女性の社会的自立へ「子育て支援の充実・ジェンダーギャップの是正」に挑む。",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "小学校通学路等への防犯カメラ設置を要請、318台の設置が実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "平成26年12月議会で小学校通学路等に防犯カメラ設置を要請。現在318台の設置が実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "放課後児童クラブの夏休み弁当発注方式を提案、小学校全校で実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "令和元年9月議会で放課後児童クラブの夏休み弁当発注方式を提案。現在小学校全校で実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "小中学校での水害授業を提案、小学11校、中学7校で水害防災授業が実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "令和元年9月議会で小中学校での水害授業を提案。小学11校、中学7校で水害防災授業が実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "小中学校での水害授業を提案、小学11校、中学7校で水害防災授業が実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "令和元年9月議会で小中学校での水害授業を提案。小学11校、中学7校で水害防災授業が実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "theme": "other",
+      "achievement": true,
+      "summary": "市内19ヶ所、小中学校65校、松戸駅トイレへの生理用品設置を要望し実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "令和3年3月議会で要望し市内19ヶ所、小中学校65校、松戸駅トイレに生理用品設置が実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "市内19ヶ所、小中学校65校、松戸駅トイレへの生理用品設置を要望し実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "令和3年3月議会で要望し市内19ヶ所、小中学校65校、松戸駅トイレに生理用品設置が実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b10",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "市民課に親族死亡の行政手続きを１ヶ所で行える「おくやみコーナー」実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "2度議会質問し市民課に親族死亡の行政手続きが１ヶ所で行える「おくやみコーナー」実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "がん治療が起因のウイッグ(上限3万)、胸部補正具(上限2万)の助成を実現",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "令和5年3月質問でがん治療が起因のウイッグ(上限3万)、胸部補正具(上限2万)の助成を実現。",
+      "page": 3
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "多胎妊婦健診助成19回に。妊婦タクシー券(20回まで)助成実現。骨密度検査の土曜日実施。搾乳マーク51ヶ所掲示。無戸籍者相談窓口設置。栄町西3丁目排水ポンプ揚水能力3.2倍に増強。",
+      "page": 3
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "",
+      "heading": "岩瀬まりが実現しました！",
+      "verbatim": "多胎妊婦健診助成19回に。妊婦タクシー券(20回まで)助成実現。骨密度検査の土曜日実施。搾乳マーク51ヶ所掲示。無戸籍者相談窓口設置。栄町西3丁目排水ポンプ揚水能力3.2倍に増強。",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

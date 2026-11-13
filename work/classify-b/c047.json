@@ -1,0 +1,15 @@
+{
+  "candidate_id": "c047",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "松戸メディカル・リゾート構想、命と健康を守る医療・自然特区へ", "confidence": "high"},
+    {"block_id": "b04", "themes": ["keizai"], "achievement": false, "summary": "松戸フードパーク構想、農の恵みを利益に変える稼ぐ拠点", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "松戸CORE構想、AI時代を勝ち抜く次世代教育特区", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：「使う行政」から「稼ぐ行政」へは具体的な施策・対象・数値がない方針のため要約しない。",
+    "b03〜b05：図（矢印）の中の文字だが、構想名と説明が文字で書かれており図の解釈なしに要約できるため要約した。b04 の「最強の」は字数とは関係なく省いた（評価語を足してはいない）。b03 は本文に「自然」もあるが、環境は付けていない。"
+  ]
+}

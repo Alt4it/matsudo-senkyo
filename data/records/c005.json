@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c005",
+  "order": 5,
+  "name": "DELI",
+  "kana": "でり",
+  "sort_kana": null,
+  "party": null,
+  "career": "松戸市議会議員3期",
+  "age": 51,
+  "slogan": "当たり前のことを一歩ずつ",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "倒壊の恐れのある市役所の建て替えが現地建て替えで決着",
+      "heading": "市役所の現地建て替えに尽力",
+      "verbatim": "大地震が来たら倒壊する恐れのある市役所の建て替え問題が、安全性・経済性・利便性の面で有利な現地建て替えで決着",
+      "page": 1
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "",
+      "heading": "新松戸駅快速停車事業は休止の方向へ",
+      "verbatim": "10年で1.2億円の調査費を使った事業ですが、将来的な見通しが立たず休止の方向へ",
+      "page": 1
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "大規模災害時の「遺体収容所運営」訓練が実現",
+      "verbatim": "引き続き警察や市の職員などで訓練を重ね、より実効性の高いマニュアルを作成していく予定",
+      "page": 1
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "",
+      "heading": "コロナ後遺症リーフレット作成に尽力",
+      "verbatim": "コロナ後遺症の治療経験豊富な医師監修のもと作成",
+      "page": 1
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": true,
+      "summary": "XP開催や古ヶ崎河川敷の本格的スケートボードパーク誕生に尽力",
+      "heading": "パークスポーツの環境整備に尽力",
+      "verbatim": "XP開催や古ヶ崎河川敷の本格的スケートボードパーク誕生に尽力",
+      "page": 1
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "XP開催や古ヶ崎河川敷の本格的スケートボードパーク誕生に尽力",
+      "heading": "パークスポーツの環境整備に尽力",
+      "verbatim": "XP開催や古ヶ崎河川敷の本格的スケートボードパーク誕生に尽力",
+      "page": 1
+    },
+    {
+      "block_id": "b13",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "大型事業は費用対効果を厳格に数値化し、将来の財政負担を見極める必要",
+      "heading": null,
+      "verbatim": "今後の大型事業については、費用対効果を厳格に数値化し、将来市民に及ぼす財政負担を見極める必要があります。",
+      "page": 1
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "そのために、次の4年間は、市議会が、よりチェック機能を果たすことが求められます。",
+      "page": 1
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

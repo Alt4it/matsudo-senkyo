@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c022",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [3], "position": "3段目右"},
+  "name": "ミールかずえ",
+  "kana": "ミールかずえ",
+  "party": "日本共産党",
+  "age": null,
+  "career": "松戸市議2期",
+  "slogan": "「市民の命と暮らし最優先の松戸市」をご一緒に",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "松戸新市長初の予算は40.9億円の市民負担増！（県水道値上げを含む）", "page": 3},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "住民の福祉切り捨て予算に日本共産党以外の政党・会派が賛成し可決してしまいました。", "page": 3},
+    {"block_id": "b03", "kind": "policy", "heading": "待ったなしの改革を", "verbatim": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充", "page": 3},
+    {"block_id": "b04", "kind": "policy", "heading": "待ったなしの改革を", "verbatim": "高すぎる国保税の減免\n子どもの均等割り無料化", "page": 3},
+    {"block_id": "b05", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "国道464号の歩道整備", "page": 3},
+    {"block_id": "b06", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "市営住宅の増設", "page": 3},
+    {"block_id": "b07", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "公共交通の充実", "page": 3},
+    {"block_id": "b08", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "矢切の耕地の保全", "page": 3},
+    {"block_id": "b09", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "公園新設と施設整備", "page": 3},
+    {"block_id": "b10", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "中学校給食の無償化", "page": 3},
+    {"block_id": "b11", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "教員不足解消", "page": 3},
+    {"block_id": "b12", "kind": "policy", "heading": "働く人を応援", "verbatim": "保育・介護労働者の賃金アップ", "page": 3},
+    {"block_id": "b13", "kind": "policy", "heading": "働く人を応援", "verbatim": "公契約条例で公共事業労働者の賃金アップ", "page": 3},
+    {"block_id": "b14", "kind": "profile", "heading": null, "verbatim": "1969年東京生まれ、都立大学法学部卒。「法テラス」神奈川で総務課長等を歴任し24年間で2万件の相談を解決につなぐ。松戸市議2期。松戸新田在住、家族は国際結婚の夫と二人の息子。", "page": 3},
+    {"block_id": "b15", "kind": "message", "heading": null, "verbatim": "「力の支配」にNO!　反戦平和をつらぬいて104年「日本共産党」", "page": 3},
+    {"block_id": "b16", "kind": "message", "heading": null, "verbatim": "災害対策、くらし・営業、医療・福祉、公共交通、・・・　みなさんの願いにこたえます", "page": 3}
+  ],
+  "issues": [
+    "氏名はカタカナ「ミール」＋ひらがな「かずえ」でふりがなはない。kana は氏名のかな部分をそのまま「ミールかずえ」とした（ひらがなへの変換はしていない。並べ替え用の扱いは人の判断を）。",
+    "年齢の記載なし（「1969年東京生まれ」のみ）。計算せず age は null。",
+    "b04：◎の箇条1つの中に「高すぎる国保税の減免」「子どもの均等割り無料化」の2行がある。箇条単位で1ブロックにした。",
+    "b01 は施策のない現状説明、b02 はイラストの吹き出しの文。いずれも message とした。",
+    "b15「NO!」の「!」は半角に見える。b16「・・・」は中黒3つの点線として写した（三点リーダーの可能性あり）。",
+    "左列（待ったなしの改革を／地域の願い）→右列（どの子も／働く人）の順に並べた。紙面上の読み順は明示されていない。"
+  ]
+}

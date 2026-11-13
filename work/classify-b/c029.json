@@ -1,0 +1,24 @@
+{
+  "candidate_id": "c029",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi", "kosodate"], "achievement": false, "summary": "高すぎる国保税を減免し子どもの均等割り無料化", "confidence": "low"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "高齢者のタクシー料金半額補助", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "補聴器購入補助の増額", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "年金で入れる特養ホーム", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "中学校給食の無償化（昨年度無料だった給食費を再び無料に）", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "常盤平第一小学校廃止の中止", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "牧の原中学校の通学路に横断歩道設置", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "八ケ崎・三ケ月・常盤平にコミュニティバスを", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "馬橋駅東口の駅前広場と県道の拡幅", "confidence": "high"},
+    {"block_id": "b14", "themes": ["bousai"], "achievement": false, "summary": "明市民センター前に横断歩道を", "confidence": "high"}
+  ],
+  "notes": [
+    "短い箇条はすべて原文に近いまま要約とした。",
+    "b04：c022 b03 とほぼ同じ文面のため、同じテーマ・同じ要約にした。",
+    "b05：国保税（医療保険）を fukushi、子どもの均等割りを kosodate とした（c022 b04 と同じ扱い）。国保税は市の税として gyozaisei とみる余地もある。",
+    "b11・b14：通学路・横断歩道を交通安全として bousai とした。"
+  ]
+}

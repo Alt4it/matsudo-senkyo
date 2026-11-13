@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c049",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [7], "position": "1段目左"},
+  "name": "竹内さちえ",
+  "kana": "たけうちさちえ",
+  "party": "無所属",
+  "age": null,
+  "career": "市議会議員補欠選挙(定数1名)で初当選",
+  "slogan": "政治は生活",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "あなたと創る、生きごこちのよいまち", "page": 7},
+    {"block_id": "b02", "kind": "message", "heading": "竹内さちえ 3つの視点", "verbatim": "今を生きる人も幸せに。未来を生きる人も幸せに。", "page": 7},
+    {"block_id": "b03", "kind": "policy", "heading": "子どもは未来 子どものことからはじめよう", "verbatim": "子どもの権利をすべての政策の真ん中に", "page": 7},
+    {"block_id": "b04", "kind": "policy", "heading": "子どもは未来 子どものことからはじめよう", "verbatim": "「教育」は地域と育む「共育」へ", "page": 7},
+    {"block_id": "b05", "kind": "policy", "heading": "子どもは未来 子どものことからはじめよう", "verbatim": "隠れ教育費にメス！教育の無償化を", "page": 7},
+    {"block_id": "b06", "kind": "policy", "heading": "子どもは未来 子どものことからはじめよう", "verbatim": "先生が安心して働ける学校へ", "page": 7},
+    {"block_id": "b07", "kind": "policy", "heading": "子どもは未来 子どものことからはじめよう", "verbatim": "若者が未来を描けるまちへ", "page": 7},
+    {"block_id": "b08", "kind": "policy", "heading": "未来にツケを残さない 責任ある市政を", "verbatim": "お金のツケを残さない", "page": 7},
+    {"block_id": "b09", "kind": "policy", "heading": "未来にツケを残さない 責任ある市政を", "verbatim": "環境のツケを残さない", "page": 7},
+    {"block_id": "b10", "kind": "policy", "heading": "未来にツケを残さない 責任ある市政を", "verbatim": "災害のリスクを先送りしない", "page": 7},
+    {"block_id": "b11", "kind": "policy", "heading": "未来にツケを残さない 責任ある市政を", "verbatim": "分断や生きづらさを残さない", "page": 7},
+    {"block_id": "b12", "kind": "policy", "heading": "市民とともにつくる 対話の市政を", "verbatim": "議会をもっと身近に", "page": 7},
+    {"block_id": "b13", "kind": "policy", "heading": "市民とともにつくる 対話の市政を", "verbatim": "委員会もインターネット中継を", "page": 7},
+    {"block_id": "b14", "kind": "policy", "heading": "市民とともにつくる 対話の市政を", "verbatim": "市民の声が届く議会へ", "page": 7},
+    {"block_id": "b15", "kind": "message", "heading": null, "verbatim": "Webで政策チラシ公開中！解説動画も！", "page": 7},
+    {"block_id": "b16", "kind": "profile", "heading": null, "verbatim": "市民の皆さまとの対話を大切にしています。「まちのおしゃべり会」開催60回を突破", "page": 7},
+    {"block_id": "b17", "kind": "message", "heading": null, "verbatim": "補欠選挙から1年半。積み重ねを、2期目へ", "page": 7},
+    {"block_id": "b18", "kind": "message", "heading": null, "verbatim": "生粋の 無所属 無党派", "page": 7},
+    {"block_id": "b19", "kind": "profile", "heading": "PROFILE", "verbatim": "1974年1月生まれ｜神奈川県横浜市出身｜松戸居住歴26年(馬橋→小金原)\n神奈川県立光陵高等学校卒｜白百合女子大学文学部児童文化学科卒\n高3・中3・中1の母、5人家族｜正社員・専業主婦・パート・派遣社員を経験\n昨年6月、市長選と同時に行われた市議会議員補欠選挙(定数1名)で初当選", "page": 7}
+  ],
+  "issues": [
+    "career：議員歴を示す語句として PROFILE の「市議会議員補欠選挙(定数1名)で初当選」を採った。ほかに「補欠選挙から1年半。積み重ねを、2期目へ」（b17）もあり、どちらを採るか要判断。",
+    "年齢の記載なし（「1974年1月生まれ」はあるが計算していない）。",
+    "見出しの番号「1」「2」「3」は除いた。各見出しは2行（例：「子どもは未来」＋「子どものことからはじめよう」）で、半角スペースでつないだ。",
+    "b02 の heading「竹内さちえ 3つの視点」は3本の柱を束ねる見出しで、その横に「今を生きる人も幸せに。未来を生きる人も幸せに。」がある。束ね見出しは各政策の heading に含めていない。",
+    "b05・b13 は2行で書かれた1項目をつないだ（「隠れ教育費にメス！」の後に改行あり）。",
+    "b18「生粋の 無所属 無党派」は「無所属」「無党派」がそれぞれ枠で囲まれている。間の空白は枠の区切りを表すために入れた。",
+    "b15 はQRコード横の案内。QRコードとその矢印付きラベル「ホームページ」「動画・SNSなど」は本文に含めていない。",
+    "PROFILE の「高3・中3・中1」「正社員・専業主婦・パート・派遣社員」の中点は小さく、半角の「･」の可能性がある。全角「・」で書いた。括弧は半角に見えるため半角にした。"
+  ]
+}

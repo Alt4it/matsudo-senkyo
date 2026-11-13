@@ -1,0 +1,64 @@
+{
+  "candidate_id": "c018",
+  "order": 18,
+  "name": "西沢つよし",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 25,
+  "slogan": "25歳の挑戦！",
+  "policies": [
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "現場の身近な課題をサポート！",
+      "verbatim": "道路・公園の使いにくさ、子育て・介護の悩み、行政手続きの分かりにくさなど、身近なお困りごとに耳を傾け、現場へ足を運びます。",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "担当部署へつなぐだけでなく経過まで確認し、共通する課題は制度改善につなげる",
+      "heading": "現場の身近な課題をサポート！",
+      "verbatim": "担当部署へつなぐだけでなく経過まで確認し、共通する課題は制度改善につなげます。",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "子どもから高齢者まで地域スポーツに気軽に参加できる機会を広げる",
+      "heading": "スポーツの力で松戸を元気に！",
+      "verbatim": "20年以上のサッカー経験やサッカーを通じた国際活動、児童養護施設訪問の経験を活かし、子どもから高齢者まで地域スポーツに気軽に参加できる機会を広げます。",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "先生・子ども・保護者の声を聴き、課題を明らかにする",
+      "heading": "教育現場の支援・調査を加速！",
+      "verbatim": "先生・子ども・保護者の声を聴き、課題を明らかにします。",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "教育現場の支援・調査を加速！",
+      "verbatim": "先生の事務負担軽減、図書館の安全性・使いやすさの改善、AIやSNSを適切に使う力の育成に取り組みます。",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

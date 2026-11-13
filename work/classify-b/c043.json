@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c043",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["machi", "kosodate"], "achievement": false, "summary": "親子で手軽に遊べる施設の誘致・公園の整備を推進", "confidence": "high"},
+    {"block_id": "b04", "themes": ["other"], "achievement": false, "summary": "松戸市にプロスポーツチームを", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": false, "summary": "老朽化した団地の再整備を目指す", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "小中学校の老朽化対策に徹底的に取り組む", "confidence": "high"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "SNS時代における行政広報の強化を推進", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": true, "summary": "民間活力の活用を目指した公園の魅力向上を推進", "confidence": "high"},
+    {"block_id": "b11", "themes": ["gyozaisei"], "achievement": true, "summary": "松戸市の広報のためのシティプロモーション推進方針の改訂", "confidence": "low"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": true, "summary": "常盤平地域のまちづくり方針の策定", "confidence": "high"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": true, "summary": "財政再建に向けたサンセット方式（事業期間を定め定期的に見直す方式）の導入", "confidence": "high"}
+  ],
+  "notes": [
+    "b03：施設の誘致・公園の整備をまちづくり・交通、本文の「親子で」から子育て・教育を2つ目に付けた。",
+    "b06：「外国人問題に向き合います」は具体的な施策・対象・数値がないため要約しない。注記（※1、b09）は other のため分類対象外。",
+    "b07：学校施設の老朽化対策は、他の候補者の学校改修と同じく子育て・教育のみとした。",
+    "b11：行政広報として行財政にした。シティプロモーションを経済・産業（観光）とする余地あり。"
+  ]
+}

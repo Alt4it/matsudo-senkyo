@@ -1,0 +1,28 @@
+{
+  "candidate_id": "c001",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "自然災害や相次ぐ水害に強いインフラ整備の充実", "confidence": "high"},
+    {"block_id": "b03", "themes": ["other", "machi"], "achievement": false, "summary": "図書館やスポーツ施設の充実", "confidence": "low"},
+    {"block_id": "b04", "themes": ["machi", "gyozaisei"], "achievement": false, "summary": "無駄を省いた市庁舎現地建替え、新拠点ゾーンは市民の声を活かす", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi", "gyozaisei"], "achievement": false, "summary": "新松戸区画整理は10数億円の‘赤字’解消へ", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "中学校給食も迅速な完全無償化へ", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "見えない学費の減少や不登校支援の充実", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "こども基本条例の制定", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi", "machi"], "achievement": false, "summary": "居住支援の強化・施設整備を促進", "confidence": "low"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": false, "summary": "障害や介護は相談サポートから更に充実", "confidence": "high"},
+    {"block_id": "b11", "themes": ["gyozaisei"], "achievement": false, "summary": "市民満足度調査の実施", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "常設型住民投票条例の制定", "confidence": "low"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": false, "summary": "若者の声を市政に反映する仕組みの導入", "confidence": "low"},
+    {"block_id": "b14", "themes": ["kosodate"], "achievement": false, "summary": "家賃補助等による子育て世帯のサポート", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": false, "summary": "市立総合医療センターの政策医療は公的責任で守る", "confidence": "high"},
+    {"block_id": "b16", "themes": ["fukushi", "gyozaisei"], "achievement": false, "summary": "医療の質を守りつつ持続可能なコスト構造へ転換", "confidence": "high"}
+  ],
+  "notes": [
+    "b03：図書館・スポーツ施設は『その他（文化・スポーツ）』と『まちづくり（公共施設の整備）』の両方に当たりうる。文化・スポーツの施設は other を主、施設・整備の明記があれば machi を2つ目とする扱いにした（全候補者共通）。",
+    "b09：『居住支援』が福祉（生活困窮者等）か住宅（まちづくり）か本文から決めきれない。『施設整備』の対象も不明。",
+    "b12・b13：市民参加・若者の意見反映の仕組みは themes.json に直接の項目がなく、行財政（行政改革・議会改革）に寄せた。",
+    "b15：要約の『市立総合医療センター』は heading の語。b16 の gyozaisei は本文の『コスト構造』による。"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c043",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [6], "position": "2段目左"},
+  "name": "広瀬ゆうと",
+  "kana": "ひろせゆうと",
+  "party": "自由民主党",
+  "age": 30,
+  "career": "2期目への挑戦",
+  "slogan": "魅力ある松戸を創るために2期目への挑戦！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "大好きな松戸のために、確かな実績を信頼に変えて", "page": 6},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "YOUと松戸を変える！", "page": 6},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "親子で手軽に遊べる施設の誘致・公園の整備を推進！", "page": 6},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "松戸市にプロスポーツチームを！", "page": 6},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "老朽化した団地の再整備を目指します！", "page": 6},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "日本の生活様式を守るため、迫り来る外国人問題に向き合います！※1", "page": 6},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "小中学校の老朽化対策に徹底的に取り組みます！", "page": 6},
+    {"block_id": "b08", "kind": "policy", "heading": null, "verbatim": "SNS時代における行政広報の強化を推進！", "page": 6},
+    {"block_id": "b09", "kind": "other", "heading": null, "verbatim": "※１松戸市の外国人人口は２８７１３人。人口割合では約5.7%を超え、県内２番目の人数です。（令和８年９月１日時点）", "page": 6},
+    {"block_id": "b10", "kind": "policy", "heading": "1期目の実績", "verbatim": "民間活力の活用を目指した公園の魅力向上を推進しました！", "page": 6},
+    {"block_id": "b11", "kind": "policy", "heading": "1期目の実績", "verbatim": "松戸市の広報のためのシティプロモーション推進方針の改訂！", "page": 6},
+    {"block_id": "b12", "kind": "policy", "heading": "1期目の実績", "verbatim": "常盤平地域のまちづくり方針の策定！", "page": 6},
+    {"block_id": "b13", "kind": "policy", "heading": "1期目の実績", "verbatim": "財政再建に向けた、サンセット方式（事業期間を定め、定期的に見直す方式）の導入！", "page": 6},
+    {"block_id": "b14", "kind": "message", "heading": null, "verbatim": "証券会社出身の私だからこそ、市の財政や予算をしっかりと分析したうえで、皆様の目となり耳となり市政をチェックし、皆様の口となって市政へ意見や思いを反映させる。それが私の一番の仕事であり役目だと思い一期目を務めさせていただきました。ぜひとも二期目も皆様のための仕事をさせてください。", "page": 6},
+    {"block_id": "b15", "kind": "profile", "heading": null, "verbatim": "現職最年少", "page": 6},
+    {"block_id": "b16", "kind": "profile", "heading": null, "verbatim": "松戸市生まれ、松戸市育ち。", "page": 6},
+    {"block_id": "b17", "kind": "profile", "heading": null, "verbatim": "妻と娘の３人家族", "page": 6},
+    {"block_id": "b18", "kind": "profile", "heading": null, "verbatim": "あさひ幼稚園・松飛台第二小学校・常盤平中学校・我孫子高校・拓殖大学政経学部法律政治学科・大学卒業後は証券会社に勤務", "page": 6},
+    {"block_id": "b19", "kind": "other", "heading": null, "verbatim": "公式HPはこちら→\n詳しい政策を\nぜひご覧ください", "page": 6}
+  ],
+  "issues": [
+    "career は議員歴を直接示す語句として紙面最上部の「2期目への挑戦」を採った。ほかに「現職最年少」（b15）、「1期目の実績」（見出し）、本文の「一期目を務めさせていただきました」（b14）がある。どれを career とするか確認してほしい。",
+    "スローガンは最上段の「魅力ある松戸を創るために2期目への挑戦！」を採った。その下の「YOUと松戸を変える！」（b02）もほぼ同程度に大きく、紙面の上にある方を採った。",
+    "b02「YOU」の「O」の下に小さく「ゆ」、「U」の手前に「う」が添えられている（「YOU」に「ゆう」のルビを振った形）。verbatim には「YOUと松戸を変える！」とだけ書いた。",
+    "b03〜b08は円の中に1〜6の番号付きで並ぶ箇条（番号は除いた）。見出しはないため heading は null。",
+    "b09は b06 の「※1」に対応する注記。小さい字で、「２８７１３人」「県内２番目」「令和８年９月１日」の数字は全角に見えるため全角で写した。冒頭の「※１」も全角に見える。",
+    "b10〜b13は左端に縦書きで書かれた「1期目の実績」欄（右の列から順に読んだ）。",
+    "b14は縦書きの本文（右の列から順に読んだ）。"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c039",
+  "order": 39,
+  "name": "石井いさむ",
+  "kana": "いしいいさむ",
+  "sort_kana": null,
+  "party": "自由民主党",
+  "career": "松戸市市議会議員 4期目当選",
+  "age": null,
+  "slogan": "みなさんの声は必ず明日につなげます",
+  "policies": [
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "広域スポーツパーク構想",
+      "heading": "スポーツは未来への投資",
+      "verbatim": "広域スポーツパーク構想。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "公式スポーツ施設（アリーナ等）",
+      "heading": "スポーツは未来への投資",
+      "verbatim": "公式スポーツ施設（アリーナ等）",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公式スポーツ施設（アリーナ等）",
+      "heading": "スポーツは未来への投資",
+      "verbatim": "公式スポーツ施設（アリーナ等）",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害対策強化・避難所運営の更新",
+      "heading": "安全・安心の街づくり",
+      "verbatim": "災害対策強化・避難所運営の更新。",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "安全・安心の街づくり",
+      "verbatim": "市民が安心して生活できる街を目指す。",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "松戸版介護人材の確保・定着",
+      "heading": "福祉医療の充実",
+      "verbatim": "松戸版介護人材の確保・定着",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "医療機関・関係団体と連携し、楽しく健康な生活を営めるネットワークを構築",
+      "heading": "障害者に優しい社会",
+      "verbatim": "医療機関・関係団体と連携して、楽しく健康な生活を営めるネットワークを構築します。",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "各地区に児童館機能設置を目指す",
+      "heading": "教育子育て政策の充実",
+      "verbatim": "各地区に児童館機能設置を目指します。",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "食と農・一次加工で世界に向けて稼ぐ強い産業",
+      "heading": "農業環境の改善",
+      "verbatim": "食と農・一次加工で世界に向けて稼ぐ強い産業。",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "",
+      "heading": "賑わいのある街づくり",
+      "verbatim": "市民と行政とが協力し合い、連携型地域社会を形成し、地域にあったまちづくりを推進します。",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "松戸版少子化対策の推進",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

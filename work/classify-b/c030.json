@@ -1,0 +1,34 @@
+{
+  "candidate_id": "c030",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": false, "summary": "市民の声を「聴くだけでは終わらせない」仕組みづくり", "confidence": "low"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "災害時平時ともに「正確で届く地域メディア」の整備（コミュニティFM等）", "confidence": "low"},
+    {"block_id": "b05", "themes": ["gyozaisei"], "achievement": false, "summary": "市民・事業者・行政がつながる対話の場を常設", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "地域全体で子どもを見守り育てる環境づくり", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "子育て世代の孤立を防ぐコミュニティ支援", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "学校・地域・家庭の連携強化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "「顔の見える地域づくり」による防犯・見守りの強化", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "おまつりやイベントで生まれるつながりが災害時の助け合いに", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "地域防災体制の強化と実効性のある訓練の推進", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "日常生活の困りごとを支える地域支援の充実", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "高齢者に寄り添うデジタル支援と地域交流の充実", "confidence": "high"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": false, "summary": "障がいのある方と家族に寄り添う支援の充実", "confidence": "high"},
+    {"block_id": "b16", "themes": ["fukushi"], "achievement": false, "summary": "福祉サービスの「届いていない人」に届く仕組みづくり", "confidence": "high"},
+    {"block_id": "b17", "themes": ["other"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b18", "themes": ["other"], "achievement": false, "summary": "殺処分ゼロ。地域で命を支えるしくみづくり", "confidence": "high"},
+    {"block_id": "b19", "themes": ["bousai", "other"], "achievement": false, "summary": "災害時もペットと避難できる体制づくりを推進", "confidence": "high"}
+  ],
+  "notes": [
+    "短い箇条は原文に近いまま要約とした。",
+    "b03：市民の声を市政に反映する仕組みとして gyozaisei としたが、具体的な仕組みは書かれておらず抽象的とも読める。",
+    "b04：本文に「災害時」の明記があり bousai とした。情報発信として gyozaisei とみる余地もあるが、行政による発信かは本文から分からないため付けていない。",
+    "b12：見出しは高齢者福祉だが、本文に「高齢者」の語はないため要約に補っていない。",
+    "b14：「「最後まで安心して暮らせる松戸」の実現」は具体的な施策・対象・数値・期限がなく、抽象的な公約として要約せず原文のみ。テーマは見出し（高齢者福祉）に沿って fukushi。",
+    "b15：「弟がダウン症という立場からの」は候補者の背景のため要約から省いた。",
+    "b17：「多様性を認め合う共生社会の実現」は抽象的な公約として要約せず原文のみ。多様性・共生として other。",
+    "b18・b19：ペット・動物愛護は other。b19 は本文に「災害時」の明記があるため bousai と other の2つを付けた。b18 の要約は原文のまま（「殺処分」の対象を見出しから補っていない）。"
+  ]
+}

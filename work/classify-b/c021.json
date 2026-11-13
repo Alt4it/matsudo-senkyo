@@ -1,0 +1,27 @@
+{
+  "candidate_id": "c021",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["fukushi", "kosodate"], "achievement": true, "summary": "東松戸新病院・児童相談所の誘致を実現", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": true, "summary": "東松戸病院跡地に新病院を誘致、令和11年4月末完成予定（外来12科・198床）", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": true, "summary": "松戸児童相談所の開設を実現（令和8年9月、松戸市高塚新田に開設）", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": true, "summary": "千葉豪雨で市長に緊急要望書を提出、災害ゴミ早期回収、市独自の支援金制度を推進", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": true, "summary": "緊急通報装置の無料化を実現（令和8年4月~）", "confidence": "low"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "生後1ヶ月児検診の費用助成を実現、5歳児検診の導入も推進", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "不登校児童のため「個性に合う複数の居場所」をつくり、学校支援員も増員", "confidence": "high"},
+    {"block_id": "b11", "themes": ["keizai"], "achievement": false, "summary": "就職氷河期世代・若者の就労支援を拡充", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai"], "achievement": false, "summary": "春木川・国分川を二度と氾濫させないため柳原排水機場の能力増強を働きかけ", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi", "bousai"], "achievement": false, "summary": "死亡事故が続く県道51号の拡幅を前倒し", "confidence": "high"},
+    {"block_id": "b14", "themes": ["keizai"], "achievement": false, "summary": "東松戸駅周辺にホテル・商業施設・企業の誘致を実現する", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：見出しなしだが文末「誘致を実現！」で、b05・b06 と同じ内容の実績として achievement を true とした。本文に病院・児童相談所の明記があるため fukushi と kosodate の2つを付けた。",
+    "b07：見出し「実績」の下。文中の「推進」も過去の取り組みとして読み true とした。",
+    "b08：緊急通報装置の対象者は本文に書かれていない。福祉サービスとして fukushi としたが、bousai とする見方もある。",
+    "b09：「費用助成を実現」（実績）と「5歳児検診の導入も推進します」（今後）が同じ箇条に混在するため achievement は false とした。",
+    "b12：字数の都合で「県の」を省いた。",
+    "b13：道路の拡幅（machi）と死亡事故（交通安全、bousai）の両方が本文に明記されている。",
+    "b14：「誘致を実現します」は今後の公約のため achievement は false。"
+  ]
+}

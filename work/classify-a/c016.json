@@ -1,0 +1,33 @@
+{
+  "candidate_id": "c016",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kankyo"], "achievement": false, "summary": "農地・緑地を増やす", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kankyo"], "achievement": false, "summary": "屋根で発電所", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kankyo"], "achievement": false, "summary": "生ごみ資源化", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kankyo"], "achievement": false, "summary": "雨水を貯めて利用", "confidence": "low"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kankyo"], "achievement": false, "summary": "香害・化学物質を減らす", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "多世代の居場所づくり", "confidence": "low"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "不登校の児童生徒の居場所拡大", "confidence": "high"},
+    {"block_id": "b11", "themes": ["gyozaisei", "kankyo"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b13", "themes": ["kosodate"], "achievement": false, "summary": "子どもの権利条例の制定", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "議会全体で報告会の実施", "confidence": "high"},
+    {"block_id": "b15", "themes": ["gyozaisei"], "achievement": false, "summary": "求めた情報にアクセスできる環境に", "confidence": "high"},
+    {"block_id": "b16", "themes": ["machi"], "achievement": false, "summary": "市民参加で図書館づくり", "confidence": "high"},
+    {"block_id": "b17", "themes": ["gyozaisei"], "achievement": false, "summary": "公共事業再検討で財政を立て直す", "confidence": "high"},
+    {"block_id": "b18", "themes": ["fukushi"], "achievement": false, "summary": "高齢者、障がい者、双子の世帯などへの移動支援", "confidence": "high"},
+    {"block_id": "b19", "themes": ["fukushi", "machi"], "achievement": false, "summary": "困窮世帯・独居世帯への住宅支援", "confidence": "high"},
+    {"block_id": "b20", "themes": ["machi"], "achievement": false, "summary": "ひとやすみできるベンチの設置", "confidence": "high"}
+  ],
+  "notes": [
+    "b03：「屋根で発電所」は再生可能エネルギーの話と読めるが、発電方式は原文にないため要約は原文のままにした。",
+    "b05：見出し「災害と気候変動に強いまち」の下。雨水利用を環境としたが、防災（浸水対策）とも読める。",
+    "b06「ジェンダー平等」、b07「誰も排除しないまち」、b11「財政も環境も持続可能に！」：具体的な施策・対象・数値・期限がない抽象的な公約のため要約しない。",
+    "b09：多世代の居場所づくりは福祉・医療としたが、基準に直接の記載はなく、その他とする考え方もある。",
+    "b16：図書館づくりは公共施設の整備としてまちづくり・交通にした。",
+    "b19：本文に「住宅支援」と明記があるため、まちづくり・交通（住宅）を2つ目に付けた。"
+  ]
+}

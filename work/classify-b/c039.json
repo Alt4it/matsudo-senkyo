@@ -1,0 +1,24 @@
+{
+  "candidate_id": "c039",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["machi", "other"], "achievement": false, "summary": "広域スポーツパーク構想", "confidence": "low"},
+    {"block_id": "b06", "themes": ["machi", "other"], "achievement": false, "summary": "公式スポーツ施設（アリーナ等）", "confidence": "low"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "災害対策強化・避難所運営の更新", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "松戸版介護人材の確保・定着", "confidence": "high"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": false, "summary": "医療機関・関係団体と連携し、楽しく健康な生活を営めるネットワークを構築", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "各地区に児童館機能設置を目指す", "confidence": "high"},
+    {"block_id": "b12", "themes": ["keizai"], "achievement": false, "summary": "食と農・一次加工で世界に向けて稼ぐ強い産業", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b14", "themes": ["kosodate"], "achievement": false, "summary": "松戸版少子化対策の推進", "confidence": "high"}
+  ],
+  "notes": [
+    "b05・b06：スポーツ施設の整備として、公共施設の整備（まちづくり・交通）を主に、スポーツ（その他）を2つ目に付けた。主従に迷った。c042 b15・b16 と同じ扱い。",
+    "b08：「市民が安心して生活できる街を目指す。」は抽象的な公約のため要約しない。テーマは見出し「安全・安心の街づくり」による。",
+    "b10：見出しは「障害者に優しい社会」だが、本文に対象が書かれていないため要約に「障害者」を補っていない。",
+    "b13：連携型地域社会の形成・地域にあったまちづくりは具体的な施策・対象がないため要約しない。テーマの当てはめにも迷った。",
+    "書き写し担当の issues のとおり、箇条と見出しの対応は紙面上の近さによる推定。見出しを根拠にしたテーマ（b08 など）は対応が変われば変わりうる。"
+  ]
+}

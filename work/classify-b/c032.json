@@ -1,0 +1,15 @@
+{
+  "candidate_id": "c032",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei", "fukushi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b02", "themes": ["gyozaisei", "fukushi"], "achievement": true, "summary": "経営改善に向けた病床数削減を実現", "confidence": "low"},
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b01：図（×・○・矢印）の中の語句で、民営化の対象や因果関係は図の解釈に頼るため要約しない。見出し「財政再建」から行財政、本文の「総合医療センター」「病院」から福祉・医療を2つ目に付けた。",
+    "b02：本文の「病床数」から福祉・医療を2つ目に付けた。主テーマを行財政（経営改善）とするか福祉・医療とするかで迷った。c033 b05 と同じ扱いにしている。",
+    "b03：具体的な施策・対象・数値がない方針のため要約しない。テーマは行政改革の考え方として行財政としたが、本文だけでは対象が分からず low。"
+  ]
+}

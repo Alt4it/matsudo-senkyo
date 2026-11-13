@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c005",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["machi"], "achievement": true, "summary": "倒壊の恐れのある市役所の建て替え問題が現地建て替えで決着", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": true, "summary": "10年で1.2億円の調査費を使った新松戸駅快速停車事業は休止の方向へ", "confidence": "low"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "遺体収容所運営訓練が実現、引き続き訓練しマニュアルを作成予定", "confidence": "low"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": true, "summary": "医師監修のもとコロナ後遺症リーフレット作成に尽力", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other", "machi"], "achievement": true, "summary": "XP開催や古ヶ崎河川敷のスケートボードパーク誕生に尽力", "confidence": "high"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": false, "summary": "大型事業の費用対効果を厳格に数値化し将来の財政負担を見極める", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "次の4年間は市議会がよりチェック機能を果たすことが必要", "confidence": "high"}
+  ],
+  "notes": [
+    "b02〜b06：紙面の囲み『4年間おもに取り組んできたこと』の中の項目のため、過去の取り組みとして扱った（書き起こしの issues による）。",
+    "b03：『休止の方向へ』は経過の報告で、実績として扱うか判断が分かれる。調査費の記載から gyozaisei も考えられるが、主題は駅の事業として machi のみにした。",
+    "b04：見出しは過去（訓練が実現）、本文は今後の予定で、実績と今後が1つのブロックに混ざるため achievement=false とした。",
+    "b06：『パークスポーツの環境整備』『スケートボードパーク』の明記があるため machi を2つ目に付けた。"
+  ]
+}

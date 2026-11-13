@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c062",
+  "order": 62,
+  "name": "工藤すず子",
+  "kana": "くどうすず",
+  "sort_kana": null,
+  "party": "社会民主党",
+  "career": "松戸市議会議員6期目",
+  "age": null,
+  "slogan": "がんこに平和　くらしが一番",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "物価高騰から市民生活を守る対策強化を",
+      "page": 8
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校給食費の無償化は国が全国一律に実施を",
+      "heading": null,
+      "verbatim": "学校給食費の無償化は国が全国一律に実施を",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもの意見を尊重し、安心できる居場所の確保を",
+      "heading": null,
+      "verbatim": "子どもの意見を尊重し、安心できる居場所の確保を",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "誰もが安心して老後を迎えられる医療や介護の拡充を",
+      "heading": null,
+      "verbatim": "誰もが安心して老後が迎えられる医療や介護の拡充を",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "女性の自立した生活への支援強化を",
+      "heading": null,
+      "verbatim": "女性が自立した生活できるよう支援強化を",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "現地建替えの新庁舎、仮庁舎の業務は市民に配慮を",
+      "heading": null,
+      "verbatim": "現地建替えの新庁舎、仮庁舎の業務は市民に配慮を",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "気候危機・災害増に想定以上の対策強化を",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "気候危機・災害増に想定以上の対策強化を",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "老朽化進む学校施設、教育環境の整備優先を",
+      "heading": null,
+      "verbatim": "老朽化進む学校施設、教育環境の整備優先を",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "other",
+      "achievement": false,
+      "summary": "法人税減税を見直し消費税は廃止、その声を松戸市議会から",
+      "heading": null,
+      "verbatim": "法人税減税を見直し、消費税は廃止。松戸市議会からその声を",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

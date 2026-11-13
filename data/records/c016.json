@@ -1,0 +1,199 @@
+{
+  "candidate_id": "c016",
+  "order": 16,
+  "name": "増田かおる",
+  "kana": "ますだかおる",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "松戸市議会議員（3期）",
+  "age": null,
+  "slogan": "市民の暮らしと未来を守りたい！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "農地・緑地を増やす",
+      "heading": "災害と気候変動に強いまち",
+      "verbatim": "農地・緑地を増やす",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "屋根で発電所",
+      "heading": "災害と気候変動に強いまち",
+      "verbatim": "屋根で発電所",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "生ごみ資源化",
+      "heading": "災害と気候変動に強いまち",
+      "verbatim": "生ごみ資源化",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "雨水を貯めて利用",
+      "heading": "災害と気候変動に強いまち",
+      "verbatim": "雨水を貯めて利用",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "ありのままの自分で暮らせるまち",
+      "verbatim": "ジェンダー平等",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "ありのままの自分で暮らせるまち",
+      "verbatim": "誰も排除しないまち",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "香害・化学物質を減らす",
+      "heading": "ありのままの自分で暮らせるまち",
+      "verbatim": "香害・化学物質を減らす",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "多世代の居場所づくり",
+      "heading": "ありのままの自分で暮らせるまち",
+      "verbatim": "多世代の居場所づくり",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "不登校の児童生徒の居場所拡大",
+      "heading": "ありのままの自分で暮らせるまち",
+      "verbatim": "不登校の児童生徒の居場所拡大",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "財政も環境も持続可能に！",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "財政も環境も持続可能に！",
+      "page": 2
+    },
+    {
+      "block_id": "b13",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもの権利条例の制定",
+      "heading": "子どもの意見・市民の意見を尊重するまち",
+      "verbatim": "子どもの権利条例の制定",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議会全体で報告会の実施",
+      "heading": "子どもの意見・市民の意見を尊重するまち",
+      "verbatim": "議会全体で報告会の実施",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "求めた情報にアクセスできる環境に",
+      "heading": "子どもの意見・市民の意見を尊重するまち",
+      "verbatim": "求めた情報にアクセスできる環境に",
+      "page": 2
+    },
+    {
+      "block_id": "b16",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市民参加で図書館づくり",
+      "heading": "子どもの意見・市民の意見を尊重するまち",
+      "verbatim": "市民参加で図書館づくり",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "公共事業再検討で財政を立て直す",
+      "heading": "大型事業より暮らし優先のまち",
+      "verbatim": "公共事業再検討で財政を立て直す",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者、障がい者、双子の世帯などへの移動支援",
+      "heading": "大型事業より暮らし優先のまち",
+      "verbatim": "高齢者、障がい者、双子の世帯などへの移動支援",
+      "page": 2
+    },
+    {
+      "block_id": "b19",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "困窮世帯・独居世帯への住宅支援",
+      "heading": "大型事業より暮らし優先のまち",
+      "verbatim": "困窮世帯・独居世帯への住宅支援",
+      "page": 2
+    },
+    {
+      "block_id": "b19",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "困窮世帯・独居世帯への住宅支援",
+      "heading": "大型事業より暮らし優先のまち",
+      "verbatim": "困窮世帯・独居世帯への住宅支援",
+      "page": 2
+    },
+    {
+      "block_id": "b20",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "ひとやすみできるベンチの設置",
+      "heading": "大型事業より暮らし優先のまち",
+      "verbatim": "ひとやすみできるベンチの設置",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

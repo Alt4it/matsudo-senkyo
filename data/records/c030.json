@@ -1,0 +1,181 @@
+{
+  "candidate_id": "c030",
+  "order": 30,
+  "name": "上條えいこ",
+  "kana": "かみじょうえいこ",
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": null,
+  "slogan": "あなたの役に立つ！",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市民の声を「聴くだけでは終わらせない」仕組みづくり",
+      "heading": "声が届き、動く市政へ（市民参加・情報発信）",
+      "verbatim": "市民の声を「聴くだけでは終わらせない」仕組みづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害時平時ともに「正確で届く地域メディア」の整備（コミュニティFM等）",
+      "heading": "声が届き、動く市政へ（市民参加・情報発信）",
+      "verbatim": "災害時平時ともに「正確で届く地域メディア」の整備（コミュニティFM等）",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市民・事業者・行政がつながる対話の場の常設",
+      "heading": "声が届き、動く市政へ（市民参加・情報発信）",
+      "verbatim": "市民・事業者・行政がつながる対話の場の常設",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子供は地域の宝（子育て・教育支援）",
+      "verbatim": "地域全体で子どもを見守り育てる環境づくり",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子育て世代の孤立を防ぐコミュニティ支援",
+      "heading": "子供は地域の宝（子育て・教育支援）",
+      "verbatim": "子育て世代の孤立を防ぐコミュニティ支援",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校・地域・家庭の連携強化",
+      "heading": "子供は地域の宝（子育て・教育支援）",
+      "verbatim": "学校・地域・家庭の連携強化",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "「顔の見える地域づくり」による防犯・見守りの強化",
+      "heading": "にぎわいが命を守る（防災・地域力強化）",
+      "verbatim": "「顔の見える地域づくり」による防犯・見守りの強化",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "おまつりやイベントで生まれるつながりが災害時の助け合いに",
+      "heading": "にぎわいが命を守る（防災・地域力強化）",
+      "verbatim": "おまつりやイベントで生まれるつながりが災害時の助け合いに",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "地域防災体制の強化と実効性のある訓練の推進",
+      "heading": "にぎわいが命を守る（防災・地域力強化）",
+      "verbatim": "地域防災体制の強化と実効性のある訓練の推進",
+      "page": 4
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "日常生活の困りごとを支える地域支援の充実",
+      "heading": "高齢者に寄り添うまち（高齢者福祉）",
+      "verbatim": "日常生活の困りごとを支える地域支援の充実",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者に寄り添うデジタル支援と地域交流の充実",
+      "heading": "高齢者に寄り添うまち（高齢者福祉）",
+      "verbatim": "高齢者に寄り添うデジタル支援と地域交流の充実",
+      "page": 4
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "高齢者に寄り添うまち（高齢者福祉）",
+      "verbatim": "「最後まで安心して暮らせる松戸」の実現",
+      "page": 4
+    },
+    {
+      "block_id": "b15",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "障がいのある方と家族に寄り添う支援の充実",
+      "heading": "だれ一人取り残さない福祉（障がい福祉・共生社会）",
+      "verbatim": "弟がダウン症という立場からの、障がいのある方と家族に寄り添う支援の充実",
+      "page": 4
+    },
+    {
+      "block_id": "b16",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "福祉サービスの「届いていない人」に届く仕組みづくり",
+      "heading": "だれ一人取り残さない福祉（障がい福祉・共生社会）",
+      "verbatim": "福祉サービスの「届いていない人」に届く仕組みづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b17",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "だれ一人取り残さない福祉（障がい福祉・共生社会）",
+      "verbatim": "多様性を認め合う共生社会の実現",
+      "page": 4
+    },
+    {
+      "block_id": "b18",
+      "theme": "other",
+      "achievement": false,
+      "summary": "殺処分ゼロ。地域で命を支えるしくみづくり",
+      "heading": "ペットは家族（尊い命）",
+      "verbatim": "殺処分ゼロ。地域で命を支えるしくみづくり",
+      "page": 4
+    },
+    {
+      "block_id": "b19",
+      "theme": "other",
+      "achievement": false,
+      "summary": "災害時もペットと避難できる体制づくりを推進",
+      "heading": "ペットは家族（尊い命）",
+      "verbatim": "災害時もペットと避難できる体制づくりを推進",
+      "page": 4
+    },
+    {
+      "block_id": "b19",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害時もペットと避難できる体制づくりを推進",
+      "heading": "ペットは家族（尊い命）",
+      "verbatim": "災害時もペットと避難できる体制づくりを推進",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

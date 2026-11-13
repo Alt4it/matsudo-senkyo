@@ -1,0 +1,14 @@
+{
+  "candidate_id": "c011",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "経済的支援とキャリアサポートで子育ての不安を減らす", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "地域イベントや子ども食堂、遊び場の情報をスムーズに受け取れる街に", "confidence": "low"},
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "愛犬と伸び伸び過ごせる広場づくりや生き物との触れ合い", "confidence": "high"}
+  ],
+  "notes": [
+    "b04：見出しは「松戸の情報をもっと便利にわかりやすく」で、情報提供の話。子ども食堂・遊び場が挙がっているため子育て・教育としたが、地域イベントも含み、行財政（情報）やその他とする考え方もある。",
+    "b05：動物との触れ合いとしてその他（動物愛護）とした。広場づくりはまちづくり・交通とも読めるが、2つ目は付けていない。"
+  ]
+}

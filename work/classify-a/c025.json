@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c025",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": false, "summary": "特別支援教育を推進し、すべての児童生徒の教育環境を整備", "confidence": "high"},
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "災害時に避難が難しい方に寄り添った防災体制を推進", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "市庁舎建替は現地最優先、新拠点ゾーンは市民の声を反映した計画を推進", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "市立総合医療センターにおける政策医療体制の充実", "confidence": "high"},
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "図書館司書の正規採用を推進し、カフェや学習スペース等の居場所作りを推進", "confidence": "low"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "ご当地フォントを導入し「支えられる福祉」から「価値を生み出す福祉」へ", "confidence": "low"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "若者が提案し、自ら実行できる「若者政策チーム（仮）」の制度化", "confidence": "low"}
+  ],
+  "notes": [
+    "b02: 本文に高齢者・障害者などの明記がないため防災・安全のみとした。",
+    "b03: 見出しは「税金の無駄使いは許さない！」だが、本文は庁舎・拠点整備のためまちづくり・交通のみとした。",
+    "b05: 図書館（文化・公共施設）はテーマ基準に明示がなく、その他とした。子育て・教育やまちづくり・交通とする判断もあり得る。",
+    "b06: 「誰もが住みやすいまちを目指します。」は具体的な施策・対象・数値・期限がない抽象的な公約のため要約しない。見出し「共生社会の実現へ！」に合わせその他とした。",
+    "b07: 「ご当地フォント」の内容が本文から分からないが、本文に「福祉」とあるため福祉・医療とした。",
+    "b08: 若者の市政参加の制度化として行財政としたが、その他とする判断もあり得る。"
+  ]
+}

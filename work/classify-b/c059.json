@@ -1,0 +1,32 @@
+{
+  "candidate_id": "c059",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["gyozaisei"], "achievement": false, "summary": "公共性（その仕事は市民の役に立っているか）の視点で行政をチェック", "confidence": "high"},
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": false, "summary": "守備範囲（その仕事は行政がやるべきことか）の視点で行政をチェック", "confidence": "high"},
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "効率性（その仕事は無駄なく行われているか）の視点で行政をチェック", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei"], "achievement": false, "summary": "民間委託（その仕事は民間に任せられないか）の視点で行政をチェック", "confidence": "high"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "財源（厳しい財政状況でもやるべきか）の視点で行政をチェック", "confidence": "high"},
+    {"block_id": "b07", "themes": ["keizai", "gyozaisei"], "achievement": false, "summary": "都市型農業振興、地元商店街活性化、企業誘致と地元雇用創出、就労支援強化で歳入確保", "confidence": "low"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "行政サービスの不断の見直しと効率的・効果的な予算執行で歳出の適正化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "家庭環境（経済的状況）による教育格差の是正", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate", "bousai"], "achievement": false, "summary": "学校外の生活環境の安全強化、子どもの見守り活動の支援", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "幼児教育の推進、安心して預けられる保育所・学童クラブ", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai", "machi"], "achievement": false, "summary": "災害に強いまちづくり（公共施設の災害対応機能の強化）", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "自転車駐輪場の整備促進、公共交通網の整備支援", "confidence": "high"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "生涯学習、生涯スポーツを楽しめる環境の整備充実", "confidence": "high"},
+    {"block_id": "b15", "themes": ["machi", "gyozaisei"], "achievement": false, "summary": "今ある施設の有効活用と整備資金（基金）の確保", "confidence": "high"},
+    {"block_id": "b16", "themes": ["machi"], "achievement": false, "summary": "選択と集中により必要で使いやすい公共施設へと再編整備", "confidence": "high"},
+    {"block_id": "b17", "themes": ["gyozaisei"], "achievement": false, "summary": "市民参加機会の確保、議会活性化の推進", "confidence": "high"},
+    {"block_id": "b18", "themes": ["gyozaisei"], "achievement": false, "summary": "近隣市との広域連携による課題解決、共存共栄", "confidence": "low"}
+  ],
+  "notes": [
+    "b02〜b06 は見出し「5つの視点で行政をチェックします」の各視点。summary の「視点で行政をチェック」は見出しの語を使った。",
+    "b07 は農業・商店街・企業誘致・雇用・就労支援（keizai）による歳入確保（gyozaisei）。字数のため「の」を省いた。並びの数が多く、要約を空にする判断もありうる（low）。",
+    "b10 は本文に「安全強化」「見守り」とあるため bousai を2つ目に付けた。",
+    "b12 は本文に「公共施設」とあるため machi を2つ目に付けた。",
+    "b15 は見出し「公共施設の再編整備」の下で、本文に「整備資金（基金）の確保」とあるため gyozaisei を2つ目に付けた。",
+    "b18 の広域連携は分野が書かれていないため行政運営として gyozaisei とした（low）。"
+  ]
+}

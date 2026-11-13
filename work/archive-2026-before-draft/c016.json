@@ -1,0 +1,43 @@
+{
+  "candidate_id": "c016",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [2], "position": "4段目右"},
+  "name": "増田かおる",
+  "kana": "ますだかおる",
+  "party": "無所属",
+  "age": null,
+  "career": "松戸市議会議員（3期）",
+  "slogan": "市民の暮らしと未来を守りたい！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "循環型社会 松戸サステナブル", "page": 2},
+    {"block_id": "b02", "kind": "policy", "heading": "災害と気候変動に強いまち", "verbatim": "農地・緑地を増やす", "page": 2},
+    {"block_id": "b03", "kind": "policy", "heading": "災害と気候変動に強いまち", "verbatim": "屋根で発電所", "page": 2},
+    {"block_id": "b04", "kind": "policy", "heading": "災害と気候変動に強いまち", "verbatim": "生ごみ資源化", "page": 2},
+    {"block_id": "b05", "kind": "policy", "heading": "災害と気候変動に強いまち", "verbatim": "雨水を貯めて利用", "page": 2},
+    {"block_id": "b06", "kind": "policy", "heading": "ありのままの自分で暮らせるまち", "verbatim": "ジェンダー平等", "page": 2},
+    {"block_id": "b07", "kind": "policy", "heading": "ありのままの自分で暮らせるまち", "verbatim": "誰も排除しないまち", "page": 2},
+    {"block_id": "b08", "kind": "policy", "heading": "ありのままの自分で暮らせるまち", "verbatim": "香害・化学物質を減らす", "page": 2},
+    {"block_id": "b09", "kind": "policy", "heading": "ありのままの自分で暮らせるまち", "verbatim": "多世代の居場所づくり", "page": 2},
+    {"block_id": "b10", "kind": "policy", "heading": "ありのままの自分で暮らせるまち", "verbatim": "不登校の児童生徒の居場所拡大", "page": 2},
+    {"block_id": "b11", "kind": "policy", "heading": null, "verbatim": "財政も環境も持続可能に！", "page": 2},
+    {"block_id": "b12", "kind": "message", "heading": null, "verbatim": "市民と共に活動を続けます", "page": 2},
+    {"block_id": "b13", "kind": "policy", "heading": "子どもの意見・市民の意見を尊重するまち", "verbatim": "子どもの権利条例の制定", "page": 2},
+    {"block_id": "b14", "kind": "policy", "heading": "子どもの意見・市民の意見を尊重するまち", "verbatim": "議会全体で報告会の実施", "page": 2},
+    {"block_id": "b15", "kind": "policy", "heading": "子どもの意見・市民の意見を尊重するまち", "verbatim": "求めた情報にアクセスできる環境に", "page": 2},
+    {"block_id": "b16", "kind": "policy", "heading": "子どもの意見・市民の意見を尊重するまち", "verbatim": "市民参加で図書館づくり", "page": 2},
+    {"block_id": "b17", "kind": "policy", "heading": "大型事業より暮らし優先のまち", "verbatim": "公共事業再検討で財政を立て直す", "page": 2},
+    {"block_id": "b18", "kind": "policy", "heading": "大型事業より暮らし優先のまち", "verbatim": "高齢者、障がい者、双子の世帯などへの移動支援", "page": 2},
+    {"block_id": "b19", "kind": "policy", "heading": "大型事業より暮らし優先のまち", "verbatim": "困窮世帯・独居世帯への住宅支援", "page": 2},
+    {"block_id": "b20", "kind": "policy", "heading": "大型事業より暮らし優先のまち", "verbatim": "ひとやすみできるベンチの設置", "page": 2},
+    {"block_id": "b21", "kind": "profile", "heading": "プロフィール", "verbatim": "松戸市議会議員（3期）\n1965年11月、東京都江戸川区生まれ　専修大学松戸高等学校、武蔵野美術短期大学( デザイン科 )卒業", "page": 2},
+    {"block_id": "b22", "kind": "profile", "heading": "プロフィール", "verbatim": "15年前の福島原発事故による放射能汚染から子どもたちを守るために立ち上がり、施策の実現のため議員になる。", "page": 2},
+    {"block_id": "b23", "kind": "message", "heading": "プロフィール", "verbatim": "原発のない、戦争のない、平等でサステナブルな社会を目指す。", "page": 2},
+    {"block_id": "b24", "kind": "other", "heading": null, "verbatim": "動画配信中！\n増田かおるWEBサイト\nYoutubeチャンネル\n増田かおる事務所\n松戸市下矢切 89-4", "page": 2}
+  ],
+  "issues": [
+    "年齢の記載なし（生年月のみ「1965年11月」）。age は null とした。",
+    "career の括弧「（3期）」と学歴の「( デザイン科 )」の括弧が全角か半角か、括弧内の空白の有無は画像からは断定できない。見た目に近い形で写した。",
+    "冒頭の「循環型社会 松戸サステナブル」はロゴ風の表記。スローガンは最も大きい「市民の暮らしと未来を守りたい！」とした。",
+    "中央の縦書き「財政も環境も持続可能に！」は見出しを伴わない主張のため heading:null の policy とした。",
+    "b23「原発のない、戦争のない、平等でサステナブルな社会を目指す。」はプロフィール欄内の文。施策が具体的でないため message とした。"
+  ]
+}

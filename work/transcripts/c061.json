@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c061",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [8], "position": "3段目左"},
+  "name": "松尾ひさし",
+  "kana": null,
+  "party": "公明党",
+  "age": 55,
+  "career": "市議歴：3期",
+  "slogan": "皆さんの「困った」をカタチに！",
+  "blocks": [
+    {"block_id": "b01", "kind": "profile", "heading": null, "verbatim": "市民相談3,000人以上！", "page": 8},
+    {"block_id": "b02", "kind": "policy", "heading": null, "verbatim": "全市立小中高学校にエアコン設置！", "page": 8},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "災害時の避難所となる体育館に、ガス式エアコン設置！停電時も安心！", "page": 8},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "こう見えて55歳！動きます！働きます！", "page": 8},
+    {"block_id": "b05", "kind": "other", "heading": null, "verbatim": "数々の実績は下記HPへ", "page": 8},
+    {"block_id": "b06", "kind": "message", "heading": "これからの政策・ビジョン", "verbatim": "「子育ても、地域の安全も、日々の移動も安心に」", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": "子育て世帯を応援", "verbatim": "0〜2歳児の保育料無償化を推進します", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": "子育て世帯を応援", "verbatim": "電動アシスト自転車の購入補助を拡大します", "page": 8},
+    {"block_id": "b09", "kind": "policy", "heading": "子育て世帯を応援", "verbatim": "子どもが安全に遊べる公園・広場の整備します", "page": 8},
+    {"block_id": "b10", "kind": "policy", "heading": "防犯・防災を強化", "verbatim": "街灯、防犯カメラを拡充します", "page": 8},
+    {"block_id": "b11", "kind": "policy", "heading": "防犯・防災を強化", "verbatim": "災害時に命を守る情報・避難所・備蓄を強化し、いざという時に頼れる松戸をつくります", "page": 8},
+    {"block_id": "b12", "kind": "policy", "heading": "移動の不安を解消", "verbatim": "AI（人工知能）が予約に合わせて運行ルートを決める「AIデマンド交通」を導入", "page": 8},
+    {"block_id": "b13", "kind": "policy", "heading": "移動の不安を解消", "verbatim": "高齢者をはじめ、誰もが気軽に安心して出かけられる松戸を目指します", "page": 8},
+    {"block_id": "b14", "kind": "profile", "heading": "プロフィール", "verbatim": "1971年2月生まれ　55歳\n私立足立高校（現足立学園高校）卒業\n家　族：妻、子どもの5人家族\n議会役職：議会選出監査委員／健康福祉常任委員会\n座右の銘：誠実一路\n市議歴：3期", "page": 8}
+  ],
+  "issues": [
+    "kana：氏名「松尾」にふりがながなく、姓の読みが公報から分からないためnull（「ひさし」のみ判明）。",
+    "party：プロフィール欄の右下に公明党のロゴ（「KOMEITO」「公明党」）があることから「公明党」とした。「公認」等の文言はない。確認してほしい。",
+    "career：プロフィールの「市　議　歴：3期」（字間あき）を「市議歴：3期」として写した。",
+    "b09「公園・広場の整備します」は原文のまま（「を」なし）。",
+    "政策箇条では「保育料無償化」「補助を拡大」「公園・広場の整備」「街灯、防犯カメラを拡充」「災害時に命を守る情報・避難所・備蓄を強化」「「AIデマンド交通」」に下線の強調があるが、文字のみ写した。",
+    "b06の見出し「これからの政策・ビジョン」は帯の見出し。「「子育ても、地域の安全も、日々の移動も安心に」」は政策3項目を束ねる副題としてmessageにした。",
+    "b04はイラスト上の飾り文字、b05はイラストの吹き出しの文字。プロフィールの文字は小さくにじみがあるが判読できた（「議会選出監査委員」「誠実一路」）。",
+    "QRコード（公式HP）は本文に含めていない。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c061",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": true, "summary": "全市立小中高学校にエアコン設置", "confidence": "high"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": true, "summary": "災害時の避難所となる体育館にガス式エアコン設置、停電時も安心", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "0〜2歳児の保育料無償化を推進", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "電動アシスト自転車の購入補助を拡大", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate", "machi"], "achievement": false, "summary": "子どもが安全に遊べる公園・広場の整備", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "街灯、防犯カメラを拡充", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "災害時に命を守る情報・避難所・備蓄を強化", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "AIが予約に合わせて運行ルートを決める「AIデマンド交通」を導入", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "b02・b03 は見出しのない欄で「設置！」と完了形で書かれ、「これからの政策・ビジョン」とは別欄のため achievement: true とした。",
+    "b08 は見出し「子育て世帯を応援」の下の項目として kosodate とした。summary には見出しの対象を補っていない。",
+    "b09 は本文に「公園・広場の整備」とあるため machi を2つ目に付けた。",
+    "b13 は具体的な施策・数値・期限がない抽象的な目標のため summary を空にした。"
+  ]
+}

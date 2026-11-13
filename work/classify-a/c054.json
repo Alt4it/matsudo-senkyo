@@ -1,0 +1,18 @@
+{
+  "candidate_id": "c054",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b10", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b12", "themes": ["other"], "achievement": false, "summary": "安易な多文化共生・多様化推進には反対の立場で行動", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi", "keizai"], "achievement": false, "summary": "魅力ある都市空間・住環境の整備・産業振興のために行動", "confidence": "high"}
+  ],
+  "notes": [
+    "b07〜b11：本文は目標と「行動します！」のみで、具体的な施策・対象・数値・期限が書かれていない抽象的な公約のため summary を空にした。テーマは見出し（持続可能な福祉政策・イクメン宣言・防災・減災対策・投資すべきことには投資を・防犯・治安対策の強化）と本文を合わせて付けた。",
+    "b13：「産業振興」の明記があるため keizai を2つ目に付けた。"
+  ]
+}

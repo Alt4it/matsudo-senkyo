@@ -1,0 +1,181 @@
+{
+  "candidate_id": "c007",
+  "order": 7,
+  "name": "田中むつお",
+  "kana": null,
+  "sort_kana": null,
+  "party": "日本維新の会",
+  "career": null,
+  "age": null,
+  "slogan": "挑む！育む！",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新庁舎は減築建替え",
+      "heading": "挑む！ 未来の松戸を、いま動かす まちづくり・文化",
+      "verbatim": "新庁舎は減築建替え",
+      "page": 1
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新松戸駅東側改札の設置",
+      "heading": "挑む！ 未来の松戸を、いま動かす まちづくり・文化",
+      "verbatim": "新松戸駅東側改札の設置",
+      "page": 1
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "常磐線西側地域の防災力強化",
+      "heading": "挑む！ 未来の松戸を、いま動かす まちづくり・文化",
+      "verbatim": "常磐線西側地域の防災力強化",
+      "page": 1
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "持続可能な部活動環境へ",
+      "heading": "育む！ 子どもの可能性を引き出す 子ども・教育環境",
+      "verbatim": "持続可能な部活動環境へ",
+      "page": 1
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "育む！ 子どもの可能性を引き出す 子ども・教育環境",
+      "verbatim": "多様な子育て環境を支援",
+      "page": 1
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "育む！ 子どもの可能性を引き出す 子ども・教育環境",
+      "verbatim": "多様な学びを応援",
+      "page": 1
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "つなぐ！ 誰もが安心して暮らせる街 地域・医療福祉",
+      "verbatim": "必要な医療を将来へつなぐ",
+      "page": 1
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "社会保障改革と保険料負担の適正化",
+      "heading": "つなぐ！ 誰もが安心して暮らせる街 地域・医療福祉",
+      "verbatim": "社会保障改革と保険料負担の適正化",
+      "page": 1
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "地域活動促進で健康寿命を延ばす",
+      "heading": "つなぐ！ 誰もが安心して暮らせる街 地域・医療福祉",
+      "verbatim": "地域活動促進で健康寿命を延ばす",
+      "page": 1
+    },
+    {
+      "block_id": "b13",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "多様な避難環境の充実",
+      "heading": "守る！ もしもに強く、いつも安心 防災・防犯対策",
+      "verbatim": "多様な避難環境の充実",
+      "page": 1
+    },
+    {
+      "block_id": "b14",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "守る！ もしもに強く、いつも安心 防災・防犯対策",
+      "verbatim": "いつもの学校を、もしもの支えに",
+      "page": 1
+    },
+    {
+      "block_id": "b15",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "犯罪防止と体感治安の向上",
+      "heading": "守る！ もしもに強く、いつも安心 防災・防犯対策",
+      "verbatim": "犯罪防止と体感治安の向上",
+      "page": 1
+    },
+    {
+      "block_id": "b16",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "企業誘致・起業を応援",
+      "heading": "稼ぐ！ 未来への投資を生み出す 経済・行政経営",
+      "verbatim": "企業誘致・起業を応援",
+      "page": 1
+    },
+    {
+      "block_id": "b17",
+      "theme": "other",
+      "achievement": false,
+      "summary": "スポーツ・文化で活性化",
+      "heading": "稼ぐ！ 未来への投資を生み出す 経済・行政経営",
+      "verbatim": "スポーツ・文化で活性化",
+      "page": 1
+    },
+    {
+      "block_id": "b18",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "",
+      "heading": "稼ぐ！ 未来への投資を生み出す 経済・行政経営",
+      "verbatim": "地元企業を元気に",
+      "page": 1
+    },
+    {
+      "block_id": "b19",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "築く！ 限られた財源を未来に活かす 持続可能な行財政",
+      "verbatim": "「メタま一つ」で未来を見える化",
+      "page": 1
+    },
+    {
+      "block_id": "b20",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "行かない書かない市役所へ",
+      "heading": "築く！ 限られた財源を未来に活かす 持続可能な行財政",
+      "verbatim": "行かない書かない市役所へ",
+      "page": 1
+    },
+    {
+      "block_id": "b21",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公共施設を再編・更新",
+      "heading": "築く！ 限られた財源を未来に活かす 持続可能な行財政",
+      "verbatim": "公共施設を再編・更新",
+      "page": 1
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

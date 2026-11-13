@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c045",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi", "other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b09", "themes": ["keizai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b10", "themes": ["keizai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b13", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b04〜b13：いずれも分野名・目標のみで、具体的な施策・対象・数値・期限が書かれていない抽象的な公約と判断し要約しない（原文だけを表示）。",
+    "b06：社会福祉として fukushi、本文に「人権擁護」の明記があり基準のどれにも当たらないため other を2つ目に付けた。low。",
+    "b11：インフラ更新を machi とした。",
+    "b13：政策の提言の方針で、どのテーマにも当てはまらず other とした。low。"
+  ]
+}

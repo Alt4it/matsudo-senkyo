@@ -1,0 +1,37 @@
+{
+  "candidate_id": "c045",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [6], "position": "3段目左"},
+  "name": "浜野陽吉",
+  "kana": null,
+  "party": null,
+  "age": 41,
+  "career": null,
+  "slogan": "この街の明日を創る",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "～市民の声を政策という形に～", "page": 6},
+    {"block_id": "b02", "kind": "profile", "heading": null, "verbatim": "千葉県職員として松戸市を含めた地域の課題解決に長く取り組んで参りました。", "page": 6},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "皆様の声を政策という形にし、住民全体の奉仕者として、だれもが暮らしやすい地域社会を実現して参ります。", "page": 6},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "財政秩序の維持", "page": 6},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "こどもまんなか社会の実現", "page": 6},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "人権擁護・社会福祉の推進", "page": 6},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "教育環境の整備", "page": 6},
+    {"block_id": "b08", "kind": "policy", "heading": null, "verbatim": "文化振興", "page": 6},
+    {"block_id": "b09", "kind": "policy", "heading": null, "verbatim": "産業振興", "page": 6},
+    {"block_id": "b10", "kind": "policy", "heading": null, "verbatim": "雇用対策", "page": 6},
+    {"block_id": "b11", "kind": "policy", "heading": null, "verbatim": "インフラ更新・長寿命化の推進", "page": 6},
+    {"block_id": "b12", "kind": "policy", "heading": null, "verbatim": "災害に強い街づくり", "page": 6},
+    {"block_id": "b13", "kind": "policy", "heading": null, "verbatim": "人口増加、時代の変化に合わせた政策の提言", "page": 6},
+    {"block_id": "b14", "kind": "other", "heading": null, "verbatim": "（棒グラフ）縦軸 3／3.5／4／4.5／5／5.5／6、横軸 8／9／10／11、右上がりの矢印", "page": 6},
+    {"block_id": "b15", "kind": "other", "heading": null, "verbatim": "政策・公約の詳細については、下記よりご覧いただけます。", "page": 6},
+    {"block_id": "b16", "kind": "profile", "heading": null, "verbatim": "元県職員41歳\n豊富な行政経験", "page": 6},
+    {"block_id": "b17", "kind": "profile", "heading": "プロフィール", "verbatim": "1985年生まれ\n埼玉県久喜市出身\n2008年　早稲田大学教育学部卒業。\n卒業後、国家公務員を経て、千葉県職員（行政職）として政策の企画・立案から窓口業務まで様々な業務を経験", "page": 6}
+  ],
+  "issues": [
+    "氏名は「浜野」と「陽吉」が2行に分かれ、ずらして配置されている。間に空白は入れず「浜野陽吉」とした。ふりがながないため kana は null。",
+    "党派の記載なし（party は null）。議員歴の記載なし（career は null）。「元県職員」は議員歴ではないため career に入れていない。",
+    "b04〜b12は線でつながった楕円の図の中の文字。楕円は「財政秩序の維持」「こどもまんなか社会の実現／人権擁護・社会福祉の推進」「教育環境の整備／文化振興」「産業振興／雇用対策」「インフラ更新・長寿命化の推進／災害に強い街づくり」の5つで、1つの楕円に2行あるものは行ごとにブロックを分けた。読む順序は紙面上の位置（上から時計回り）にした。",
+    "b13は棒グラフに重なった巻物形の吹き出しの文字。b14のグラフには単位・凡例の記載がなく、何の値かは紙面からは分からない。",
+    "b15の下にあるQRコードは除外。",
+    "b02は経歴の説明として profile、b03は決意として message にした（もとは見出し下の1つの段落）。"
+  ]
+}

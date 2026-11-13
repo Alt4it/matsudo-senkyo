@@ -1,0 +1,163 @@
+{
+  "candidate_id": "c003",
+  "order": 3,
+  "name": "いとう英一",
+  "kana": "いとうえいいち",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "松戸市議会議員（4期）",
+  "age": 62,
+  "slogan": "まかせて安心！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "妊娠期から切れ目ない支援の充実",
+      "heading": "輝く未来へ 子育て・教育支援",
+      "verbatim": "妊娠期から切れ目ない支援の充実",
+      "page": 1
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校施設老朽化対策など教育環境の向上",
+      "heading": "輝く未来へ 子育て・教育支援",
+      "verbatim": "学校施設老朽化対策など教育環境の向上",
+      "page": 1
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "奨学金の拡充で子どもの夢を応援",
+      "heading": "輝く未来へ 子育て・教育支援",
+      "verbatim": "奨学金の拡充で子どもの夢を応援",
+      "page": 1
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "健やかな生活へ 介護・医療・福祉の充実",
+      "verbatim": "高齢者が安心して暮らせる地域づくり",
+      "page": 1
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "障がいのある方の就労・社会参加を支援",
+      "heading": "健やかな生活へ 介護・医療・福祉の充実",
+      "verbatim": "障がいのある方の就労・社会参加を支援",
+      "page": 1
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "医療・介護・福祉の連携強化",
+      "heading": "健やかな生活へ 介護・医療・福祉の充実",
+      "verbatim": "医療・介護・福祉の連携強化",
+      "page": 1
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "浸水・冠水を防ぐ水害に強い松戸へ",
+      "heading": "安心の暮らしへ 防災・減災・安全対策の強化",
+      "verbatim": "浸水・冠水を防ぐ水害に強い松戸へ",
+      "page": 1
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所環境の充実",
+      "heading": "安心の暮らしへ 防災・減災・安全対策の強化",
+      "verbatim": "避難所環境の充実",
+      "page": 1
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "通学路・生活道路の安全対策を推進",
+      "heading": "安心の暮らしへ 防災・減災・安全対策の強化",
+      "verbatim": "通学路・生活道路の安全対策を推進",
+      "page": 1
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸駅周辺のにぎわいと再開発の推進",
+      "heading": "活力ある街へ 魅力ある街づくり",
+      "verbatim": "松戸駅周辺のにぎわいと再開発の推進",
+      "page": 1
+    },
+    {
+      "block_id": "b12",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "商業・文化の振興で住み続けたい松戸へ",
+      "heading": "活力ある街へ 魅力ある街づくり",
+      "verbatim": "商業・文化の振興で住み続けたい松戸へ",
+      "page": 1
+    },
+    {
+      "block_id": "b12",
+      "theme": "other",
+      "achievement": false,
+      "summary": "商業・文化の振興で住み続けたい松戸へ",
+      "heading": "活力ある街へ 魅力ある街づくり",
+      "verbatim": "商業・文化の振興で住み続けたい松戸へ",
+      "page": 1
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市役所庁舎の建て替えを推進",
+      "heading": "活力ある街へ 魅力ある街づくり",
+      "verbatim": "市役所庁舎の建て替えを推進",
+      "page": 1
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "消防局交差点の左折レーンを設置",
+      "heading": "実績",
+      "verbatim": "消防局交差点の左折レーンを設置",
+      "page": 1
+    },
+    {
+      "block_id": "b16",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "江戸川河川敷トイレを水洗化",
+      "heading": "実績",
+      "verbatim": "江戸川河川敷トイレを水洗化",
+      "page": 1
+    },
+    {
+      "block_id": "b17",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "市内全ての小中学校の体育館にエアコンを設置",
+      "heading": "実績",
+      "verbatim": "松戸市内全ての小中学校の体育館にエアコンを設置",
+      "page": 1
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "candidate_id": "c004",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["keizai"], "achievement": false, "summary": "キャッシュレスポイント還元を推進し市民生活を応援", "confidence": "high"},
+    {"block_id": "b02", "themes": ["keizai", "fukushi"], "achievement": false, "summary": "福祉事業者や中小企業へ食料品やエネルギー価格高騰分の支援", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "小中学校・幼稚園・保育園の給食費支援を拡充し教育費負担を軽減", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "特別支援教育や不登校など多様なニーズに対応し選択肢を増やす", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "学びの多様化学校の設置やスペシャルサポートルーム全校設置などで居場所確保", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "学校トイレの洋式化を100%完了させ、教育環境の整備を推進", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "身寄りのない高齢者の日常生活のサポート体制を推進", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "認知症の人と共生社会の構築へ総合的な施策を強力に推進", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "避難所環境の改善へTKBスフィア基準の導入をさらに推進", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": true, "summary": "市立・小中高、全校の体育館にエアコン完備", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": true, "summary": "小1の壁対策で始業前の児童見守り事業を推進（38校に拡大）", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": true, "summary": "学校のバリアフリー化（令和8年・河原塚小、和名ヶ谷小にエレベーター設置）", "confidence": "high"},
+    {"block_id": "b13", "themes": ["bousai"], "achievement": true, "summary": "災害用マンホールトイレ設置を推進（市立小中学校589基）", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi"], "achievement": true, "summary": "市庁舎の地下水活用システムを導入", "confidence": "low"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": true, "summary": "AEDを24時間使えるコンビニ、ガソリンスタンドに設置", "confidence": "low"},
+    {"block_id": "b16", "themes": ["other", "machi"], "achievement": true, "summary": "松戸市青少年会館に3X3バスケットボールコート新設", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：要約の『福祉事業者や中小企業』は heading の語。heading に両方明記されているため keizai と fukushi を付けた。",
+    "b08：項目が多く一部を選ぶと印象が変わるため、heading の語と本文末尾『総合的な施策を強力に推進』だけで要約した。",
+    "b10〜b16：見出し『実現しました！！』の下のため achievement=true。",
+    "b14：地下水活用システムの目的（防災・環境・庁舎設備）が本文から分からないため、公共施設として machi にした。",
+    "b15：AEDは救命・医療として fukushi にした。防災・安全とみる考え方もある。"
+  ]
+}

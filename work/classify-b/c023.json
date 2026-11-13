@@ -1,0 +1,17 @@
+{
+  "candidate_id": "c023",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "災害時に支援が必要なひとの「誰がどこへどうやって」を急いで決める", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "県管理の五香アンダーパスへのエアー遮断機設置が決定へ", "confidence": "low"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "新拠点ゾーンに宇宙飛行士・山崎直子さんの顕彰展示を", "confidence": "low"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "市立病院の経営悪化の責任を明確にし、医療の質の低下を防ぐ", "confidence": "high"}
+  ],
+  "notes": [
+    "b04：本文だけでは対象が分からないため、見出しの語「災害時に支援が必要なひと」を使って要約した。本文に福祉の明記はないため fukushi は付けていない。",
+    "b05：「決定へ。」は経過の報告とも今後の見込みとも読め、実績と言い切れないため achievement は false とした。",
+    "b06：顕彰展示は文化として other とした。見出しの「市役所は現地建て替え」は本文にないため machi は付けていない（見出しは原文欄に表示される）。",
+    "b07：「市立病院」は見出しの語。本文に「医療」の明記があり fukushi とした。"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c026",
+  "order": 26,
+  "name": "皆川おさむ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": null,
+  "slogan": "タバコを吸う人も吸わない人も。気持ちよく過ごせる松戸の駅へ。",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "受動喫煙に配慮した喫煙所を検討",
+      "heading": "【皆川おさむの提言】",
+      "verbatim": "受動喫煙に配慮した喫煙所を検討",
+      "page": 4
+    },
+    {
+      "block_id": "b03",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "路上喫煙とポイ捨てを減らす",
+      "heading": "【皆川おさむの提言】",
+      "verbatim": "路上喫煙とポイ捨てを減らす",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "【皆川おさむの提言】",
+      "verbatim": "市民・商店・利用者の声で決める",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

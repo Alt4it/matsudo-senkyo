@@ -1,0 +1,100 @@
+{
+  "candidate_id": "c028",
+  "order": 28,
+  "name": "深山よしかず",
+  "kana": "みやまよしかず",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "松戸市議会第66代議長",
+  "age": null,
+  "slogan": "夢・未来をカタチに",
+  "policies": [
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子育ての福祉・医療・療育・教育の充実とスポーツが息づくまちへ",
+      "heading": "時をはぐくむ　次世代の絆",
+      "verbatim": "未来を育てる。子育ての福祉・医療・療育・教育の充実とスポーツが息づくまちへ",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "子育ての福祉・医療・療育・教育の充実とスポーツが息づくまちへ",
+      "heading": "時をはぐくむ　次世代の絆",
+      "verbatim": "未来を育てる。子育ての福祉・医療・療育・教育の充実とスポーツが息づくまちへ",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者も障がいのある方も誰もが自分らしく暮らせる（医療・介護・福祉）の共生社会へ",
+      "heading": "共に支え合う　地域の絆",
+      "verbatim": "高齢者も障がいのある方も、誰もが自分らしく暮らせる（医療・介護・福祉）の共生社会へ",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "産・学・官連携強化で働く場を増やし、産業力を高めるまちへ",
+      "heading": "活力を生む　賑わいの絆",
+      "verbatim": "地域経済を元気に！産・学・官連携強化で働く場を増やし、産業力を高めるまちへ",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯・防災・救急救命の強化と内水氾濫等、災害への対策強化",
+      "heading": "命を守る　安全の絆",
+      "verbatim": "防犯・防災・救急救命の強化と内水氾濫等、災害への対策強化で安全安心なまちへ",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "誰もが住みたい住んで良かった、魅力あるコンパクトシティなまちへ",
+      "heading": "暮らしを彩る　快適な絆",
+      "verbatim": "暮らしやすさを求め誰もが住みたい住んで良かった、魅力あるコンパクトシティなまちへ",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "共に創る　みんなの絆",
+      "verbatim": "多世代が共に手を取り合いお一人おひとりが参加し、協働（パートナーシップ）で未来をつくるまちへ",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "公共施設の再編と行財政改革で「まち・ひと・しごと」を未来へつなぐ",
+      "heading": "未来に備える　進化（縮充）の絆",
+      "verbatim": "公共施設の再編と行財政改革で「まち・ひと・しごと」を未来へつなぐまちへ",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公共施設の再編と行財政改革で「まち・ひと・しごと」を未来へつなぐ",
+      "heading": "未来に備える　進化（縮充）の絆",
+      "verbatim": "公共施設の再編と行財政改革で「まち・ひと・しごと」を未来へつなぐまちへ",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

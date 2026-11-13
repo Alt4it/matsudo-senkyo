@@ -1,0 +1,11 @@
+{
+  "candidate_id": "c038",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b01：手書きの詩のような文と絵で、何を求めているか（「えほんかんに」が施策か）は図や文脈の解釈に頼るため要約しない。テーマも判断できず other とし low。政策とするか自体を人が判断してほしい。"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c029",
+  "order": 29,
+  "name": "山口正子",
+  "kana": null,
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": "市議4期目",
+  "age": null,
+  "slogan": "「市民の命と暮らし最優先の松戸市」をご一緒に",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充",
+      "heading": null,
+      "verbatim": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充を",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高すぎる国保税を減免し子どもの均等割り無料化を",
+      "heading": null,
+      "verbatim": "高すぎる国保税を減免し子どもの均等割り無料化を",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "高すぎる国保税を減免し子どもの均等割り無料化を",
+      "heading": null,
+      "verbatim": "高すぎる国保税を減免し子どもの均等割り無料化を",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者のタクシー料金半額補助",
+      "heading": null,
+      "verbatim": "高齢者のタクシー料金半額補助",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "補聴器購入補助の増額",
+      "heading": null,
+      "verbatim": "補聴器購入補助の増額",
+      "page": 4
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "年金で入れる特養ホーム",
+      "heading": null,
+      "verbatim": "年金で入れる特養ホーム",
+      "page": 4
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "中学校給食の無償化（昨年度無料だった給食費、再び無料に）",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "中学校給食の無償化（昨年度無料だった給食費、再び無料に）",
+      "page": 4
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "常盤平第一小学校廃止の中止",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "常盤平第一小学校廃止の中止",
+      "page": 4
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "牧の原中学校の通学路に横断歩道設置",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "牧の原中学校の通学路に横断歩道設置",
+      "page": 4
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "八ケ崎・三ケ月・常盤平にコミュニティバスを",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "八ケ崎・三ケ月・常盤平にコミュニティバスを",
+      "page": 4
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "馬橋駅東口の駅前広場と県道の拡幅",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "馬橋駅東口の駅前広場と県道の拡幅",
+      "page": 4
+    },
+    {
+      "block_id": "b14",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "明市民センター前に横断歩道を",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "明市民センター前に横断歩道を",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

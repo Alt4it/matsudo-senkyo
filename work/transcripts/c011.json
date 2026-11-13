@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c011",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [2], "position": "2段目左"},
+  "name": "真山ゆうき",
+  "kana": "まやまゆうき",
+  "party": "参政党",
+  "age": 38,
+  "career": null,
+  "slogan": "「松戸で育ってよかった」と言える未来へ",
+  "blocks": [
+    {"block_id": "b01", "kind": "profile", "heading": null, "verbatim": "松戸生まれ、松戸育ち。", "page": 2},
+    {"block_id": "b02", "kind": "profile", "heading": null, "verbatim": "38歳二児の父", "page": 2},
+    {"block_id": "b03", "kind": "policy", "heading": "少子化に挑み、子どもがあふれる松戸へ", "verbatim": "経済的支援とキャリアサポートで子育ての不安を減らし、誰もが安心して産み育てられる環境へ。", "page": 2},
+    {"block_id": "b04", "kind": "policy", "heading": "松戸の情報をもっと便利にわかりやすく", "verbatim": "地域イベントや子ども食堂、遊び場の情報をスムーズに受け取れ、必要な人と支援が温かく繋がる街に。", "page": 2},
+    {"block_id": "b05", "kind": "policy", "heading": "動物と触れ合い、命に優しい街へ", "verbatim": "愛犬と伸び伸び過ごせる広場づくりや生き物との触れ合いを通して、命の尊さや相手を思いやる心が育つ環境へ。", "page": 2},
+    {"block_id": "b06", "kind": "profile", "heading": "プロフィール", "verbatim": "松戸に生まれ、小金原団地で育つ / 根木内東小学校・根木内中学校・市立松戸高等学校 卒業", "page": 2},
+    {"block_id": "b07", "kind": "profile", "heading": "プロフィール", "verbatim": "現在はマネジメント・マーケティング会社に勤務しながら 妻・２人の子ども・犬２匹と牧野原地域で暮らしています。", "page": 2}
+  ],
+  "issues": []
+}

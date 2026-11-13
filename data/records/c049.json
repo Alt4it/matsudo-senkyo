@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c049",
+  "order": 49,
+  "name": "竹内さちえ",
+  "kana": "たけうちさちえ",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "市議会議員補欠選挙(定数1名)で初当選",
+  "age": null,
+  "slogan": "政治は生活",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子どもは未来 子どものことからはじめよう",
+      "verbatim": "子どもの権利をすべての政策の真ん中に",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子どもは未来 子どものことからはじめよう",
+      "verbatim": "「教育」は地域と育む「共育」へ",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "隠れ教育費にメス！教育の無償化を",
+      "heading": "子どもは未来 子どものことからはじめよう",
+      "verbatim": "隠れ教育費にメス！教育の無償化を",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子どもは未来 子どものことからはじめよう",
+      "verbatim": "先生が安心して働ける学校へ",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "子どもは未来 子どものことからはじめよう",
+      "verbatim": "若者が未来を描けるまちへ",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "未来にツケを残さない 責任ある市政を",
+      "verbatim": "お金のツケを残さない",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "",
+      "heading": "未来にツケを残さない 責任ある市政を",
+      "verbatim": "環境のツケを残さない",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "未来にツケを残さない 責任ある市政を",
+      "verbatim": "災害のリスクを先送りしない",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "未来にツケを残さない 責任ある市政を",
+      "verbatim": "分断や生きづらさを残さない",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "市民とともにつくる 対話の市政を",
+      "verbatim": "議会をもっと身近に",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "委員会もインターネット中継を",
+      "heading": "市民とともにつくる 対話の市政を",
+      "verbatim": "委員会もインターネット中継を",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "市民とともにつくる 対話の市政を",
+      "verbatim": "市民の声が届く議会へ",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

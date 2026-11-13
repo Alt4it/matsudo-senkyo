@@ -1,0 +1,82 @@
+{
+  "candidate_id": "c037",
+  "order": 37,
+  "name": "田村ゆうすけ",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 49,
+  "slogan": "ずっと住み続けたい街松戸へ",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "負担軽減の継続と拡充",
+      "verbatim": "小中学校の学校給食費無償化の安定的継続や、第２子以降の保育料無償化、中学校・高校進学時の負担軽減を。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "教育環境のインフラ改善",
+      "verbatim": "子供達の安全を第一に。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "中学校部活動の地域移行化推進",
+      "verbatim": "先生の負担軽減・子供達の活動をより充実させる為にエリア分けをして地域クラブへの移行を目指す。",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "市内全小中学校へ水道直結型ウォーターサーバーの設置",
+      "verbatim": "早期設置を目指す。",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子供達の遊び場アップデート",
+      "verbatim": "子供達にもっと自由を！",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "サッカーや野球などのボール遊びができる公園づくり",
+      "heading": "子供達の遊び場アップデート",
+      "verbatim": "サッカーや野球などのボール遊びができる公園づくり。",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "サッカーや野球などのボール遊びができる公園づくり",
+      "heading": "子供達の遊び場アップデート",
+      "verbatim": "サッカーや野球などのボール遊びができる公園づくり。",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

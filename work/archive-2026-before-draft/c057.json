@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c057",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [8], "position": "1段目左"},
+  "name": "大和山太郎",
+  "kana": "おおわやまたろう",
+  "party": "無所属",
+  "age": null,
+  "career": null,
+  "slogan": "人を育てる　地域を支える",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "大和山 太郎が約束する、「笑顔」", "page": 8},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "松戸で育ち、歩み続けた私だからできる、きめ細かなまちづくり。", "page": 8},
+    {"block_id": "b03", "kind": "policy", "heading": "子どもたちの笑顔　〜未来をつくる子どもたちと、支える教育現場のために〜", "verbatim": "いじめ・不適切指導の根絶", "page": 8},
+    {"block_id": "b04", "kind": "policy", "heading": "子どもたちの笑顔　〜未来をつくる子どもたちと、支える教育現場のために〜", "verbatim": "切れ目のない不登校・発達支援", "page": 8},
+    {"block_id": "b05", "kind": "policy", "heading": "子どもたちの笑顔　〜未来をつくる子どもたちと、支える教育現場のために〜", "verbatim": "先生が誇りを持って働ける現場づくり", "page": 8},
+    {"block_id": "b06", "kind": "policy", "heading": "六実・六高台の笑顔　〜六実・六高台の地域課題を市全体の政策へ〜", "verbatim": "六実・五香の渋滞解消", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": "六実・六高台の笑顔　〜六実・六高台の地域課題を市全体の政策へ〜", "verbatim": "レインボーバス延伸", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": "六実・六高台の笑顔　〜六実・六高台の地域課題を市全体の政策へ〜", "verbatim": "高柳クリーンセンター整備", "page": 8},
+    {"block_id": "b09", "kind": "policy", "heading": "安心して暮らせる笑顔　〜5年・10年先を見据え、安心が続く松戸市へ〜", "verbatim": "誰もが相談しやすい支所機能へ", "page": 8},
+    {"block_id": "b10", "kind": "policy", "heading": "安心して暮らせる笑顔　〜5年・10年先を見据え、安心が続く松戸市へ〜", "verbatim": "避難所運営・ペット同行避難の整備", "page": 8},
+    {"block_id": "b11", "kind": "policy", "heading": "安心して暮らせる笑顔　〜5年・10年先を見据え、安心が続く松戸市へ〜", "verbatim": "町会・地域活動の担い手づくり", "page": 8},
+    {"block_id": "b12", "kind": "policy", "heading": null, "verbatim": "こども発達相談窓口「みらいのとびら」開設を提案", "page": 8},
+    {"block_id": "b13", "kind": "profile", "heading": null, "verbatim": "六実桜まつり事務局長 歴任", "page": 8},
+    {"block_id": "b14", "kind": "profile", "heading": null, "verbatim": "松戸高柳町会総務部長", "page": 8},
+    {"block_id": "b15", "kind": "profile", "heading": null, "verbatim": "六高台で学習塾長30年", "page": 8},
+    {"block_id": "b16", "kind": "profile", "heading": "プロフィール", "verbatim": "●学歴　六実保育園→六実小学校→六実中学校→千葉県立国府台高校→千葉大学 卒業\n●経歴　1997年「やまと学院.」設立・経営 約30年で500人以上を指導\n教育環境委員、広報委員、議会表彰委員、議会運営委員、総務財務副委員長、決算予算副委員長を歴任\n●趣味　・授業・ヘラブナ釣り・聴く読書（オーディオブック）・料理（初心者）", "page": 8}
+  ],
+  "issues": [
+    "slogan：最上段の「大和山 太郎が約束する、「笑顔」」が最も大きいが氏名を含む見出し的な文言のため、次に大きい帯の「人を育てる　地域を支える」を採った。判断を確認してほしい。b01として最上段の文言はmessageに残した。",
+    "各重点政策の見出しには「重点政策1〜3」の番号ラベルと、その下の「〜…〜」の副題がある。番号は除き、副題は見出しの一部としてheadingに含めた。",
+    "career：「市議○期」のような議員歴の語句は見当たらない。経歴欄に「議会表彰委員、議会運営委員…を歴任」とあるが期数等の記載がないためnullとした。",
+    "b12〜b15は「人を育てる　地域を支える」の帯の下に並ぶ黒地の札の文言。b12（開設を提案）は実績としてpolicy、他は経歴としてprofileにした。",
+    "経歴欄の「やまと学院.」はピリオドを含む表記のまま写した。趣味欄の括弧は半角風の（）だが全角で記した。",
+    "QRコード（公式HP・LINE・Instagram）は本文に含めていない。年齢の記載なし。"
+  ]
+}

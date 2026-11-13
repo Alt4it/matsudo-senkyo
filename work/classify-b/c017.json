@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c017",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["kosodate"], "achievement": true, "summary": "市立中学の女子生徒のスラックス選択制度を提案、20校中18校で実現", "confidence": "high"},
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "通学路等の防犯カメラを5年計画で順次1000台追加", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "ヤングケアラー相談体制の強化、コーディネーター配置を推進", "confidence": "low"},
+    {"block_id": "b04", "themes": ["kosodate", "other"], "achievement": false, "summary": "女性の社会的自立へ子育て支援の充実・ジェンダーギャップの是正に挑む", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": true, "summary": "小学校通学路等への防犯カメラ設置を要請、318台の設置が実現", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": true, "summary": "放課後児童クラブの夏休み弁当発注方式を提案、小学校全校で実現", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate", "bousai"], "achievement": true, "summary": "小中学校での水害授業を提案、小学11校、中学7校で実現", "confidence": "high"},
+    {"block_id": "b09", "themes": ["other"], "achievement": true, "summary": "市内19ヶ所、小中学校65校、松戸駅トイレに生理用品設置が実現", "confidence": "low"},
+    {"block_id": "b10", "themes": ["gyozaisei"], "achievement": true, "summary": "親族死亡の行政手続きが1ヶ所で行える「おくやみコーナー」を実現", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": true, "summary": "がん治療が起因のウイッグ（上限3万）、胸部補正具（上限2万）の助成を実現", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate", "fukushi"], "achievement": true, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b03：ヤングケアラーは子ども（子育て・教育）とケア（福祉・医療）の両方に関わる。本文に福祉の明記がないため1つに絞り kosodate とした。",
+    "b09：生理用品の設置は既存テーマの基準に直接当たらず other とした。設置先に小中学校が含まれるため kosodate とする見方もある。",
+    "b12：1つの箇条に6つの別々の実績（多胎妊婦健診、妊婦タクシー券、骨密度検査、搾乳マーク、無戸籍者相談窓口、排水ポンプ増強）があり、項目が多く選ぶと印象が変わるため要約せず原文のみとした。テーマは件数の多い kosodate と fukushi を付けたが、bousai（排水ポンプ）・other（無戸籍者相談）も含む。書き写し側で文ごとに分割すれば個別に分類できる。"
+  ]
+}

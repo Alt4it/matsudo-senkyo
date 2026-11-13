@@ -1,0 +1,289 @@
+{
+  "candidate_id": "c048",
+  "order": 48,
+  "name": "岡本ゆうこ",
+  "kana": "おかもとゆうこ",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "松戸市議会議員２期８年",
+  "age": null,
+  "slogan": "まっすぐ、現場主義",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "keizai",
+      "achievement": true,
+      "summary": "松戸江戸川フラワーライン「秋の花まつり」を10月開催に変更",
+      "heading": "皆様の声をカタチに　【地域・観光】",
+      "verbatim": "松戸江戸川フラワーライン「秋の花まつり」10月開催へ変更",
+      "page": 6
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "「健康推進員」委嘱に意欲ある市民の公募制度を導入",
+      "heading": "皆様の声をカタチに　【地域・観光】",
+      "verbatim": "「健康推進員」委嘱に意欲ある市民の公募制度を導入",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "本庁舎エレベーター全機へ「防災キャビネット」を設置",
+      "heading": "皆様の声をカタチに　【防災・インフラ】",
+      "verbatim": "本庁舎エレベーター全機へ「防災キャビネット」を設置",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "稔台３丁目太陽公園の防災倉庫の漏水修繕費を予算化",
+      "heading": "皆様の声をカタチに　【防災・インフラ】",
+      "verbatim": "稔台３丁目太陽公園 防災倉庫の漏水修繕費を予算化",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "市道２地区204号（小金原・柏市境）の砂利道を全線舗装整備",
+      "heading": "皆様の声をカタチに　【防災・インフラ】",
+      "verbatim": "市道２地区204号（小金原・柏市境）砂利道の全線舗装整備",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "市独自の「不妊治療（先進医療）助成」を創設",
+      "heading": "皆様の声をカタチに　【福祉・子ども】",
+      "verbatim": "市独自の「不妊治療（先進医療）助成」創設",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": true,
+      "summary": "市公式「ペット終活・もしもシート」を導入",
+      "heading": "皆様の声をカタチに　【福祉・子ども】",
+      "verbatim": "市公式「ペット終活・もしもシート」導入",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "支援が必要な児童・生徒への「塾費補助」を導入",
+      "heading": "皆様の声をカタチに　【福祉・子ども】",
+      "verbatim": "支援が必要な児童・生徒への「塾費補助」導入",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "other",
+      "achievement": true,
+      "summary": "松戸駅東西口の公衆トイレに「生理用品無料ディスペンサー」設置",
+      "heading": "皆様の声をカタチに　【暮らし・人権】",
+      "verbatim": "松戸駅東西口 公衆トイレ「生理用品無料ディスペンサー」設置",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "other",
+      "achievement": true,
+      "summary": "「エンバーミング施設・遺体保管所」の条例改正",
+      "heading": "皆様の声をカタチに　【暮らし・人権】",
+      "verbatim": "「エンバーミング施設・遺体保管所」の条例改正",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "other",
+      "achievement": true,
+      "summary": "八柱駅周辺（重点推進地区）に路上喫煙防止カラーコーン設置",
+      "heading": "皆様の声をカタチに　【暮らし・人権】",
+      "verbatim": "八柱駅周辺（重点推進地区）の路上喫煙防止カラーコーン設置",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "theme": "other",
+      "achievement": true,
+      "summary": "パートナーシップ宣誓制度 / 自治体間連携ネットワークの加盟",
+      "heading": "皆様の声をカタチに　【暮らし・人権】",
+      "verbatim": "パートナーシップ宣誓制度 / 自治体間連携ネットワークの加盟",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": true,
+      "summary": "住民票の「縁故者」表記を選択可能に",
+      "heading": "皆様の声をカタチに　【暮らし・人権】",
+      "verbatim": "住民票「縁故者」表記の選択を可能に",
+      "page": 6
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": true,
+      "summary": "市内公共施設に「レインボーフラッグ」を設置",
+      "heading": "皆様の声をカタチに　【暮らし・人権】",
+      "verbatim": "市内公共施設に「レインボーフラッグ」の設置",
+      "page": 6
+    },
+    {
+      "block_id": "b15",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "ペット同行避難を「同行」から「同伴」へ、専門団体との協定推進",
+      "heading": "重点政策4つの柱　第１の柱【命と安全】",
+      "verbatim": "ペット同行避難の質的拡充\n「同行」から「同伴」へ。専門団体との協定推進",
+      "page": 6
+    },
+    {
+      "block_id": "b16",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "東海第二原発・広域避難計画の見直し、交通渋滞や避難所の混乱防止",
+      "heading": "重点政策4つの柱　第１の柱【命と安全】",
+      "verbatim": "東海第二原発・広域避難計画の見直し\n実効性のない協定による交通渋滞や避難所の混乱防止、松戸市民の安全確保",
+      "page": 6
+    },
+    {
+      "block_id": "b17",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "水害対策と迅速な避難支援、「罹災証明」発行の迅速化・デジタル化",
+      "heading": "重点政策4つの柱　第１の柱【命と安全】",
+      "verbatim": "浸水被害体験に基づく水害対策と「罹災証明」迅速化\n近年の千葉豪雨を踏まえた迅速な避難支援と発行デジタル化の促進",
+      "page": 6
+    },
+    {
+      "block_id": "b17",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "水害対策と迅速な避難支援、「罹災証明」発行の迅速化・デジタル化",
+      "heading": "重点政策4つの柱　第１の柱【命と安全】",
+      "verbatim": "浸水被害体験に基づく水害対策と「罹災証明」迅速化\n近年の千葉豪雨を踏まえた迅速な避難支援と発行デジタル化の促進",
+      "page": 6
+    },
+    {
+      "block_id": "b18",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "「防犯DX」でスマート街灯やAI防犯カメラを設置し夜道の安全確保",
+      "heading": "重点政策4つの柱　第１の柱【命と安全】",
+      "verbatim": "ストーカー被害経験に基づく「防犯DX」\nスマート街灯やAI防犯カメラの設置による夜道の安全確保",
+      "page": 6
+    },
+    {
+      "block_id": "b19",
+      "theme": "other",
+      "achievement": false,
+      "summary": "「ペット終活・もしもシート」と、高齢者・単身者がペットと最期まで暮らせる環境整備",
+      "heading": "重点政策4つの柱　第２の柱【人生と尊厳】",
+      "verbatim": "実現！市公式「ペット終活・もしもシート」\n飼い主の「もしも」に備える安心推進と、高齢者、単身者が大切なペットと最期まで暮らせる環境整備",
+      "page": 6
+    },
+    {
+      "block_id": "b19",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "「ペット終活・もしもシート」と、高齢者・単身者がペットと最期まで暮らせる環境整備",
+      "heading": "重点政策4つの柱　第２の柱【人生と尊厳】",
+      "verbatim": "実現！市公式「ペット終活・もしもシート」\n飼い主の「もしも」に備える安心推進と、高齢者、単身者が大切なペットと最期まで暮らせる環境整備",
+      "page": 6
+    },
+    {
+      "block_id": "b20",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "「公的責任型」終活支援制度、単身高齢者の死後事務や身元保証トラブル防止",
+      "heading": "重点政策4つの柱　第２の柱【人生と尊厳】",
+      "verbatim": "「公的責任型」の終活支援制度\n単身高齢者の死後事務や身元保証トラブル防止に向けた、行政が意思を直接守る仕組みの構築",
+      "page": 6
+    },
+    {
+      "block_id": "b21",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "「介護離職ゼロ」と、介護者のレスパイト支援・相談体制の強化",
+      "heading": "重点政策4つの柱　第２の柱【人生と尊厳】",
+      "verbatim": "当事者経験からの「介護離職ゼロ」とレスパイト支援\n介護者の抱え込みを防ぐ、一時休息（レスパイト）支援および柔軟な相談体制の強化",
+      "page": 6
+    },
+    {
+      "block_id": "b22",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "不妊治療・不育症支援の拡充と、流産・死産などのグリーフケアの制度化",
+      "heading": "重点政策4つの柱　第２の柱【人生と尊厳】",
+      "verbatim": "不妊治療・不育症支援と「グリーフケア」の制度化\n経済・精神的支援拡充と流産・死産など深い悲しみに寄り添う専門相談の制度化",
+      "page": 6
+    },
+    {
+      "block_id": "b23",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "松戸駅バリアフリー：動線の徹底検証、ホームドア設置推進、ワンマン運転の安全確認",
+      "heading": "重点政策4つの柱　第３の柱【暮らしと移動】",
+      "verbatim": "松戸駅バリアフリーの磨き上げ\n車いす・ベビーカー動線の徹底検証\nホームドア設置の推進とワンマン運転の安全確認",
+      "page": 6
+    },
+    {
+      "block_id": "b24",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "路線バス維持への市独自の支援と、ベンチ設置等の待合環境の整備",
+      "heading": "重点政策4つの柱　第３の柱【暮らしと移動】",
+      "verbatim": "買い出し・通院に困らない地域交通\n路線バス維持への市独自の支援とベンチ設置等の待合環境の整備",
+      "page": 6
+    },
+    {
+      "block_id": "b25",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "除去土壌・不適切残土に厳格対応、情報公開の徹底と現場調査",
+      "heading": "重点政策4つの柱　第３の柱【暮らしと移動】",
+      "verbatim": "除去土壌・不適切残土の厳格対応\n情報公開の徹底と現場調査による安全な住環境の保護",
+      "page": 6
+    },
+    {
+      "block_id": "b26",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "「書かない窓口」と、死亡届から火葬・埋葬予約までのワンストップデジタル化",
+      "heading": "重点政策4つの柱　第４の柱【未来と文化】",
+      "verbatim": "「書かない窓口」と斎場DX\n死亡届から火葬・埋葬予約までのワンストップデジタル化推進",
+      "page": 6
+    },
+    {
+      "block_id": "b27",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "VTuber・クリエイター支援と地域キャラの活用促進",
+      "heading": "重点政策4つの柱　第４の柱【未来と文化】",
+      "verbatim": "表現の自由とコンテンツ観光\nVTuber・クリエイター支援と地域キャラの活用促進（みのりちゃん、クリンクルちゃん等）",
+      "page": 6
+    },
+    {
+      "block_id": "b28",
+      "theme": "other",
+      "achievement": false,
+      "summary": "「銭湯文化」継承、回覧板電子化など自治会・町内会のIT支援",
+      "heading": "重点政策4つの柱　第４の柱【未来と文化】",
+      "verbatim": "「銭湯文化」継承と自治会・町内会IT支援\n地域の交流拠点の維持と、回覧板電子化による役員負担軽減",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

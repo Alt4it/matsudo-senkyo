@@ -1,0 +1,33 @@
+{
+  "candidate_id": "c056",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["keizai"], "achievement": false, "summary": "キャッシュレス決済のポイント還元等で家計支援と地域経済の好循環を推進", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "デマンド交通や移動販売の導入", "confidence": "low"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "買い物リハビリや予防医療の推進", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "医療・介護の連携と地域見守り網の強化で在宅生活を安心サポート", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "市立総合医療センターの持続可能な財政・医療運営の確立", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "住宅・施設の耐震化や雨水管整備等の災害対策の強化", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "電源車やトイレカー等の配備や分散備蓄など避難所体制の強化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "防犯カメラ・防犯灯の設置拡大、特殊詐欺防止対策の推進", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "「こどもファンド」を創設し、子どもが挑む解決企画を市がサポート", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "子どもの居場所づくり、平和教育の機会を拡充", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "文化・トレンド発信や新駅設置も含めた魅力あふれる街づくり", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi", "keizai"], "achievement": false, "summary": "21世紀の森の広場にマルシェ開設やアクセス道路整備", "confidence": "high"},
+    {"block_id": "b14", "themes": ["other"], "achievement": false, "summary": "松戸の歴史・自然の発信、消防車等の国際寄贈で「世界の松戸ブランド」を創出", "confidence": "low"},
+    {"block_id": "b15", "themes": ["gyozaisei"], "achievement": false, "summary": "デジタル技術と一人に寄り添う対話を両立した行政サービス", "confidence": "high"},
+    {"block_id": "b16", "themes": ["keizai", "gyozaisei"], "achievement": false, "summary": "企業誘致や市有資産の利活用による「稼げる松戸」と行財政改革の推進", "confidence": "high"},
+    {"block_id": "b20", "themes": ["fukushi"], "achievement": false, "summary": "市立総合医療センターの機能充実や高齢者・障がい者支援を推進", "confidence": "low"},
+    {"block_id": "b22", "themes": ["kosodate"], "achievement": true, "summary": "市立小中学校の教室・体育館にエアコン設置、こども食堂の支援強化などに貢献", "confidence": "high"},
+    {"block_id": "b24", "themes": ["machi"], "achievement": true, "summary": "カーブミラーや路面標示、無料シャトルバス等、駅エレベータやバリアフリー化を実現", "confidence": "low"}
+  ],
+  "notes": [
+    "b03 は見出し「高齢者・単身世帯の暮らしと健康を守る」の下だが、本文は交通・移動販売のため machi とした。福祉（fukushi）とも読める（low）。",
+    "b14 は「世界の松戸ブランド」の創出で、観光（keizai）とも文化発信（other）とも読める。本文に観光の語はないため other とした（low）。",
+    "b16 は本文に「企業誘致」と「行財政改革」が明記されているため keizai と gyozaisei の2つを付けた。",
+    "b20 は「ここがすごい！」欄の注記で、実績とも今後の公約とも読める。文末が「推進」で過去の実績と明記されていないため achievement: false とした（low）。",
+    "b22 は「貢献」とあり過去の実績として achievement: true。",
+    "b24 は「実現」とあり achievement: true。字数の都合で「設置」「運行」を省いて並べた。項目が多いため要約を空にする判断もありうる（low）。カーブミラー・路面標示は交通安全（bousai）とも読める。"
+  ]
+}

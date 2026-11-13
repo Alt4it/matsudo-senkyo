@@ -1,0 +1,30 @@
+{
+  "candidate_id": "c024",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["keizai"], "achievement": false, "summary": "キャッシュレス還元による物価高対策", "confidence": "low"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "給食費無償化のさらなる充実", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "防災・減災対策の強化", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "若者応援とアーバンスポーツ振興", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "人とペットが共生できるまちづくり", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "介護現場の負担軽減・働き方改革", "confidence": "high"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": true, "summary": "補聴器購入費助成の推進", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": true, "summary": "認知症予防教室の新設推進", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": true, "summary": "学校体育館の空調・LED整備", "confidence": "high"},
+    {"block_id": "b13", "themes": ["other"], "achievement": true, "summary": "ドッグエリア整備の推進", "confidence": "high"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": true, "summary": "がん患者支援の充実", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": true, "summary": "AED配備の充実", "confidence": "low"},
+    {"block_id": "b16", "themes": ["fukushi"], "achievement": true, "summary": "介護現場の人材確保とICT活用支援", "confidence": "high"},
+    {"block_id": "b17", "themes": ["fukushi", "gyozaisei"], "achievement": true, "summary": "紙おむつ支給手続きの簡素化", "confidence": "high"}
+  ],
+  "notes": [
+    "b10〜b17：見出し「1期4年の主な取り組み」は過去の任期の取り組みとして書かれているため achievement を true とした。文言は「推進」「充実」で、実現済みかどうかは本文から分からない。",
+    "b04：物価高対策を家計・消費の経済施策として keizai とした。どのテーマにも明確には当たらない。",
+    "b07・b13：スポーツ振興、ドッグエリア（動物）は other とした。",
+    "b12：学校の施設整備として kosodate とした。公共施設の整備（machi）とみる余地もある。",
+    "b15：AED（救命）を医療として fukushi としたが、安全（bousai）とみる見方もある。",
+    "b17：本文に「手続きの簡素化」の明記があるため gyozaisei を2つ目に付けた。",
+    "短い箇条はすべて原文に近いまま要約とした。"
+  ]
+}

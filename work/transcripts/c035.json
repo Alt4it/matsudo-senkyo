@@ -1,0 +1,39 @@
+{
+  "candidate_id": "c035",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [5], "position": "2段目左"},
+  "name": "うつの史行",
+  "kana": "うつのふみゆき",
+  "party": "日本共産党",
+  "age": null,
+  "career": "市議6期",
+  "slogan": "戦争と貧困をなくし公正な政治へ、7期目に挑戦。市民と喜びも苦労も分かち合う市政をご一緒に！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "戦争と貧困をなくし公正な政治へ、7期目に挑戦。", "page": 5},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "市民と喜びも苦労も分かち合う市政をご一緒に！", "page": 5},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "松戸新市長初の予算は40.9億円の市民負担増！\n（県水道値上げを含む）", "page": 5},
+    {"block_id": "b04", "kind": "policy", "heading": "いのち・くらしを守る松戸市へ", "verbatim": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充", "page": 5},
+    {"block_id": "b05", "kind": "policy", "heading": "いのち・くらしを守る松戸市へ", "verbatim": "高すぎる国保税の減免\n子どもの均等割り無料化", "page": 5},
+    {"block_id": "b06", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "児童館や中高生の居場所づくり", "page": 5},
+    {"block_id": "b07", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "教員不足解消と学校改修", "page": 5},
+    {"block_id": "b08", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "中学校給食の無償化", "page": 5},
+    {"block_id": "b09", "kind": "message", "heading": null, "verbatim": "住民の福祉切り捨て予算に日本共産党以外の政党・会派が賛成し可決してしまいました。", "page": 5},
+    {"block_id": "b10", "kind": "policy", "heading": "市民と地域の願い", "verbatim": "大型開発見直し", "page": 5},
+    {"block_id": "b11", "kind": "policy", "heading": "市民と地域の願い", "verbatim": "通学道路、生活道路の安全対策", "page": 5},
+    {"block_id": "b12", "kind": "policy", "heading": "市民と地域の願い", "verbatim": "上本郷駅南口にエレベーター設置を", "page": 5},
+    {"block_id": "b13", "kind": "policy", "heading": "高齢者を応援", "verbatim": "バス・タクシー料金の補助制度", "page": 5},
+    {"block_id": "b14", "kind": "policy", "heading": "高齢者を応援", "verbatim": "年金で入れる特養老人ホーム", "page": 5},
+    {"block_id": "b15", "kind": "profile", "heading": null, "verbatim": "1976年葛飾生まれ。明治大学法学部卒。会社員を経て市議6期。八柱保育所父母会元役員、風の子放課後児童クラブ保護者会元役員。家族：妻、1男。", "page": 5},
+    {"block_id": "b16", "kind": "message", "heading": null, "verbatim": "災害対策、くらし・営業、医療・福祉、公共交通、・・・　みなさんの願いにこたえます", "page": 5},
+    {"block_id": "b17", "kind": "message", "heading": null, "verbatim": "「力の支配」にNO！ 反戦平和をつらぬいて104年「日本共産党」", "page": 5}
+  ],
+  "issues": [
+    "年齢の記載なし（「1976年葛飾生まれ」のみ。計算していない）。",
+    "slogan：上部黒帯の2行（「戦争と貧困をなくし公正な政治へ、7期目に挑戦。」「市民と喜びも苦労も分かち合う市政をご一緒に！」）を1つの文言として採った。その下の「松戸新市長初の予算は40.9億円の市民負担増！」もほぼ同じ大きさだが、上にある黒帯を優先した。1行目だけにするかを含めて要確認。",
+    "b05は行頭の◎が1つで、「高すぎる国保税の減免」「子どもの均等割り無料化」の2行が続く。記号が1つなので1ブロックにした（改行を残した）。分けるかは要判断。",
+    "b03は施策のない現状説明として message にした。b09はイラストの人物の吹き出しの文字。",
+    "読み順は左列（数字の訴え・いのち・くらし・どの子も）→右列（吹き出し・市民と地域の願い・高齢者を応援・プロフィール）→下の帯2本とした。",
+    "b16の「・・・」は中点3つに見える。「公共交通、・・・」と「みなさん」の間に空白がある。",
+    "b17の「NO!」の「!」は半角に近い字形。全角・半角の別は判別しにくい。",
+    "氏名は「うつの」＋「史行」（ふりがな「ふみゆき」）。プロフィール内のQRコード（Xのマーク）は含めていない。"
+  ]
+}

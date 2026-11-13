@@ -1,0 +1,11 @@
+{
+  "candidate_id": "c038",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b01：詩の形の文で、施策として何を求めているかは解釈に頼る（末尾「えほんかんに」が何を指すか本文からは確定できない）。要約せず原文のみとする。テーマも決めきれず、仮にその他とした。政策として扱うかどうかも含め人の判断が必要。"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c062",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "学校給食費の無償化は国が全国一律に実施を", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "子どもの意見を尊重し、安心できる居場所の確保を", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "誰もが安心して老後を迎えられる医療や介護の拡充を", "confidence": "high"},
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "女性の自立した生活への支援強化を", "confidence": "low"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "現地建替えの新庁舎、仮庁舎の業務は市民に配慮を", "confidence": "low"},
+    {"block_id": "b07", "themes": ["bousai", "kankyo"], "achievement": false, "summary": "気候危機・災害増に想定以上の対策強化を", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "老朽化進む学校施設、教育環境の整備優先を", "confidence": "high"},
+    {"block_id": "b09", "themes": ["other"], "achievement": false, "summary": "法人税減税を見直し消費税は廃止、その声を松戸市議会から", "confidence": "low"}
+  ],
+  "notes": [
+    "b01：物価高騰から市民生活を守る対策強化。具体的な施策が書かれていないため summary を空にした。どのテーマの criteria にも明確に当てはまらないため other・low。",
+    "b05：女性の自立支援。福祉（生活困窮者支援）とも読めるが明記がないため other・low。",
+    "b06：庁舎の建て替え（machi）よりも仮庁舎での業務の配慮が主眼として gyozaisei としたが、どちらとも読めるため low。",
+    "b07：「気候危機」の明記があるため kankyo を2つ目に付けた。",
+    "b09：国の税制に関する主張で、市の財政（gyozaisei）とは異なるため other・low。"
+  ]
+}

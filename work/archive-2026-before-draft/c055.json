@@ -1,0 +1,35 @@
+{
+  "candidate_id": "c055",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [7], "position": "4段目左"},
+  "name": "なかやま英夫",
+  "kana": "なかやまひでお",
+  "party": "日本共産党",
+  "age": null,
+  "career": null,
+  "slogan": "市民参加の政治をすすめます!",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "市民運動家のチャレンジ！", "page": 7},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "「市役所の現地建て替え」をリード", "page": 7},
+    {"block_id": "b03", "kind": "policy", "heading": "いのち・くらしを守る松戸市を", "verbatim": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充", "page": 7},
+    {"block_id": "b04", "kind": "policy", "heading": "いのち・くらしを守る松戸市を", "verbatim": "高すぎる国保税の減免\n子どもの均等割り無料化", "page": 7},
+    {"block_id": "b05", "kind": "policy", "heading": "高齢者を応援", "verbatim": "補聴器購入補助の増額", "page": 7},
+    {"block_id": "b06", "kind": "policy", "heading": "高齢者を応援", "verbatim": "タクシー料金の半額補助制度", "page": 7},
+    {"block_id": "b07", "kind": "policy", "heading": "高齢者を応援", "verbatim": "廃止された六実老人福祉センターの代替施設を", "page": 7},
+    {"block_id": "b08", "kind": "policy", "heading": "どの子ものびのび", "verbatim": "中学校給食の無償化", "page": 7},
+    {"block_id": "b09", "kind": "policy", "heading": "どの子ものびのび", "verbatim": "教員不足解消", "page": 7},
+    {"block_id": "b10", "kind": "policy", "heading": "地域の願い　安全な街づくりを", "verbatim": "通学道路、生活道路の安全対策", "page": 7},
+    {"block_id": "b11", "kind": "policy", "heading": "地域の願い　安全な街づくりを", "verbatim": "小金原団地と総合医療センターを直接結ぶ公共交通機関を", "page": 7},
+    {"block_id": "b12", "kind": "message", "heading": null, "verbatim": "なかやま英夫にバトンを\nしまむら新一への1票を次は「なかやま英夫」に！", "page": 7},
+    {"block_id": "b13", "kind": "profile", "heading": null, "verbatim": "1961年、北海道旭川生まれ。中央大学卒。2006年より松戸に定住。2020年より「新松戸駅東側のまちづくりを考えるネットワーク」に参加。2023年「みんなで市庁舎現地立替を考える市民ネット」に参加し現在世話人。", "page": 7},
+    {"block_id": "b14", "kind": "message", "heading": null, "verbatim": "憲法がいきる市政へ！　反戦平和をつらぬいて104年「日本共産党」", "page": 7}
+  ],
+  "issues": [
+    "b02「「市役所の現地建て替え」をリード」は本人の活動の説明とも実績の主張とも読めるため、policy にせず message とした。分類で判断してほしい。",
+    "b04 は行頭記号◎の1つの箇条に2行（国保税の減免／子どもの均等割り無料化）が入っているため、1ブロックのまま行の区切りを改行で残した。",
+    "見出し「地域の願い／安全な街づくりを」は2行のため全角スペースでつないだ。",
+    "b12 は吹き出し内の文。1行目と2〜3行目の区切りを改行で残し、2〜3行目は折り返しとしてつないだ。",
+    "b13 の「現地立替」は原文の表記のまま（b02 は「建て替え」）。",
+    "スローガン「市民参加の政治をすすめます!」の感嘆符は半角に見えたため「!」、他の感嘆符は全角に見えたため「！」とした。区別は確実でない。",
+    "年齢の記載はない（生年「1961年」のみ。計算していない）。QRコードは本文に含めていない。"
+  ]
+}

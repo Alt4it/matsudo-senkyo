@@ -1,0 +1,136 @@
+{
+  "candidate_id": "c022",
+  "order": 22,
+  "name": "ミールかずえ",
+  "kana": "ミールかずえ",
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": "松戸市議2期",
+  "age": null,
+  "slogan": "「市民の命と暮らし最優先の松戸市」をご一緒に",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充",
+      "heading": "待ったなしの改革を",
+      "verbatim": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高すぎる国保税の減免、子どもの均等割り無料化",
+      "heading": "待ったなしの改革を",
+      "verbatim": "高すぎる国保税の減免\n子どもの均等割り無料化",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "高すぎる国保税の減免、子どもの均等割り無料化",
+      "heading": "待ったなしの改革を",
+      "verbatim": "高すぎる国保税の減免\n子どもの均等割り無料化",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "国道464号の歩道整備",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "国道464号の歩道整備",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市営住宅の増設",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "市営住宅の増設",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公共交通の充実",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "公共交通の充実",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "矢切の耕地の保全",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "矢切の耕地の保全",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公園新設と施設整備",
+      "heading": "地域の願い・安全な街づくりを",
+      "verbatim": "公園新設と施設整備",
+      "page": 3
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "中学校給食の無償化",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "中学校給食の無償化",
+      "page": 3
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "教員不足解消",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "教員不足解消",
+      "page": 3
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保育・介護労働者の賃金アップ",
+      "heading": "働く人を応援",
+      "verbatim": "保育・介護労働者の賃金アップ",
+      "page": 3
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "保育・介護労働者の賃金アップ",
+      "heading": "働く人を応援",
+      "verbatim": "保育・介護労働者の賃金アップ",
+      "page": 3
+    },
+    {
+      "block_id": "b13",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "公契約条例で公共事業労働者の賃金アップ",
+      "heading": "働く人を応援",
+      "verbatim": "公契約条例で公共事業労働者の賃金アップ",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

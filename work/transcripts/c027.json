@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c027",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [4], "position": "2段目左"},
+  "name": "川井きよまさ",
+  "kana": null,
+  "party": "国民民主党",
+  "age": null,
+  "career": "元 松戸市議会議員",
+  "slogan": "地域の現場から市政を。",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "地域の現場から市政を。", "page": 4},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "松戸の困った、ほっとかない！", "page": 4},
+    {"block_id": "b03", "kind": "policy", "heading": "福祉　誰もが安心して暮らせる松戸へ。", "verbatim": "高齢者の移動・外出を支える", "page": 4},
+    {"block_id": "b04", "kind": "policy", "heading": "福祉　誰もが安心して暮らせる松戸へ。", "verbatim": "孤立のない地域づくり", "page": 4},
+    {"block_id": "b05", "kind": "policy", "heading": "福祉　誰もが安心して暮らせる松戸へ。", "verbatim": "地域の相談・支援体制を強化", "page": 4},
+    {"block_id": "b06", "kind": "policy", "heading": "防災　地域の力で、命を守る松戸へ。", "verbatim": "災害時の「逃げ遅れゼロ」へ", "page": 4},
+    {"block_id": "b07", "kind": "policy", "heading": "防災　地域の力で、命を守る松戸へ。", "verbatim": "避難所をもっと安心・快適に", "page": 4},
+    {"block_id": "b08", "kind": "policy", "heading": "防災　地域の力で、命を守る松戸へ。", "verbatim": "地域防災の担い手を増やす", "page": 4},
+    {"block_id": "b09", "kind": "policy", "heading": "くらし　身近な困りごとを、着実に解決。", "verbatim": "市内危険箇所の改善", "page": 4},
+    {"block_id": "b10", "kind": "policy", "heading": "くらし　身近な困りごとを、着実に解決。", "verbatim": "防犯対策でもっと安心な街へ", "page": 4},
+    {"block_id": "b11", "kind": "policy", "heading": "くらし　身近な困りごとを、着実に解決。", "verbatim": "物価高からくらしを守る", "page": 4},
+    {"block_id": "b12", "kind": "policy", "heading": "財政　ムダを省き、必要なところへ。", "verbatim": "市民目線でムダをチェック", "page": 4},
+    {"block_id": "b13", "kind": "policy", "heading": "財政　ムダを省き、必要なところへ。", "verbatim": "国・県のお金をしっかり活用", "page": 4},
+    {"block_id": "b14", "kind": "policy", "heading": "財政　ムダを省き、必要なところへ。", "verbatim": "将来にツケを残さない財政へ", "page": 4},
+    {"block_id": "b15", "kind": "profile", "heading": "PROFILE", "verbatim": "松戸市生まれ（稔台在住50年）／元 松戸市議会議員／三井のリハウス元社員／尾崎行雄記念財団 政経懇話会メンバー／地域活動に注力、様々な役割を経験（松戸市社会福祉協議会　理事、松戸市防犯協会連合会 監事／松戸市地域防災リーダー／松戸市居場所作り 実行委員長 ほか", "page": 4},
+    {"block_id": "b16", "kind": "other", "heading": null, "verbatim": "川井きよまさを応援しています！\n国民民主党 代表 玉木雄一郎\n国民民主党 幹事長 榛葉賀津也\n参議院議員 小林さやか", "page": 4},
+    {"block_id": "b17", "kind": "other", "heading": null, "verbatim": "国民民主党 こくみん", "page": 4}
+  ],
+  "issues": [
+    "氏名の姓「川井」にふりがながなく、名の「きよまさ」しか読みが分からないため、kana は null とした。",
+    "政策は縦書き4欄で、右から「福祉」「防災」「くらし」「財政」の順に読んだ。各欄には分野名（福祉など）と太字の一文（「誰もが安心して暮らせる松戸へ。」など）の2段の見出しがあり、heading は両方を全角スペースでつないだ（公報上は別々の位置にある）。太字の一文を独立した policy ブロックにするかは要判断。",
+    "PROFILE の「（松戸市社会福祉協議会　理事、…ほか」は、開き括弧に対する閉じ括弧が紙面に見当たらない。原文のまま写した。「協議会」と「理事」の間に広い空白がある。",
+    "career は PROFILE の「元 松戸市議会議員」を採った。",
+    "左下の「国民民主党 こくみん」はロゴ、下部の応援者名の帯は other とした。"
+  ]
+}

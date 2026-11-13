@@ -1,0 +1,55 @@
+{
+  "candidate_id": "c047",
+  "order": 47,
+  "name": "大塚けんじ",
+  "kana": "おおつかけんじ",
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": null,
+  "slogan": "スローガンだけの政治はもう終わらせる",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "税金を「使う行政」から「稼ぐ行政」へ変える！",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "松戸メディカル・リゾート構想、命と健康を守る医療・自然特区へ",
+      "heading": "健を守り、食で稼ぎ、育に投資する「新・三本の矢」",
+      "verbatim": "第一の矢／健\n松戸メディカル・リゾート構想\n命と健康を守る医療・自然特区へ!",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸フードパーク構想、農の恵みを利益に変える稼ぐ拠点",
+      "heading": "健を守り、食で稼ぎ、育に投資する「新・三本の矢」",
+      "verbatim": "第二の矢／食\n松戸フードパーク構想\n農の恵みを利益に変える、最強の稼ぐ拠点!",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "松戸CORE構想、AI時代を勝ち抜く次世代教育特区",
+      "heading": "健を守り、食で稼ぎ、育に投資する「新・三本の矢」",
+      "verbatim": "第三の矢／育\n松戸CORE構想\nAI時代を勝ち抜く、次世代教育特区!",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

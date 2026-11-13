@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c057",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "いじめ・不適切指導の根絶", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "切れ目のない不登校・発達支援", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "六実・五香の渋滞解消", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "レインボーバス延伸", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "高柳クリーンセンター整備", "confidence": "low"},
+    {"block_id": "b09", "themes": ["gyozaisei"], "achievement": false, "summary": "誰もが相談しやすい支所機能へ", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "避難所運営・ペット同行避難の整備", "confidence": "high"},
+    {"block_id": "b11", "themes": ["other"], "achievement": false, "summary": "町会・地域活動の担い手づくり", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": true, "summary": "こども発達相談窓口「みらいのとびら」の開設を提案", "confidence": "low"}
+  ],
+  "notes": [
+    "b05：先生が誇りを持って働ける現場づくりという方向性のみで、具体的な施策がないため summary を空にした。",
+    "b08：施設の種類が公報に書かれていないため、公共施設の整備として machi とした。ごみ処理施設であれば kankyo になるが、公報外の知識になるため付けていない。low。",
+    "b12：経歴の札と並ぶ「開設を提案」で、過去の活動（実績）として true にした。提案した事実で、開設済みとは書かれていない。今後の公約とも読めるため low。"
+  ]
+}

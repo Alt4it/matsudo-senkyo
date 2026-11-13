@@ -1,0 +1,15 @@
+{
+  "candidate_id": "c019",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "子育て世代の負担軽減へ、市立小中学校の学校指定教材・副教材を無償化", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "保育園の空き状況・園比較・年齢別入園状況を分かりやすく見える化", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "「地域フォーミュラリ」導入を検討し、薬剤費削減と医薬品の安定供給を目指す", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai", "fukushi"], "achievement": false, "summary": "高齢者や障害のある方など避難困難者の具体的な避難方法を定め、逃げ遅れをなくす", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "水害の不安ゼロへ、雨水排水施設や側溝の点検・整備、地域ごとの浸水リスク発信", "confidence": "high"}
+  ],
+  "notes": [
+    "b05: 本文に「高齢者や障害のある方」と明記があるため福祉・医療を2つ目に付けた。"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c060",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "シミュレーション教育の知見を活かし、実践的な地域防災を推進", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "看護師が地域で健康づくり・療養・子育て・介護・孤立の相談を受け専門支援へ", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "災害を想定した実践的防災訓練の実施と防災士取得費用の助成", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "シニアにスキルが活かせる仕事の提供と継続した市民活動のサポート", "confidence": "low"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "市民参加型予算の導入", "confidence": "high"},
+    {"block_id": "b09", "themes": ["other", "fukushi"], "achievement": false, "summary": "文化・スポーツで健康寿命が長い松戸に", "confidence": "low"}
+  ],
+  "notes": [
+    "b04：相談内容に子育ても含まれるが、5項目の1つであり主眼は地域看護・健康支援のため fukushi のみとした。",
+    "b06：見出し「専門性の高いシニアが元気で活躍できる松戸」の語（シニア）を使って要約した。高齢者の社会参加として fukushi としたが、仕事の提供（雇用、keizai）とも読めるため low。",
+    "b07：「若者が育つ松戸」は見出しのみで具体的な施策がない抽象的な公約のため summary を空にした。当てはまるテーマが不明確なため other・low。",
+    "b09：見出しのみの項目。文化・スポーツ（other）と健康寿命（fukushi）の両方が明記されている。施策としての具体性が乏しく、抽象的な公約として空にする判断もあり得るため low。"
+  ]
+}

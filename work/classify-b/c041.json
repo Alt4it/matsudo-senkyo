@@ -1,0 +1,28 @@
+{
+  "candidate_id": "c041",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": true, "summary": "「市議会ガイドブック」を作成し、開かれた議会づくりを実行", "confidence": "high"},
+    {"block_id": "b02", "themes": ["gyozaisei"], "achievement": true, "summary": "新松戸の事業費膨張に委員会を緊急開催し、市に説明を求める", "confidence": "low"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": true, "summary": "国土交通省へ治水対策の陳情書を手交（R8.8.4）", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai", "machi"], "achievement": true, "summary": "東葛6市の議長会で近隣市と連携し、防災・インフラ整備を推進", "confidence": "low"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": true, "summary": "小金原中央公園の改修が実現", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": true, "summary": "国の施策を誘致しグリーンスローモビリティを導入、利用者1万人を突破", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "新松戸駅東側の再開発。一日も早い完成と常磐線快速の新松戸駅停車の実現へ", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "根木内東小学校跡地の活用、老朽化した公共施設の再編に地域の声を届ける", "confidence": "low"},
+    {"block_id": "b11", "themes": ["bousai", "machi"], "achievement": false, "summary": "水害多発箇所の道路・側溝・水路を整備", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": true, "summary": "開かれた議会作りと近隣市との連携を強化してきた", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b14", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b15", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "b01〜b04：見出し「第71代 松戸市議会議長として」の下の、議長として行ったことの列挙とみて achievement を true にした。b02（文末「求める」）と b04（文末「推進」）は今後の話とも読めるため low。",
+    "b05：後半「世代を問わず笑顔溢れる地域作りを実行！」は抽象的なため、要約は前半の具体的な部分だけにした。",
+    "b07：原文の句点の区切りを残した（「再開発の完成」とつなぐと並びが変わるため）。",
+    "b08：文末「実行！」が実績か今後の話か判別できず、見出し「未来を見据えた街づくり」から false にした。low。要約は後半の「市役所全体で取り組める体制づくり」を省いている。",
+    "b11：水害対策として防災・安全、本文の「道路」からまちづくり・交通を2つ目に付けた。",
+    "b13・b14・b15：具体的な施策・対象・数値がない抱負のため要約しない。b13・b14 のテーマはまちづくり・交通としたが、本文が抽象的で当てはめに迷った。"
+  ]
+}

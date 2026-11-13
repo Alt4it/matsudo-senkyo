@@ -1,0 +1,30 @@
+{
+  "candidate_id": "c040",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "1・2歳児クラスの第1子保育料を半額に", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "高架下を活用し、雨や日差しを避けられる遊び場を拡充", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "河川敷球技場の平日空き時間を無料開放し、ボール遊びの場を拡充", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "卵子凍結費用を助成", "confidence": "low"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "21世紀の森と広場の早朝利用期間を拡大", "confidence": "low"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "蚤の市や音楽イベントなど自然と調和するイベントを誘致", "confidence": "low"},
+    {"block_id": "b08", "themes": ["kankyo"], "achievement": false, "summary": "企業協賛を活用し、公共のごみ箱を試験設置", "confidence": "high"},
+    {"block_id": "b09", "themes": ["keizai"], "achievement": false, "summary": "SNS講座やSNS広告費の補助で個人店・中小企業の集客を支援", "confidence": "high"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": false, "summary": "健康教育を推進し、健康寿命の延伸へ", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "金融やAIの知識を学ぶ機会を設け、詐欺被害を防止", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei", "keizai"], "achievement": false, "summary": "戦略的なSNS発信で市内消費とふるさと納税の寄付額を拡大", "confidence": "high"},
+    {"block_id": "b13", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "公共施設の集約・複合化を推進し、必要に応じて移動型市役所を導入", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "「広報まつど」を月1回発行に見直し、緊急時は臨時号で対応", "confidence": "high"},
+    {"block_id": "b15", "themes": ["gyozaisei"], "achievement": false, "summary": "議員定数を削減", "confidence": "high"}
+  ],
+  "notes": [
+    "b03・b04：見出し「子育て支援」の配下の遊び場の拡充として kosodate。",
+    "b05：見出し「子育て支援」により kosodate としたが、医療（fukushi）とも読めるため low。",
+    "b06：公園の利用拡大として machi としたが、基準の「公園の整備」に当たるか迷うため low。",
+    "b07：イベント誘致を文化として other としたが、観光（keizai）とも読めるため low。",
+    "b11：詐欺被害の防止を防犯として bousai とした。",
+    "b12：見出し「収入を増やす」により gyozaisei、本文に「市内消費」の明記があるため keizai を2つ目に付けた。",
+    "b13：見出し「支出を見直す」により gyozaisei、本文に「公共施設」の明記があるため machi を2つ目に付けた。"
+  ]
+}

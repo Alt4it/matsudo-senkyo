@@ -1,0 +1,34 @@
+{
+  "candidate_id": "c018",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [3], "position": "1段目右"},
+  "name": "西沢つよし",
+  "kana": null,
+  "party": "無所属",
+  "age": 25,
+  "career": null,
+  "slogan": "25歳の挑戦！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "今こそ共に立ち上がろう！！", "page": 3},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "松戸生まれ松戸育ち！大好きな松戸に恩返し！！", "page": 3},
+    {"block_id": "b03", "kind": "profile", "heading": null, "verbatim": "日本各地をヒッチハイクでまわり、路上で約3,000人の靴を磨いてきました。", "page": 3},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "誰に対しても膝をつき、足下を支え、目と目を合わせて話し、身につけた『現場の精神』を行政の立場で実践します。", "page": 3},
+    {"block_id": "b05", "kind": "policy", "heading": "現場の身近な課題をサポート！", "verbatim": "道路・公園の使いにくさ、子育て・介護の悩み、行政手続きの分かりにくさなど、身近なお困りごとに耳を傾け、現場へ足を運びます。", "page": 3},
+    {"block_id": "b06", "kind": "policy", "heading": "現場の身近な課題をサポート！", "verbatim": "担当部署へつなぐだけでなく経過まで確認し、共通する課題は制度改善につなげます。", "page": 3},
+    {"block_id": "b07", "kind": "policy", "heading": "スポーツの力で松戸を元気に！", "verbatim": "20年以上のサッカー経験やサッカーを通じた国際活動、児童養護施設訪問の経験を活かし、子どもから高齢者まで地域スポーツに気軽に参加できる機会を広げます。", "page": 3},
+    {"block_id": "b08", "kind": "policy", "heading": "教育現場の支援・調査を加速！", "verbatim": "先生・子ども・保護者の声を聴き、課題を明らかにします。", "page": 3},
+    {"block_id": "b09", "kind": "policy", "heading": "教育現場の支援・調査を加速！", "verbatim": "先生の事務負担軽減、図書館の安全性・使いやすさの改善、AIやSNSを適切に使う力の育成に取り組みます。", "page": 3},
+    {"block_id": "b10", "kind": "profile", "heading": null, "verbatim": "【取得資格】中学校教諭一種免許状(社会)/高等学校教諭一種免許状(公民)", "page": 3},
+    {"block_id": "b11", "kind": "profile", "heading": "《地域活動》", "verbatim": "五香南町会役員防犯部/防犯指導員/松戸市消防団六実方面隊　第26分団/五香六実FCコーチ", "page": 3},
+    {"block_id": "b12", "kind": "message", "heading": null, "verbatim": "動いて、聴いて、実行する！", "page": 3},
+    {"block_id": "b13", "kind": "other", "heading": null, "verbatim": "公式サイトSNSはこちら！", "page": 3}
+  ],
+  "issues": [
+    "氏名「西沢つよし」にふりがながなく、姓の読みが公報から分からないため kana は null とした。",
+    "年齢欄はないが、冒頭に「25歳の挑戦！」とあるため age を 25 とした。要確認。",
+    "スローガン：最も大きい文言は冒頭の「25歳の挑戦！」と縦書きの「動いて、聴いて、実行する！」がほぼ同じ大きさ。紙面の上にある「25歳の挑戦！」を採った。要確認。",
+    "見出しの前の□（四角）記号は行頭記号として heading から除いた。",
+    "b05・b06 の「・」は前後に空きのある組み方だが、通常の「・」で写した。",
+    "b10【取得資格】は「教育現場の支援・調査を加速！」の本文末尾に続けて書かれているが、資格の記載のため profile として分けた。",
+    "QRコードは本文に含めていない。"
+  ]
+}

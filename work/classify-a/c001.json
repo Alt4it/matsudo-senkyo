@@ -1,0 +1,29 @@
+{
+  "candidate_id": "c001",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "自然災害や相次ぐ水害に強いインフラ整備の充実", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi", "other"], "achievement": false, "summary": "図書館やスポーツ施設の充実", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "無駄を省いて市庁舎を現地建替え、新拠点ゾーンは市民の声を活かす", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi", "gyozaisei"], "achievement": false, "summary": "新松戸区画整理の10数億円の‘赤字’を解消へ", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "中学校給食も迅速に完全無償化へ", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "見えない学費の減少や不登校支援の充実", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "こども基本条例の制定", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi", "machi"], "achievement": false, "summary": "居住支援の強化・施設整備を促進", "confidence": "low"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": false, "summary": "障害や介護は相談サポートから更に充実", "confidence": "high"},
+    {"block_id": "b11", "themes": ["gyozaisei"], "achievement": false, "summary": "市民満足度調査の実施", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "常設型住民投票条例の制定", "confidence": "low"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": false, "summary": "若者の声を市政に反映する仕組みの導入", "confidence": "low"},
+    {"block_id": "b14", "themes": ["kosodate", "machi"], "achievement": false, "summary": "家賃補助等で子育て世帯をサポート", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": false, "summary": "政策医療は公的責任でしっかり守る", "confidence": "high"},
+    {"block_id": "b16", "themes": ["fukushi", "gyozaisei"], "achievement": false, "summary": "医療の質を守りつつ持続可能なコスト構造へ転換", "confidence": "low"}
+  ],
+  "notes": [
+    "b09：「居住支援」は住宅（まちづくり）とも生活支援（福祉）とも読める。「施設整備」の対象も原文からは不明。見出しは「全ての世代が安心できる街へ！」。",
+    "b12・b13：住民投票条例・若者の声の反映は市民参加の仕組み。行財政の基準に直接の記載はないが、市政の仕組みとして行財政とした。その他とする考え方もある。",
+    "b14：本文に「家賃補助」と住宅に関わる語があるため、まちづくり・交通（住宅）を2つ目に付けた。",
+    "b16：見出しは市立総合医療センター改革。本文の「コスト構造」を財政の明記とみて行財政を2つ目に付けたが、病院経営の話で市の財政とは書かれていない。",
+    "b03：「スポーツ施設」の語があるため、その他（スポーツ）を2つ目に付けた。"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "candidate_id": "c011",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "経済的支援とキャリアサポートで子育ての不安を減らす", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "地域イベントや子ども食堂、遊び場の情報をスムーズに受け取れる街に", "confidence": "low"},
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "愛犬と過ごせる広場づくりや生き物との触れ合いで命の尊さが育つ環境へ", "confidence": "high"}
+  ],
+  "notes": [
+    "b04：地域の情報発信の施策。子ども食堂・遊び場が挙がるため kosodate にしたが、地域イベント全般も含み、行財政（情報公開）とみる考え方もある。",
+    "b05：動物との触れ合いとして other。広場づくり（machi）は動物のための場のため2つ目には付けていない。"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "candidate_id": "c046",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "多様な学びと一人ひとりの努力を評価する仕組みを整える", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "老朽化した校舎・体育館や遊具の更新を進める", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "健診・検診の手続きを簡素化し、病気の早期発見と生活習慣病の予防を推進", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "健康寿命の延伸と医療費の抑制を目指す", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "外国人住民の増加と地域への影響を把握・検証", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "市民の暮らしと地域の受け入れ体制を踏まえ、外国人材の受け入れ適正化", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：本文に「学び」があり、見出し「子育て・教育環境の充実」と合わせて子育て・教育にした。"
+  ]
+}

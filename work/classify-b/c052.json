@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c052",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["fukushi"], "achievement": false, "summary": "生活保護の支給は法律通り日本国籍者限定に", "confidence": "low"},
+    {"block_id": "b02", "themes": ["fukushi", "other"], "achievement": false, "summary": "在留外国人の国民健康保険料は初年度分を一括で前納に", "confidence": "low"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "不法就労・不法滞在を見逃さない体制の構築", "confidence": "low"},
+    {"block_id": "b04", "themes": ["kankyo"], "achievement": false, "summary": "太陽光発電システム導入補助金の廃止", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kankyo"], "achievement": false, "summary": "電気自動車（ＥＶ）補助金の廃止", "confidence": "high"},
+    {"block_id": "b06", "themes": ["keizai"], "achievement": false, "summary": "松戸市独自で新しく農業を始める人をサポート", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi", "kosodate"], "achievement": false, "summary": "学校の複合化で多世代交流と地域コミュニティ拠点を作る", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi", "bousai"], "achievement": false, "summary": "危険な空き家を解消して、地域の防災ミニ公園を作る", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "街路樹の根上がり歩道を改修し、誰もが安全に歩ける道に", "confidence": "high"}
+  ],
+  "notes": [
+    "b01 は生活保護（fukushi）。本文に「外国人」の語はないため other は付けなかった。見出しは治安・外国人受入れに関するもので、other とすべきか迷った（low）。",
+    "b02 は国民健康保険料（fukushi）で、本文に「在留外国人」と明記があるため other（多文化共生の区分）を2つ目に付けた。b01 との付け方の差は本文の明記の有無による（low）。",
+    "b03 は見出し「治安」から防犯として bousai とした。外国人政策として other とも読める（low）。",
+    "b04・b05 は補助金の廃止で、見出しは農業だが本文の対象は再エネ・EV のため kankyo とした。財政（gyozaisei）とも読める。",
+    "b07 は本文に「学校」とあるため kosodate を2つ目に付けた。b08 は「防災ミニ公園」とあるため bousai を2つ目に付けた。"
+  ]
+}

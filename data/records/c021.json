@@ -1,0 +1,136 @@
+{
+  "candidate_id": "c021",
+  "order": 21,
+  "name": "鈴木ともあき",
+  "kana": "すずきともあき",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "現職3期",
+  "age": 48,
+  "slogan": "東松戸新病院・児童相談所の誘致を実現！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "東松戸新病院・児童相談所の誘致を実現",
+      "heading": null,
+      "verbatim": "東松戸新病院・児童相談所の誘致を実現！",
+      "page": 3
+    },
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "東松戸新病院・児童相談所の誘致を実現",
+      "heading": null,
+      "verbatim": "東松戸新病院・児童相談所の誘致を実現！",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "東松戸病院跡地に新病院を誘致、令和11年4月末完成予定（外来12科・198床）",
+      "heading": "実　績",
+      "verbatim": "東松戸病院跡地に新病院を誘致\n令和11年4月末完成予定（外来12科・198床）",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "松戸児童相談所の開設を実現、令和8年9月に松戸市高塚新田に開設",
+      "heading": "実　績",
+      "verbatim": "松戸児童相談所の開設を実現\n令和8年9月、松戸市高塚新田に開設",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "千葉豪雨で市長に緊急要望書を提出。災害ゴミ早期回収、市独自の支援金制度を推進",
+      "heading": "実　績",
+      "verbatim": "千葉豪雨への対応（令和8年8月）\n当日深夜・翌早朝に春木川・国分川へ駆け付け\n市長に緊急要望書を提出。災害ゴミ早期回収、市独自の支援金制度を推進",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "緊急通報装置の無料化を実現（令和8年4月~）",
+      "heading": "実　績",
+      "verbatim": "緊急通報装置の無料化を実現（令和8年4月~）",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "生後1ヶ月児検診の費用助成を実現、5歳児検診の導入も推進",
+      "heading": "実　績",
+      "verbatim": "生後1ヶ月児検診の費用助成を実現（令和6年4月~）\n子育て支援のため5歳児検診の導入も推進します",
+      "page": 3
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "不登校児童のため「個性に合う複数の居場所」をつくり、学校支援員も増員",
+      "heading": "若者の未来—居場所をつくる",
+      "verbatim": "不登校児童のため「個性に合う複数の居場所」をつくり、学校支援員も増員。",
+      "page": 3
+    },
+    {
+      "block_id": "b11",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "就職氷河期世代・若者の就労支援を拡充",
+      "heading": "若者の未来—居場所をつくる",
+      "verbatim": "就職氷河期世代・若者の就労支援を拡充します。",
+      "page": 3
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "春木川・国分川を二度と氾濫させないため、県の柳原排水機場の能力増強を働きかける",
+      "heading": "地域の安心—水害・道路",
+      "verbatim": "春木川・国分川を二度と氾濫させないため、県の柳原排水機場の能力増強を働きかけます。",
+      "page": 3
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "死亡事故が続く県道51号の拡幅を前倒し",
+      "heading": "地域の安心—水害・道路",
+      "verbatim": "死亡事故が続く県道51号の拡幅を前倒しします。",
+      "page": 3
+    },
+    {
+      "block_id": "b13",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "死亡事故が続く県道51号の拡幅を前倒し",
+      "heading": "地域の安心—水害・道路",
+      "verbatim": "死亡事故が続く県道51号の拡幅を前倒しします。",
+      "page": 3
+    },
+    {
+      "block_id": "b14",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "東松戸駅周辺にホテル・商業施設・企業の誘致を実現",
+      "heading": "企業を呼び込む街づくり",
+      "verbatim": "東松戸駅周辺にホテル・商業施設・企業の誘致を実現します。",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

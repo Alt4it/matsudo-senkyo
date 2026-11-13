@@ -1,0 +1,30 @@
+{
+  "candidate_id": "c024",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["keizai"], "achievement": false, "summary": "キャッシュレス還元による物価高対策", "confidence": "low"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "給食費無償化のさらなる充実", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "防災・減災対策の強化", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "若者応援とアーバンスポーツ振興", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "人とペットが共生できるまちづくり", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "介護現場の負担軽減・働き方改革", "confidence": "high"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": true, "summary": "補聴器購入費助成の推進", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": true, "summary": "認知症予防教室の新設推進", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": true, "summary": "学校体育館の空調・LED整備", "confidence": "high"},
+    {"block_id": "b13", "themes": ["other"], "achievement": true, "summary": "ドッグエリア整備の推進", "confidence": "high"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": true, "summary": "がん患者支援の充実", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": true, "summary": "AED配備の充実", "confidence": "low"},
+    {"block_id": "b16", "themes": ["fukushi"], "achievement": true, "summary": "介護現場の人材確保とICT活用支援", "confidence": "high"},
+    {"block_id": "b17", "themes": ["fukushi"], "achievement": true, "summary": "紙おむつ支給手続きの簡素化", "confidence": "high"}
+  ],
+  "notes": [
+    "全ブロック短い箇条のため原文のままを要約とした。",
+    "b04: 物価高対策を経済・産業とした。生活支援として福祉・医療とする判断もあり得る。",
+    "b06・b08: 具体的な施策名は薄いが、対象分野を示す短い箇条のため原文のままとした。",
+    "b10〜b17: 見出し「1期4年の主な取り組み」は過去の取り組みを示すため achievement を true とした。ただし箇条の文末が「推進」「充実」で、実現済みか取り組み中かは本文から分からない。人の確認を。",
+    "b12: 学校施設の整備として子育て・教育とした。公共施設の整備としてまちづくり・交通とする判断もあり得る。",
+    "b13: ドッグエリアは動物関連としてその他とした。",
+    "b15: AED配備は医療・健康として福祉・医療としたが、安全として防災・安全とする判断もあり得る。"
+  ]
+}

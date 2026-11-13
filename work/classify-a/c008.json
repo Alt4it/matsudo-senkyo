@@ -1,0 +1,27 @@
+{
+  "candidate_id": "c008",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["machi"], "achievement": false, "summary": "新庁舎は仮庁舎への移転により、極力建設費を抑えた方法で早期着工", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi", "keizai"], "achievement": false, "summary": "北小金駅北口の再開発、小金北小学校の新築再編、幸田地区の用途変更で店舗誘致", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": false, "summary": "計画を変更してでも区画整理事業を着工し、快速停車の再検証を始めさせる", "confidence": "high"},
+    {"block_id": "b08", "themes": ["keizai"], "achievement": false, "summary": "農業を続けたい方へ補助金拡充、続けられない方は新規参入者とのマッチング支援", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi", "keizai"], "achievement": false, "summary": "市街化調整区域の市街化区域編入で宅地化促進、農業継続は生産緑地制度を活用", "confidence": "low"},
+    {"block_id": "b10", "themes": ["keizai"], "achievement": false, "summary": "ブランド化農産物の認知度をアップし販路拡大を目指す", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate", "bousai"], "achievement": false, "summary": "保育施設・放課後児童の預かり制度の充実、スクールガード拡大、登下校環境の確保", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": true, "summary": "小中学校の普通教室にエアコン設置、その後特別教室や体育館にも追加", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": true, "summary": "都市計画道路３・３・７号線（幸谷・二ツ木間）が国道６号線へ開通", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi"], "achievement": true, "summary": "新松戸駅東側地区区画整理事業の認可を取得し事業開始", "confidence": "high"},
+    {"block_id": "b15", "themes": ["kosodate"], "achievement": true, "summary": "横須賀小学校放課後児童クラブを校庭内へ移転し運営開始", "confidence": "high"},
+    {"block_id": "b16", "themes": ["machi"], "achievement": true, "summary": "新松戸駅からのけやき通り先の神明堀への架橋完成と供用開始", "confidence": "high"},
+    {"block_id": "b17", "themes": ["machi"], "achievement": true, "summary": "江戸川河川敷グランド（古ヶ崎・主水）に水洗トイレ設置、草刈り回数増", "confidence": "high"},
+    {"block_id": "b18", "themes": ["machi"], "achievement": true, "summary": "島田台公園にトイレ設置、二三ヶ丘公園のトイレ改修など", "confidence": "high"}
+  ],
+  "notes": [
+    "b03：本文に「店舗誘致」「観光資源」とあるため経済・産業を2つ目に付けた。「観光資源を活かした新しい街」は40字に収まらないため要約から外した。",
+    "b09：前の文（b08）からの「あるいは」で始まる別案。宅地化（まちづくり）と生産緑地による農業継続（経済・産業）の両方を付けた。要約の「農業継続は」は原文「そこで農業を続けたい方は」の言い換え。",
+    "b11：本文に「安心安全な登下校環境」とあるため防災・安全（通学路）を2つ目に付けた。",
+    "b12〜b18：見出し「皆様の声を大切に主な活動実績報告」の下のため achievement を true とした。"
+  ]
+}

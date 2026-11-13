@@ -1,0 +1,37 @@
+{
+  "candidate_id": "c034",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["other"], "achievement": false, "summary": "不法滞在者及び不法就労者を撲滅", "confidence": "low"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "警察と入国管理局の活動への協力強化", "confidence": "low"},
+    {"block_id": "b04", "themes": ["other"], "achievement": false, "summary": "外国人の不法就労通報制度の導入", "confidence": "low"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "外国人犯罪グループへの監視強化", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "警察力の強化", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "トクリュウ犯罪撲滅", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "防犯パトロールに特化した自警団の創設", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "防犯カメラ等の増設で犯罪をし難い環境を整備", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kankyo"], "achievement": false, "summary": "ポイ捨てへの取り締まり強化", "confidence": "low"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": false, "summary": "外国人生活保護の廃止", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "外国人による国民健康保険料の未納を無くす", "confidence": "low"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "生活保護の不正受給を撲滅", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "議員報酬の削減・市長の退職金返上", "confidence": "high"},
+    {"block_id": "b15", "themes": ["kosodate"], "achievement": false, "summary": "道徳教育の推進", "confidence": "high"},
+    {"block_id": "b16", "themes": ["kosodate"], "achievement": false, "summary": "拉致問題の啓発強化", "confidence": "low"},
+    {"block_id": "b17", "themes": ["kosodate"], "achievement": false, "summary": "自衛隊の行事参加で安全保障教育の実施", "confidence": "high"},
+    {"block_id": "b18", "themes": ["kosodate"], "achievement": false, "summary": "いじめ問題を地域全体で解決", "confidence": "high"},
+    {"block_id": "b19", "themes": ["kosodate"], "achievement": false, "summary": "国旗国歌に対する理解促進", "confidence": "low"},
+    {"block_id": "b20", "themes": ["other"], "achievement": false, "summary": "自衛隊の広報活動への協力強化", "confidence": "high"},
+    {"block_id": "b21", "themes": ["other"], "achievement": false, "summary": "自衛隊の活動を保護する体制を構築", "confidence": "high"},
+    {"block_id": "b22", "themes": ["bousai"], "achievement": false, "summary": "対テロ訓練・Jアラート実動避難訓練の実施", "confidence": "high"},
+    {"block_id": "b23", "themes": ["bousai"], "achievement": false, "summary": "自衛隊・警察・消防との連携を強化", "confidence": "high"},
+    {"block_id": "b24", "themes": ["bousai"], "achievement": false, "summary": "水路整備・排水対策を強化して水害に備える", "confidence": "high"}
+  ],
+  "notes": [
+    "短い箇条が多いため、要約は原文に近いままにした。",
+    "b02〜b05（見出し「違法外国人撲滅」）：本文に警察・犯罪の明記があるもの（b03、b05）は防犯として bousai、ないもの（b02、b04）は外国人に関する施策として other とした。見出し単位で揃えるべきか迷うため b02〜b04 は low。",
+    "b10：見出しは「防犯対策の強化」だが、本文はポイ捨て（ごみ）のため kankyo とした。bousai の可能性もあり low。",
+    "b12：国民健康保険を医療として fukushi としたが、見出し「税金の無駄遣いを根絶」から gyozaisei（収納）の可能性もあり low。",
+    "b16・b19：本文に教育・学校の明記はないが、見出し「教育改革で教育現場を正常化」により kosodate とした。other の可能性もあり low。"
+  ]
+}

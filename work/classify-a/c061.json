@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c061",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": true, "summary": "全市立小中高学校にエアコン設置", "confidence": "high"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": true, "summary": "避難所となる体育館にガス式エアコン設置、停電時も安心", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "0〜2歳児の保育料無償化を推進", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "電動アシスト自転車の購入補助を拡大", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi", "kosodate"], "achievement": false, "summary": "子どもが安全に遊べる公園・広場の整備", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "街灯、防犯カメラを拡充", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "災害時に命を守る情報・避難所・備蓄を強化", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "AIが予約に合わせて運行ルートを決める「AIデマンド交通」を導入", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "b02・b03：文末が「設置！」で、「これからの政策・ビジョン」より前に置かれ「数々の実績は下記HPへ」と並ぶため、過去の実績として true にした。",
+    "b08：見出し「子育て世帯を応援」の下の箇条のため kosodate とした。要約に「子育て世帯」は補っていない。",
+    "b09：「子ども」の明記があるため kosodate を2つ目に付けた。",
+    "b13：誰もが安心して出かけられる松戸を目指すという方向性のみで、具体的な施策がないため summary を空にした。"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c043",
+  "order": 43,
+  "name": "広瀬ゆうと",
+  "kana": "ひろせゆうと",
+  "sort_kana": null,
+  "party": "自由民主党",
+  "career": "2期目への挑戦",
+  "age": 30,
+  "slogan": "魅力ある松戸を創るために2期目への挑戦！",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "親子で手軽に遊べる施設の誘致・公園の整備を推進",
+      "heading": null,
+      "verbatim": "親子で手軽に遊べる施設の誘致・公園の整備を推進！",
+      "page": 6
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "親子で手軽に遊べる施設の誘致・公園の整備を推進",
+      "heading": null,
+      "verbatim": "親子で手軽に遊べる施設の誘致・公園の整備を推進！",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "松戸市にプロスポーツチームを",
+      "heading": null,
+      "verbatim": "松戸市にプロスポーツチームを！",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "老朽化した団地の再整備を目指す",
+      "heading": null,
+      "verbatim": "老朽化した団地の再整備を目指します！",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "日本の生活様式を守るため、迫り来る外国人問題に向き合います！※1",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小中学校の老朽化対策に徹底的に取り組む",
+      "heading": null,
+      "verbatim": "小中学校の老朽化対策に徹底的に取り組みます！",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "SNS時代における行政広報の強化を推進",
+      "heading": null,
+      "verbatim": "SNS時代における行政広報の強化を推進！",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "民間活力の活用を目指した公園の魅力向上を推進",
+      "heading": "1期目の実績",
+      "verbatim": "民間活力の活用を目指した公園の魅力向上を推進しました！",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "市の広報のためのシティプロモーション推進方針を改訂",
+      "heading": "1期目の実績",
+      "verbatim": "松戸市の広報のためのシティプロモーション推進方針の改訂！",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "常盤平地域のまちづくり方針の策定",
+      "heading": "1期目の実績",
+      "verbatim": "常盤平地域のまちづくり方針の策定！",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "財政再建に向けたサンセット方式（事業期間を定め定期的に見直す方式）の導入",
+      "heading": "1期目の実績",
+      "verbatim": "財政再建に向けた、サンセット方式（事業期間を定め、定期的に見直す方式）の導入！",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

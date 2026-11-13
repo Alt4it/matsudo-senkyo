@@ -1,0 +1,73 @@
+{
+  "candidate_id": "c006",
+  "order": 6,
+  "name": "吉川まさお",
+  "kana": "よしかわまさお",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": null,
+  "age": 52,
+  "slogan": "毎日の生活を 政治の真ん中に",
+  "policies": [
+    {
+      "block_id": "b05",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "「移動販売」の拡充",
+      "heading": "「買い物」から松戸経済を元気に！",
+      "verbatim": "「移動販売」の拡充",
+      "page": 1
+    },
+    {
+      "block_id": "b06",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "「キャッシュレス決済ポイント還元」の推進",
+      "heading": "「買い物」から松戸経済を元気に！",
+      "verbatim": "「キャッシュレス決済ポイント還元」の推進",
+      "page": 1
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子ども食堂への支援",
+      "heading": "日本一「子育てしやすい安心な街」へ",
+      "verbatim": "子ども食堂への支援",
+      "page": 1
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "市立小中学校の「給食無償化」の推進",
+      "heading": "日本一「子育てしやすい安心な街」へ",
+      "verbatim": "市立小中学校の「給食無償化」の推進",
+      "page": 1
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "市道の排水能力の増強",
+      "heading": "災害に強い街づくりへ",
+      "verbatim": "市道の排水能力の増強",
+      "page": 1
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "豪雨災害への市独自の支援金制度の創設",
+      "heading": "災害に強い街づくりへ",
+      "verbatim": "豪雨災害への市独自の支援金制度の創設",
+      "page": 1
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

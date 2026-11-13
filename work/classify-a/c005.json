@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c005",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["machi"], "achievement": true, "summary": "倒壊の恐れのある市役所の建て替えが現地建て替えで決着", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": true, "summary": "10年で1.2億円の調査費を使った新松戸駅快速停車事業は休止の方向へ", "confidence": "low"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "「遺体収容所運営」訓練が実現。引き続き訓練を重ねマニュアルを作成予定", "confidence": "low"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": true, "summary": "治療経験豊富な医師監修のコロナ後遺症リーフレット作成に尽力", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other", "machi"], "achievement": true, "summary": "XP開催や古ヶ崎河川敷の本格的スケートボードパーク誕生に尽力", "confidence": "low"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": false, "summary": "大型事業は費用対効果を厳格に数値化し、将来の財政負担を見極める必要", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "次の4年間は市議会がよりチェック機能を果たすことが必要", "confidence": "high"}
+  ],
+  "notes": [
+    "b02・b03・b05・b06：囲み「4年間おもに取り組んできたこと」の中の項目で、見出しが「尽力」「実現」など過去の取り組みとして書かれているため achievement を true とした。",
+    "b03：「休止の方向へ」は進行中の状況とも読め、実績扱いに迷った。",
+    "b04：見出しは「訓練が実現」（過去）、本文は「作成していく予定」（今後）で実績と今後が混在するため achievement は false とした。",
+    "b06：パークスポーツ（その他）が主で、スケートボードパークの整備としてまちづくり・交通を2つ目に付けた。「XP」が何かは原文に説明がないため、そのまま残した。"
+  ]
+}

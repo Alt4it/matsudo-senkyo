@@ -1,0 +1,21 @@
+{
+  "candidate_id": "c028",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["kosodate", "other"], "achievement": false, "summary": "子育ての福祉・医療・療育・教育の充実とスポーツが息づくまちへ", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "高齢者も障がいのある方も誰もが自分らしく暮らせる（医療・介護・福祉）の共生社会へ", "confidence": "high"},
+    {"block_id": "b07", "themes": ["keizai"], "achievement": false, "summary": "産・学・官連携強化で働く場を増やし、産業力を高めるまちへ", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "防犯・防災・救急救命の強化と内水氾濫等、災害への対策強化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "誰もが住みたい住んで良かった、魅力あるコンパクトシティなまちへ", "confidence": "low"},
+    {"block_id": "b10", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b11", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "公共施設の再編と行財政改革で「まち・ひと・しごと」を未来へつなぐ", "confidence": "high"}
+  ],
+  "notes": [
+    "b05: 子育て（福祉・医療・療育・教育）とスポーツ（その他）が本文に明記されているため2テーマ。",
+    "b06: 「子育て」の語はないため子育て・教育は付けていない。",
+    "b09: 具体的な施策は「コンパクトシティ」のみで抽象的とも読める。原文の語だけで要約したが、空要約とする判断もあり得る。",
+    "b10: 協働で未来をつくるという目指す姿のみで、具体的な施策・対象・数値・期限がないため要約しない。該当テーマがなくその他とした（行財政とする判断もあり得る）。",
+    "b11: 「公共施設の再編」の明記があるため、まちづくり・交通を2つ目に付けた。"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "candidate_id": "c023",
+  "order": 23,
+  "name": "みねおそうた",
+  "kana": "みねおそうた",
+  "sort_kana": null,
+  "party": "立憲民主党",
+  "career": null,
+  "age": 37,
+  "slogan": "介護、福祉",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "災害時に支援が必要なひとを取り残さない",
+      "verbatim": "「誰がどこへどうやって」を急いで決めます。",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "県管理の五香アンダーパスへのエアー遮断機設置が決定へ",
+      "heading": "県と市の連携で命を守る浸水対策を",
+      "verbatim": "県管理の五香アンダーパスへのエアー遮断機設置が決定へ。",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "新拠点ゾーンに宇宙飛行士・山崎直子さんの顕彰展示を",
+      "heading": "市役所は現地建て替えで、新文化拠点も",
+      "verbatim": "新拠点ゾーンに宇宙飛行士・山崎直子さんの顕彰展示を。",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "経営悪化の責任を明確にして、医療の質の低下を防ぐ",
+      "heading": "市立病院を守り、持続可能な経営へ",
+      "verbatim": "経営悪化の責任を明確にして、医療の質の低下を防ぎます。",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

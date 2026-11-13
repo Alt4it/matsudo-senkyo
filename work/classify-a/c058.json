@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c058",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["fukushi"], "achievement": false, "summary": "高齢者人口ピーク時に対応する条例の制定", "confidence": "high"},
+    {"block_id": "b02", "themes": ["fukushi", "machi"], "achievement": false, "summary": "旧法務局跡地に高齢者住宅を建設する提言", "confidence": "high"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "冠水対策推進とハザードマップの見直し", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi", "kankyo"], "achievement": false, "summary": "公共交通推進とSDGsの積極的な啓発", "confidence": "low"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "松戸市の学校選択制の見直し", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "400以上の雨漏り校舎の早期修繕", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "世界平和都市宣言（1985）の再確認", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "松戸市から国や県への平和メッセージの発信", "confidence": "high"}
+  ],
+  "notes": [
+    "b02：「高齢者住宅」の建設で、住宅の明記があるため machi を2つ目に付けた。「提言」は今後の取り組みとして achievement を false にした。",
+    "b03：見出しは「地球温暖化を止める！」だが、本文は冠水対策・ハザードマップのため bousai のみとした。",
+    "b04：公共交通推進（machi）と SDGs 啓発。SDGs を環境（kankyo）として2つ目に付けたが、SDGs は環境に限らないため low。"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c052",
+  "order": 52,
+  "name": "三村こづえ",
+  "kana": "みむらこづえ",
+  "sort_kana": null,
+  "party": "日本保守党",
+  "career": null,
+  "age": null,
+  "slogan": "守ろう！松戸市を。",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "生活保護の支給は法律通り日本国籍者限定に",
+      "heading": "守ろう！治安　政府による急速な外国人受入れに伴う秩序維持対策",
+      "verbatim": "生活保護の支給は法律通り日本国籍者限定に",
+      "page": 7
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "在留外国人の国民健康保険料は初年度分を一括前納に",
+      "heading": "守ろう！治安　政府による急速な外国人受入れに伴う秩序維持対策",
+      "verbatim": "在留外国人の国民健康保険料は初年度分を一括で前納に",
+      "page": 7
+    },
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "不法就労・不法滞在を見逃さない体制の構築",
+      "heading": "守ろう！治安　政府による急速な外国人受入れに伴う秩序維持対策",
+      "verbatim": "不法就労・不法滞在を見逃さない体制の構築",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "太陽光発電システム導入補助金の廃止",
+      "heading": "守ろう！農業　ムダをけずり、新規就農を支援して農業を守る",
+      "verbatim": "太陽光発電システム導入補助金の廃止",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "電気自動車（ＥＶ）補助金の廃止",
+      "heading": "守ろう！農業　ムダをけずり、新規就農を支援して農業を守る",
+      "verbatim": "電気自動車（ＥＶ）補助金の廃止",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸市独自の支援で新しく農業を始める人をサポート",
+      "heading": "守ろう！農業　ムダをけずり、新規就農を支援して農業を守る",
+      "verbatim": "松戸市独自で支援！　新しく農業を始める人をサポート",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "学校の複合化で多世代交流と地域コミュニティ拠点を作る",
+      "heading": "守ろう！未来　豊かな松戸を次世代へ繋ぐ　ずっと住みたい街へ",
+      "verbatim": "学校の複合化で作る！多世代交流と地域コミュニティ拠点",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校の複合化で多世代交流と地域コミュニティ拠点を作る",
+      "heading": "守ろう！未来　豊かな松戸を次世代へ繋ぐ　ずっと住みたい街へ",
+      "verbatim": "学校の複合化で作る！多世代交流と地域コミュニティ拠点",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "危険な空き家を解消し、地域の防災ミニ公園を作る",
+      "heading": "守ろう！未来　豊かな松戸を次世代へ繋ぐ　ずっと住みたい街へ",
+      "verbatim": "危険な空き家を解消して、地域の防災ミニ公園を作る",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "危険な空き家を解消し、地域の防災ミニ公園を作る",
+      "heading": "守ろう！未来　豊かな松戸を次世代へ繋ぐ　ずっと住みたい街へ",
+      "verbatim": "危険な空き家を解消して、地域の防災ミニ公園を作る",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "街路樹の根上がり歩道を改修し、誰もが安全に歩ける道に",
+      "heading": "守ろう！未来　豊かな松戸を次世代へ繋ぐ　ずっと住みたい街へ",
+      "verbatim": "街路樹の根上がり歩道を改修し、誰もが安全に歩ける道に",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

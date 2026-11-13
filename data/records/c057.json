@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c057",
+  "order": 57,
+  "name": "大和山太郎",
+  "kana": "おおわやまたろう",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": null,
+  "slogan": "人を育てる　地域を支える",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "いじめ・不適切指導の根絶",
+      "heading": "子どもたちの笑顔　〜未来をつくる子どもたちと、支える教育現場のために〜",
+      "verbatim": "いじめ・不適切指導の根絶",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "切れ目のない不登校・発達支援",
+      "heading": "子どもたちの笑顔　〜未来をつくる子どもたちと、支える教育現場のために〜",
+      "verbatim": "切れ目のない不登校・発達支援",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子どもたちの笑顔　〜未来をつくる子どもたちと、支える教育現場のために〜",
+      "verbatim": "先生が誇りを持って働ける現場づくり",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "六実・五香の渋滞解消",
+      "heading": "六実・六高台の笑顔　〜六実・六高台の地域課題を市全体の政策へ〜",
+      "verbatim": "六実・五香の渋滞解消",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "レインボーバス延伸",
+      "heading": "六実・六高台の笑顔　〜六実・六高台の地域課題を市全体の政策へ〜",
+      "verbatim": "レインボーバス延伸",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "高柳クリーンセンター整備",
+      "heading": "六実・六高台の笑顔　〜六実・六高台の地域課題を市全体の政策へ〜",
+      "verbatim": "高柳クリーンセンター整備",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "誰もが相談しやすい支所機能へ",
+      "heading": "安心して暮らせる笑顔　〜5年・10年先を見据え、安心が続く松戸市へ〜",
+      "verbatim": "誰もが相談しやすい支所機能へ",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所運営・ペット同行避難の整備",
+      "heading": "安心して暮らせる笑顔　〜5年・10年先を見据え、安心が続く松戸市へ〜",
+      "verbatim": "避難所運営・ペット同行避難の整備",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "other",
+      "achievement": false,
+      "summary": "町会・地域活動の担い手づくり",
+      "heading": "安心して暮らせる笑顔　〜5年・10年先を見据え、安心が続く松戸市へ〜",
+      "verbatim": "町会・地域活動の担い手づくり",
+      "page": 8
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "こども発達相談窓口「みらいのとびら」の開設を提案",
+      "heading": null,
+      "verbatim": "こども発達相談窓口「みらいのとびら」開設を提案",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

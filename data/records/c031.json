@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c031",
+  "order": 31,
+  "name": "大谷しげのり",
+  "kana": "おおたにしげのり",
+  "sort_kana": null,
+  "party": "自民党",
+  "career": "三期目当選",
+  "age": 48,
+  "slogan": "すぐ聞く、すぐ見る、すぐ動く！",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "行財政改革",
+      "verbatim": "「市民の・役立つ・所」を徹底し、行財政改革。",
+      "page": 4
+    },
+    {
+      "block_id": "b02",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "",
+      "heading": "社会基盤整備",
+      "verbatim": "利便性向上と経済が発展する基盤を整備。",
+      "page": 4
+    },
+    {
+      "block_id": "b02",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "",
+      "heading": "社会基盤整備",
+      "verbatim": "利便性向上と経済が発展する基盤を整備。",
+      "page": 4
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子育て・教育",
+      "verbatim": "子どもは宝。松戸市の将来を担う子ども達の未来を真剣に考えます。",
+      "page": 4
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "医療・福祉の充実",
+      "verbatim": "「健康医療都市まつど」に恥じない、市民に優しい街。\n松戸市で暮らしてきた全ての方が、この松戸市を選んで良かったと思える街。",
+      "page": 4
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "防災・防犯",
+      "verbatim": "子・親・家族すべての市民が安心して暮らせる街。",
+      "page": 4
+    },
+    {
+      "block_id": "b06",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸のポテンシャルを引き出し、企業育成・誘致を図る",
+      "heading": "産業発展・企業誘致",
+      "verbatim": "松戸のポテンシャルを引き出し、企業育成・誘致を図ります。",
+      "page": 4
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "",
+      "heading": "賑わいのある街",
+      "verbatim": "松戸に住んで、来て、楽しめる街。",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

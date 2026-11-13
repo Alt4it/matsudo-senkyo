@@ -1,0 +1,38 @@
+{
+  "candidate_id": "c001",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [1], "position": "1段目左"},
+  "name": "山中けいじ",
+  "kana": "やまなかけいじ",
+  "party": "無所属",
+  "age": 47,
+  "career": "松戸市議会議員選挙に5回連続1位当選",
+  "slogan": "市民の力で松戸を変えよう！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "皆様から頂いた32,163票を忘れません", "page": 1},
+    {"block_id": "b02", "kind": "policy", "heading": "安全と魅力を感じる街づくり", "verbatim": "自然災害や相次ぐ水害に強いインフラ整備の充実", "page": 1},
+    {"block_id": "b03", "kind": "policy", "heading": "安全と魅力を感じる街づくり", "verbatim": "図書館やスポーツ施設の充実", "page": 1},
+    {"block_id": "b04", "kind": "policy", "heading": "大型事業を見直して健全な財政へ！", "verbatim": "無駄を省いた市庁舎現地建替え。新拠点ゾーンは市民の声を活かす！", "page": 1},
+    {"block_id": "b05", "kind": "policy", "heading": "大型事業を見直して健全な財政へ！", "verbatim": "新松戸区画整理は10数億円の‘赤字’解消へ", "page": 1},
+    {"block_id": "b06", "kind": "policy", "heading": "子育てダントツNo.1の松戸市へ！", "verbatim": "中学校給食も迅速な完全無償化へ", "page": 1},
+    {"block_id": "b07", "kind": "policy", "heading": "子育てダントツNo.1の松戸市へ！", "verbatim": "見えない学費の減少や不登校支援の充実", "page": 1},
+    {"block_id": "b08", "kind": "policy", "heading": "子育てダントツNo.1の松戸市へ！", "verbatim": "こども基本条例の制定", "page": 1},
+    {"block_id": "b09", "kind": "policy", "heading": "全ての世代が安心できる街へ！", "verbatim": "居住支援の強化・施設整備を促進", "page": 1},
+    {"block_id": "b10", "kind": "policy", "heading": "全ての世代が安心できる街へ！", "verbatim": "障害や介護は相談サポートから更に充実", "page": 1},
+    {"block_id": "b11", "kind": "policy", "heading": "市民参加のまちづくりへ！", "verbatim": "市民満足度調査の実施", "page": 1},
+    {"block_id": "b12", "kind": "policy", "heading": "市民参加のまちづくりへ！", "verbatim": "常設型住民投票条例の制定", "page": 1},
+    {"block_id": "b13", "kind": "policy", "heading": "若者が定住するまちへ！", "verbatim": "若者の声を市政に反映する仕組みの導入", "page": 1},
+    {"block_id": "b14", "kind": "policy", "heading": "若者が定住するまちへ！", "verbatim": "家賃補助等による子育て世帯のサポート", "page": 1},
+    {"block_id": "b15", "kind": "policy", "heading": "大赤字の市立総合医療センター改革", "verbatim": "政策医療は公的責任でしっかり守る", "page": 1},
+    {"block_id": "b16", "kind": "policy", "heading": "大赤字の市立総合医療センター改革", "verbatim": "医療の質を守りつつ、持続可能なコスト構造への転換", "page": 1},
+    {"block_id": "b17", "kind": "other", "heading": null, "verbatim": "市民力代表", "page": 1},
+    {"block_id": "b18", "kind": "other", "heading": null, "verbatim": "詳しくはHPへ！", "page": 1},
+    {"block_id": "b19", "kind": "profile", "heading": "プロフィール", "verbatim": "1979年5月28日生まれ。政治とは無縁の家庭に生まれ育つ\n二三ヶ丘幼稚園、横須賀小学校、小金中学校卒業\n早稲田大学高等学院（在学中、英国に1年間単身で留学）卒業\n早稲田大学政治経済学部政治学科卒業\n会社員を経て松下政経塾に入塾（26期生）\n松戸市議会議員選挙に5回連続1位当選\n昨年の松戸市長選挙にて惜敗\n趣味：走ること（フル20回以上、100㎞ウルトラ2回完走）、手話（手話検定1級）\n家族：妻、娘（5歳）", "page": 1}
+  ],
+  "issues": [
+    "careerは公報に「市議◯期」等の表記がなく、プロフィールの「松戸市議会議員選挙に5回連続1位当選」をそのまま採った。議員歴として扱うかは人の判断を求む。",
+    "左の縦書き「山中けいじの七つの柱」は内容を束ねる見出しのため、ブロックにもsloganにもしていない。",
+    "「市民力代表」（イラスト横の大きな文字）は政治団体名の表記と見られるため other とした。partyは氏名横の「無所属」を採用。",
+    "b04は1つの箇条に2文（「…現地建替え。」「新拠点ゾーンは…活かす！」）が入っているが、箇条単位で1ブロックにした。",
+    "b05の引用符は紙面どおり‘ ’（片引用符）で写した。QRコードは本文に含めていない。"
+  ]
+}

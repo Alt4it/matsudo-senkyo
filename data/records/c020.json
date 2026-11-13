@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c020",
+  "order": 20,
+  "name": "竹田りょう",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": 46,
+  "slogan": "松戸の税金の使い方を変えます。",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子育て・教育の負担軽減、安心して子育てできる環境を整える",
+      "heading": "家計　夢をあきらめない",
+      "verbatim": "子育て・教育の負担軽減\n安心して子育てできる環境整えます。",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "学び直し・転職を後押しし、新しい挑戦を支援する",
+      "heading": "家計　夢をあきらめない",
+      "verbatim": "学び直し・転職を後押し\n新しい挑戦で、未来を切り拓けるよう支援します。",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "家計　夢をあきらめない",
+      "verbatim": "老後も生き生きと暮らせる\n暮らしやすい環境を整え、外出や交流を楽しめるまちを目指します。",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "成田空港へのアクセスと北千葉道路を生かし、東松戸の魅力と価値を高める",
+      "heading": "成長と税収アップ　松戸の経済を強くする",
+      "verbatim": "東松戸の魅力と価値を高める\n成田空港へのアクセスと北千葉道路を生かし、おおたかの森を超える街を目指します。",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "農業や地域の中小企業・商店を支え、地域経済の継続と発展につなげる",
+      "heading": "成長と税収アップ　松戸の経済を強くする",
+      "verbatim": "農業・産業の継続と発展\n農業や地域の中小企業・商店を支え、地域経済の継続と発展につなげます。",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "ベンチャー・創業など挑戦する人を応援し、新しい仕事や事業を育てる",
+      "heading": "成長と税収アップ　松戸の経済を強くする",
+      "verbatim": "ベンチャー・創業、松戸から世界へ\n挑戦する人を応援し、新しい仕事や事業を育てます。",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "大雨・浸水・氾濫対策を強化し、水害の被害を減らす対策を進める",
+      "heading": "安心安全　いのちと暮らしを守る",
+      "verbatim": "大雨・浸水・氾濫対策を強化\n水害リスクに備え、被害を減らす対策を進めます。",
+      "page": 3
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "道路・通学路・防犯を改善し、日常の危険を減らす",
+      "heading": "安心安全　いのちと暮らしを守る",
+      "verbatim": "道路・通学路・防犯を改善\n日常の危険を減らし、安全に暮らせる環境を整えます。",
+      "page": 3
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "道路・通学路・防犯を改善し、日常の危険を減らす",
+      "heading": "安心安全　いのちと暮らしを守る",
+      "verbatim": "道路・通学路・防犯を改善\n日常の危険を減らし、安全に暮らせる環境を整えます。",
+      "page": 3
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難体制・防災施設を整え、地域の備えを充実させる",
+      "heading": "安心安全　いのちと暮らしを守る",
+      "verbatim": "避難体制・防災施設を整える\n地域の備えを充実させ、災害時の安全確保につなげます。",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

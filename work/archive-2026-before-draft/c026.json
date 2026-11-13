@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c026",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [4], "position": "1段目右"},
+  "name": "皆川おさむ",
+  "kana": null,
+  "party": "無所属",
+  "age": null,
+  "career": null,
+  "slogan": "タバコを吸う人も吸わない人も。気持ちよく過ごせる松戸の駅へ。",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "タバコを吸う人も吸わない人も。気持ちよく過ごせる松戸の駅へ。", "page": 4},
+    {"block_id": "b02", "kind": "policy", "heading": "【皆川おさむの提言】", "verbatim": "受動喫煙に配慮した喫煙所を検討", "page": 4},
+    {"block_id": "b03", "kind": "policy", "heading": "【皆川おさむの提言】", "verbatim": "路上喫煙とポイ捨てを減らす", "page": 4},
+    {"block_id": "b04", "kind": "policy", "heading": "【皆川おさむの提言】", "verbatim": "市民・商店・利用者の声で決める", "page": 4},
+    {"block_id": "b05", "kind": "profile", "heading": "皆川おさむ プロフィール", "verbatim": "【経歴】松戸市立中部小学校 卒業\n松戸市立第一中学校 卒業\n土浦日本大学高等学校 卒業\n日本大学 生産工学部 数理工学科 卒業", "page": 4},
+    {"block_id": "b06", "kind": "profile", "heading": "皆川おさむ プロフィール", "verbatim": "【趣味】ゴルフ\n旅行\nＤＩＹ", "page": 4}
+  ],
+  "issues": [
+    "氏名の姓「皆川」にふりがながなく、読みが分かるのは名の「おさむ」だけのため、kana は null とした。",
+    "slogan は最上部の2行（1行目「タバコを吸う人も吸わない人も。」、2行目「気持ちよく過ごせる松戸の駅へ。」、2行目がやや小さい）を一続きの文言として採った。1行目だけとするかは要判断。"
+  ]
+}

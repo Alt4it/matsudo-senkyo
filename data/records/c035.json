@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c035",
+  "order": 35,
+  "name": "うつの史行",
+  "kana": "うつのふみゆき",
+  "sort_kana": null,
+  "party": "日本共産党",
+  "career": "市議6期",
+  "age": null,
+  "slogan": "戦争と貧困をなくし公正な政治へ、7期目に挑戦。市民と喜びも苦労も分かち合う市政をご一緒に！",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充",
+      "heading": "いのち・くらしを守る松戸市へ",
+      "verbatim": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高すぎる国保税の減免、子どもの均等割り無料化",
+      "heading": "いのち・くらしを守る松戸市へ",
+      "verbatim": "高すぎる国保税の減免\n子どもの均等割り無料化",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "高すぎる国保税の減免、子どもの均等割り無料化",
+      "heading": "いのち・くらしを守る松戸市へ",
+      "verbatim": "高すぎる国保税の減免\n子どもの均等割り無料化",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "児童館や中高生の居場所づくり",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "児童館や中高生の居場所づくり",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "教員不足解消と学校改修",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "教員不足解消と学校改修",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "中学校給食の無償化",
+      "heading": "どの子ものびのび育つ街を",
+      "verbatim": "中学校給食の無償化",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "大型開発見直し",
+      "heading": "市民と地域の願い",
+      "verbatim": "大型開発見直し",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "通学道路、生活道路の安全対策",
+      "heading": "市民と地域の願い",
+      "verbatim": "通学道路、生活道路の安全対策",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "上本郷駅南口にエレベーター設置",
+      "heading": "市民と地域の願い",
+      "verbatim": "上本郷駅南口にエレベーター設置を",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "バス・タクシー料金の補助制度",
+      "heading": "高齢者を応援",
+      "verbatim": "バス・タクシー料金の補助制度",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "バス・タクシー料金の補助制度",
+      "heading": "高齢者を応援",
+      "verbatim": "バス・タクシー料金の補助制度",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "年金で入れる特養老人ホーム",
+      "heading": "高齢者を応援",
+      "verbatim": "年金で入れる特養老人ホーム",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

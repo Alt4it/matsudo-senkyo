@@ -1,0 +1,32 @@
+{
+  "candidate_id": "c007",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "新庁舎は減築建替え", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": false, "summary": "新松戸駅東側改札の設置", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "常磐線西側地域の防災力強化", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "持続可能な部活動環境へ", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": false, "summary": "社会保障改革と保険料負担の適正化", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi"], "achievement": false, "summary": "地域活動促進で健康寿命を延ばす", "confidence": "high"},
+    {"block_id": "b13", "themes": ["bousai"], "achievement": false, "summary": "多様な避難環境の充実", "confidence": "low"},
+    {"block_id": "b14", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b15", "themes": ["bousai"], "achievement": false, "summary": "犯罪防止と体感治安の向上", "confidence": "high"},
+    {"block_id": "b16", "themes": ["keizai"], "achievement": false, "summary": "企業誘致・起業を応援", "confidence": "high"},
+    {"block_id": "b17", "themes": ["other", "keizai"], "achievement": false, "summary": "スポーツ・文化で活性化", "confidence": "low"},
+    {"block_id": "b18", "themes": ["keizai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b19", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b20", "themes": ["gyozaisei"], "achievement": false, "summary": "行かない書かない市役所へ", "confidence": "high"},
+    {"block_id": "b21", "themes": ["machi"], "achievement": false, "summary": "公共施設を再編・更新", "confidence": "high"}
+  ],
+  "notes": [
+    "b08『多様な子育て環境を支援』、b09『多様な学びを応援』、b10『必要な医療を将来へつなぐ』、b18『地元企業を元気に』：具体的な施策・対象・数値・期限がない抽象的な公約のため要約しない。",
+    "b13：『多様な避難環境の充実』は抽象度が高いが、対象（避難環境）が示されているため原文どおりの要約を残した。空要約にする考え方もある。",
+    "b14：『いつもの学校を、もしもの支えに』は比喩的な表現で、言い換えると解釈を加えることになるため要約しない。防災の見出し下のため bousai。学校の明記から kosodate とみる考え方もある。",
+    "b17：スポーツ・文化（other）と、見出し『稼ぐ！…経済・行政経営』の下の『活性化』から keizai を付けた。",
+    "b19：『メタま一つ』が何を指すか公報から分からないため要約しない。見出し『持続可能な行財政』の下のため gyozaisei。書き起こしの issues にあるとおり字形（一／ー）も未確定。"
+  ]
+}

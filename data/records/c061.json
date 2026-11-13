@@ -1,0 +1,109 @@
+{
+  "candidate_id": "c061",
+  "order": 61,
+  "name": "松尾ひさし",
+  "kana": null,
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "市議歴：3期",
+  "age": 55,
+  "slogan": "皆さんの「困った」をカタチに！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "全市立小中高学校にエアコン設置",
+      "heading": null,
+      "verbatim": "全市立小中高学校にエアコン設置！",
+      "page": 8
+    },
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "避難所となる体育館にガス式エアコン設置、停電時も安心",
+      "heading": null,
+      "verbatim": "災害時の避難所となる体育館に、ガス式エアコン設置！停電時も安心！",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "0〜2歳児の保育料無償化を推進",
+      "heading": "子育て世帯を応援",
+      "verbatim": "0〜2歳児の保育料無償化を推進します",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "電動アシスト自転車の購入補助を拡大",
+      "heading": "子育て世帯を応援",
+      "verbatim": "電動アシスト自転車の購入補助を拡大します",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "子どもが安全に遊べる公園・広場の整備",
+      "heading": "子育て世帯を応援",
+      "verbatim": "子どもが安全に遊べる公園・広場の整備します",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもが安全に遊べる公園・広場の整備",
+      "heading": "子育て世帯を応援",
+      "verbatim": "子どもが安全に遊べる公園・広場の整備します",
+      "page": 8
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "街灯、防犯カメラを拡充",
+      "heading": "防犯・防災を強化",
+      "verbatim": "街灯、防犯カメラを拡充します",
+      "page": 8
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害時に命を守る情報・避難所・備蓄を強化",
+      "heading": "防犯・防災を強化",
+      "verbatim": "災害時に命を守る情報・避難所・備蓄を強化し、いざという時に頼れる松戸をつくります",
+      "page": 8
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "AIが予約に合わせて運行ルートを決める「AIデマンド交通」を導入",
+      "heading": "移動の不安を解消",
+      "verbatim": "AI（人工知能）が予約に合わせて運行ルートを決める「AIデマンド交通」を導入",
+      "page": 8
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "",
+      "heading": "移動の不安を解消",
+      "verbatim": "高齢者をはじめ、誰もが気軽に安心して出かけられる松戸を目指します",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

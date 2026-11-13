@@ -1,0 +1,34 @@
+{
+  "candidate_id": "c042",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "市役所建て替えは現地建て替えと既存建物の活用で150億円以上の削減を", "confidence": "high"},
+    {"block_id": "b02", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "移転建て替えから現地建て替えの推進で55億円の削減", "confidence": "high"},
+    {"block_id": "b03", "themes": ["gyozaisei", "machi"], "achievement": false, "summary": "耐震性に問題のない別館、議会棟の継続使用で更に100億円以上の削減", "confidence": "high"},
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "合計で150億円以上の削減を目指す", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "新松戸駅東側区画整理事業で市が建てる14階建てマンションの販売計画の見直し", "confidence": "high"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "赤字販売は許さない、販売計画の見直しを", "confidence": "low"},
+    {"block_id": "b09", "themes": ["gyozaisei", "bousai"], "achievement": false, "summary": "入札改革、随意契約の見直し、防犯カメラ付き防犯灯で初期費用を10分の1に", "confidence": "high"},
+    {"block_id": "b10", "themes": ["gyozaisei"], "achievement": false, "summary": "市有車を週末に市民へ貸し出し、ネーミングライツ導入など広告事業を強化", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kankyo", "bousai"], "achievement": false, "summary": "PPA事業で太陽光発電設備と蓄電池を避難所など市施設へ設置拡大", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kankyo"], "achievement": false, "summary": "地域電力会社を設立し新ごみ焼却炉の電気を市内施設へ、カーボンゼロ前倒し", "confidence": "high"},
+    {"block_id": "b13", "themes": ["kankyo", "bousai"], "achievement": false, "summary": "CO2と電気量の削減、避難所の非常電源確保を達成", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi", "other"], "achievement": false, "summary": "21世紀の森と広場のペットエリアを増設", "confidence": "high"},
+    {"block_id": "b15", "themes": ["other", "machi"], "achievement": false, "summary": "運動公園野球場を硬式球使用可能な球場へ改装（防球ネットを10m高く）", "confidence": "high"},
+    {"block_id": "b16", "themes": ["other", "machi"], "achievement": false, "summary": "室内公式50mプール、室内運動場、室内こどもの遊び場の設置", "confidence": "low"},
+    {"block_id": "b17", "themes": ["fukushi"], "achievement": false, "summary": "高齢者の外出支援にバス運賃半額、タクシー料金助成制度の導入を", "confidence": "high"},
+    {"block_id": "b18", "themes": ["kosodate"], "achievement": false, "summary": "学校給食の早期完全無償化を", "confidence": "high"},
+    {"block_id": "b19", "themes": ["kosodate"], "achievement": false, "summary": "保育所保育料の第2子以降の無料化を", "confidence": "high"}
+  ],
+  "notes": [
+    "b01〜b03：本文に「建て替え」「建物」の明記があるため machi を2つ目に付けた。",
+    "b08：対象の販売計画は見出し配下の文脈（b06）による。赤字を理由とする財政の主張として gyozaisei としたが、machi の可能性もあり low。",
+    "b09：本文に「防犯カメラ」「防犯灯」の明記があるため bousai を2つ目に付けた。",
+    "b11：「現在市内小中学校23校に設置済（原ゆうじ提案が実現）」という実績と、今後の設置拡大が同じブロックに混ざるため achievement は false。本文に「避難所」の明記があるため bousai を2つ目に付けた。",
+    "b13：文末「達成!」だが、見出し配下の再エネ導入の提案の効果として書かれていると読み achievement は false とした。",
+    "b14：本文に「ペット」の明記があるため other（動物）を2つ目に付けた。",
+    "b15・b16：スポーツ施設として other、施設の改装・設置として machi を付けた。b16 は「室内こどもの遊び場」も含み kosodate の可能性もあるため low。",
+    "b17：65歳以上・75歳以上の区分と他市の実施例は字数の都合で要約に入れていない。"
+  ]
+}

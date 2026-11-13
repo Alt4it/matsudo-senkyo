@@ -1,0 +1,181 @@
+{
+  "candidate_id": "c004",
+  "order": 4,
+  "name": "いいはし公明",
+  "kana": "いいはしきみあき",
+  "sort_kana": null,
+  "party": null,
+  "career": "2006年初当選　現在5期",
+  "age": 61,
+  "slogan": null,
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "キャッシュレスポイント還元を推進し、市民生活を応援",
+      "heading": "家計を支える市内経済の活性化を進めます",
+      "verbatim": "キャッシュレスポイント還元を推進し、市民生活を応援します",
+      "page": 1
+    },
+    {
+      "block_id": "b02",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "",
+      "heading": "価格転換が難しい福祉事業者や中小企業への支援",
+      "verbatim": "食料品やエネルギー価格高騰分の支援を実施します",
+      "page": 1
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "価格転換が難しい福祉事業者や中小企業への支援",
+      "verbatim": "食料品やエネルギー価格高騰分の支援を実施します",
+      "page": 1
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "教育費の負担軽減と体験活動の充実",
+      "verbatim": "「小中学校・幼稚園・保育園」の給食費支援をさらに拡充し、体験活動や副教材等にかかる教育費の負担軽減を進めます",
+      "page": 1
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "特別支援教育や不登校児童生徒など多様なニーズに対応し選択肢を増やす",
+      "heading": "学びの多様化と家族への伴走支援",
+      "verbatim": "特別支援教育や不登校児童生徒など、多様なニーズへ対応するため選択肢を増やします",
+      "page": 1
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "学びの多様化と家族への伴走支援",
+      "verbatim": "学びの多様化学校の設置やスペシャルサポートルームの全校設置フリースクールなど安心できる居場所確保に取組みます",
+      "page": 1
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "学校トイレの洋式化を100%完了させ、安全最優先の教育環境を整備",
+      "heading": "安全・快適な「学舎（まなびや）」の完成",
+      "verbatim": "清潔で安心な「学校トイレの洋式化」を100%完了させ、安全最優先の新しい教育環境の整備を推進します",
+      "page": 1
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "身寄りのない高齢者の日常生活のサポート体制を推進",
+      "heading": "単身高齢者の不安に応える「終身サポート事業」の制度化",
+      "verbatim": "身寄りのない高齢者の方が直面する日常生活のサポート体制を推進します",
+      "page": 1
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "認知症の人と共生社会の構築",
+      "verbatim": "社会参加の場づくり、バリアフリー化、相談体制整備、医療、介護提供体制の充実、家族への支援、総合的な施策を強力に推進します",
+      "page": 1
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所環境改善へTKB（トイレ・キッチン・ベッド）スフィア基準の導入を推進",
+      "heading": "防災・減災",
+      "verbatim": "避難所環境の改善に向け、TKB（トイレ・キッチン・ベッド）スフィア基準の導入をさらに推進します",
+      "page": 1
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "市立・小中高、全校の体育館にエアコン完備",
+      "heading": "実現しました！！",
+      "verbatim": "市立・小中高、全校の体育館にエアコン完備！",
+      "page": 1
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "小1の壁対策で始業前の児童見守り事業を推進（38校に拡大）",
+      "heading": "実現しました！！",
+      "verbatim": "小1の壁対策として朝の始業前の児童見守り事業を推進（38校に拡大）",
+      "page": 1
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "",
+      "heading": "実現しました！！",
+      "verbatim": "学校のバリアフリー化を推進（令和8年・河原塚小、和名ヶ谷小にエレベーター設置）",
+      "page": 1
+    },
+    {
+      "block_id": "b13",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "災害用マンホールトイレ設置を推進（市立小中学校589基）",
+      "heading": "実現しました！！",
+      "verbatim": "災害用マンホールトイレ設置を推進（市立小中学校589基）",
+      "page": 1
+    },
+    {
+      "block_id": "b14",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "市庁舎の地下水活用システムを導入",
+      "heading": "実現しました！！",
+      "verbatim": "市庁舎の地下水活用システムを導入",
+      "page": 1
+    },
+    {
+      "block_id": "b15",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "AEDを24時間使えるコンビニ、ガソリンスタンドに設置",
+      "heading": "実現しました！！",
+      "verbatim": "AEDを24時間使えるコンビニ、ガソリンスタンドに設置",
+      "page": 1
+    },
+    {
+      "block_id": "b16",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "松戸市青少年会館に3X3バスケットボールコート新設",
+      "heading": "実現しました！！",
+      "verbatim": "松戸市青少年会館に3X3バスケットボールコート新設",
+      "page": 1
+    },
+    {
+      "block_id": "b16",
+      "theme": "other",
+      "achievement": true,
+      "summary": "松戸市青少年会館に3X3バスケットボールコート新設",
+      "heading": "実現しました！！",
+      "verbatim": "松戸市青少年会館に3X3バスケットボールコート新設",
+      "page": 1
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

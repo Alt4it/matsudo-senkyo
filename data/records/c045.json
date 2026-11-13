@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c045",
+  "order": 45,
+  "name": "浜野陽吉",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": 41,
+  "slogan": "この街の明日を創る",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "財政秩序の維持",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "こどもまんなか社会の実現",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "人権擁護・社会福祉の推進",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "人権擁護・社会福祉の推進",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "教育環境の整備",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "文化振興",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "産業振興",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "雇用対策",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "インフラ更新・長寿命化の推進",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "災害に強い街づくり",
+      "page": 6
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "人口増加、時代の変化に合わせた政策の提言",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

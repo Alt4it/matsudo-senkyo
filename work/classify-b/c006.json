@@ -1,0 +1,16 @@
+{
+  "candidate_id": "c006",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["keizai"], "achievement": false, "summary": "「移動販売」の拡充", "confidence": "high"},
+    {"block_id": "b06", "themes": ["keizai"], "achievement": false, "summary": "「キャッシュレス決済ポイント還元」の推進", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "子ども食堂への支援", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "市立小中学校の「給食無償化」の推進", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "市道の排水能力の増強", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "豪雨災害への市独自の支援金制度の創設", "confidence": "high"}
+  ],
+  "notes": [
+    "b05：移動販売は heading『「買い物」から松戸経済を元気に！』の下にあるため keizai にした。"
+  ]
+}

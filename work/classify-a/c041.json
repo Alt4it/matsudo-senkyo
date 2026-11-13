@@ -1,0 +1,30 @@
+{
+  "candidate_id": "c041",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": true, "summary": "「市議会ガイドブック」を作成し、開かれた議会づくりを実行", "confidence": "high"},
+    {"block_id": "b02", "themes": ["gyozaisei"], "achievement": true, "summary": "新松戸の事業費膨張に委員会を緊急開催し、市に説明を求める", "confidence": "low"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": true, "summary": "国土交通省へ治水対策の陳情書を手交（R8.8.4）", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai", "machi"], "achievement": true, "summary": "東葛6市の議長会で近隣市と連携し、防災・インフラ整備を推進", "confidence": "low"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": true, "summary": "小金原中央公園の改修が実現", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": true, "summary": "国の施策を誘致しグリーンスローモビリティを導入、利用者1万人を突破", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "新松戸駅東側の再開発の早期完成と常磐線快速の新松戸駅停車の実現へ", "confidence": "high"},
+    {"block_id": "b08", "themes": ["machi"], "achievement": false, "summary": "根木内東小学校跡地の活用、公共施設の再編に市役所全体で取り組む体制づくり", "confidence": "low"},
+    {"block_id": "b11", "themes": ["bousai", "machi"], "achievement": false, "summary": "水害多発箇所の道路・側溝・水路を整備", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": true, "summary": "議会の長として開かれた議会作りと近隣市との連携を強化", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b14", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b15", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "b01〜b04：見出し「第71代 松戸市議会議長として」の配下で、議長としての活動として書かれているため achievement を true とした。",
+    "b02：文末が「説明を求める」で、実績か今後の方針か迷うため low。",
+    "b04：「推進」が済んだことか継続中か判然としないため low。本文に「インフラ整備」の明記があるため machi を2つ目に付けた。",
+    "b05：前半「改修が実現！」は実績、後半「笑顔溢れる地域作りを実行！」は抽象的。主な内容が実績のため true とし、要約は前半のみ。",
+    "b08：文末「体制づくりを実行！」が実績か公約か判断できない（見出しは「未来を見据えた街づくり」）。今後の話と読んで false とし low。",
+    "b11：本文に「道路」の明記があるため machi を2つ目に付けた。",
+    "b13：誰もが住みやすい地域作りは抽象的な公約のため要約しない。テーマも machi か other か迷うため low。",
+    "b14・b15：抽象的な公約（具体的な施策・対象・数値・期限なし）のため要約しない。"
+  ]
+}

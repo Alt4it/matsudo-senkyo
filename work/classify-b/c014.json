@@ -1,0 +1,34 @@
+{
+  "candidate_id": "c014",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b02", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai", "fukushi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "一人で避難できない方を誰が・いつ・どこへ・どう支援するか具体化", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai", "fukushi"], "achievement": false, "summary": "福祉専門職と地域が連携し、移動手段と受入先を確認", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "訓練で確かめ、支援する側の安全も守る", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "水・道路冠水の発生場所と原因を検証", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "河川・水路・雨水排水対策で国・県と連携", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "整備の優先順位と進捗を公表し、避難情報も改善", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": false, "summary": "18歳・65歳の節目や親亡き後も支援を引き継ぐ", "confidence": "high"},
+    {"block_id": "b12", "themes": ["fukushi", "gyozaisei"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "相談だけで終わらせず、支援につながったか確認", "confidence": "high"},
+    {"block_id": "b14", "themes": ["kosodate"], "achievement": false, "summary": "不登校や生きづらさを抱える人が安心できる居場所", "confidence": "high"},
+    {"block_id": "b15", "themes": ["kosodate"], "achievement": false, "summary": "ひとり親家庭・ヤングケアラーへの支援", "confidence": "high"},
+    {"block_id": "b16", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b17", "themes": ["bousai"], "achievement": false, "summary": "避難所のトイレ・プライバシー・乳幼児・アレルギー対応", "confidence": "high"},
+    {"block_id": "b18", "themes": ["gyozaisei"], "achievement": false, "summary": "市役所の建て替え中も相談・手続きを継続", "confidence": "high"},
+    {"block_id": "b19", "themes": ["gyozaisei"], "achievement": false, "summary": "費用・工程・変更理由を示し、将来の負担を点検", "confidence": "high"}
+  ],
+  "notes": [
+    "b01〜b04（見出し『命を守る。暮らしを支える。支援が届く松戸へ。』の下の文）：具体的な施策・対象・数値・期限がない抽象的な文のため要約しない。b02『困ったときに相談できること』は福祉か行政窓口か決めきれない。b04 は防災・福祉・子育ての3分野を挙げており、最大2つのため本文の先頭2つ（bousai, fukushi）を付けた。",
+    "b05：要約の『一人で避難できない方』は heading の語。福祉（要配慮者支援）とみる考え方もあるが、本文に福祉の明記がないため bousai のみ。",
+    "b06：『福祉専門職』の明記があるため fukushi を2つ目に付けた。",
+    "b12『デジタル化で取り残される人を守る』：具体的な施策がなく抽象的なため要約しない。支援の見出しの下のため fukushi、デジタル化の明記から gyozaisei を2つ目に付けた。",
+    "b16『本人と保護者の声を大切にする』：抽象的なため要約しない。",
+    "b18：要約の『市役所』は heading の語。b18・b19 は見出し『頼れる市役所へ』の下の行政運営として gyozaisei。"
+  ]
+}

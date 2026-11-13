@@ -1,0 +1,32 @@
+{
+  "candidate_id": "c053",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b02", "themes": ["bousai"], "achievement": false, "summary": "自然災害の対策を急ぎ、民間の協力を得て災害時の迅速な対応を強化", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "老朽化する公共インフラ整備を急ぐ", "confidence": "high"},
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "防犯カメラの設置台数を増設", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "歩道や外側線の整備など、安全対策を徹底", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "誰もが対応できるデジタル化社会を推進", "confidence": "low"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "コミュニティバスなど安心して生活できる交通網を整備", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "医療機関の充実、市立病院の経営改善", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "健康診断の受診率向上、予防医療を促進", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "老朽化する学校施設の早期改修と「教育の質」向上の環境整備", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "強くやさしい人が育つ青少年育成に力を注ぐ", "confidence": "low"},
+    {"block_id": "b12", "themes": ["other"], "achievement": false, "summary": "グラウンド、スポーツ施設の充実など、スポーツ振興を推進", "confidence": "high"},
+    {"block_id": "b13", "themes": ["other"], "achievement": false, "summary": "利用しやすい市民センター、魅力ある文化施設など文化振興", "confidence": "high"},
+    {"block_id": "b14", "themes": ["machi"], "achievement": false, "summary": "北千葉道路、3·3·7号、3·3·6号の早期開通を促進", "confidence": "high"},
+    {"block_id": "b15", "themes": ["machi"], "achievement": false, "summary": "道路交通網の発展に伴い、渋滞緩和と周辺地域の活性化を進める", "confidence": "high"},
+    {"block_id": "b16", "themes": ["machi"], "achievement": false, "summary": "それぞれの駅周辺を個性的で賑わう街に", "confidence": "high"},
+    {"block_id": "b17", "themes": ["gyozaisei"], "achievement": false, "summary": "利便性、経費削減を目的に市役所のデジタル化を推進", "confidence": "high"},
+    {"block_id": "b18", "themes": ["keizai"], "achievement": false, "summary": "地域ブランドを活用し、農業従事者の担い手不足解消への取組を支援", "confidence": "high"}
+  ],
+  "notes": [
+    "b01 は具体的な施策・対象・数値・期限のない抽象的な公約として summary を空にした。",
+    "b05 は歩道整備（machi）とも読めるが、主旨を安全対策として bousai のみとした。",
+    "b06 は行政手続きのデジタル化とは書かれていないため gyozaisei とせず other（low）。b17 の市役所のデジタル化は gyozaisei。",
+    "b11 は青少年育成という対象はあるが施策の中身はない。抽象的とみて空にする判断もありうる（low）。",
+    "b12（スポーツ）・b13（文化）は other の基準例に従った。b13 の市民センターは公共施設（machi）とも読める。"
+  ]
+}

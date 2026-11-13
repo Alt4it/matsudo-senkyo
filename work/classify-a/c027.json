@@ -1,0 +1,26 @@
+{
+  "candidate_id": "c027",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "高齢者の移動・外出を支える", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "地域の相談・支援体制を強化", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "災害時の「逃げ遅れゼロ」へ", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "避難所をもっと安心・快適に", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "地域防災の担い手を増やす", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "市内危険箇所の改善", "confidence": "low"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "防犯対策でもっと安心な街へ", "confidence": "high"},
+    {"block_id": "b11", "themes": ["keizai"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "市民目線でムダをチェック", "confidence": "high"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": false, "summary": "国・県のお金をしっかり活用", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "短い箇条は原文のままを要約とした。",
+    "b04「孤立のない地域づくり」、b11「物価高からくらしを守る」、b14「将来にツケを残さない財政へ」は、目指す状態だけで具体的な施策・対象・数値・期限がない抽象的な公約のため要約しない。",
+    "b03: 本文に「移動」とあるが交通施策の明記はないため福祉・医療のみとした。",
+    "b09: 「危険箇所」の内容（道路か防犯か等）が本文から分からない。防災・安全としたが、まちづくり・交通とする判断もあり得る。",
+    "b11: 物価高対策を経済・産業とした。生活支援として福祉・医療とする判断もあり得る。"
+  ]
+}

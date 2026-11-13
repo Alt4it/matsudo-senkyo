@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c009",
+  "order": 9,
+  "name": "成島りょうた",
+  "kana": "なりしまりょうた",
+  "sort_kana": null,
+  "party": "国民民主党",
+  "career": null,
+  "age": null,
+  "slogan": "現役ケアマネが松戸の介護と子育てを変える",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "訪問介護やデイサービスなど在宅介護への支援を充実",
+      "heading": "介護 ずっとご自宅で生活が続けられるように",
+      "verbatim": "訪問介護やデイサービスなど、在宅介護への支援を充実します。",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "介護 スタッフ不足への対応",
+      "verbatim": "処遇改善と負担軽減が急務です。",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "多すぎる研修、煩雑な書類を簡素化",
+      "heading": "介護 スタッフ不足への対応",
+      "verbatim": "多すぎる研修、煩雑な書類を簡素化します。",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "介護 要介護認定の適正化",
+      "verbatim": "全国一律の基準ですから、松戸ローカルルールを見直し、全国基準に近づけます。",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "老朽化が著しい学校校舎の大規模修繕や建て替えを推進",
+      "heading": "子育て 安心して登校できる学校づくり",
+      "verbatim": "学校校舎の老朽化が著しいため大規模修繕や建て替えを推進します。",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "下駄箱に長靴を置くスペースの設置を求める",
+      "heading": "子育て 安心して登校できる学校づくり",
+      "verbatim": "下駄箱に長靴を置くスペースの設置を求めて行きます。",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "イジメや授業を妨げる行為を防ぐ対策を追求",
+      "heading": "子育て 安心して登校できる学校づくり",
+      "verbatim": "イジメや授業を妨げる行為を防ぐための対策を追求していきます。",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子ども達が帰宅時間などを把握しやすいよう児童公園に時計を設置",
+      "heading": "子育て のびのびと遊べる環境づくり",
+      "verbatim": "子ども達が、帰宅時間などを把握しやすいように、児童公園に時計を設置します。",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "子ども達が帰宅時間などを把握しやすいよう児童公園に時計を設置",
+      "heading": "子育て のびのびと遊べる環境づくり",
+      "verbatim": "子ども達が、帰宅時間などを把握しやすいように、児童公園に時計を設置します。",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "できる限りオンライン化し、使いやすくスリムな市役所を求める",
+      "heading": "街づくり 市役所機能の再編",
+      "verbatim": "できる限りオンライン化し、使いやすくスリムな市役所を求めて行きます。",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "",
+      "heading": "街づくり 行き過ぎた放置自転車対策の見直し",
+      "verbatim": "行き過ぎた対策を見直すよう求めて行きます。",
+      "page": 2
+    },
+    {
+      "block_id": "b20",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "アンダーパスの点検を早期に実施し、必要な機能強化を行う",
+      "heading": "アンダーパスの総点検を",
+      "verbatim": "アンダーパスの点検を早期に実施し、必要な機能強化を行います。",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

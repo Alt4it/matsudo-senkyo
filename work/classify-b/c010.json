@@ -1,0 +1,37 @@
+{
+  "candidate_id": "c010",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["machi"], "achievement": false, "summary": "公共施設の再編成（見直し）", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi"], "achievement": false, "summary": "各エリアの都市計画の見直し", "confidence": "high"},
+    {"block_id": "b04", "themes": ["machi"], "achievement": false, "summary": "交通不便地域の解消", "confidence": "high"},
+    {"block_id": "b05", "themes": ["other", "machi"], "achievement": false, "summary": "新時代の図書館の整備", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "各スポーツ環境の再整備", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "地元スポーツクラブの支援", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "ダンスの振興、表現できる場の創出", "confidence": "high"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "21世紀の森と広場を稼げる公園へ", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "フリースクール利用支援の充実", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "子どもの体験格差の解消", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": false, "summary": "子ども食堂への自走支援", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "フレイル、介護予防と健康づくりの強化", "confidence": "high"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": false, "summary": "eスポーツによる健康づくり、フレイル予防", "confidence": "high"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": false, "summary": "介護版まつど手当ての創設", "confidence": "high"},
+    {"block_id": "b16", "themes": ["keizai"], "achievement": false, "summary": "コンテンツ産業支援制度の創設", "confidence": "high"},
+    {"block_id": "b17", "themes": ["keizai", "other"], "achievement": false, "summary": "松戸映画祭の開催", "confidence": "low"},
+    {"block_id": "b18", "themes": ["keizai"], "achievement": false, "summary": "松戸発のコンテンツを支援", "confidence": "high"},
+    {"block_id": "b19", "themes": ["bousai"], "achievement": false, "summary": "浸水地域の再確認", "confidence": "high"},
+    {"block_id": "b20", "themes": ["bousai"], "achievement": false, "summary": "防災井戸、給水拠点の整備", "confidence": "high"},
+    {"block_id": "b21", "themes": ["bousai"], "achievement": false, "summary": "地域防災リーダー制度の強化", "confidence": "high"},
+    {"block_id": "b22", "themes": ["other"], "achievement": false, "summary": "動物愛護教育の推進", "confidence": "high"},
+    {"block_id": "b23", "themes": ["other"], "achievement": false, "summary": "動物愛護イベントの開催", "confidence": "high"},
+    {"block_id": "b24", "themes": ["bousai", "other"], "achievement": false, "summary": "ペット同行避難所の増設、備蓄の充実", "confidence": "high"}
+  ],
+  "notes": [
+    "b05：図書館（文化）を other、『整備』の明記から machi を2つ目に付けた（c001 b03 と同じ扱い）。",
+    "b06：『環境の再整備』で施設とは明記されていないため other のみにした。",
+    "b09：公園の整備として machi。『稼げる』から keizai とみる考え方もあるが2つ目は付けていない。",
+    "b17：見出し『コンテンツ産業を主力産業へ』の下のため keizai を主にし、映画祭（文化）として other を2つ目に付けた。",
+    "b24：ペット（動物）の明記があるため other を2つ目に付けた。"
+  ]
+}

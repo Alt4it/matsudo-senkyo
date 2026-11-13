@@ -1,0 +1,24 @@
+{
+  "candidate_id": "c045",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "財政秩序の維持", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi", "other"], "achievement": false, "summary": "人権擁護・社会福祉の推進", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "教育環境の整備", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other"], "achievement": false, "summary": "文化振興", "confidence": "high"},
+    {"block_id": "b09", "themes": ["keizai"], "achievement": false, "summary": "産業振興", "confidence": "high"},
+    {"block_id": "b10", "themes": ["keizai"], "achievement": false, "summary": "雇用対策", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "インフラ更新・長寿命化の推進", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b13", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b04・b06〜b11：分野名だけの短い箇条。対象（財政・人権擁護・教育環境・産業・雇用・インフラなど）が書かれているため、要約は原文のままとした。",
+    "b05：「こどもまんなか社会の実現」は具体的な施策・対象・数値がない理念のため要約しない。",
+    "b06：本文に「人権擁護」と「社会福祉」が並ぶため、福祉・医療とその他（人権）を付けた。",
+    "b12：「災害に強い街づくり」は抽象的な公約のため要約しない（c041 b15 と同じ扱い）。",
+    "b13：「人口増加、時代の変化に合わせた政策の提言」は対象となる施策が書かれていないため要約しない。当てはまるテーマがなくその他にした。棒グラフ（b14）の意味は解釈していない。"
+  ]
+}

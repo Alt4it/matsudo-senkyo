@@ -1,0 +1,100 @@
+{
+  "candidate_id": "c060",
+  "order": 60,
+  "name": "あべゆきえ",
+  "kana": "あべゆきえ",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": null,
+  "slogan": "看護の力で松戸を守る",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "シミュレーション教育の知見を活かし、実践的な地域防災を推進",
+      "heading": "防災・減災の専門家",
+      "verbatim": "シミュレーション教育の知見を活かし、実践的な地域防災を推進します。",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "看護師が地域で健康づくり・療養・子育て・介護・孤立の相談を受け専門支援へ",
+      "heading": "地域に看護師がいる松戸",
+      "verbatim": "看護師が地域に密着し、健康づくり・療養・子育て・介護・孤立の相談を受け専門支援へつなぐ",
+      "page": 8
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "看護師が地域で健康づくり・療養・子育て・介護・孤立の相談を受け専門支援へ",
+      "heading": "地域に看護師がいる松戸",
+      "verbatim": "看護師が地域に密着し、健康づくり・療養・子育て・介護・孤立の相談を受け専門支援へつなぐ",
+      "page": 8
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "災害を想定した実践的防災訓練の実施と防災士取得費用の助成",
+      "heading": "「もしも」に動ける防災に強い松戸",
+      "verbatim": "起こりうる災害を想定した実践的防災訓練の実施と防災士取得費用の助成",
+      "page": 8
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "専門性の高いシニアが元気で活躍できる松戸",
+      "verbatim": "スキルが活かせる仕事の提供と継続して市民活動ができるサポート",
+      "page": 8
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "若者が育つ松戸",
+      "page": 8
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市民参加型予算の導入",
+      "heading": null,
+      "verbatim": "市民参加型予算の導入",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "文化・スポーツで健康寿命が長い松戸",
+      "page": 8
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "文化・スポーツで健康寿命が長い松戸",
+      "page": 8
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

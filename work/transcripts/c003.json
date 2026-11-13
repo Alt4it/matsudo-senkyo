@@ -1,0 +1,40 @@
+{
+  "candidate_id": "c003",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [1], "position": "2段目左"},
+  "name": "いとう英一",
+  "kana": "いとうえいいち",
+  "party": "公明党",
+  "age": 62,
+  "career": "松戸市議会議員（4期）",
+  "slogan": "まかせて安心！",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "現場第一で、松戸の未来をひらく。", "page": 1},
+    {"block_id": "b02", "kind": "policy", "heading": "輝く未来へ 子育て・教育支援", "verbatim": "妊娠期から切れ目ない支援の充実", "page": 1},
+    {"block_id": "b03", "kind": "policy", "heading": "輝く未来へ 子育て・教育支援", "verbatim": "学校施設老朽化対策など教育環境の向上", "page": 1},
+    {"block_id": "b04", "kind": "policy", "heading": "輝く未来へ 子育て・教育支援", "verbatim": "奨学金の拡充で子どもの夢を応援", "page": 1},
+    {"block_id": "b05", "kind": "policy", "heading": "健やかな生活へ 介護・医療・福祉の充実", "verbatim": "高齢者が安心して暮らせる地域づくり", "page": 1},
+    {"block_id": "b06", "kind": "policy", "heading": "健やかな生活へ 介護・医療・福祉の充実", "verbatim": "障がいのある方の就労・社会参加を支援", "page": 1},
+    {"block_id": "b07", "kind": "policy", "heading": "健やかな生活へ 介護・医療・福祉の充実", "verbatim": "医療・介護・福祉の連携強化", "page": 1},
+    {"block_id": "b08", "kind": "policy", "heading": "安心の暮らしへ 防災・減災・安全対策の強化", "verbatim": "浸水・冠水を防ぐ水害に強い松戸へ", "page": 1},
+    {"block_id": "b09", "kind": "policy", "heading": "安心の暮らしへ 防災・減災・安全対策の強化", "verbatim": "避難所環境の充実", "page": 1},
+    {"block_id": "b10", "kind": "policy", "heading": "安心の暮らしへ 防災・減災・安全対策の強化", "verbatim": "通学路・生活道路の安全対策を推進", "page": 1},
+    {"block_id": "b11", "kind": "policy", "heading": "活力ある街へ 魅力ある街づくり", "verbatim": "松戸駅周辺のにぎわいと再開発の推進", "page": 1},
+    {"block_id": "b12", "kind": "policy", "heading": "活力ある街へ 魅力ある街づくり", "verbatim": "商業・文化の振興で住み続けたい松戸へ", "page": 1},
+    {"block_id": "b13", "kind": "policy", "heading": "活力ある街へ 魅力ある街づくり", "verbatim": "市役所庁舎の建て替えを推進", "page": 1},
+    {"block_id": "b14", "kind": "message", "heading": "実績", "verbatim": "市民の声をカタチに。\n誠実に、ひたむきに、これからも。", "page": 1},
+    {"block_id": "b15", "kind": "policy", "heading": "実績", "verbatim": "消防局交差点の左折レーンを設置", "page": 1},
+    {"block_id": "b16", "kind": "policy", "heading": "実績", "verbatim": "江戸川河川敷トイレを水洗化", "page": 1},
+    {"block_id": "b17", "kind": "policy", "heading": "実績", "verbatim": "松戸市内全ての小中学校の体育館にエアコンを設置", "page": 1},
+    {"block_id": "b18", "kind": "other", "heading": "実績", "verbatim": "出典：本人X・公式ブログ", "page": 1},
+    {"block_id": "b19", "kind": "other", "heading": null, "verbatim": "※AIで作成した画像です。", "page": 1},
+    {"block_id": "b20", "kind": "profile", "heading": "プロフィール", "verbatim": "生年月日 昭和39年6月24日（62歳）\n現職 松戸市議会議員（4期）\n学歴 東京電機大学 工学部 卒業", "page": 1}
+  ],
+  "issues": [
+    "政策の4区分は、小さな帯（例「輝く未来へ」）と大きな見出し（例「子育て・教育支援」）の2段で1組の見出しになっているため、headingは両者を半角スペースでつないだ。",
+    "sloganは氏名横の最も大きな主張「まかせて安心！」を採った。その下の「現場第一で、松戸の未来をひらく。」はb01（message）にした。",
+    "b14の2行目「誠実に、ひたむきに、これからも。」は文字が非常に小さく画像がつぶれ気味。読みは確度が低いので原画像で確認してほしい。",
+    "b18「出典：本人X・公式ブログ」も小さくつぶれ気味の文字。確認してほしい。",
+    "careerはプロフィールの「現職 松戸市議会議員（4期）」から「松戸市議会議員（4期）」を採った。",
+    "Instagram・YouTube・公式X・公式LINE のQRコードとその見出しラベルは本文に含めていない。左上の公明党ロゴ（KOMEITO）も本文に含めていない。"
+  ]
+}

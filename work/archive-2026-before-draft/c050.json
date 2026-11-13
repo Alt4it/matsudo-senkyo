@@ -1,0 +1,39 @@
+{
+  "candidate_id": "c050",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [7], "position": "1段目右"},
+  "name": "ゆげたよしあき",
+  "kana": "ゆげたよしあき",
+  "party": "立憲民主党",
+  "age": null,
+  "career": null,
+  "slogan": "守る。",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "トイレなど水まわりの御用聞きや地元消防団での活動など、この街を「守る」ことがこれまでの私の人生でした。", "page": 7},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "私はこれからも、みんなを災害から守り、あなたの暮らしを守り、この国の立憲主義も守っていきます。", "page": 7},
+    {"block_id": "b03", "kind": "profile", "heading": null, "verbatim": "弓削田嘉明▼上本郷小・松戸六中出身、北松戸のハカタヤ住設代表、松戸市消防団で中央方面隊長、上本郷三匹獅子舞の笛吹、昨年の市議会補欠選挙で、２９、２４８票で落選。今度こそ！", "page": 7},
+    {"block_id": "b04", "kind": "policy", "heading": "災害から守る！", "verbatim": "被害の場所や深さの情報を集約し、浸水想定の内水ハザードマップをリニューアル。", "page": 7},
+    {"block_id": "b05", "kind": "policy", "heading": "災害から守る！", "verbatim": "市管理の小規模水路にも水位計や監視カメラを設置し、リアルタイムの確認を。", "page": 7},
+    {"block_id": "b06", "kind": "policy", "heading": "災害から守る！", "verbatim": "雨水管や排水・貯留施設を強化。", "page": 7},
+    {"block_id": "b07", "kind": "policy", "heading": "災害から守る！", "verbatim": "対策箇所や実施時期など進捗の見える化も。", "page": 7},
+    {"block_id": "b08", "kind": "policy", "heading": "災害から守る！", "verbatim": "災害時の危険情報などの発信は、さらなる市と県の連携で、正確性とスピードを。", "page": 7},
+    {"block_id": "b09", "kind": "policy", "heading": "暮らしを守る！", "verbatim": "学校トイレ洋式化で災害対応をアップ！", "page": 7},
+    {"block_id": "b10", "kind": "policy", "heading": "暮らしを守る！", "verbatim": "矢切耕地の農業を守り、道の駅も！", "page": 7},
+    {"block_id": "b11", "kind": "policy", "heading": "暮らしを守る！", "verbatim": "地元の獅子舞や万作踊りを守り抜く！", "page": 7},
+    {"block_id": "b12", "kind": "policy", "heading": "暮らしを守る！", "verbatim": "市役所は現地建て替えで、新文化拠点も。", "page": 7},
+    {"block_id": "b13", "kind": "policy", "heading": "暮らしを守る！", "verbatim": "市立病院を守り、持続可能な経営へ。", "page": 7},
+    {"block_id": "b14", "kind": "other", "heading": "立憲主義を守る！", "verbatim": "前衆議院議員 安藤じゅん子　千葉県議会議員 関根ジロー", "page": 7},
+    {"block_id": "b15", "kind": "message", "heading": "立憲主義を守る！", "verbatim": "リベラルの旗を、松戸に立て続ける", "page": 7},
+    {"block_id": "b16", "kind": "policy", "heading": "立憲主義を守る！", "verbatim": "立憲主義や民主主義、共生社会といった価値観を大切に、理不尽を許さず、公正な社会の実現へ、あきらめずに奮闘していきます。", "page": 7},
+    {"block_id": "b17", "kind": "message", "heading": null, "verbatim": "ゆげたは選挙カーを使いません", "page": 7}
+  ],
+  "issues": [
+    "氏名の大きな表記はひらがなの「ゆげた」「よしあき」。プロフィール冒頭に漢字「弓削田嘉明」があるが、name は大きな表記に合わせた。漢字表記を name に使うか要判断。",
+    "「災害から守る！」の箇条は丸数字①〜④付き。番号は verbatim から除いた。③は「雨水管や排水・貯留施設を強化。対策箇所や実施時期など進捗の見える化も。」の2文で、文ごとに b06・b07 に分けた。",
+    "縦書き。各欄は右の列から左の列へ読んだ。「立憲主義を守る！」欄は、右から推薦者名（b14）、枠内の「リベラルの旗を、松戸に立て続ける」（b15）、本文（b16）の順とした。",
+    "b14 は応援者とみられる人名と肩書き。政策ではないため kind を other にした。「前衆議院議員」と「安藤じゅん子」、「千葉県議会議員」と「関根ジロー」の対応は配置から判断した。",
+    "b03 の票数は縦書きで「２９、２４８票」（区切りが読点「、」）。そのまま写した。",
+    "career：「昨年の市議会補欠選挙で、２９、２４８票で落選」は議員歴ではないため null。",
+    "slogan「守る。」は句点を含めて大きく書かれている。",
+    "年齢の記載なし。"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "candidate_id": "c012",
+  "order": 12,
+  "name": "照井りょう",
+  "kana": "てるいりょう",
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 35,
+  "slogan": "声が原動力　絆が原点",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "ハザードマップと避難所情報を高齢者にも届く形で周知",
+      "heading": "安心安全な街づくり\n情報が届かない人をなくします",
+      "verbatim": "ハザードマップと避難所情報を、高齢者にも届く形で周知",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "ひとり暮らし高齢者の安否確認と、地域の見守り体制",
+      "heading": "安心安全な街づくり\n情報が届かない人をなくします",
+      "verbatim": "ひとり暮らし高齢者の安否確認と、地域の見守り体制",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "市内の公園に防犯カメラを重点的に設置し、子どもや高齢者が巻き込まれる犯罪を防ぐ",
+      "heading": "安心安全な街づくり\n情報が届かない人をなくします",
+      "verbatim": "防犯カメラを市内の公園に重点的に設置し、子どもや高齢者が巻き込まれる犯罪を防ぐ",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "外国人の生活保護受給の実態を調査し公表、運用の見直しを図る",
+      "heading": "外国人政策\nルールは厳格に、情報は透明に",
+      "verbatim": "外国人の生活保護受給の実態を調査し、公表するとともに、運用の見直しを図る",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "外国人の生活保護受給の実態を調査し公表、運用の見直しを図る",
+      "heading": "外国人政策\nルールは厳格に、情報は透明に",
+      "verbatim": "外国人の生活保護受給の実態を調査し、公表するとともに、運用の見直しを図る",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "保険料の滞納を在留審査へ確実に反映させるため入管と連携強化・情報共有",
+      "heading": "外国人政策\nルールは厳格に、情報は透明に",
+      "verbatim": "保険料の滞納を在留審査へ確実に反映させるための入管との連携強化・情報共有の徹底",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "外国人の出産育児一時金に加入期間要件の設定を国へ求める",
+      "heading": "外国人政策\nルールは厳格に、情報は透明に",
+      "verbatim": "外国人に支給される出産育児一時金の加入期間要件の設定を国へ求める",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "子どもの予防接種助成を、段階的に現役世代へ拡大",
+      "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる",
+      "verbatim": "子どもの予防接種助成を、段階的に現役世代へ拡大",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもの予防接種助成を、段階的に現役世代へ拡大",
+      "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる",
+      "verbatim": "子どもの予防接種助成を、段階的に現役世代へ拡大",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保育の質の向上と保育士への支援拡充、医療的ケア児支援の拡充",
+      "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる",
+      "verbatim": "保育の質の向上と、保育士への支援の拡充。医療的ケア児支援の拡充を図る",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "保育の質の向上と保育士への支援拡充、医療的ケア児支援の拡充",
+      "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる",
+      "verbatim": "保育の質の向上と、保育士への支援の拡充。医療的ケア児支援の拡充を図る",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者の補聴器助成、通いの場の充実、図書館を世代を超えた居場所に",
+      "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる",
+      "verbatim": "高齢者の補聴器助成、通いの場の充実、図書館を世代を超えた居場所に",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "秩序ある平等な社会を実現するために、「支援」と「管理」の両輪で検証可能な政策を実施し、誰もが安心して生活できる松戸市にします。",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "candidate_id": "c012",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [2], "position": "2段目右"},
+  "name": "照井りょう",
+  "kana": "てるいりょう",
+  "party": "無所属",
+  "age": 35,
+  "career": null,
+  "slogan": "声が原動力　絆が原点",
+  "blocks": [
+    {"block_id": "b01", "kind": "profile", "heading": null, "verbatim": "一児の父です。全力で子育て中／二十世紀が丘萩町在住", "page": 2},
+    {"block_id": "b02", "kind": "profile", "heading": null, "verbatim": "行政書士", "page": 2},
+    {"block_id": "b03", "kind": "policy", "heading": "安心安全な街づくり\n情報が届かない人をなくします", "verbatim": "ハザードマップと避難所情報を、高齢者にも届く形で周知", "page": 2},
+    {"block_id": "b04", "kind": "policy", "heading": "安心安全な街づくり\n情報が届かない人をなくします", "verbatim": "ひとり暮らし高齢者の安否確認と、地域の見守り体制", "page": 2},
+    {"block_id": "b05", "kind": "policy", "heading": "安心安全な街づくり\n情報が届かない人をなくします", "verbatim": "防犯カメラを市内の公園に重点的に設置し、子どもや高齢者が巻き込まれる犯罪を防ぐ", "page": 2},
+    {"block_id": "b06", "kind": "policy", "heading": "外国人政策\nルールは厳格に、情報は透明に", "verbatim": "外国人の生活保護受給の実態を調査し、公表するとともに、運用の見直しを図る", "page": 2},
+    {"block_id": "b07", "kind": "policy", "heading": "外国人政策\nルールは厳格に、情報は透明に", "verbatim": "保険料の滞納を在留審査へ確実に反映させるための入管との連携強化・情報共有の徹底", "page": 2},
+    {"block_id": "b08", "kind": "policy", "heading": "外国人政策\nルールは厳格に、情報は透明に", "verbatim": "外国人に支給される出産育児一時金の加入期間要件の設定を国へ求める", "page": 2},
+    {"block_id": "b09", "kind": "policy", "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる", "verbatim": "子どもの予防接種助成を、段階的に現役世代へ拡大", "page": 2},
+    {"block_id": "b10", "kind": "policy", "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる", "verbatim": "保育の質の向上と、保育士への支援の拡充。医療的ケア児支援の拡充を図る", "page": 2},
+    {"block_id": "b11", "kind": "policy", "heading": "子育て支援と高齢者福祉\n負担を減らし、居場所をつくる", "verbatim": "高齢者の補聴器助成、通いの場の充実、図書館を世代を超えた居場所に", "page": 2},
+    {"block_id": "b12", "kind": "profile", "heading": null, "verbatim": "毎朝 5 時、松戸駅前に立ち続けてきました。", "page": 2},
+    {"block_id": "b13", "kind": "message", "heading": null, "verbatim": "そこで見てきたのは、松戸市を取り巻く環境の変化です。", "page": 2},
+    {"block_id": "b14", "kind": "message", "heading": null, "verbatim": "その変化に制度や仕組みが追いついていないことが課題ではないでしょうか。", "page": 2},
+    {"block_id": "b15", "kind": "message", "heading": null, "verbatim": "例えば、外国人政策。", "page": 2},
+    {"block_id": "b16", "kind": "message", "heading": null, "verbatim": "2025 年末時点で市内の在留外国人は、約 2 万7000 人にまで増加しました。", "page": 2},
+    {"block_id": "b17", "kind": "policy", "heading": null, "verbatim": "秩序ある平等な社会を実現するために、「支援」と「管理」の両輪で検証可能な政策を実施し、誰もが安心して生活できる松戸市にします。", "page": 2}
+  ],
+  "issues": [
+    "各「My Vision」の枠は大見出し（例：安心安全な街づくり）とその下の小見出し（例：情報が届かない人をなくします）の2段構成。見出しを独立させない規則に従い、両方を改行でつないで heading にした。",
+    "本文の「毎朝 5 時」「2025 年末」「約 2 万7000 人」の数字前後の空きは紙面の字間をそのまま半角スペースで写した（「2 万」と「7000」の間は紙面で改行）。",
+    "b01の「二十世紀が丘萩町」は紙面の表記どおり。"
+  ]
+}

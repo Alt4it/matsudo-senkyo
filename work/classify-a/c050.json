@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c050",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "被害の場所や深さの情報を集約し、内水ハザードマップをリニューアル", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "市管理の小規模水路にも水位計や監視カメラを設置", "confidence": "high"},
+    {"block_id": "b06", "themes": ["bousai"], "achievement": false, "summary": "雨水管や排水・貯留施設を強化", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": false, "summary": "対策箇所や実施時期など進捗の見える化", "confidence": "low"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "災害時の危険情報などの発信を、市と県の連携で正確・迅速に", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate", "bousai"], "achievement": false, "summary": "学校トイレ洋式化で災害対応を向上", "confidence": "high"},
+    {"block_id": "b10", "themes": ["keizai"], "achievement": false, "summary": "矢切耕地の農業を守り、道の駅も", "confidence": "high"},
+    {"block_id": "b11", "themes": ["other"], "achievement": false, "summary": "地元の獅子舞や万作踊りを守り抜く", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "市役所は現地建て替えで、新文化拠点も", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "市立病院を守り、持続可能な経営へ", "confidence": "high"},
+    {"block_id": "b16", "themes": ["other"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "b07：本文だけでは何の対策か書かれていない。同じ見出し「災害から守る！」の下で、原文③の後半の文のため bousai としたが、進捗の見える化は情報公開（gyozaisei）とも読めるため low。",
+    "b16：立憲主義・民主主義などの価値観と公正な社会の実現で、具体的な施策がない抽象的な公約のため summary を空にした。"
+  ]
+}

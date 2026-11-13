@@ -1,0 +1,163 @@
+{
+  "candidate_id": "c040",
+  "order": 40,
+  "name": "高木やすひで",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 32,
+  "slogan": "松戸で暮らす方の毎日をもっと心豊かに！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "1・2歳児クラスの第1子保育料を半額に",
+      "heading": "子育て支援",
+      "verbatim": "1・2歳児クラスの第1子保育料を半額に。",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "高架下を活用し、雨や日差しを避けられる遊び場を拡充",
+      "heading": "子育て支援",
+      "verbatim": "高架下を活用し、雨や日差しを避けられる遊び場を拡充。",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "河川敷球技場の平日空き時間を無料開放し、ボール遊びの場を拡充",
+      "heading": "子育て支援",
+      "verbatim": "河川敷球技場の平日空き時間を無料開放し、ボール遊びの場を拡充。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "卵子凍結費用を助成",
+      "heading": "子育て支援",
+      "verbatim": "卵子凍結費用を助成し、将来の選択肢を支援。",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "21世紀の森と広場の早朝利用期間を拡大",
+      "heading": "魅力溢れるまちづくり",
+      "verbatim": "21世紀の森と広場の早朝利用期間を拡大。",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "蚤の市や音楽イベントなど自然と調和するイベントを誘致",
+      "heading": "魅力溢れるまちづくり",
+      "verbatim": "蚤の市や音楽イベントなど自然と調和するイベントを誘致。",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "企業協賛を活用し、公共のごみ箱を試験設置",
+      "heading": "魅力溢れるまちづくり",
+      "verbatim": "企業協賛を活用し、公共のごみ箱を試験設置。",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "SNS講座やSNS広告費の補助で個人店・中小企業の集客を支援",
+      "heading": "魅力溢れるまちづくり",
+      "verbatim": "SNS講座やSNS広告費の補助で、個人店・中小企業の集客を支援。",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "健康教育を推進し、健康寿命の延伸へ",
+      "heading": "暮らしの学び",
+      "verbatim": "健康教育を推進し、健康寿命の延伸へ。",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "金融やAIの知識を学ぶ機会を設け、詐欺被害を防止",
+      "heading": "暮らしの学び",
+      "verbatim": "金融やAIの知識を学ぶ機会を設け、詐欺被害を防止。",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "収入を増やす",
+      "verbatim": "戦略的なSNS発信で、市内消費とふるさと納税の寄付額の拡大へ。",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "",
+      "heading": "収入を増やす",
+      "verbatim": "戦略的なSNS発信で、市内消費とふるさと納税の寄付額の拡大へ。",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "公共施設の集約・複合化を推進し、必要に応じて移動型市役所を導入",
+      "heading": "支出を見直す",
+      "verbatim": "公共施設の集約・複合化を推進し、必要に応じて移動型市役所を導入。",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公共施設の集約・複合化を推進し、必要に応じて移動型市役所を導入",
+      "heading": "支出を見直す",
+      "verbatim": "公共施設の集約・複合化を推進し、必要に応じて移動型市役所を導入。",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "「広報まつど」を月1回発行に見直し、緊急時は臨時号で対応",
+      "heading": "支出を見直す",
+      "verbatim": "「広報まつど」を月1回発行に見直し、緊急時は臨時号で対応。",
+      "page": 5
+    },
+    {
+      "block_id": "b15",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議員定数を削減",
+      "heading": "支出を見直す",
+      "verbatim": "議員定数を削減。",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

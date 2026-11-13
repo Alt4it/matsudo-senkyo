@@ -1,0 +1,26 @@
+{
+  "candidate_id": "c021",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["fukushi", "kosodate"], "achievement": true, "summary": "東松戸新病院・児童相談所の誘致を実現", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": true, "summary": "東松戸病院跡地に新病院を誘致、令和11年4月末完成予定（外来12科・198床）", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": true, "summary": "松戸児童相談所の開設を実現、令和8年9月に松戸市高塚新田に開設", "confidence": "high"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": true, "summary": "千葉豪雨で市長に緊急要望書を提出。災害ゴミ早期回収、市独自の支援金制度を推進", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": true, "summary": "緊急通報装置の無料化を実現（令和8年4月~）", "confidence": "low"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "生後1ヶ月児検診の費用助成を実現、5歳児検診の導入も推進", "confidence": "low"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "不登校児童のため「個性に合う複数の居場所」をつくり、学校支援員も増員", "confidence": "high"},
+    {"block_id": "b11", "themes": ["keizai"], "achievement": false, "summary": "就職氷河期世代・若者の就労支援を拡充", "confidence": "high"},
+    {"block_id": "b12", "themes": ["bousai"], "achievement": false, "summary": "春木川・国分川を二度と氾濫させないため、県の柳原排水機場の能力増強を働きかける", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi", "bousai"], "achievement": false, "summary": "死亡事故が続く県道51号の拡幅を前倒し", "confidence": "high"},
+    {"block_id": "b14", "themes": ["keizai"], "achievement": false, "summary": "東松戸駅周辺にホテル・商業施設・企業の誘致を実現", "confidence": "high"}
+  ],
+  "notes": [
+    "b02: 紙面最大の文言（slogan と同じ）。病院（福祉・医療）と児童相談所（子育て・教育）を明記しているため2テーマ。内容は b05・b06 と重なる。",
+    "b06: 児童相談所は子どもに関するものとして子育て・教育のみとした。",
+    "b08: 緊急通報装置の対象者が本文に書かれていないため、福祉・医療としたのは推測を含む。防災・安全とする判断もあり得る。",
+    "b09: 見出しは「実績」だが、1ヶ月児検診助成（実績）と5歳児検診導入の推進（今後）が同じ箇条に混在するため achievement は false とした。",
+    "b13: 本文の「死亡事故が続く」を交通安全の明記とみて防災・安全を2つ目に付けた。",
+    "b14: 「実現します」は今後の公約のため achievement は false。"
+  ]
+}

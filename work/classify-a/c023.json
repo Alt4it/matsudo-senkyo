@@ -1,0 +1,17 @@
+{
+  "candidate_id": "c023",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "災害時に支援が必要なひとの「誰がどこへどうやって」を急いで決める", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "県管理の五香アンダーパスへのエアー遮断機設置が決定へ", "confidence": "low"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "新拠点ゾーンに宇宙飛行士・山崎直子さんの顕彰展示を", "confidence": "low"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "経営悪化の責任を明確にして、医療の質の低下を防ぐ", "confidence": "high"}
+  ],
+  "notes": [
+    "b04: 本文に高齢者・障害者などの明記がないため防災・安全のみとした。",
+    "b05: 「決定へ」は過去の実績とも今後の見込みとも読めるため achievement は false とした。浸水対策（見出し）として防災・安全。",
+    "b06: 本文は顕彰展示（文化）のためその他とした。見出しの「市役所は現地建て替え」（まちづくり・交通）は本文にないため付けていない。見出しの主張が本文で扱われていない点は人の確認を。",
+    "b07: 見出しの「市立病院」は要約に補っていない。病院経営の責任の明確化を行財政とする判断もあり得る。"
+  ]
+}

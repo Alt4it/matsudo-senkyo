@@ -1,0 +1,20 @@
+{
+  "candidate_id": "c013",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["gyozaisei"], "achievement": false, "summary": "身を切る改革×行財政改革", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "次世代の為に早急な教育環境の整備", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "スポーツ振興で活気のある街づくり", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "医療、介護、福祉の拡充で市民の健康を守る", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "青少年の健全育成及び非行防止", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "所得制限のない教育無償化と教育改革", "confidence": "high"},
+    {"block_id": "b11", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "見出し『引き続き維新八策』は今後の政策の見出しとして扱い、achievement=false とした。",
+    "b08『災害に強い街づくり』：具体的な施策・対象・数値・期限がない抽象的な公約のため要約しない。",
+    "b11『持続可能な共生社会の実現』：抽象的な公約のため要約しない。何との共生か本文から分からず、テーマも決めきれないため other とした。"
+  ]
+}

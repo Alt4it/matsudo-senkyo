@@ -1,0 +1,22 @@
+{
+  "candidate_id": "c020",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "子育て・教育の負担軽減、安心して子育てできる環境を整える", "confidence": "high"},
+    {"block_id": "b04", "themes": ["keizai"], "achievement": false, "summary": "学び直し・転職を後押しし、新しい挑戦を支援", "confidence": "low"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "成田空港へのアクセスと北千葉道路を生かし、東松戸の魅力と価値を高める", "confidence": "low"},
+    {"block_id": "b07", "themes": ["keizai"], "achievement": false, "summary": "農業や地域の中小企業・商店を支え、地域経済の継続と発展へ", "confidence": "high"},
+    {"block_id": "b08", "themes": ["keizai"], "achievement": false, "summary": "ベンチャー・創業など挑戦する人を応援し、新しい仕事や事業を育てる", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "大雨・浸水・氾濫対策を強化し、水害の被害を減らす", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai", "machi"], "achievement": false, "summary": "道路・通学路・防犯を改善し、日常の危険を減らす", "confidence": "high"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "避難体制・防災施設を整え、地域の備えを充実させる", "confidence": "high"}
+  ],
+  "notes": [
+    "b04：学び直し・転職の後押しを雇用として keizai とした。学び直しを教育とみる余地があるため low。",
+    "b05：「老後も生き生きと暮らせる」「外出や交流を楽しめるまちを目指す」は具体的な施策・数値・期限がなく、抽象的な公約として要約せず原文のみ。高齢者が対象と読めるため fukushi としたが、本文に「高齢者」の語はない。",
+    "b06：見出しは「成長と税収アップ」（経済）だが、本文は東松戸のまちの価値向上と空港アクセス・道路の活用で machi とした。keizai とする見方もある。「おおたかの森を超える街」は字数の都合で省いた。",
+    "b10：本文に「道路」の明記があるため machi を2つ目に付けた。"
+  ]
+}

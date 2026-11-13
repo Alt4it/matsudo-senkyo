@@ -1,0 +1,118 @@
+{
+  "candidate_id": "c044",
+  "order": 44,
+  "name": "川野ひろし",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": null,
+  "slogan": "人にも動物にもやさしい松戸市へ!!",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "動物愛護「ペットも私たちの大切な家族『市民』です!」",
+      "verbatim": "市川市水準の動物政策を!!",
+      "page": 6
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ドッグランの整備を進める",
+      "heading": "動物愛護「ペットも私たちの大切な家族『市民』です!」",
+      "verbatim": "ドッグランの整備を進めます",
+      "page": 6
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ノラ猫の不妊去勢手術全額負担と地域猫活動の普及",
+      "heading": "動物愛護「ペットも私たちの大切な家族『市民』です!」",
+      "verbatim": "ノラ猫の不妊去勢手術全額負担と地域猫活動の普及",
+      "page": 6
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "動物の亡骸を生ゴミと一緒に処理する対応の改善",
+      "heading": "動物愛護「ペットも私たちの大切な家族『市民』です!」",
+      "verbatim": "動物の亡骸を生ゴミと一緒に処理する対応の改善",
+      "page": 6
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "行政主導での犬猫保護施設、譲渡会、里親制度の実施",
+      "heading": "動物愛護「ペットも私たちの大切な家族『市民』です!」",
+      "verbatim": "行政主導での犬猫保護施設、譲渡会、里親制度の実施",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "ペット同行避難・同伴避難の体制整備と強化",
+      "heading": "動物愛護「ペットも私たちの大切な家族『市民』です!」",
+      "verbatim": "ペット同行避難・同伴避難の体制整備と強化",
+      "page": 6
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ペット同行避難・同伴避難の体制整備と強化",
+      "heading": "動物愛護「ペットも私たちの大切な家族『市民』です!」",
+      "verbatim": "ペット同行避難・同伴避難の体制整備と強化",
+      "page": 6
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "社会保険料の軽減",
+      "heading": "動物愛護だけじゃない!! 人々の生活が豊かになってこそ動物愛護にも目を向けられる",
+      "verbatim": "社会保険料の軽減",
+      "page": 6
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "動物愛護だけじゃない!! 人々の生活が豊かになってこそ動物愛護にも目を向けられる",
+      "verbatim": "物価高から市民の暮らしを守る！実効性のある家計支援",
+      "page": 6
+    },
+    {
+      "block_id": "b11",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "動物愛護だけじゃない!! 人々の生活が豊かになってこそ動物愛護にも目を向けられる",
+      "verbatim": "税金の使い道の見直しと改善",
+      "page": 6
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "里親制度の普及と相談体制の強化で、すべての子供に温かい家庭を",
+      "heading": "動物愛護だけじゃない!! 人々の生活が豊かになってこそ動物愛護にも目を向けられる",
+      "verbatim": "里親制度の普及と相談体制の強化で、すべての子供に温かい家庭を！",
+      "page": 6
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

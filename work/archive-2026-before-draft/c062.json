@@ -1,0 +1,31 @@
+{
+  "candidate_id": "c062",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [8], "position": "3段目右"},
+  "name": "工藤すず子",
+  "kana": "くどうすず",
+  "party": "社会民主党",
+  "age": null,
+  "career": "松戸市議会議員6期目",
+  "slogan": "がんこに平和　くらしが一番",
+  "blocks": [
+    {"block_id": "b01", "kind": "policy", "heading": null, "verbatim": "物価高騰から市民生活を守る対策強化を", "page": 8},
+    {"block_id": "b02", "kind": "policy", "heading": null, "verbatim": "学校給食費の無償化は国が全国一律に実施を", "page": 8},
+    {"block_id": "b03", "kind": "policy", "heading": null, "verbatim": "子どもの意見を尊重し、安心できる居場所の確保を", "page": 8},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "誰もが安心して老後が迎えられる医療や介護の拡充を", "page": 8},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "女性が自立した生活できるよう支援強化を", "page": 8},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "現地建替えの新庁舎、仮庁舎の業務は市民に配慮を", "page": 8},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "気候危機・災害増に想定以上の対策強化を", "page": 8},
+    {"block_id": "b08", "kind": "policy", "heading": null, "verbatim": "老朽化進む学校施設、教育環境の整備優先を", "page": 8},
+    {"block_id": "b09", "kind": "policy", "heading": null, "verbatim": "法人税減税を見直し、消費税は廃止。松戸市議会からその声を", "page": 8},
+    {"block_id": "b10", "kind": "message", "heading": null, "verbatim": "誰もが差別なく平和に安心・安全の松戸市政を！", "page": 8},
+    {"block_id": "b11", "kind": "profile", "heading": "プロフィール", "verbatim": "1953年　愛媛県生まれ／広島県立広島商業高校卒業\n【現在】松戸市議会議員6期目　社会民主党千葉県連合代表", "page": 8}
+  ],
+  "issues": [
+    "kana：ふりがなは「工藤」の「くどう」のみで、「子」に読みがない。schemaに従い氏名の順に「くどう」＋「すず」とつなぎ、読みの分からない「子」の手前までとした。「くどう」（姓のみ）とすべきか判断してほしい。",
+    "紙面はすべて縦書き。政策の吹き出し（メガホンの絵付き）は上段を右から左へ5つ、下段を右から左へ4つの順で読んだ。見出しはない。",
+    "b09は「法人税減税を見直し、消費税は廃止。」と「松戸市議会からその声を」の2文だが、後半だけでは意味が通じないため1ブロックにした。",
+    "b05「女性が自立した生活できるよう」は原文のまま（「を」なし）。",
+    "b10「誰もが差別なく平和に安心・安全の松戸市政を！」は縦書き2行（右「誰もが差別なく平和に」、左「安心・安全の松戸市政を！」）の大きな文字。最上段の帯「がんこに平和　くらしが一番」の方が大きいためそちらをsloganとし、b10はmessageにした。",
+    "年齢の記載なし（1953年生まれのみ。計算していない）。"
+  ]
+}

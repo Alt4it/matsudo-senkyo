@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c054",
+  "order": 54,
+  "name": "鈴木だいすけ",
+  "kana": "すずきだいすけ",
+  "sort_kana": null,
+  "party": "自由民主党",
+  "career": "松戸市議会議員（4期・平成22年初当選）",
+  "age": 48,
+  "slogan": "松戸だいすき!",
+  "policies": [
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "持続可能な福祉政策",
+      "verbatim": "誰もが自立して暮らせる街を目指し行動します!",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "イクメン宣言",
+      "verbatim": "子どもが健やかに育つ環境づくりのために全力で行動します!",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "防災・減災対策",
+      "verbatim": "大規模災害から市民の生活や生命を守るために行動します!",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "投資すべきことには投資を",
+      "verbatim": "将来を見据えた「選択と集中」による戦略的な投資のために行動します!",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "防犯・治安対策の強化",
+      "verbatim": "安心して暮らせる街を目指して行動します!",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "other",
+      "achievement": false,
+      "summary": "安易な多文化共生・多様化推進には反対の立場で行動",
+      "heading": "日本人の文化・伝統・価値観を守る",
+      "verbatim": "安易な多文化共生・多様化推進には反対の立場で行動します!",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "魅力ある都市空間・住環境の整備・産業振興のために行動",
+      "heading": "元気なまちに",
+      "verbatim": "魅力ある都市空間・住環境の整備・産業振興の為に行動します!",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "魅力ある都市空間・住環境の整備・産業振興のために行動",
+      "heading": "元気なまちに",
+      "verbatim": "魅力ある都市空間・住環境の整備・産業振興の為に行動します!",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

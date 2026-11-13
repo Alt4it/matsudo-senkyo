@@ -1,0 +1,25 @@
+{
+  "candidate_id": "c049",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "隠れ教育費にメス、教育の無償化を", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kankyo"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b11", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b13", "themes": ["gyozaisei"], "achievement": false, "summary": "委員会もインターネット中継を", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "b03・b04・b06・b07・b08・b09・b10・b11・b12・b14 は具体的な施策・対象・数値・期限がない抽象的な公約のため summary を空にした。",
+    "b07「若者が未来を描けるまちへ」は子ども・教育とも読めるが、本文は若者全般のため other（low）。",
+    "b11「分断や生きづらさを残さない」は福祉とも読めるが、対象が特定されないため other（low）。",
+    "b08 は見出し「責任ある市政を」とあわせて財政の話と読み gyozaisei とした。"
+  ]
+}

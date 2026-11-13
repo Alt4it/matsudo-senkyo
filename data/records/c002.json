@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c002",
+  "order": 2,
+  "name": "東田こういち",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": null,
+  "slogan": "本当に必要なところに財源を！",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "新焼却炉建設のための大型事業全体の財政運営",
+      "heading": "財政を再建して財源を確保",
+      "verbatim": "新焼却炉建設のための大型事業全体の財政運営",
+      "page": 1
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "市立総合医療センターの経営赤字解消",
+      "heading": "財政を再建して財源を確保",
+      "verbatim": "市立総合医療センターの経営赤字解消",
+      "page": 1
+    },
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市立総合医療センターの経営赤字解消",
+      "heading": "財政を再建して財源を確保",
+      "verbatim": "市立総合医療センターの経営赤字解消",
+      "page": 1
+    },
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "豪雨災害に対応できる下水道や排水機能の整備、管理の徹底",
+      "heading": "安心安全な街づくり",
+      "verbatim": "近年の豪雨災害に対応できる下水道や排水機能の整備、管理の徹底",
+      "page": 1
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "安心安全な街づくり",
+      "verbatim": "子どもたちが大人になってまた松戸で子育てしたいと思える街づくり",
+      "page": 1
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもの学び育つ環境の充実（保育士不足の解消）",
+      "heading": "子どもがいきいき育つ街",
+      "verbatim": "子どもの学び育つ環境の充実（保育士不足の解消）",
+      "page": 1
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "中学生給食の完全無償化",
+      "heading": "子どもがいきいき育つ街",
+      "verbatim": "中学生給食の完全無償化",
+      "page": 1
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "「シルバー人材センター」を徹底周知し活用を広げる",
+      "heading": "シルバー世代による人材の支援",
+      "verbatim": "「シルバー人材センター」を徹底周知し活用を広げます",
+      "page": 1
+    },
+    {
+      "block_id": "b08",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "各常任委員会、特別委員会の完全中継",
+      "heading": "開かれた議会",
+      "verbatim": "各常任委員会、特別委員会の完全中継",
+      "page": 1
+    },
+    {
+      "block_id": "b09",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "全員協議会の完全録画・生中継、議事録公開",
+      "heading": "開かれた議会",
+      "verbatim": "全員協議会の完全録画・生中継、議事録公開",
+      "page": 1
+    },
+    {
+      "block_id": "b10",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議員定数を44人から40人に削減（4つの委員会から1名減）",
+      "heading": "開かれた議会",
+      "verbatim": "議員定数削減 44人→40人（4つの委員会から1名減）",
+      "page": 1
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "システム部門の経験を活かし、業務の合理化、情報公開も進める",
+      "heading": "プロフィール",
+      "verbatim": "また、長年システム部門に在籍した経験も活かし、業務の合理化、情報公開も進めます！",
+      "page": 1
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "candidate_id": "c029",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [4], "position": "3段目左"},
+  "name": "山口正子",
+  "kana": null,
+  "party": "日本共産党",
+  "age": null,
+  "career": "市議4期目",
+  "slogan": "「市民の命と暮らし最優先の松戸市」をご一緒に",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "松戸新市長初の予算は40.9億円（県水道値上げを含む）の市民負担増！", "page": 4},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "住民の福祉切り捨て予算に、日本共産党以外の政党・会派が賛成し可決してしまいました。", "page": 4},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "「市民の命と暮らし最優先の松戸市」をご一緒に", "page": 4},
+    {"block_id": "b04", "kind": "policy", "heading": null, "verbatim": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充を", "page": 4},
+    {"block_id": "b05", "kind": "policy", "heading": null, "verbatim": "高すぎる国保税を減免し子どもの均等割り無料化を", "page": 4},
+    {"block_id": "b06", "kind": "policy", "heading": null, "verbatim": "高齢者のタクシー料金半額補助", "page": 4},
+    {"block_id": "b07", "kind": "policy", "heading": null, "verbatim": "補聴器購入補助の増額", "page": 4},
+    {"block_id": "b08", "kind": "policy", "heading": null, "verbatim": "年金で入れる特養ホーム", "page": 4},
+    {"block_id": "b09", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "中学校給食の無償化（昨年度無料だった給食費、再び無料に）", "page": 4},
+    {"block_id": "b10", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "常盤平第一小学校廃止の中止", "page": 4},
+    {"block_id": "b11", "kind": "policy", "heading": "どの子ものびのび育つ街を", "verbatim": "牧の原中学校の通学路に横断歩道設置", "page": 4},
+    {"block_id": "b12", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "八ケ崎・三ケ月・常盤平にコミュニティバスを", "page": 4},
+    {"block_id": "b13", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "馬橋駅東口の駅前広場と県道の拡幅", "page": 4},
+    {"block_id": "b14", "kind": "policy", "heading": "地域の願い・安全な街づくりを", "verbatim": "明市民センター前に横断歩道を", "page": 4},
+    {"block_id": "b15", "kind": "profile", "heading": null, "verbatim": "鹿児島県出身。病院勤務38年。（うち助産師28年間、高齢者の看護3年間） 学童父母会長や労働組合婦人部長を経験。\n市議4期目。現在健康福祉常任委員。北松戸在住。", "page": 4},
+    {"block_id": "b16", "kind": "message", "heading": null, "verbatim": "くらし 平和 人権 松戸から、いっしょに政治を変えましょう！", "page": 4},
+    {"block_id": "b17", "kind": "message", "heading": null, "verbatim": "「力の支配」にNO！ 反戦平和をつらぬいて104年「日本共産党」", "page": 4}
+  ],
+  "issues": [
+    "氏名は「山口正子」で、ふりがなは「正子」の「まさこ」だけ。姓の読みがないため kana は null とした。",
+    "b01 の「（県水道値上げを含む）」は「40.9億円」の下に小さく添えられた注記で、位置に合わせて「40.9億円」の直後に入れた。",
+    "b01・b02 は予算への批判で施策の文がないため message とした。",
+    "b04〜b08 の5項目は小見出しの帯がなく、大見出し「「市民の命と暮らし最優先の松戸市」をご一緒に」の直下にあるため heading は null とした。",
+    "b09 の括弧書き「（昨年度無料だった給食費、再び無料に）」は1行下に小さく書かれている。",
+    "b12「八ケ崎」「三ケ月」の「ケ」は大きい「ケ」に見える。",
+    "右下のQRコードは本文に含めていない。"
+  ]
+}

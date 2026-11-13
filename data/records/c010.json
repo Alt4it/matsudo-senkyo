@@ -1,0 +1,235 @@
+{
+  "candidate_id": "c010",
+  "order": 10,
+  "name": "石塚ゆう",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": "2022年松戸市議会議員選挙初当選",
+  "age": null,
+  "slogan": "子ども・若者が孤立しない松戸市へ",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公共施設の再編成（見直し）",
+      "heading": "松戸のまちづくり",
+      "verbatim": "公共施設の再編成（見直し）",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "各エリアの都市計画の見直し",
+      "heading": "松戸のまちづくり",
+      "verbatim": "各エリアの都市計画の見直し",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "交通不便地域の解消",
+      "heading": "松戸のまちづくり",
+      "verbatim": "交通不便地域の解消",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "新時代の図書館の整備",
+      "heading": "文化・芸術・スポーツの振興",
+      "verbatim": "新時代の図書館の整備",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "各スポーツ環境の再整備",
+      "heading": "文化・芸術・スポーツの振興",
+      "verbatim": "各スポーツ環境の再整備",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "地元スポーツクラブの支援",
+      "heading": "文化・芸術・スポーツの振興",
+      "verbatim": "地元スポーツクラブの支援",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "ダンスの振興、表現できる場の創出",
+      "heading": "文化・芸術・スポーツの振興",
+      "verbatim": "ダンスの振興、表現できる場の創出",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "21世紀の森と広場を稼げる公園へ",
+      "heading": "文化・芸術・スポーツの振興",
+      "verbatim": "21世紀の森と広場を稼げる公園へ",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "フリースクール利用支援の充実",
+      "heading": "全ての子どもに居場所、選択肢を！",
+      "verbatim": "フリースクール利用支援の充実",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子どもの体験格差の解消",
+      "heading": "全ての子どもに居場所、選択肢を！",
+      "verbatim": "子どもの体験格差の解消",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子ども食堂への自走支援",
+      "heading": "全ての子どもに居場所、選択肢を！",
+      "verbatim": "子ども食堂への自走支援",
+      "page": 2
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "フレイル、介護予防と健康づくりの強化",
+      "heading": "いつまでもシニアが活躍できるまつど",
+      "verbatim": "フレイル、介護予防と健康づくりの強化",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "eスポーツによる健康づくり、フレイル予防",
+      "heading": "いつまでもシニアが活躍できるまつど",
+      "verbatim": "eスポーツによる健康づくり、フレイル予防",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "介護版まつど手当ての創設",
+      "heading": "いつまでもシニアが活躍できるまつど",
+      "verbatim": "介護版まつど手当ての創設",
+      "page": 2
+    },
+    {
+      "block_id": "b16",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "コンテンツ産業支援制度の創設",
+      "heading": "コンテンツ産業を主力産業へ",
+      "verbatim": "コンテンツ産業支援制度の創設",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸映画祭の開催",
+      "heading": "コンテンツ産業を主力産業へ",
+      "verbatim": "松戸映画祭の開催",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "other",
+      "achievement": false,
+      "summary": "松戸映画祭の開催",
+      "heading": "コンテンツ産業を主力産業へ",
+      "verbatim": "松戸映画祭の開催",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "松戸発のコンテンツを支援",
+      "heading": "コンテンツ産業を主力産業へ",
+      "verbatim": "松戸発のコンテンツを支援",
+      "page": 2
+    },
+    {
+      "block_id": "b19",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "浸水地域の再確認",
+      "heading": "防災・防犯で安心安全なまつど",
+      "verbatim": "浸水地域の再確認",
+      "page": 2
+    },
+    {
+      "block_id": "b20",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防災井戸、給水拠点の整備",
+      "heading": "防災・防犯で安心安全なまつど",
+      "verbatim": "防災井戸、給水拠点の整備",
+      "page": 2
+    },
+    {
+      "block_id": "b21",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "地域防災リーダー制度の強化",
+      "heading": "防災・防犯で安心安全なまつど",
+      "verbatim": "地域防災リーダー制度の強化",
+      "page": 2
+    },
+    {
+      "block_id": "b22",
+      "theme": "other",
+      "achievement": false,
+      "summary": "動物愛護教育の推進",
+      "heading": "動物にもやさしいまつど",
+      "verbatim": "動物愛護教育の推進",
+      "page": 2
+    },
+    {
+      "block_id": "b23",
+      "theme": "other",
+      "achievement": false,
+      "summary": "動物愛護イベントの開催",
+      "heading": "動物にもやさしいまつど",
+      "verbatim": "動物愛護イベントの開催",
+      "page": 2
+    },
+    {
+      "block_id": "b24",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "ペット同行避難所の増設、備蓄の充実",
+      "heading": "動物にもやさしいまつど",
+      "verbatim": "ペット同行避難所の増設、備蓄の充実",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

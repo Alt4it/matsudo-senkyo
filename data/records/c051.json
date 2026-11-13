@@ -1,0 +1,127 @@
+{
+  "candidate_id": "c051",
+  "order": 51,
+  "name": "小黒智恵",
+  "kana": "おぐろともえ",
+  "sort_kana": null,
+  "party": null,
+  "career": null,
+  "age": 39,
+  "slogan": "松戸は、もっと良くできる。",
+  "policies": [
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "暮らし・家計　物価高の中でも、安心して暮らせる松戸へ。",
+      "verbatim": "家計の負担軽減策の推進",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "地域の中小企業・商店を応援",
+      "heading": "暮らし・家計　物価高の中でも、安心して暮らせる松戸へ。",
+      "verbatim": "地域の中小企業・商店を応援",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "公共料金・サービスの見直し",
+      "heading": "暮らし・家計　物価高の中でも、安心して暮らせる松戸へ。",
+      "verbatim": "公共料金・サービスの見直し",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子育て・教育　子どもたちがのびのび育ち、安心して学べる松戸へ。",
+      "verbatim": "必要な情報と支援を届ける",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保育の選択肢と受け皿の充実",
+      "heading": "子育て・教育　子どもたちがのびのび育ち、安心して学べる松戸へ。",
+      "verbatim": "保育の選択肢と受け皿の充実",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "子育て・教育　子どもたちがのびのび育ち、安心して学べる松戸へ。",
+      "verbatim": "学校・家庭・地域がつながる環境",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "other",
+      "achievement": false,
+      "summary": "地域活動の担い手支援",
+      "heading": "地域・まちづくり　人が集まり、つながるまちを次の世代へ。",
+      "verbatim": "地域活動の担い手支援",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公園・道路・公共施設の整備",
+      "heading": "地域・まちづくり　人が集まり、つながるまちを次の世代へ。",
+      "verbatim": "公園・道路・公共施設の整備",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "地域・まちづくり　人が集まり、つながるまちを次の世代へ。",
+      "verbatim": "地域のにぎわいと交流を創出",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "相談窓口のわかりやすさ",
+      "heading": "高齢者・安心　困ったときにすぐ相談できる、やさしい松戸へ。",
+      "verbatim": "相談窓口のわかりやすさ",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "医療・介護サービスの充実",
+      "heading": "高齢者・安心　困ったときにすぐ相談できる、やさしい松戸へ。",
+      "verbatim": "医療・介護サービスの充実",
+      "page": 7
+    },
+    {
+      "block_id": "b16",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "社会参加・生きがいづくりを応援",
+      "heading": "高齢者・安心　困ったときにすぐ相談できる、やさしい松戸へ。",
+      "verbatim": "社会参加・生きがいづくりを応援",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

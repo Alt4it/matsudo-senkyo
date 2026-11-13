@@ -1,0 +1,19 @@
+{
+  "candidate_id": "c031",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": false, "summary": "「市民の・役立つ・所」を徹底し、行財政改革", "confidence": "high"},
+    {"block_id": "b02", "themes": ["machi"], "achievement": false, "summary": "利便性向上と経済が発展する基盤を整備", "confidence": "low"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b06", "themes": ["keizai"], "achievement": false, "summary": "松戸のポテンシャルを引き出し、企業育成・誘致を図る", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b02：見出し「社会基盤整備」の下で、本文は「利便性向上と経済が発展する基盤を整備」。具体的な対象がなく抽象的とも読めるが、基盤整備という施策があるため原文に近い要約を残した。machi としたが、本文に「経済」もあり keizai とみる余地もある。",
+    "b03・b04・b05・b07：具体的な施策・対象・数値・期限が書かれていない抽象的な公約のため要約せず原文のみ。テーマはそれぞれの見出し（子育て・教育／医療・福祉の充実／防災・防犯）と本文の語（子ども／健康医療都市・市民に優しい街／安心して暮らせる街）から付けた。",
+    "b07：見出し「賑わいのある街」、本文「松戸に住んで、来て、楽しめる街。」で、テーマが本文から特定しにくい。まちのあり方として machi とした（観光として keizai とみる余地もある）。"
+  ]
+}

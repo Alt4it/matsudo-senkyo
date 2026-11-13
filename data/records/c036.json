@@ -1,0 +1,55 @@
+{
+  "candidate_id": "c036",
+  "order": 36,
+  "name": "あしだ満春",
+  "kana": "あしだみつはる",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "2022年松戸市議初当選",
+  "age": 47,
+  "slogan": "必要とするひとに必要とされる支援が届く松戸市へ",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "教育格差を是正し貧困の連鎖を断ち切る",
+      "verbatim": "体験活動・キャリア教育を推進しつつ、副教材や体験活動また給食にかかる費用の負担軽減を推進します",
+      "page": 5
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "身寄りのない高齢者のため「終身サポート事業」を制度化",
+      "heading": "人生100年時代 健康 医療 高齢者支援",
+      "verbatim": "身寄りのない高齢者が安心して入院・入居できるよう、行政が「終身サポート事業」を制度化し、葬儀や財産処分までを第三者が責任を持って託せる仕組みを構築します",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "買い物や通院に困らないよう「AIデマンド交通」導入を推進",
+      "heading": "人生100年時代 健康 医療 高齢者支援",
+      "verbatim": "買い物や通院に困らないために「AIデマンド交通」導入を推進します",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "必要とする人に支援が届く「プッシュ型窓口」を進める",
+      "heading": "申請主義でないプッシュ型市役所窓口へ",
+      "verbatim": "申請しないと支援が行き届かない行政のままにするのではなく、必要とする人に必要とされる支援が届く「プッシュ型窓口」を進めます",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "candidate_id": "c006",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [1], "position": "3段目右"},
+  "name": "吉川まさお",
+  "kana": "よしかわまさお",
+  "party": "公明党",
+  "age": 52,
+  "career": null,
+  "slogan": "毎日の生活を 政治の真ん中に",
+  "blocks": [
+    {"block_id": "b01", "kind": "profile", "heading": null, "verbatim": "スーパーの現場で約30年 災害時も地域の「食」と「暮らし」を守り抜きました。", "page": 1},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "生活の厳しさを肌で知るからこそ、「買い物」から地域経済を元気にしたいという思いがあります。", "page": 1},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "子どもからお年寄りまで、皆が思いやりを持って生活できる街づくりを目指し、大好きな松戸のため吉川まさお全力で働きます！", "page": 1},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "今日よし！明日よし！未来よし！", "page": 1},
+    {"block_id": "b05", "kind": "policy", "heading": "「買い物」から松戸経済を元気に！", "verbatim": "「移動販売」の拡充", "page": 1},
+    {"block_id": "b06", "kind": "policy", "heading": "「買い物」から松戸経済を元気に！", "verbatim": "「キャッシュレス決済ポイント還元」の推進", "page": 1},
+    {"block_id": "b07", "kind": "policy", "heading": "日本一「子育てしやすい安心な街」へ", "verbatim": "子ども食堂への支援", "page": 1},
+    {"block_id": "b08", "kind": "policy", "heading": "日本一「子育てしやすい安心な街」へ", "verbatim": "市立小中学校の「給食無償化」の推進", "page": 1},
+    {"block_id": "b09", "kind": "policy", "heading": "災害に強い街づくりへ", "verbatim": "市道の排水能力の増強", "page": 1},
+    {"block_id": "b10", "kind": "policy", "heading": "災害に強い街づくりへ", "verbatim": "豪雨災害への市独自の支援金制度の創設", "page": 1},
+    {"block_id": "b11", "kind": "profile", "heading": "プロフィール", "verbatim": "昭和49年11月1日生まれ（52歳）", "page": 1},
+    {"block_id": "b12", "kind": "profile", "heading": "プロフィール", "verbatim": "西武台千葉高校 卒業\n城西国際大学 経営情報学部 卒業", "page": 1},
+    {"block_id": "b13", "kind": "profile", "heading": "プロフィール", "verbatim": "大手スーパー店長歴 約20年", "page": 1},
+    {"block_id": "b14", "kind": "profile", "heading": "プロフィール", "verbatim": "公明党 松戸支部副支部長", "page": 1},
+    {"block_id": "b15", "kind": "profile", "heading": "プロフィール", "verbatim": "【家族】妻と愛犬（こころ）", "page": 1},
+    {"block_id": "b16", "kind": "profile", "heading": "プロフィール", "verbatim": "【資格】第二種衛生管理者免許", "page": 1}
+  ],
+  "issues": [
+    "政策の3つの枠をまとめる見出し「吉川まさおがめざす 政策ビジョン」（大きな文字）は、内容を束ねる見出しのためブロックにもスローガンにもしていない。",
+    "党派は公明党のロゴ（KOMEITO 公明党）から読んだ。b14の「公明党」もロゴ部分。",
+    "b03の「持って」は紙面で「持っ て」と字間が空いて見えるが、組版上の空きと判断して詰めた。",
+    "人物イラストの吹き出し「よし！」（3か所）、犬の写真の「KOKORO」、QRコード下の「ホームページ」は主張ではないため書き起こしていない。",
+    "議員歴を示す語句は見当たらないため career は null。"
+  ]
+}

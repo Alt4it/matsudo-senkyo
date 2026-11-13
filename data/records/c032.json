@@ -1,0 +1,64 @@
+{
+  "candidate_id": "c032",
+  "order": 32,
+  "name": "がんのさとし",
+  "kana": "がんのさとし",
+  "sort_kana": null,
+  "party": "日本維新の会",
+  "career": "松戸市議会議員2期",
+  "age": null,
+  "slogan": "ガンガン頑張る！！",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "経営コンサルタントの目線で財政再建",
+      "verbatim": "松戸市立\n総合医療センター\n民営化\n××病院\n赤字の穴埋めに\n毎年30億円の税金\n赤字の穴埋め不要\n病院は残ります",
+      "page": 4
+    },
+    {
+      "block_id": "b01",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "経営コンサルタントの目線で財政再建",
+      "verbatim": "松戸市立\n総合医療センター\n民営化\n××病院\n赤字の穴埋めに\n毎年30億円の税金\n赤字の穴埋め不要\n病院は残ります",
+      "page": 4
+    },
+    {
+      "block_id": "b02",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "経営改善に向けた病床数削減を実現",
+      "heading": "実績",
+      "verbatim": "経営改善に向けた病床数削減の実現",
+      "page": 4
+    },
+    {
+      "block_id": "b02",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "経営改善に向けた病床数削減を実現",
+      "heading": "実績",
+      "verbatim": "経営改善に向けた病床数削減の実現",
+      "page": 4
+    },
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "民間にできることは、民間に。",
+      "page": 4
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

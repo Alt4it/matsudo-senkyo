@@ -1,0 +1,244 @@
+{
+  "candidate_id": "c015",
+  "order": 15,
+  "name": "井出まさこ",
+  "kana": "いでまさこ",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "市議歴：１期",
+  "age": 59,
+  "slogan": "誠実に 真剣に 一人ひとりを大切に\n誰もが安心・笑顔になる松戸へ！",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "other",
+      "achievement": true,
+      "summary": "東京2025デフリンピックの認知度向上",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n誰もが元気に暮らせる街へ",
+      "verbatim": "東京 2025 デフリンピックの認知度向上",
+      "page": 2
+    },
+    {
+      "block_id": "b03",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "ギャンブル等依存症に悩む方・家族へ支援情報を提供",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n誰もが元気に暮らせる街へ",
+      "verbatim": "ギャンブル等依存症に悩む方・家族へ支援情報の提供",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "高齢者の帯状疱疹ワクチン接種費用の助成",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n誰もが元気に暮らせる街へ",
+      "verbatim": "高齢者の帯状疱疹ワクチン接種費用の助成",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "誰もが楽しめるインクルーシブ遊具（ブランコ）を小金原公園に設置",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n子育てしやすい街へ",
+      "verbatim": "誰もが楽しめるインクルーシブ遊具（ブランコ）を小金原公園に設置",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "学校健康診断の未受診者へふれあい学級等で健診を実施（令和８年度）",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n子育てしやすい街へ",
+      "verbatim": "学校健康診断の未受診者へふれあい学級等において健診の実施を実現（令和８年度）",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "道路舗装やカーブミラー設置・修理等100ヶ所以上を改善",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n安全安心の街へ",
+      "verbatim": "道路舗装やカーブミラー設置・修理等100 ヶ所以上の改善実績",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "公園内を映す防犯カメラの設置",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n安全安心の街へ",
+      "verbatim": "公園内を映す防犯カメラの設置",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "避難所にもなる全市立小中高校の体育館にエアコン設置",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n災害に強い街へ",
+      "verbatim": "避難所にもなる全市立小中高校の体育館にエアコン設置",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "避難所にもなる全市立小中高校の体育館にエアコン設置",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n災害に強い街へ",
+      "verbatim": "避難所にもなる全市立小中高校の体育館にエアコン設置",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "防災士の視点から避難所等の安全点検や豪雨・冠水対策を強化",
+      "heading": "１期４年で市民相談 1,500 件超え！\n皆さまの声を実現しました！\n災害に強い街へ",
+      "verbatim": "防災士の視点から、避難所等の安全点検や豪雨・冠水対策の強化",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "市立総合医療センターへのアクセス向上",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n誰もが元気に暮らせる街へ",
+      "verbatim": "市立総合医療センターへのアクセス向上",
+      "page": 2
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "市立総合医療センターへのアクセス向上",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n誰もが元気に暮らせる街へ",
+      "verbatim": "市立総合医療センターへのアクセス向上",
+      "page": 2
+    },
+    {
+      "block_id": "b13",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "快適なグリスロ運行、高齢者の移動手段の拡充",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n誰もが元気に暮らせる街へ",
+      "verbatim": "快適なグリスロ運行 / 高齢者の移動手段の拡充",
+      "page": 2
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "快適なグリスロ運行、高齢者の移動手段の拡充",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n誰もが元気に暮らせる街へ",
+      "verbatim": "快適なグリスロ運行 / 高齢者の移動手段の拡充",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "外国人市民のゴミ分別等の周知徹底の取り組みを強化",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n誰もが元気に暮らせる街へ",
+      "verbatim": "外国人市民のゴミ分別等について周知徹底の取り組み強化",
+      "page": 2
+    },
+    {
+      "block_id": "b14",
+      "theme": "other",
+      "achievement": false,
+      "summary": "外国人市民のゴミ分別等の周知徹底の取り組みを強化",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n誰もが元気に暮らせる街へ",
+      "verbatim": "外国人市民のゴミ分別等について周知徹底の取り組み強化",
+      "page": 2
+    },
+    {
+      "block_id": "b15",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "０～２歳児の保育料無償化",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n子育てしやすい街へ",
+      "verbatim": "０～２歳児の保育料無償化",
+      "page": 2
+    },
+    {
+      "block_id": "b16",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "小中学校の給食無償化の継続・拡充",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n子育てしやすい街へ",
+      "verbatim": "小中学校の給食無償化の継続・拡充",
+      "page": 2
+    },
+    {
+      "block_id": "b17",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "児童生徒が利用できるエリアの洋式トイレ化を推進",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n子育てしやすい街へ",
+      "verbatim": "児童生徒が利用できるエリアに洋式トイレ化の推進",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "高齢者や車いす等すべての人が利用しやすいバリアフリーな街づくり",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n安全安心の街へ",
+      "verbatim": "高齢者や車いす等、すべての人が利用しやすいバリアフリーな街づくり",
+      "page": 2
+    },
+    {
+      "block_id": "b18",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者や車いす等すべての人が利用しやすいバリアフリーな街づくり",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n安全安心の街へ",
+      "verbatim": "高齢者や車いす等、すべての人が利用しやすいバリアフリーな街づくり",
+      "page": 2
+    },
+    {
+      "block_id": "b19",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯カメラの設置拡大",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n安全安心の街へ",
+      "verbatim": "防犯カメラの設置拡大",
+      "page": 2
+    },
+    {
+      "block_id": "b20",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "公園や街路樹の適切な管理",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n安全安心の街へ",
+      "verbatim": "公園や街路樹の適切な管理",
+      "page": 2
+    },
+    {
+      "block_id": "b21",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所における女性目線のプライバシー確保と備蓄の整備",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n災害に強い街へ",
+      "verbatim": "避難所における女性目線のプライバシー確保と備蓄の整備",
+      "page": 2
+    },
+    {
+      "block_id": "b22",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "避難所におけるペット同伴避難・同室避難の整備",
+      "heading": "さらに！もっと前へ進めます！\nこれからの政策\n災害に強い街へ",
+      "verbatim": "避難所におけるペット同伴避難・同室避難の整備",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c054",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [7], "position": "3段目右"},
+  "name": "鈴木だいすけ",
+  "kana": "すずきだいすけ",
+  "party": "自由民主党",
+  "age": 48,
+  "career": "松戸市議会議員（4期・平成22年初当選）",
+  "slogan": "松戸だいすき!",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "3児の父・責任世代の声を市政へ", "page": 7},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "自信は確信に～このまちの「ミライ」を皆様と共に描き実現します!", "page": 7},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "「自信は確信に」誰よりも早く現場に駆けつけ、誰よりも話を聞き、共に考え、行動します。", "page": 7},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "「松戸だいすき!鈴木だいすけ7つの行動（seven actions）」を市民の皆様にここに宣言したいと思います。", "page": 7},
+    {"block_id": "b05", "kind": "message", "heading": null, "verbatim": "ソーシャルビジネスで社会課題の解決を!", "page": 7},
+    {"block_id": "b06", "kind": "message", "heading": null, "verbatim": "市議会議員として地域課題の解決を!", "page": 7},
+    {"block_id": "b07", "kind": "policy", "heading": "持続可能な福祉政策", "verbatim": "誰もが自立して暮らせる街を目指し行動します!", "page": 7},
+    {"block_id": "b08", "kind": "policy", "heading": "イクメン宣言", "verbatim": "子どもが健やかに育つ環境づくりのために全力で行動します!", "page": 7},
+    {"block_id": "b09", "kind": "policy", "heading": "防災・減災対策", "verbatim": "大規模災害から市民の生活や生命を守るために行動します!", "page": 7},
+    {"block_id": "b10", "kind": "policy", "heading": "投資すべきことには投資を", "verbatim": "将来を見据えた「選択と集中」による戦略的な投資のために行動します!", "page": 7},
+    {"block_id": "b11", "kind": "policy", "heading": "防犯・治安対策の強化", "verbatim": "安心して暮らせる街を目指して行動します!", "page": 7},
+    {"block_id": "b12", "kind": "policy", "heading": "日本人の文化・伝統・価値観を守る", "verbatim": "安易な多文化共生・多様化推進には反対の立場で行動します!", "page": 7},
+    {"block_id": "b13", "kind": "policy", "heading": "元気なまちに", "verbatim": "魅力ある都市空間・住環境の整備・産業振興の為に行動します!", "page": 7},
+    {"block_id": "b14", "kind": "profile", "heading": "鈴木だいすけ プロフィール", "verbatim": "昭和53年2月7日生まれの48歳、クリーン三木と言われた「三木武夫元首相」を輩出した明治大学雄弁部出身。優しい妻(元損保会社事務職)と可愛い長女(中学3年生)・野球好きな長男(小学校5年生)とやんちゃな次男(小学校2年生)と河原塚在住", "page": 7},
+    {"block_id": "b15", "kind": "profile", "heading": "学歴", "verbatim": "東京都立秋川高等学校卒業\n明治大学商学部卒業", "page": 7},
+    {"block_id": "b16", "kind": "profile", "heading": "趣味", "verbatim": "読書（長谷川慶太郎・山本七平・小室直樹・司馬遼太郎・宮城谷昌光・塩野七生・クラウゼウィッツなど乱読をもって是とする）", "page": 7},
+    {"block_id": "b17", "kind": "profile", "heading": "現在", "verbatim": "松戸市議会議員（4期・平成22年初当選）\n就労継続支援B型事業所ONEHEART松戸代表", "page": 7},
+    {"block_id": "b18", "kind": "other", "heading": null, "verbatim": "松戸だいすき情報発信中! http://www.suzukidaisuke.jp/ 松戸だいすき", "page": 7},
+    {"block_id": "b19", "kind": "other", "heading": null, "verbatim": "まつどだいすき情報発信中!!", "page": 7}
+  ],
+  "issues": [
+    "氏名の「木」は飾り文字で縦画の下端が離れた形だが、ふりがな「すずき」と字形から「鈴木」と読んだ（「本」の横画はない）。",
+    "スローガンは、氏名の左に大きく書かれた「松戸だいすき!」を採った。次に大きい文言は吹き出しの「自信は確信に～このまちの「ミライ」を皆様と共に描き実現します!」。どちらを採るか確認してほしい。",
+    "career は「現在」欄の「松戸市議会議員（4期・平成22年初当選）」をそのまま入れた。「4期」だけに絞るかは判断に委ねる。",
+    "政策7項目は、太字の項目名（行頭の丸数字は除いた）を heading、その下の1文を verbatim にした。",
+    "b05・b06（ソーシャルビジネス／市議会議員として…の解決を!）は具体的な施策を含まない訴えとして message にした。",
+    "b18・b19 はSNS・Webサイトの案内（アイコン・QRコードの添え書き）のため other とした。",
+    "「自民党」ロゴと「自民党公認」の文字は党派表示として扱い本文に含めていない。",
+    "プロフィール本文の丸括弧は半角、学歴・趣味・現在欄の括弧は全角に見えたが、区別は確実でない。感嘆符も半角に見えたため「!」とした。"
+  ]
+}

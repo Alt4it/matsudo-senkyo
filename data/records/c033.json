@@ -1,0 +1,181 @@
+{
+  "candidate_id": "c033",
+  "order": 33,
+  "name": "大橋ひろし",
+  "kana": null,
+  "sort_kana": null,
+  "party": null,
+  "career": "4期目",
+  "age": null,
+  "slogan": "大橋ひろしは引きつづき・松戸市財政・経費縮減に取り組みます",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": null,
+      "verbatim": "大橋ひろしは引きつづき・松戸市財政・経費縮減に取り組みます",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "",
+      "heading": "新庁舎整備事業について",
+      "verbatim": "早期着手に向けて、私は「建て替えるべきものは建て替える、一部でも使えるものは直して使う」という事業手法は、長寿命化のみならず「新築部分の面積を極力少なくすることに繋がり事業費の縮減にも繋がる」との考え方のもと、新築を想定した整備の際には、改修工事も併せた、複合的な案までを幅広く検討し公表します。",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "新庁舎整備事業について",
+      "verbatim": "早期着手に向けて、私は「建て替えるべきものは建て替える、一部でも使えるものは直して使う」という事業手法は、長寿命化のみならず「新築部分の面積を極力少なくすることに繋がり事業費の縮減にも繋がる」との考え方のもと、新築を想定した整備の際には、改修工事も併せた、複合的な案までを幅広く検討し公表します。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "病院職員と協議し600床から549床に削減、経費削減に取り組む",
+      "heading": "市立病院問題",
+      "verbatim": "今年度ようやく病院職員の皆様と協議を重ね600床から549床に削減し、経費削減に取り組んでいます。",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "病院職員と協議し600床から549床に削減、経費削減に取り組む",
+      "heading": "市立病院問題",
+      "verbatim": "今年度ようやく病院職員の皆様と協議を重ね600床から549床に削減し、経費削減に取り組んでいます。",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": true,
+      "summary": "16年間、小中学校の通学路の安全対策で多くの危険箇所を改善",
+      "heading": "防犯・安全対策",
+      "verbatim": "子どもたちの安全を守るためこの16年間小中学校の通学路の安全対策に全力で取り組み、多くの危険箇所の改善を実現してきました。",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "防犯・安全対策",
+      "verbatim": "今後も「危険」「不便」「迷惑」を徹底的に解消すべく全力を尽くします。",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "8年間、市内交差点、狭隘道路等を整備",
+      "heading": "市内道路整備",
+      "verbatim": "大橋ひろしは8年間、市内道路整備に携わり市内交差点、狭隘道路等整備してまいりました。",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "引き続き道路整備等に取り組む",
+      "heading": "市内道路整備",
+      "verbatim": "今後も引き続き、道路整備等に取り組んでまいります。",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "市の行政や市議会の不可解な実態を追究し、分かりやすく報告",
+      "heading": "松戸市政実話リポートの発行",
+      "verbatim": "今後も引き続き松戸市の行政や市議会の不可解な実態などを徹底的に追究し、今後も皆様に解りやすくご報告していきます。",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "嘘のない「待機児童ゼロ」を必ず実現させたい",
+      "heading": "待機児童の問題",
+      "verbatim": "本当の意味での嘘のない「待機児童ゼロ」を必ず実現させたいと思います。",
+      "page": 5
+    },
+    {
+      "block_id": "b15",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "小中学校の完全冷房化を実現",
+      "heading": "小中学校・その他の施設整備",
+      "verbatim": "小中学校の完全冷房化を実現させました。",
+      "page": 5
+    },
+    {
+      "block_id": "b16",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "下水道整備の遅れている地域で2年前倒しで整備完了",
+      "heading": "小中学校・その他の施設整備",
+      "verbatim": "下水道施設整備の遅れている地域においても2年前倒しで整備完了しました。",
+      "page": 5
+    },
+    {
+      "block_id": "b17",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "市内公園に健康遊具を設置",
+      "heading": "医療・福祉の充実",
+      "verbatim": "公約通り市内公園に健康遊具設置しました。",
+      "page": 5
+    },
+    {
+      "block_id": "b17",
+      "theme": "machi",
+      "achievement": true,
+      "summary": "市内公園に健康遊具を設置",
+      "heading": "医療・福祉の充実",
+      "verbatim": "公約通り市内公園に健康遊具設置しました。",
+      "page": 5
+    },
+    {
+      "block_id": "b18",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "引き続き歩け歩け・グランドゴルフを応援",
+      "heading": "医療・福祉の充実",
+      "verbatim": "引き続き、歩け歩け・グランドゴルフを応援します。",
+      "page": 5
+    },
+    {
+      "block_id": "b19",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "来年度も高齢者福祉に対する予算の増額を図る",
+      "heading": "医療・福祉の充実",
+      "verbatim": "来年度も高齢者福祉に対する予算の増額を図ります。",
+      "page": 5
+    },
+    {
+      "block_id": "b20",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "各駅バリアフリー100%実現を推進",
+      "heading": "医療・福祉の充実",
+      "verbatim": "各駅バリアフリー100%実現を推進します。",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

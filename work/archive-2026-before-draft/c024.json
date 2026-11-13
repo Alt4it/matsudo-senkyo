@@ -1,0 +1,41 @@
+{
+  "candidate_id": "c024",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [3], "position": "4段目右"},
+  "name": "丹呉あきこ",
+  "kana": "たんごあきこ",
+  "party": "公明党",
+  "age": null,
+  "career": "松戸市議会議員1期",
+  "slogan": "介護のエキスパート",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "声をチカラに\n全力チャレンジ！", "page": 3},
+    {"block_id": "b02", "kind": "profile", "heading": "介護の経験を、市政の力に", "verbatim": "介護する側も、支えられる側も経験しました\nくも膜下出血で倒れた夫の介護を通して、制度の壁や家族の不安を身をもって知りました。", "page": 3},
+    {"block_id": "b03", "kind": "message", "heading": "介護の経験を、市政の力に", "verbatim": "介護福祉士として、現場で働いた経験を活かして、一人一人の切実な声を市政へ届けてまいります！", "page": 3},
+    {"block_id": "b04", "kind": "policy", "heading": "未来へつなぐ 松戸ビジョン", "verbatim": "キャッシュレス還元による物価高対策", "page": 3},
+    {"block_id": "b05", "kind": "policy", "heading": "未来へつなぐ 松戸ビジョン", "verbatim": "給食費無償化のさらなる充実", "page": 3},
+    {"block_id": "b06", "kind": "policy", "heading": "未来へつなぐ 松戸ビジョン", "verbatim": "防災・減災対策の強化", "page": 3},
+    {"block_id": "b07", "kind": "policy", "heading": "未来へつなぐ 松戸ビジョン", "verbatim": "若者応援とアーバンスポーツ振興", "page": 3},
+    {"block_id": "b08", "kind": "policy", "heading": "未来へつなぐ 松戸ビジョン", "verbatim": "人とペットが共生できるまちづくり", "page": 3},
+    {"block_id": "b09", "kind": "policy", "heading": "未来へつなぐ 松戸ビジョン", "verbatim": "介護現場の負担軽減・働き方改革", "page": 3},
+    {"block_id": "b10", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "補聴器購入費助成の推進", "page": 3},
+    {"block_id": "b11", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "認知症予防教室の新設推進", "page": 3},
+    {"block_id": "b12", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "学校体育館の空調・LED整備", "page": 3},
+    {"block_id": "b13", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "ドッグエリア整備の推進", "page": 3},
+    {"block_id": "b14", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "がん患者支援の充実", "page": 3},
+    {"block_id": "b15", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "AED配備の充実", "page": 3},
+    {"block_id": "b16", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "介護現場の人材確保とICT活用支援", "page": 3},
+    {"block_id": "b17", "kind": "policy", "heading": "1期4年の主な取り組み", "verbatim": "紙おむつ支給手続きの簡素化", "page": 3},
+    {"block_id": "b18", "kind": "profile", "heading": "プロフィール", "verbatim": "1969年生まれ\n東海大学短期大学部卒業\n資格／介護福祉士\n女性初 市少年軟式野球連盟顧問\n趣味／野球観戦\n家族／夫・子ども3人・愛犬「にこ」\n松戸市議会議員1期", "page": 3},
+    {"block_id": "b19", "kind": "message", "heading": null, "verbatim": "たんごでGO♪", "page": 3},
+    {"block_id": "b20", "kind": "message", "heading": null, "verbatim": "現場に足を運び、\n一人一人の声に誠実にお応えしていきます！", "page": 3}
+  ],
+  "issues": [
+    "slogan：氏名・党名以外で最も大きい文字「介護のエキスパート」を採った。自己紹介的な文言のため、slogan に当たるか人の判断を。右隣の小さい「声をチカラに 全力チャレンジ！」は b01（message）にした。",
+    "年齢の記載なし（「1969年生まれ」のみ）。計算せず age は null。",
+    "career はプロフィールの「松戸市議会議員1期」を採った。見出し「1期4年の主な取り組み」にも期数の記載あり。",
+    "氏名「丹呉」の「呉」は拡大画像で確認。ふりがなは「たん」「ご」と各漢字の横に付く。",
+    "b02 は小見出し「介護する側も、支えられる側も経験しました」とその下の経験の文をまとめて profile にした。",
+    "b19 はイラスト内の手書き風文字。b18 の行頭「・」は除いた。",
+    "QRコード欄「活動と地域の声を発信／Instagram／公式HP／最新の活動はこちらから」は案内表示のため本文に含めていない。"
+  ]
+}

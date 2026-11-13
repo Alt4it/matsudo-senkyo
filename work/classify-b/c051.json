@@ -1,0 +1,27 @@
+{
+  "candidate_id": "c051",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b06", "themes": ["keizai"], "achievement": false, "summary": "地域の中小企業・商店を応援", "confidence": "high"},
+    {"block_id": "b07", "themes": ["gyozaisei"], "achievement": false, "summary": "公共料金・サービスの見直し", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "保育の選択肢と受け皿の充実", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b11", "themes": ["other"], "achievement": false, "summary": "地域活動の担い手支援", "confidence": "low"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "公園・道路・公共施設の整備", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": false, "summary": "相談窓口のわかりやすさ", "confidence": "low"},
+    {"block_id": "b15", "themes": ["fukushi"], "achievement": false, "summary": "医療・介護サービスの充実", "confidence": "high"},
+    {"block_id": "b16", "themes": ["fukushi"], "achievement": false, "summary": "社会参加・生きがいづくりを応援", "confidence": "high"}
+  ],
+  "notes": [
+    "b05「家計の負担軽減策の推進」は施策の中身・対象が書かれていない抽象的な公約として summary を空にした。テーマは既存基準に当てはまらず other（low）。",
+    "b08「必要な情報と支援を届ける」、b10「学校・家庭・地域がつながる環境」、b13「地域のにぎわいと交流を創出」は抽象的な公約として summary を空にした。",
+    "b13 はまちづくり（machi）とも経済（keizai）とも読める（low）。",
+    "b11 の地域活動の担い手支援は既存テーマに明確に当てはまらないため other（low）。",
+    "b14 は見出し「高齢者・安心」の下の項目として fukushi としたが、行政窓口の改善（gyozaisei）とも読める（low）。",
+    "短い箇条は原文に近いまま summary にした。"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "candidate_id": "c003",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["kosodate"], "achievement": false, "summary": "妊娠期から切れ目ない支援の充実", "confidence": "high"},
+    {"block_id": "b03", "themes": ["kosodate"], "achievement": false, "summary": "学校施設老朽化対策など教育環境の向上", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "奨学金の拡充で子どもの夢を応援", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "障がいのある方の就労・社会参加を支援", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "医療・介護・福祉の連携強化", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "浸水・冠水を防ぐ水害に強い松戸へ", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai"], "achievement": false, "summary": "避難所環境の充実", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": false, "summary": "通学路・生活道路の安全対策を推進", "confidence": "high"},
+    {"block_id": "b11", "themes": ["machi"], "achievement": false, "summary": "松戸駅周辺のにぎわいと再開発の推進", "confidence": "high"},
+    {"block_id": "b12", "themes": ["keizai", "other"], "achievement": false, "summary": "商業・文化の振興で住み続けたい松戸へ", "confidence": "high"},
+    {"block_id": "b13", "themes": ["machi"], "achievement": false, "summary": "市役所庁舎の建て替えを推進", "confidence": "high"},
+    {"block_id": "b15", "themes": ["machi"], "achievement": true, "summary": "消防局交差点の左折レーンを設置", "confidence": "high"},
+    {"block_id": "b16", "themes": ["machi"], "achievement": true, "summary": "江戸川河川敷トイレを水洗化", "confidence": "high"},
+    {"block_id": "b17", "themes": ["kosodate"], "achievement": true, "summary": "市内全ての小中学校の体育館にエアコンを設置", "confidence": "high"}
+  ],
+  "notes": [
+    "b05：「高齢者が安心して暮らせる地域づくり」は具体的な施策・数値・期限がなく、言い換えると原文より具体的に見えるため要約しない。",
+    "b15〜b17：見出し「実績」の下のため achievement を true とした。"
+  ]
+}

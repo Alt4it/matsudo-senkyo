@@ -1,0 +1,26 @@
+{
+  "candidate_id": "c022",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi", "kosodate"], "achievement": false, "summary": "高すぎる国保税の減免、子どもの均等割り無料化", "confidence": "high"},
+    {"block_id": "b05", "themes": ["machi"], "achievement": false, "summary": "国道464号の歩道整備", "confidence": "high"},
+    {"block_id": "b06", "themes": ["machi"], "achievement": false, "summary": "市営住宅の増設", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi"], "achievement": false, "summary": "公共交通の充実", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kankyo"], "achievement": false, "summary": "矢切の耕地の保全", "confidence": "low"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": false, "summary": "公園新設と施設整備", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "中学校給食の無償化", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "教員不足解消", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "保育・介護労働者の賃金アップ", "confidence": "low"},
+    {"block_id": "b13", "themes": ["keizai"], "achievement": false, "summary": "公契約条例で公共事業労働者の賃金アップ", "confidence": "low"}
+  ],
+  "notes": [
+    "b03〜b13: 短い箇条のため原文のままを要約とした。",
+    "b04: 国保税（福祉・医療）と子どもの均等割り（子育て・教育）が本文に明記されているため2テーマ。",
+    "b05: 見出しに「安全な」とあるが本文は歩道整備のみのため、まちづくり・交通のみとした。",
+    "b08: 耕地の保全は緑地保全（環境）とも農業（経済・産業）とも読める。環境とした。",
+    "b12: 保育（子育て・教育）と介護（福祉・医療）を明記。賃金（雇用）として経済・産業とする判断もあり得る。",
+    "b13: 労働者の賃金を雇用とみて経済・産業とした。公契約条例を行財政とする判断もあり得る。"
+  ]
+}

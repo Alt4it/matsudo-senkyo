@@ -1,0 +1,24 @@
+{
+  "candidate_id": "c002",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei", "kankyo"], "achievement": false, "summary": "新焼却炉建設のための大型事業全体の財政運営", "confidence": "low"},
+    {"block_id": "b02", "themes": ["fukushi", "gyozaisei"], "achievement": false, "summary": "市立総合医療センターの経営赤字解消", "confidence": "high"},
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "豪雨災害に対応できる下水道や排水機能の整備、管理の徹底", "confidence": "high"},
+    {"block_id": "b04", "themes": ["kosodate"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b05", "themes": ["kosodate"], "achievement": false, "summary": "子どもの学び育つ環境の充実（保育士不足の解消）", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "中学生給食の完全無償化", "confidence": "high"},
+    {"block_id": "b07", "themes": ["fukushi"], "achievement": false, "summary": "シルバー人材センターを徹底周知し活用を広げる", "confidence": "low"},
+    {"block_id": "b08", "themes": ["gyozaisei"], "achievement": false, "summary": "各常任委員会、特別委員会の完全中継", "confidence": "high"},
+    {"block_id": "b09", "themes": ["gyozaisei"], "achievement": false, "summary": "全員協議会の完全録画・生中継、議事録公開", "confidence": "high"},
+    {"block_id": "b10", "themes": ["gyozaisei"], "achievement": false, "summary": "議員定数削減 44人→40人（4つの委員会から1名減）", "confidence": "high"},
+    {"block_id": "b14", "themes": ["gyozaisei"], "achievement": false, "summary": "システム部門の経験を活かし業務の合理化、情報公開も進める", "confidence": "high"}
+  ],
+  "notes": [
+    "b01：主題は財政運営（gyozaisei）。焼却炉（ごみ処理）が本文に明記されているため kankyo を2つ目に付けたが、付けるかは判断が分かれる。",
+    "b04：具体的な施策・対象・数値・期限がない抽象的な公約のため要約しない。テーマも子育てかまちづくりか決めにくい。",
+    "b07：高齢者（シルバー世代）の支援として fukushi にした。雇用（keizai）とみる考え方もあり、本文に雇用の明記はないため2つ目は付けていない。",
+    "b14：プロフィール欄内の文だが policy として渡されたため分類した。"
+  ]
+}

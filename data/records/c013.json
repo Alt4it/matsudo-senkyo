@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c013",
+  "order": 13,
+  "name": "柿沼みつとし",
+  "kana": "かきぬまみつとし",
+  "sort_kana": null,
+  "party": "日本維新の会",
+  "career": "令和4年松戸市議選で初当選",
+  "age": null,
+  "slogan": "すべては次世代のために",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "",
+      "heading": "引き続き維新八策",
+      "verbatim": "身を切る改革×行財政改革",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "引き続き維新八策",
+      "verbatim": "次世代の為に早急な教育環境の整備",
+      "page": 2
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "引き続き維新八策",
+      "verbatim": "スポーツ振興で活気のある街づくり",
+      "page": 2
+    },
+    {
+      "block_id": "b07",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "引き続き維新八策",
+      "verbatim": "医療、介護、福祉の拡充で市民の健康を守る",
+      "page": 2
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "引き続き維新八策",
+      "verbatim": "災害に強い街づくり",
+      "page": 2
+    },
+    {
+      "block_id": "b09",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "",
+      "heading": "引き続き維新八策",
+      "verbatim": "青少年の健全育成及び非行防止",
+      "page": 2
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "所得制限のない教育無償化と教育改革",
+      "heading": "引き続き維新八策",
+      "verbatim": "所得制限のない教育無償化と教育改革",
+      "page": 2
+    },
+    {
+      "block_id": "b11",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "引き続き維新八策",
+      "verbatim": "持続可能な共生社会の実現",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

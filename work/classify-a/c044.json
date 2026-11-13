@@ -1,0 +1,25 @@
+{
+  "candidate_id": "c044",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["other"], "achievement": false, "summary": "市川市水準の動物政策を", "confidence": "high"},
+    {"block_id": "b04", "themes": ["other"], "achievement": false, "summary": "ドッグランの整備を進める", "confidence": "high"},
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "ノラ猫の不妊去勢手術全額負担と地域猫活動の普及", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other"], "achievement": false, "summary": "動物の亡骸を生ゴミと一緒に処理する対応の改善", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "行政主導での犬猫保護施設、譲渡会、里親制度の実施", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai", "other"], "achievement": false, "summary": "ペット同行避難・同伴避難の体制整備と強化", "confidence": "high"},
+    {"block_id": "b09", "themes": ["fukushi"], "achievement": false, "summary": "社会保険料の軽減", "confidence": "low"},
+    {"block_id": "b10", "themes": ["fukushi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b11", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate"], "achievement": false, "summary": "里親制度の普及と相談体制の強化で、すべての子供に温かい家庭を", "confidence": "high"}
+  ],
+  "notes": [
+    "短い箇条が多いため、要約は原文に近いままにした。",
+    "b03〜b07：動物愛護として other。",
+    "b08：避難の体制として bousai、本文に「ペット」の明記があるため other を2つ目に付けた。",
+    "b09：社会保険料の軽減を fukushi としたが、基準に明示がなく low。",
+    "b10：「実効性のある家計支援」は具体的な施策・対象が書かれていない抽象的な公約と判断し要約しない。テーマも fukushi か other か迷うため low。",
+    "b11：「税金の使い道の見直しと改善」は具体的な施策・対象が書かれていない抽象的な公約と判断し要約しない。"
+  ]
+}

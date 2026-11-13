@@ -1,0 +1,17 @@
+{
+  "candidate_id": "c018",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "担当部署へつなぐだけでなく経過まで確認し、共通する課題は制度改善につなげる", "confidence": "low"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "子どもから高齢者まで地域スポーツに気軽に参加できる機会を広げる", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "先生・子ども・保護者の声を聴き、課題を明らかにする", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "先生の事務負担軽減、図書館の改善、AIやSNSを適切に使う力の育成", "confidence": "high"}
+  ],
+  "notes": [
+    "b05：道路・公園、子育て・介護、行政手続きなど複数分野を例示しつつ、施策は「耳を傾け、現場へ足を運ぶ」のみで具体的な施策がないため要約せず原文のみ。分野が特定できないため other とした。",
+    "b06：要望の取り次ぎと制度改善の進め方の話。行政の運営に関するものとして gyozaisei としたが、どのテーマにも明確には当たらない。",
+    "b09：「図書館」は教育現場の見出しの下にあるが、学校図書館か市立図書館かは本文から分からない。見出しに沿って kosodate とした。40字に収めるため「安全性・使いやすさ」を省いた。"
+  ]
+}

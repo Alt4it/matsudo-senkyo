@@ -1,0 +1,37 @@
+{
+  "candidate_id": "c015",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["other"], "achievement": true, "summary": "東京 2025 デフリンピックの認知度向上", "confidence": "high"},
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": true, "summary": "ギャンブル等依存症に悩む方・家族へ支援情報の提供", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": true, "summary": "高齢者の帯状疱疹ワクチン接種費用の助成", "confidence": "high"},
+    {"block_id": "b05", "themes": ["kosodate", "machi"], "achievement": true, "summary": "誰もが楽しめるインクルーシブ遊具（ブランコ）を小金原公園に設置", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": true, "summary": "学校健康診断の未受診者へふれあい学級等で健診を実施（令和８年度）", "confidence": "high"},
+    {"block_id": "b07", "themes": ["machi", "bousai"], "achievement": true, "summary": "道路舗装やカーブミラー設置・修理等100 ヶ所以上を改善", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": true, "summary": "公園内を映す防犯カメラの設置", "confidence": "high"},
+    {"block_id": "b09", "themes": ["bousai", "kosodate"], "achievement": true, "summary": "避難所にもなる全市立小中高校の体育館にエアコン設置", "confidence": "high"},
+    {"block_id": "b10", "themes": ["bousai"], "achievement": true, "summary": "防災士の視点から、避難所等の安全点検や豪雨・冠水対策の強化", "confidence": "low"},
+    {"block_id": "b12", "themes": ["machi", "fukushi"], "achievement": false, "summary": "市立総合医療センターへのアクセス向上", "confidence": "low"},
+    {"block_id": "b13", "themes": ["machi", "fukushi"], "achievement": false, "summary": "快適なグリスロ運行、高齢者の移動手段の拡充", "confidence": "high"},
+    {"block_id": "b14", "themes": ["kankyo", "other"], "achievement": false, "summary": "外国人市民のゴミ分別等について周知徹底の取り組み強化", "confidence": "high"},
+    {"block_id": "b15", "themes": ["kosodate"], "achievement": false, "summary": "０～２歳児の保育料無償化", "confidence": "high"},
+    {"block_id": "b16", "themes": ["kosodate"], "achievement": false, "summary": "小中学校の給食無償化の継続・拡充", "confidence": "high"},
+    {"block_id": "b17", "themes": ["kosodate"], "achievement": false, "summary": "児童生徒が利用できるエリアに洋式トイレ化の推進", "confidence": "high"},
+    {"block_id": "b18", "themes": ["machi", "fukushi"], "achievement": false, "summary": "高齢者や車いす等、すべての人が利用しやすいバリアフリーな街づくり", "confidence": "high"},
+    {"block_id": "b19", "themes": ["bousai"], "achievement": false, "summary": "防犯カメラの設置拡大", "confidence": "high"},
+    {"block_id": "b20", "themes": ["machi"], "achievement": false, "summary": "公園や街路樹の適切な管理", "confidence": "high"},
+    {"block_id": "b21", "themes": ["bousai"], "achievement": false, "summary": "避難所における女性目線のプライバシー確保と備蓄の整備", "confidence": "high"},
+    {"block_id": "b22", "themes": ["bousai", "other"], "achievement": false, "summary": "避難所におけるペット同伴避難・同室避難の整備", "confidence": "high"}
+  ],
+  "notes": [
+    "b02〜b10：見出し『皆さまの声を実現しました！』の列のため achievement=true。b12〜b22 は『これからの政策』の列のため false。",
+    "b02：デフリンピック（スポーツ）として other。障害者福祉とみる考え方もあるが本文に明記がないため2つ目は付けていない。",
+    "b07：カーブミラー（交通安全）が明記されているため bousai を2つ目に付けた。",
+    "b09：『避難所にもなる』の明記から bousai を主、学校の体育館として kosodate を2つ目にした。",
+    "b10：実績の列にあるが文面は『強化』で、実績か今後の取り組みか読み取りにくい。列の見出しに従い true とした。",
+    "b12：医療センターへの交通アクセス（machi）とみたが、本文に交通の明記はなく、医療（fukushi）を主とする考え方もある。",
+    "b14：ゴミ分別（kankyo）と外国人市民（other、多文化共生）。",
+    "b13：原文の『 / 』を読点に置き換えた（並列の関係は変えていない）。"
+  ]
+}

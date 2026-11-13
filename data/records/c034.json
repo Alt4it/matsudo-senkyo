@@ -1,0 +1,226 @@
+{
+  "candidate_id": "c034",
+  "order": 34,
+  "name": "後藤たけし",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": null,
+  "age": 32,
+  "slogan": "元自衛官が違法外国人撲滅",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "other",
+      "achievement": false,
+      "summary": "不法滞在者及び不法就労者を撲滅",
+      "heading": "違法外国人撲滅",
+      "verbatim": "不法滞在者及び不法就労者を撲滅",
+      "page": 5
+    },
+    {
+      "block_id": "b03",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "警察と入国管理局の活動への協力強化",
+      "heading": "違法外国人撲滅",
+      "verbatim": "警察と入国管理局の活動への協力強化",
+      "page": 5
+    },
+    {
+      "block_id": "b04",
+      "theme": "other",
+      "achievement": false,
+      "summary": "外国人の不法就労通報制度の導入",
+      "heading": "違法外国人撲滅",
+      "verbatim": "外国人の不法就労通報制度の導入",
+      "page": 5
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "外国人犯罪グループへの監視強化",
+      "heading": "違法外国人撲滅",
+      "verbatim": "外国人犯罪グループへの監視強化",
+      "page": 5
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "警察力の強化",
+      "heading": "防犯対策の強化",
+      "verbatim": "警察力の強化",
+      "page": 5
+    },
+    {
+      "block_id": "b07",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "トクリュウ犯罪撲滅",
+      "heading": "防犯対策の強化",
+      "verbatim": "トクリュウ犯罪撲滅",
+      "page": 5
+    },
+    {
+      "block_id": "b08",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯パトロールに特化した自警団の創設",
+      "heading": "防犯対策の強化",
+      "verbatim": "防犯パトロールに特化した自警団の創設",
+      "page": 5
+    },
+    {
+      "block_id": "b09",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯カメラ等の増設で犯罪をし難い環境を整備",
+      "heading": "防犯対策の強化",
+      "verbatim": "防犯カメラ等の増設で犯罪をし難い環境を整備",
+      "page": 5
+    },
+    {
+      "block_id": "b10",
+      "theme": "kankyo",
+      "achievement": false,
+      "summary": "ポイ捨てへの取り締まり強化",
+      "heading": "防犯対策の強化",
+      "verbatim": "ポイ捨てへの取り締まり強化",
+      "page": 5
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "外国人生活保護の廃止",
+      "heading": "税金の無駄遣いを根絶",
+      "verbatim": "外国人生活保護の廃止",
+      "page": 5
+    },
+    {
+      "block_id": "b12",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "外国人による国民健康保険料の未納を無くす",
+      "heading": "税金の無駄遣いを根絶",
+      "verbatim": "外国人による国民健康保険料の未納を無くす",
+      "page": 5
+    },
+    {
+      "block_id": "b13",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "生活保護の不正受給を撲滅",
+      "heading": "税金の無駄遣いを根絶",
+      "verbatim": "生活保護の不正受給を撲滅",
+      "page": 5
+    },
+    {
+      "block_id": "b14",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "議員報酬の削減・市長の退職金返上",
+      "heading": "税金の無駄遣いを根絶",
+      "verbatim": "議員報酬の削減・市長の退職金返上",
+      "page": 5
+    },
+    {
+      "block_id": "b15",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "道徳教育の推進",
+      "heading": "教育改革で教育現場を正常化",
+      "verbatim": "道徳教育の推進",
+      "page": 5
+    },
+    {
+      "block_id": "b16",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "拉致問題の啓発強化",
+      "heading": "教育改革で教育現場を正常化",
+      "verbatim": "拉致問題の啓発強化",
+      "page": 5
+    },
+    {
+      "block_id": "b17",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "自衛隊の行事参加で安全保障教育の実施",
+      "heading": "教育改革で教育現場を正常化",
+      "verbatim": "自衛隊の行事参加で安全保障教育の実施",
+      "page": 5
+    },
+    {
+      "block_id": "b18",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "いじめ問題を地域全体で解決",
+      "heading": "教育改革で教育現場を正常化",
+      "verbatim": "いじめ問題を地域全体で解決",
+      "page": 5
+    },
+    {
+      "block_id": "b19",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "国旗国歌に対する理解促進",
+      "heading": "教育改革で教育現場を正常化",
+      "verbatim": "国旗国歌に対する理解促進",
+      "page": 5
+    },
+    {
+      "block_id": "b20",
+      "theme": "other",
+      "achievement": false,
+      "summary": "自衛隊の広報活動への協力強化",
+      "heading": "自衛隊の活動への支援協力体制の強化",
+      "verbatim": "自衛隊の広報活動への協力強化",
+      "page": 5
+    },
+    {
+      "block_id": "b21",
+      "theme": "other",
+      "achievement": false,
+      "summary": "自衛隊の活動を保護する体制を構築",
+      "heading": "自衛隊の活動への支援協力体制の強化",
+      "verbatim": "自衛隊の活動を保護する体制を構築",
+      "page": 5
+    },
+    {
+      "block_id": "b22",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "対テロ訓練・Jアラート実動避難訓練の実施",
+      "heading": "自衛隊の活動への支援協力体制の強化",
+      "verbatim": "対テロ訓練・Jアラート実動避難訓練の実施",
+      "page": 5
+    },
+    {
+      "block_id": "b23",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "自衛隊・警察・消防との連携を強化",
+      "heading": "防災・減災対策を強化",
+      "verbatim": "自衛隊・警察・消防との連携を強化",
+      "page": 5
+    },
+    {
+      "block_id": "b24",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "水路整備・排水対策を強化して水害に備える",
+      "heading": "防災・減災対策を強化",
+      "verbatim": "水路整備・排水対策を強化して水害に備える",
+      "page": 5
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

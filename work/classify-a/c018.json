@@ -1,0 +1,17 @@
+{
+  "candidate_id": "c018",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b05", "themes": ["other"], "achievement": false, "summary": "道路・公園、子育て・介護、行政手続きなどの困りごとに耳を傾け現場へ足を運ぶ", "confidence": "low"},
+    {"block_id": "b06", "themes": ["gyozaisei"], "achievement": false, "summary": "担当部署へつなぐだけでなく経過まで確認し、共通する課題は制度改善につなげる", "confidence": "low"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "子どもから高齢者まで地域スポーツに気軽に参加できる機会を広げる", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "先生・子ども・保護者の声を聴き、課題を明らかにする", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "先生の事務負担軽減、図書館の安全性・使いやすさ改善、AI・SNSを適切に使う力育成", "confidence": "high"}
+  ],
+  "notes": [
+    "b05: 道路・公園（まちづくり）、子育て・介護、行政手続きと複数分野の困りごとを挙げる相談対応の姿勢で、1～2テーマに絞ると印象が変わるためその他とした。",
+    "b06: 相談を制度改善につなげる活動の進め方。行政改革に近いとみて行財政としたが、その他とする判断もあり得る。",
+    "b07: スポーツは基準上その他。候補者の経験の部分は要約に含めていない。"
+  ]
+}

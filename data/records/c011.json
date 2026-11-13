@@ -1,0 +1,46 @@
+{
+  "candidate_id": "c011",
+  "order": 11,
+  "name": "真山ゆうき",
+  "kana": "まやまゆうき",
+  "sort_kana": null,
+  "party": "参政党",
+  "career": null,
+  "age": 38,
+  "slogan": "「松戸で育ってよかった」と言える未来へ",
+  "policies": [
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "経済的支援とキャリアサポートで子育ての不安を減らす",
+      "heading": "少子化に挑み、子どもがあふれる松戸へ",
+      "verbatim": "経済的支援とキャリアサポートで子育ての不安を減らし、誰もが安心して産み育てられる環境へ。",
+      "page": 2
+    },
+    {
+      "block_id": "b04",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "地域イベントや子ども食堂、遊び場の情報をスムーズに受け取れる街に",
+      "heading": "松戸の情報をもっと便利にわかりやすく",
+      "verbatim": "地域イベントや子ども食堂、遊び場の情報をスムーズに受け取れ、必要な人と支援が温かく繋がる街に。",
+      "page": 2
+    },
+    {
+      "block_id": "b05",
+      "theme": "other",
+      "achievement": false,
+      "summary": "愛犬と伸び伸び過ごせる広場づくりや生き物との触れ合い",
+      "heading": "動物と触れ合い、命に優しい街へ",
+      "verbatim": "愛犬と伸び伸び過ごせる広場づくりや生き物との触れ合いを通して、命の尊さや相手を思いやる心が育つ環境へ。",
+      "page": 2
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

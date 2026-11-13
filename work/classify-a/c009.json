@@ -1,0 +1,24 @@
+{
+  "candidate_id": "c009",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["fukushi"], "achievement": false, "summary": "訪問介護やデイサービスなど在宅介護への支援を充実", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi"], "achievement": false, "summary": "介護スタッフの処遇改善と負担軽減が急務", "confidence": "high"},
+    {"block_id": "b06", "themes": ["fukushi"], "achievement": false, "summary": "多すぎる研修、煩雑な書類を簡素化", "confidence": "high"},
+    {"block_id": "b08", "themes": ["fukushi"], "achievement": false, "summary": "要介護認定の松戸ローカルルールを見直し、全国基準に近づける", "confidence": "high"},
+    {"block_id": "b09", "themes": ["kosodate"], "achievement": false, "summary": "老朽化が著しい学校校舎の大規模修繕や建て替えを推進", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate"], "achievement": false, "summary": "下駄箱に長靴を置くスペースの設置を求める", "confidence": "high"},
+    {"block_id": "b11", "themes": ["kosodate"], "achievement": false, "summary": "イジメや授業を妨げる行為を防ぐ対策を追求", "confidence": "high"},
+    {"block_id": "b12", "themes": ["kosodate", "machi"], "achievement": false, "summary": "子ども達が帰宅時間などを把握しやすいよう児童公園に時計を設置", "confidence": "high"},
+    {"block_id": "b15", "themes": ["gyozaisei"], "achievement": false, "summary": "できる限りオンライン化し、使いやすくスリムな市役所を求める", "confidence": "high"},
+    {"block_id": "b18", "themes": ["machi"], "achievement": false, "summary": "行き過ぎた放置自転車対策の見直しを求める", "confidence": "low"},
+    {"block_id": "b20", "themes": ["bousai"], "achievement": false, "summary": "アンダーパスの点検を早期に実施し、必要な機能強化を行う", "confidence": "low"}
+  ],
+  "notes": [
+    "b05：要約の「介護スタッフ」は見出し「介護 スタッフ不足への対応」の語。",
+    "b12：本文に「児童公園」とあるため、まちづくり・交通（公園）を2つ目に付けた。",
+    "b18：放置自転車対策の見直し。見出し「街づくり」からまちづくり・交通としたが、基準に直接の記載はない。",
+    "b20：本文はアンダーパスの点検・機能強化のみ。同じ見出しの前の文（b19）が「頻発する冠水。」のため防災・安全としたが、道路（まちづくり・交通）とする考え方もある。"
+  ]
+}

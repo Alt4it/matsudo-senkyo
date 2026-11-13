@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c012",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b03", "themes": ["bousai"], "achievement": false, "summary": "ハザードマップと避難所情報を高齢者にも届く形で周知", "confidence": "high"},
+    {"block_id": "b04", "themes": ["fukushi"], "achievement": false, "summary": "ひとり暮らし高齢者の安否確認と地域の見守り体制", "confidence": "high"},
+    {"block_id": "b05", "themes": ["bousai"], "achievement": false, "summary": "市内の公園に防犯カメラを重点的に設置し、犯罪を防ぐ", "confidence": "high"},
+    {"block_id": "b06", "themes": ["other", "fukushi"], "achievement": false, "summary": "外国人の生活保護受給の実態を調査し公表、運用の見直しを図る", "confidence": "high"},
+    {"block_id": "b07", "themes": ["other"], "achievement": false, "summary": "保険料の滞納を在留審査へ反映させるため入管との連携強化・情報共有", "confidence": "high"},
+    {"block_id": "b08", "themes": ["other", "kosodate"], "achievement": false, "summary": "外国人の出産育児一時金に加入期間要件の設定を国へ求める", "confidence": "low"},
+    {"block_id": "b09", "themes": ["fukushi", "kosodate"], "achievement": false, "summary": "子どもの予防接種助成を段階的に現役世代へ拡大", "confidence": "high"},
+    {"block_id": "b10", "themes": ["kosodate", "fukushi"], "achievement": false, "summary": "保育の質の向上と保育士への支援の拡充、医療的ケア児支援の拡充", "confidence": "high"},
+    {"block_id": "b11", "themes": ["fukushi"], "achievement": false, "summary": "高齢者の補聴器助成、通いの場の充実、図書館を世代を超えた居場所に", "confidence": "high"},
+    {"block_id": "b17", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "b06〜b08：外国人に関する施策は themes.json の『その他（多文化共生）』に当てはめ other とした。b06 は生活保護（生活困窮者支援）の明記があるため fukushi を2つ目に付けた。",
+    "b08：出産育児一時金の明記から kosodate を2つ目に付けたが、付けるかは判断が分かれる。",
+    "b09：予防接種（医療）が主で、子どもの明記があるため kosodate を2つ目に付けた。",
+    "b17：『「支援」と「管理」の両輪で検証可能な政策を実施』は具体的な施策・対象がなく抽象的なため要約しない。直前の文脈（外国人政策）から other としたが、本文自体に外国人の明記はない。"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "candidate_id": "c024",
+  "order": 24,
+  "name": "丹呉あきこ",
+  "kana": "たんごあきこ",
+  "sort_kana": null,
+  "party": "公明党",
+  "career": "松戸市議会議員1期",
+  "age": null,
+  "slogan": "介護のエキスパート",
+  "policies": [
+    {
+      "block_id": "b04",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "キャッシュレス還元による物価高対策",
+      "heading": "未来へつなぐ 松戸ビジョン",
+      "verbatim": "キャッシュレス還元による物価高対策",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "給食費無償化のさらなる充実",
+      "heading": "未来へつなぐ 松戸ビジョン",
+      "verbatim": "給食費無償化のさらなる充実",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "未来へつなぐ 松戸ビジョン",
+      "verbatim": "防災・減災対策の強化",
+      "page": 3
+    },
+    {
+      "block_id": "b07",
+      "theme": "other",
+      "achievement": false,
+      "summary": "若者応援とアーバンスポーツ振興",
+      "heading": "未来へつなぐ 松戸ビジョン",
+      "verbatim": "若者応援とアーバンスポーツ振興",
+      "page": 3
+    },
+    {
+      "block_id": "b08",
+      "theme": "other",
+      "achievement": false,
+      "summary": "",
+      "heading": "未来へつなぐ 松戸ビジョン",
+      "verbatim": "人とペットが共生できるまちづくり",
+      "page": 3
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "介護現場の負担軽減・働き方改革",
+      "heading": "未来へつなぐ 松戸ビジョン",
+      "verbatim": "介護現場の負担軽減・働き方改革",
+      "page": 3
+    },
+    {
+      "block_id": "b10",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "補聴器購入費助成の推進",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "補聴器購入費助成の推進",
+      "page": 3
+    },
+    {
+      "block_id": "b11",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "認知症予防教室の新設推進",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "認知症予防教室の新設推進",
+      "page": 3
+    },
+    {
+      "block_id": "b12",
+      "theme": "kosodate",
+      "achievement": true,
+      "summary": "学校体育館の空調・LED整備",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "学校体育館の空調・LED整備",
+      "page": 3
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": true,
+      "summary": "ドッグエリア整備の推進",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "ドッグエリア整備の推進",
+      "page": 3
+    },
+    {
+      "block_id": "b14",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "がん患者支援の充実",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "がん患者支援の充実",
+      "page": 3
+    },
+    {
+      "block_id": "b15",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "AED配備の充実",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "AED配備の充実",
+      "page": 3
+    },
+    {
+      "block_id": "b16",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "介護現場の人材確保とICT活用支援",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "介護現場の人材確保とICT活用支援",
+      "page": 3
+    },
+    {
+      "block_id": "b17",
+      "theme": "fukushi",
+      "achievement": true,
+      "summary": "紙おむつ支給手続きの簡素化",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "紙おむつ支給手続きの簡素化",
+      "page": 3
+    },
+    {
+      "block_id": "b17",
+      "theme": "gyozaisei",
+      "achievement": true,
+      "summary": "紙おむつ支給手続きの簡素化",
+      "heading": "1期4年の主な取り組み",
+      "verbatim": "紙おむつ支給手続きの簡素化",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

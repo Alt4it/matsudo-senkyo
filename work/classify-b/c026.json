@@ -1,0 +1,14 @@
+{
+  "candidate_id": "c026",
+  "classifier": "B",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b02", "themes": ["fukushi"], "achievement": false, "summary": "受動喫煙に配慮した喫煙所を検討", "confidence": "low"},
+    {"block_id": "b03", "themes": ["kankyo"], "achievement": false, "summary": "路上喫煙とポイ捨てを減らす", "confidence": "low"},
+    {"block_id": "b04", "themes": ["other"], "achievement": false, "summary": "", "confidence": "low"}
+  ],
+  "notes": [
+    "喫煙対策はどのテーマにも明確には当たらない。b02 は受動喫煙（健康）として fukushi、b03 はポイ捨て（ごみ）として kankyo とした。",
+    "b04：「市民・商店・利用者の声で決める」は、何を決めるかが本文に書かれておらず、言い換えると対象を補うことになるため要約せず原文のみ。テーマも本文から特定できず other とした。"
+  ]
+}

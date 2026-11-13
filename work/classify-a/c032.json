@@ -1,0 +1,15 @@
+{
+  "candidate_id": "c032",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei", "fukushi"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b02", "themes": ["gyozaisei", "fukushi"], "achievement": true, "summary": "経営改善に向けた病床数削減を実現", "confidence": "high"},
+    {"block_id": "b03", "themes": ["gyozaisei"], "achievement": false, "summary": "", "confidence": "high"}
+  ],
+  "notes": [
+    "b01：図（×・○・矢印）の中の文字のまとまりで、民営化と赤字補填の関係は図の解釈に頼るため要約しない。本文に「総合医療センター」「病院」の明記があるため fukushi を2つ目に付けた。",
+    "b02：本文の「病床数」を医療の明記とみて fukushi を2つ目に付けた。",
+    "b03：抽象的な公約（具体的な施策・対象・数値・期限なし）のため要約しない。"
+  ]
+}

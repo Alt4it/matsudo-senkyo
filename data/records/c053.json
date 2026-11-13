@@ -1,0 +1,181 @@
+{
+  "candidate_id": "c053",
+  "order": 53,
+  "name": "西田よしあき",
+  "kana": null,
+  "sort_kana": null,
+  "party": "無所属",
+  "career": "1期目",
+  "age": null,
+  "slogan": "地域の絆で　笑顔あふれる　安心安全なまちづくり",
+  "policies": [
+    {
+      "block_id": "b01",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "",
+      "heading": "強いまち",
+      "verbatim": "地域の絆で助け合える災害・犯罪に強いまちをつくります",
+      "page": 7
+    },
+    {
+      "block_id": "b02",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "自然災害の対策を急ぎ、民間の協力を得て災害時の迅速な対応を強化",
+      "heading": "強いまち",
+      "verbatim": "想定を超えてきた自然災害の対策を急ぐとともに、民間の協力を得て、災害時の迅速な対応を強化します",
+      "page": 7
+    },
+    {
+      "block_id": "b03",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "老朽化する公共インフラ整備を急ぐ",
+      "heading": "強いまち",
+      "verbatim": "日常を守るため、老朽化する公共インフラ整備を急ぎます",
+      "page": 7
+    },
+    {
+      "block_id": "b04",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "防犯カメラの設置台数を増設",
+      "heading": "強いまち",
+      "verbatim": "安心して生活するため、防犯カメラの設置台数を増設します",
+      "page": 7
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "歩道や外側線の整備など、安全対策を徹底",
+      "heading": "強いまち",
+      "verbatim": "歩道や外側線の整備など、安全対策を徹底します",
+      "page": 7
+    },
+    {
+      "block_id": "b06",
+      "theme": "other",
+      "achievement": false,
+      "summary": "誰もが対応できるデジタル化社会を推進",
+      "heading": "やさしいまち",
+      "verbatim": "誰もが対応できるデジタル化社会を推進します",
+      "page": 7
+    },
+    {
+      "block_id": "b07",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "コミュニティバスなど安心して生活できる交通網を整備",
+      "heading": "やさしいまち",
+      "verbatim": "コミュニティバスなど安心して生活できる交通網を整備します",
+      "page": 7
+    },
+    {
+      "block_id": "b08",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "医療機関の充実、市立病院の経営改善",
+      "heading": "やさしいまち",
+      "verbatim": "医療機関の充実、市立病院の経営改善を図ります",
+      "page": 7
+    },
+    {
+      "block_id": "b09",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "健康診断の受診率向上、予防医療を促進",
+      "heading": "やさしいまち",
+      "verbatim": "健康診断の受診率向上、予防医療を促進します",
+      "page": 7
+    },
+    {
+      "block_id": "b10",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "老朽化する学校施設の早期改修と「教育の質」向上の環境整備",
+      "heading": "やさしいまち",
+      "verbatim": "老朽化する学校施設の「命を守る」早期改修と、「教育の質」向上を目的とした環境整備を進めます",
+      "page": 7
+    },
+    {
+      "block_id": "b11",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "強くやさしい人が育つ青少年育成に力を注ぐ",
+      "heading": "成長するまち",
+      "verbatim": "強くやさしい人が育つ青少年育成に力を注ぎます",
+      "page": 7
+    },
+    {
+      "block_id": "b12",
+      "theme": "other",
+      "achievement": false,
+      "summary": "グラウンド、スポーツ施設の充実などスポーツ振興を推進",
+      "heading": "成長するまち",
+      "verbatim": "グラウンド、スポーツ施設の充実など、スポーツ振興を推進します",
+      "page": 7
+    },
+    {
+      "block_id": "b13",
+      "theme": "other",
+      "achievement": false,
+      "summary": "利用しやすい市民センター、魅力ある文化施設など文化振興",
+      "heading": "成長するまち",
+      "verbatim": "利用しやすい市民センター、魅力ある文化施設など文化振興を図ります",
+      "page": 7
+    },
+    {
+      "block_id": "b14",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "北千葉道路、3·3·7号、3·3·6号の早期開通を促進",
+      "heading": "成長するまち",
+      "verbatim": "北千葉道路、3·3·7号、3·3·6号の早期開通を促進します",
+      "page": 7
+    },
+    {
+      "block_id": "b15",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "道路交通網の発展に伴い、渋滞緩和と周辺地域の活性化を進める",
+      "heading": "成長するまち",
+      "verbatim": "道路交通網の発展に伴って、渋滞緩和と周辺地域の活性化を進めます",
+      "page": 7
+    },
+    {
+      "block_id": "b16",
+      "theme": "machi",
+      "achievement": false,
+      "summary": "それぞれの駅周辺を個性的で賑わう街に",
+      "heading": "成長するまち",
+      "verbatim": "それぞれの駅周辺が個性的で賑わう街にします",
+      "page": 7
+    },
+    {
+      "block_id": "b17",
+      "theme": "gyozaisei",
+      "achievement": false,
+      "summary": "利便性、経費削減を目的に市役所のデジタル化を推進",
+      "heading": "成長するまち",
+      "verbatim": "利便性、経費削減を目的に市役所のデジタル化を推進します",
+      "page": 7
+    },
+    {
+      "block_id": "b18",
+      "theme": "keizai",
+      "achievement": false,
+      "summary": "地域ブランドを活用し、農業従事者の担い手不足解消への取組を支援",
+      "heading": "成長するまち",
+      "verbatim": "松戸の魅力向上に地域ブランドを積極的に活用し、食を守る農業従事者の担い手不足解消への取組を支援します",
+      "page": 7
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}

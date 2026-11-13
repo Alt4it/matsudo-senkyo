@@ -1,0 +1,23 @@
+{
+  "candidate_id": "c035",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b04", "themes": ["bousai"], "achievement": false, "summary": "水害対策、被災者の支援体制、避難所備蓄体制の強化・拡充", "confidence": "high"},
+    {"block_id": "b05", "themes": ["fukushi", "kosodate"], "achievement": false, "summary": "高すぎる国保税の減免、子どもの均等割り無料化", "confidence": "high"},
+    {"block_id": "b06", "themes": ["kosodate"], "achievement": false, "summary": "児童館や中高生の居場所づくり", "confidence": "high"},
+    {"block_id": "b07", "themes": ["kosodate"], "achievement": false, "summary": "教員不足解消と学校改修", "confidence": "high"},
+    {"block_id": "b08", "themes": ["kosodate"], "achievement": false, "summary": "中学校給食の無償化", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "大型開発見直し", "confidence": "low"},
+    {"block_id": "b11", "themes": ["bousai"], "achievement": false, "summary": "通学道路、生活道路の安全対策", "confidence": "high"},
+    {"block_id": "b12", "themes": ["machi"], "achievement": false, "summary": "上本郷駅南口にエレベーター設置", "confidence": "high"},
+    {"block_id": "b13", "themes": ["fukushi"], "achievement": false, "summary": "バス・タクシー料金の補助制度", "confidence": "high"},
+    {"block_id": "b14", "themes": ["fukushi"], "achievement": false, "summary": "年金で入れる特養老人ホーム", "confidence": "high"}
+  ],
+  "notes": [
+    "短い箇条が多いため、要約は原文に近いままにした。",
+    "b05：本文に「子ども」の明記があるため kosodate を2つ目に付けた。",
+    "b10：対象の開発が特定されていない。まちづくりとして machi としたが、財政（gyozaisei）の観点とも読めるため low。",
+    "b13：テーマは見出し「高齢者を応援」による。要約には見出しから対象を補っていない。"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "candidate_id": "c033",
+  "classifier": "A",
+  "themes_version": "draft-2",
+  "items": [
+    {"block_id": "b01", "themes": ["gyozaisei"], "achievement": false, "summary": "引きつづき松戸市財政・経費縮減に取り組む", "confidence": "high"},
+    {"block_id": "b03", "themes": ["machi", "gyozaisei"], "achievement": false, "summary": "新庁舎整備で改修工事も併せた複合的な案まで幅広く検討し公表", "confidence": "high"},
+    {"block_id": "b05", "themes": ["gyozaisei", "fukushi"], "achievement": true, "summary": "病院職員と協議し600床から549床に削減、経費削減に取り組む", "confidence": "low"},
+    {"block_id": "b07", "themes": ["bousai"], "achievement": true, "summary": "16年間、小中学校の通学路の安全対策で多くの危険箇所を改善", "confidence": "high"},
+    {"block_id": "b08", "themes": ["bousai"], "achievement": false, "summary": "", "confidence": "low"},
+    {"block_id": "b09", "themes": ["machi"], "achievement": true, "summary": "8年間、市内交差点、狭隘道路等を整備", "confidence": "high"},
+    {"block_id": "b10", "themes": ["machi"], "achievement": false, "summary": "引き続き道路整備等に取り組む", "confidence": "high"},
+    {"block_id": "b12", "themes": ["gyozaisei"], "achievement": false, "summary": "市の行政や市議会の不可解な実態を追究し、分かりやすく報告", "confidence": "low"},
+    {"block_id": "b14", "themes": ["kosodate"], "achievement": false, "summary": "嘘のない「待機児童ゼロ」を必ず実現", "confidence": "high"},
+    {"block_id": "b15", "themes": ["kosodate"], "achievement": true, "summary": "小中学校の完全冷房化を実現", "confidence": "high"},
+    {"block_id": "b16", "themes": ["machi"], "achievement": true, "summary": "下水道整備の遅れている地域で2年前倒しで整備完了", "confidence": "low"},
+    {"block_id": "b17", "themes": ["fukushi", "machi"], "achievement": true, "summary": "市内公園に健康遊具を設置", "confidence": "high"},
+    {"block_id": "b18", "themes": ["fukushi"], "achievement": false, "summary": "引き続き歩け歩け・グランドゴルフを応援", "confidence": "low"},
+    {"block_id": "b19", "themes": ["fukushi"], "achievement": false, "summary": "来年度も高齢者福祉に対する予算の増額を図る", "confidence": "high"},
+    {"block_id": "b20", "themes": ["machi"], "achievement": false, "summary": "各駅バリアフリー100%実現を推進", "confidence": "high"}
+  ],
+  "notes": [
+    "b05：「削減し」は済んだこと、「取り組んでいます」は継続中。今後の話は含まないため achievement を true としたが、実績か現在の取り組みか迷うため low。本文の「病院」「床」を医療の明記とみて fukushi を2つ目に付けた。",
+    "b07：通学路は bousai の基準にあるため bousai のみ。本文に「小中学校」もあるが、他候補の通学路の箇条と揃えて kosodate は付けなかった。",
+    "b08：「危険」「不便」「迷惑」の解消は具体的な施策・対象がない抽象的な公約のため要約しない。テーマは見出し「防犯・安全対策」による。",
+    "b12：市政報告の発行の継続で、政策とみるか（書き写し担当も要判断としている）とテーマ（情報公開として gyozaisei）に迷うため low。",
+    "b16：下水道は themes.json の基準に明示がない。インフラ整備として machi としたが、kankyo の可能性もあり low。",
+    "b17：本文に「公園」と「健康遊具」の両方の明記があるため fukushi と machi。",
+    "b18：健康づくりとして fukushi（見出し「医療・福祉の充実」）としたが、スポーツとして other の可能性もあり low。",
+    "b20：本文に障害者・高齢者の明記がないため fukushi は付けなかった。"
+  ]
+}

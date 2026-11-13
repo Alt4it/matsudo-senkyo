@@ -1,0 +1,36 @@
+{
+  "candidate_id": "c039",
+  "source": {"pdf": "koho/R8shigi.senkyokouhou.pdf", "pages": [5], "position": "4段目左"},
+  "name": "石井いさむ",
+  "kana": "いしいいさむ",
+  "party": "自由民主党",
+  "age": null,
+  "career": "松戸市市議会議員 4期目当選",
+  "slogan": "みなさんの声は必ず明日につなげます",
+  "blocks": [
+    {"block_id": "b01", "kind": "message", "heading": null, "verbatim": "地域と密接な活動を通じてこそ聞こえてくる市民の声があります。", "page": 5},
+    {"block_id": "b02", "kind": "message", "heading": null, "verbatim": "私なら皆様の声を聞きもらすことなく、市政とのパイプ役となり、皆様の期待に応えられると確信しています。", "page": 5},
+    {"block_id": "b03", "kind": "message", "heading": null, "verbatim": "石井いさむをぜひ市政に送り出して下さい。", "page": 5},
+    {"block_id": "b04", "kind": "message", "heading": null, "verbatim": "市民と行政のパイプ役 石井いさむ\n松戸\nそれは素敵な笑顔に出会えるまち", "page": 5},
+    {"block_id": "b05", "kind": "policy", "heading": "スポーツは未来への投資", "verbatim": "広域スポーツパーク構想。", "page": 5},
+    {"block_id": "b06", "kind": "policy", "heading": "スポーツは未来への投資", "verbatim": "公式スポーツ施設（アリーナ等）", "page": 5},
+    {"block_id": "b07", "kind": "policy", "heading": "安全・安心の街づくり", "verbatim": "災害対策強化・避難所運営の更新。", "page": 5},
+    {"block_id": "b08", "kind": "policy", "heading": "安全・安心の街づくり", "verbatim": "市民が安心して生活できる街を目指す。", "page": 5},
+    {"block_id": "b09", "kind": "policy", "heading": "福祉医療の充実", "verbatim": "松戸版介護人材の確保・定着", "page": 5},
+    {"block_id": "b10", "kind": "policy", "heading": "障害者に優しい社会", "verbatim": "医療機関・関係団体と連携して、楽しく健康な生活を営めるネットワークを構築します。", "page": 5},
+    {"block_id": "b11", "kind": "policy", "heading": "教育子育て政策の充実", "verbatim": "各地区に児童館機能設置を目指します。", "page": 5},
+    {"block_id": "b12", "kind": "policy", "heading": "農業環境の改善", "verbatim": "食と農・一次加工で世界に向けて稼ぐ強い産業。", "page": 5},
+    {"block_id": "b13", "kind": "policy", "heading": "賑わいのある街づくり", "verbatim": "市民と行政とが協力し合い、連携型地域社会を形成し、地域にあったまちづくりを推進します。", "page": 5},
+    {"block_id": "b14", "kind": "policy", "heading": null, "verbatim": "松戸版少子化対策の推進", "page": 5},
+    {"block_id": "b15", "kind": "profile", "heading": null, "verbatim": "昭和33年 2月15日（松戸市六実に生まれる）\n昭和45年 松戸市立高木第二小学校卒業\n昭和48年 松戸市立第四中学校卒業\n昭和51年 千葉県立松戸東（現松戸国際）高等学校卒業 野球部主将\n昭和52年 後藤学園武蔵野調理師学校卒業\n令和 4年 松戸市市議会議員 4期目当選\n現 在 松戸市議会運営委員会 委員長\n会派 志政会 幹事長\n自由民主党松戸支部 支部長", "page": 5},
+    {"block_id": "b16", "kind": "profile", "heading": null, "verbatim": "諸団体役職 六実桜まつり実行委員会顧問\nズンバサークル ビエンベニードス顧問\n六実・六高台「須崎優衣」後援会 会長\n六実連合町会顧問 等", "page": 5}
+  ],
+  "issues": [
+    "政策は丸い見出し8つの周りに小さい箇条が配置された図。箇条と見出しの対応は紙面上の近さで判断した（例：「松戸版介護人材の確保・定着」→「福祉医療の充実」、「医療機関・関係団体と連携…」→「障害者に優しい社会」、「各地区に児童館機能設置…」→「教育子育て政策の充実」、「食と農・一次加工…」→「農業環境の改善」、「市民と行政とが協力し合い…」→「賑わいのある街づくり」）。要確認。",
+    "見出し「松戸版少子化対策の推進」には近くに箇条がないため、heading: null の policy ブロック b14 にした。",
+    "箇条内の一部語句は太字（例：「広域スポーツパーク構想」「連携型地域社会を形成」「世界に向けて稼ぐ」「児童館機能設置」など）。太字は書き起こしに反映していない。",
+    "career は略歴の「松戸市市議会議員 4期目当選」をそのまま採った（「市市議会」は原文どおり）。",
+    "年齢の記載なし（生年月日のみ。計算していない）。",
+    "party は「自由民主党公認」から「公認」を除いた。"
+  ]
+}

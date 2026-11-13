@@ -1,0 +1,73 @@
+{
+  "candidate_id": "c019",
+  "order": 19,
+  "name": "おさかべ智弘",
+  "kana": "おさかべともひろ",
+  "sort_kana": null,
+  "party": "国民民主党",
+  "career": null,
+  "age": 33,
+  "slogan": "松戸市の「子育て」と「医療」を守る",
+  "policies": [
+    {
+      "block_id": "b02",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "子育て世代の負担軽減へ、市立小中学校の学校指定教材・副教材を無償化",
+      "heading": "子育てにお金を使う松戸市へ",
+      "verbatim": "子育て世代の負担軽減を目指します。松戸市立小中学校の学校指定教材・副教材を無償化します。",
+      "page": 3
+    },
+    {
+      "block_id": "b03",
+      "theme": "kosodate",
+      "achievement": false,
+      "summary": "保育園の空き状況・園比較・年齢別入園状況を分かりやすく見える化",
+      "heading": "子育てにお金を使う松戸市へ",
+      "verbatim": "保育園の空き状況・園比較・年齢別入園状況をより分かりやすく見える化し、保護者の不安を減らします。",
+      "page": 3
+    },
+    {
+      "block_id": "b04",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "",
+      "heading": "安心して医療を受けられる松戸市へ",
+      "verbatim": "薬剤費の負担減と医薬品供給の安定化を目指します。医療関係者が協働して推奨薬を考える「地域フォーミュラリ」の導入を検討。経済性など踏まえ医薬品を選択することで、薬剤費を削減します。また薬局等の在庫を最適化することで、安定した医薬品供給体制を構築します。",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "高齢者や障害のある方など避難困難者の具体的な避難方法を定め、逃げ遅れをなくす",
+      "heading": "防災に強い松戸へ",
+      "verbatim": "高齢者や障害のある方など、避難困難者の具体的な避難方法を定め、逃げ遅れをなくします。",
+      "page": 3
+    },
+    {
+      "block_id": "b05",
+      "theme": "fukushi",
+      "achievement": false,
+      "summary": "高齢者や障害のある方など避難困難者の具体的な避難方法を定め、逃げ遅れをなくす",
+      "heading": "防災に強い松戸へ",
+      "verbatim": "高齢者や障害のある方など、避難困難者の具体的な避難方法を定め、逃げ遅れをなくします。",
+      "page": 3
+    },
+    {
+      "block_id": "b06",
+      "theme": "bousai",
+      "achievement": false,
+      "summary": "水害の不安ゼロへ、雨水排水施設や側溝の点検・整備、地域ごとの浸水リスク発信",
+      "heading": "防災に強い松戸へ",
+      "verbatim": "水害の不安ゼロを目指します。雨水排水施設や側溝の点検・整備を進めるとともに、地域ごとの浸水リスクを分かりやすく発信します。",
+      "page": 3
+    }
+  ],
+  "review": {
+    "status": "approved",
+    "checked_by": "小林",
+    "checked_at": "2026-11-13",
+    "changes": []
+  }
+}
