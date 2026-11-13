@@ -6,134 +6,211 @@
 <title>まつど選挙公報ナビ</title>
 <style>
 :root{
-  --paper:#eff2f6; --sheet:#ffffff; --ink:#1b2230; --graphite:#566072; --rule:#d3d9e2;
-  --marker:#ffe600; --action:#2343c4;
+  --paper:#f2f4f7; --sheet:#ffffff; --ink:#1b2433; --ink-2:#3a4556; --graphite:#5a6577; --rule:#dde2ea; --rule-2:#c9d1dc;
+  --marker:#ffe14d; --action:#1f49c7; --action-soft:#e8eefc;
+  --r-lg:16px; --r-md:12px; --r-sm:8px;
   --gutter:clamp(1rem,4vw,2.5rem);
-  --tabs-h:3.5rem;
+  --tabs-h:3.75rem;
+  --tc:#4d5664; --tb:#eceef1;
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--paper);color:var(--ink);line-height:1.75;font-size:1rem;
+body{margin:0;background:var(--paper);color:var(--ink);line-height:1.8;font-size:1rem;letter-spacing:.01em;
   font-family:"BIZ UDPGothic","Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans CJK JP","Noto Sans JP","Yu Gothic UI",Meiryo,sans-serif;
-  font-feature-settings:"palt";padding-bottom:calc(var(--tabs-h) + env(safe-area-inset-bottom) + 1rem)}
+  font-feature-settings:"palt";padding-bottom:calc(var(--tabs-h) + env(safe-area-inset-bottom) + 1.25rem);-webkit-font-smoothing:antialiased}
 button,input,select{font:inherit;color:inherit}
 button{background:none;border:0;padding:0;cursor:pointer;text-align:left}
-:focus-visible{outline:3px solid var(--action);outline-offset:2px;border-radius:4px}
-mark{background:var(--marker);color:inherit;padding:0 .1em}
-.wrap{max-width:72rem;margin:0 auto;padding-inline:var(--gutter)}
-
-/* 冒頭 */
-.notice{background:var(--ink);color:#fff;font-size:.875rem;line-height:1.6;padding:.7rem var(--gutter)}
-.notice b{color:var(--marker)}
-.hero{padding-block:clamp(1.75rem,6vw,3.75rem) clamp(1.25rem,4vw,2.25rem)}
-.brand{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem .75rem;margin:0;font-size:1rem;font-weight:700}
-.top{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:.4rem 1rem}
-.sizes{display:flex;align-items:center;gap:.15rem;font-size:.82rem;color:var(--graphite)}
-.sizes span{margin-right:.3rem}
-.sizes button{min-height:2.75rem;min-width:2.75rem;padding:0 .55rem;text-align:center;border-radius:4px;color:var(--ink)}
-.sizes button[aria-pressed="true"]{background:var(--marker);font-weight:700}
+a{color:var(--action);text-underline-offset:.2em}
+:focus-visible{outline:3px solid var(--action);outline-offset:2px;border-radius:6px}
+mark{background:var(--marker);color:inherit;padding:0 .1em;border-radius:2px}
+.wrap{max-width:70rem;margin:0 auto;padding-inline:var(--gutter)}
+svg.ic{width:1.25em;height:1.25em;flex:none;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 #app:focus{outline:none}
-.badge{font-size:.75rem;font-weight:400;border:1px solid var(--graphite);color:var(--graphite);border-radius:3px;padding:.05em .5em}
-.lead{margin:.6rem 0 .75rem;font-size:clamp(1.85rem,6.2vw,3.5rem);font-weight:700;line-height:1.28;max-width:17em}
+
+/* ===== 帯の注意書き（試運転・確認用） ===== */
+.notice{background:#fff4cc;color:#5c4400;font-size:.875rem;line-height:1.6;padding:.7rem var(--gutter);border-bottom:1px solid #f0dc8c}
+
+/* ===== 見出し部分 ===== */
+.hero{padding-block:clamp(1.25rem,4vw,2rem) clamp(1.5rem,5vw,3rem)}
+.top{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:.5rem 1rem}
+.brand{display:flex;align-items:center;gap:.6rem;margin:0;font-size:1.05rem;font-weight:700;letter-spacing:.04em}
+.brand::before{content:"公";display:grid;place-items:center;width:2rem;height:2rem;border-radius:9px;background:var(--ink);color:var(--marker);font-size:1.05rem;font-weight:800;letter-spacing:0}
+.badge{font-size:.7rem;font-weight:400;letter-spacing:.02em;background:var(--sheet);border:1px solid var(--rule-2);color:var(--graphite);border-radius:999px;padding:.05em .6em}
+.sizes{display:flex;align-items:center;gap:2px;font-size:.8rem;color:var(--graphite);background:var(--sheet);border:1px solid var(--rule);border-radius:999px;padding:3px}
+.sizes span{margin:0 .35rem 0 .5rem}
+.sizes button{min-height:2.5rem;min-width:2.75rem;padding:0 .7rem;text-align:center;border-radius:999px;color:var(--ink-2)}
+.sizes button[aria-pressed="true"]{background:var(--ink);color:#fff;font-weight:700}
+.lead{margin:clamp(1.5rem,5vw,2.75rem) 0 .9rem;font-size:clamp(1.9rem,5.6vw,3.25rem);font-weight:800;line-height:1.3;letter-spacing:.02em;max-width:16em}
 .lead span{display:inline-block}
 .meta{margin:0;color:var(--graphite);font-size:.9rem}
-/* 最初の画面以外は見出しを省いて、内容を先に見せる */
+.links{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0 0;padding:0;list-style:none;font-size:.85rem}
+.links a,.links .pending{display:inline-flex;align-items:center;min-height:2.5rem;padding:0 .95rem;border-radius:999px;background:var(--sheet);border:1px solid var(--rule);color:var(--ink-2);text-decoration:none;font-weight:700}
+.links a:hover{border-color:var(--rule-2);background:#fafbfc}
+.links a[target]::after{content:"↗";margin-left:.35rem;color:var(--graphite);font-weight:400}
+.links .pending{color:var(--graphite);font-weight:400}
 .compact .lead{display:none}
-.compact .hero{padding-block:1.1rem .9rem}
-.compact .meta{margin-top:.15rem;font-size:.8rem}
+.compact .hero{padding-block:.9rem .8rem}
+.compact .meta{margin-top:.35rem;font-size:.8rem}
+.compact .links{margin-top:.55rem}
+.compact .links a,.compact .links .pending{min-height:2.25rem;font-size:.8rem}
 
-/* 画面の切り替え（スマホは下、広い画面は上） */
-nav{position:fixed;inset:auto 0 0 0;z-index:10;display:grid;grid-template-columns:repeat(3,1fr);
-  background:var(--ink);padding-bottom:env(safe-area-inset-bottom)}
-nav button{height:var(--tabs-h);text-align:center;color:#c9d0dc;font-size:.82rem}
-nav button[aria-selected="true"]{color:var(--ink);background:var(--marker);font-weight:700}
-nav button:focus-visible{outline-color:#fff;outline-offset:-4px}
+/* ===== 画面の切り替え（スマホは下、広い画面は上） ===== */
+nav{position:fixed;inset:auto 0 0 0;z-index:10;display:grid;grid-template-columns:repeat(4,1fr);
+  background:rgba(255,255,255,.96);border-top:1px solid var(--rule);padding-bottom:env(safe-area-inset-bottom);backdrop-filter:saturate(1.4) blur(8px)}
+nav button{position:relative;height:var(--tabs-h);text-align:center;color:var(--graphite);font-size:.8rem;font-weight:700}
+nav button::before{content:"";position:absolute;left:28%;right:28%;top:0;height:3px;border-radius:0 0 3px 3px;background:transparent}
+nav button[aria-selected="true"]{color:var(--ink)}
+nav button[aria-selected="true"]::before{background:var(--ink)}
 
 main{padding-bottom:1rem}
 
-/* 並び順と絞り込み */
-.toolbar{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin-bottom:1.1rem}
-.toolbar label{display:flex;align-items:center;gap:.4rem;font-size:.9rem;color:var(--graphite)}
-.toolbar select,.toolbar input{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:.55rem .7rem;min-height:2.75rem;font-size:1rem}
-.toolbar input{flex:1 1 14rem;min-width:0}
+/* ===== 並び順と絞り込み ===== */
+.toolbar{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin-bottom:1.25rem}
+.toolbar label{display:flex;align-items:center;gap:.5rem;font-size:.85rem;color:var(--graphite)}
+.toolbar select,.toolbar input{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r-md);padding:.6rem .85rem;min-height:2.9rem;font-size:1rem}
+.toolbar select:hover,.toolbar input:hover{border-color:var(--rule-2)}
+.toolbar input{flex:1 1 16rem;min-width:0;padding-left:2.4rem;
+  background:var(--sheet) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235a6577' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='6.5'/%3E%3Cpath d='M16 16l4 4'/%3E%3C/svg%3E") no-repeat .8rem 50%/1.1rem}
 
-/* 候補者の情報 */
-.who{display:flex;flex-wrap:wrap;gap:.15rem .7rem;align-items:baseline;font-size:.875rem;color:var(--graphite)}
-.who .name{color:var(--ink);font-size:1.0625rem;font-weight:700}
-.order{font-size:.75rem}
-.draft{background:#fde2e1;color:#9b1c1c;font-size:.75rem;padding:0 .5em;border-radius:3px}
-.none{color:var(--graphite);font-weight:400}
+/* ===== 候補者の情報 ===== */
+.who{display:flex;flex-wrap:wrap;gap:.1rem .8rem;align-items:baseline;font-size:.85rem;color:var(--graphite)}
+.who .name{color:var(--ink);font-size:1.1rem;font-weight:700;letter-spacing:.02em}
+.order{font-size:.75rem;color:var(--graphite)}
+.draft{background:#fde2e1;color:#9b1c1c;font-size:.75rem;padding:0 .5em;border-radius:4px}
+.none{color:var(--graphite);font-weight:400;font-size:.95em}
 
-/* スローガン一覧 */
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,19rem),1fr));gap:.75rem}
-.tile{background:var(--sheet);border-radius:10px;padding:1.15rem 1.2rem 1rem;display:flex;flex-direction:column}
+/* ===== テーマの色札 ===== */
+.themes{display:flex;flex-wrap:wrap;gap:.35rem;margin:.85rem 0 0;padding:0;list-style:none}
+.themes li{font-size:.72rem;line-height:1;padding:.4em .7em;border-radius:999px;background:var(--tb);color:var(--tc);font-weight:700}
+
+/* ===== スローガン一覧 ===== */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,20rem),1fr));gap:.9rem}
+.tile{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r-lg);padding:1.35rem 1.35rem 1.1rem;display:flex;flex-direction:column;transition:border-color .15s}
+.tile:hover{border-color:var(--rule-2)}
 .tile .slogan{flex:1}
-.slogan{margin:0 0 .9rem;font-size:1.2rem;font-weight:700;line-height:1.55;white-space:pre-line}
-.themes{display:flex;flex-wrap:wrap;gap:.1rem .7rem;margin:.55rem 0 0;padding:0;list-style:none;font-size:.78rem;color:var(--graphite)}
-.open{margin-top:.8rem;color:var(--action);font-size:.9rem;font-weight:700;min-height:2.75rem;text-decoration:underline;text-underline-offset:.2em}
+.slogan{margin:0 0 1rem;font-size:1.15rem;font-weight:700;line-height:1.6;white-space:pre-line;letter-spacing:.02em}
+.open{display:inline-flex;align-items:center;gap:.35rem;margin-top:1rem;color:var(--action);font-size:.9rem;font-weight:700;min-height:2.75rem}
+.open::after{content:"";width:.45rem;height:.45rem;border-right:2px solid currentColor;border-top:2px solid currentColor;transform:rotate(45deg)}
+.open:hover{text-decoration:underline;text-underline-offset:.2em}
 
-/* テーマ別に比べる */
-.chips{display:flex;gap:.35rem;overflow-x:auto;margin:0 calc(var(--gutter) * -1) 1.1rem;padding:.5rem var(--gutter);
-  position:sticky;top:0;z-index:5;background:var(--paper);scrollbar-width:none}
+/* ===== ホーム ===== */
+.home section{margin-bottom:2.75rem}
+.home h2{font-size:1.25rem;margin:0 0 .25rem;letter-spacing:.02em}
+.home .sub{margin:0 0 1.1rem;color:var(--graphite);font-size:.92rem}
+.tgrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.6rem}
+.tbtn{display:flex;flex-direction:column;align-items:flex-start;gap:.55rem;background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r-lg);padding:1rem;min-height:8rem;transition:border-color .15s,transform .15s}
+.tbtn:hover{border-color:var(--tc)}
+.tbtn .ti{display:grid;place-items:center;width:2.6rem;height:2.6rem;border-radius:12px;background:var(--tb);color:var(--tc);font-size:1.15rem}
+.tbtn b{display:block;font-size:1.02rem;line-height:1.4}
+.tbtn .tn{display:block;color:var(--graphite);font-size:.78rem;line-height:1.5;margin-top:auto}
+.tbtn .tn strong{color:var(--ink);font-size:1rem}
+.bigbtns{display:grid;gap:.6rem}
+.bigbtn{display:flex;justify-content:space-between;align-items:center;gap:1rem;background:var(--ink);color:#fff;border-radius:var(--r-lg);padding:1.15rem 1.25rem;font-weight:700;font-size:1.05rem}
+.bigbtn span{display:block;font-weight:400;font-size:.82rem;color:#c3cad6;margin-top:.15rem}
+.bigbtn::after{content:"";flex:none;width:.55rem;height:.55rem;border-right:2px solid var(--marker);border-top:2px solid var(--marker);transform:rotate(45deg)}
+.bigbtn.alt{background:var(--sheet);color:var(--ink);border:1px solid var(--rule)}
+.bigbtn.alt span{color:var(--graphite)}
+.bigbtn.alt::after{border-color:var(--ink)}
+.howto{margin:0;padding:0;list-style:none;display:grid;gap:.6rem;max-width:44em;counter-reset:h}
+.howto li{position:relative;background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r-md);padding:.85rem 1rem .85rem 3.1rem;font-size:.95rem;line-height:1.7;counter-increment:h}
+.howto li::before{content:counter(h);position:absolute;left:1rem;top:.85rem;display:grid;place-items:center;width:1.5rem;height:1.5rem;border-radius:50%;background:var(--marker);font-size:.8rem;font-weight:800}
+
+/* ===== テーマ別に比べる ===== */
+.chips{display:flex;gap:.4rem;overflow-x:auto;margin:0 calc(var(--gutter) * -1) 1rem;padding:.6rem var(--gutter);
+  position:sticky;top:0;z-index:5;background:rgba(242,244,247,.96);backdrop-filter:blur(8px);scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
-.chip{flex:none;padding:.5rem .85rem;min-height:2.75rem;border-radius:4px;font-size:.95rem;white-space:nowrap;
-  background:linear-gradient(var(--marker),var(--marker)) no-repeat 0 100%/0 100%;transition:background-size .22s ease-out}
-.chip .n{color:var(--graphite);font-size:.78rem;margin-left:.35rem}
-.chip[aria-pressed="true"]{background-size:100% 100%;font-weight:700}
-.chip[aria-pressed="true"] .n{color:var(--ink)}
+.chip{flex:none;display:inline-flex;align-items:center;gap:.45rem;padding:.45rem .95rem;min-height:2.6rem;border-radius:999px;font-size:.9rem;white-space:nowrap;
+  background:var(--sheet);border:1px solid var(--rule);color:var(--ink-2);transition:background .15s,color .15s,border-color .15s}
+.chip::before{content:"";width:.55rem;height:.55rem;border-radius:50%;background:var(--tc)}
+.chip:hover{border-color:var(--tc)}
+.chip .n{color:var(--graphite);font-size:.75rem}
+.chip[aria-pressed="true"]{background:var(--tc);border-color:var(--tc);color:#fff;font-weight:700}
+.chip[aria-pressed="true"]::before{background:#fff}
+.chip[aria-pressed="true"] .n{color:rgba(255,255,255,.85)}
+.tbanner{display:flex;align-items:center;gap:.9rem;background:var(--tb);color:var(--tc);border-radius:var(--r-lg);padding:1rem 1.2rem;margin-bottom:.9rem}
+.tbanner .ti{display:grid;place-items:center;width:2.8rem;height:2.8rem;border-radius:12px;background:var(--sheet);font-size:1.25rem;flex:none}
+.tbanner h2{margin:0;font-size:1.2rem;line-height:1.4}
+.tbanner p{margin:0;font-size:.85rem;color:var(--ink-2)}
+.tbanner p b{font-size:1.05rem;color:var(--ink)}
+.note{font-size:.82rem;color:var(--graphite);margin:0 0 1rem;line-height:1.7}
+.expand{display:flex;gap:.4rem;margin:0 0 .9rem}
+.expand button{font-size:.82rem;border:1px solid var(--rule);background:var(--sheet);border-radius:999px;padding:.3rem 1rem;min-height:2.5rem;color:var(--ink-2)}
+.expand button:hover{border-color:var(--rule-2)}
+details.acc{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r-lg);margin-bottom:.55rem;transition:border-color .15s}
+details.acc:hover,details.acc[open]{border-color:var(--rule-2)}
+details.acc > summary{list-style:none;cursor:pointer;padding:1rem 3rem 1rem 1.2rem;position:relative;border-radius:var(--r-lg)}
+details.acc > summary::-webkit-details-marker{display:none}
+details.acc > summary::after{content:"";position:absolute;right:1.25rem;top:1.4rem;width:.5rem;height:.5rem;border-right:2px solid var(--graphite);border-bottom:2px solid var(--graphite);transform:rotate(45deg);transition:transform .15s}
+details.acc[open] > summary::after{transform:rotate(-135deg);top:1.65rem}
+.acc-name{font-weight:700;font-size:1.08rem;letter-spacing:.02em}
+.acc-meta{color:var(--graphite);font-size:.8rem;margin-left:.6rem}
+.acc-n{display:inline-block;margin-left:.5rem;font-size:.72rem;font-weight:700;background:var(--tb);color:var(--tc);border-radius:999px;padding:.1em .6em;vertical-align:.1em}
+.acc-pre{color:var(--graphite);font-size:.88rem;margin-top:.3rem;line-height:1.65;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+details.acc[open] .acc-pre{display:none}
+.acc-body{padding:.2rem 1.2rem 1.2rem;border-top:1px solid var(--rule)}
+.acc-body .who{margin:.9rem 0 1rem}
 
-.row{background:var(--sheet);border-radius:10px;padding:1.1rem 1.2rem;margin-bottom:.75rem}
-.row .who{margin-bottom:.75rem}
-.name-link{font-weight:700;color:var(--ink);font-size:1.0625rem;text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:.25em}
-.item+.item{margin-top:1.15rem}
-.src{display:block;color:var(--graphite);font-size:.78rem;margin-bottom:.15rem}
-.orig{line-height:1.8;max-width:44em;white-space:pre-line}
-.orig .h{display:block;font-weight:700}
-.sum{margin:.45rem 0 0;max-width:44em;background:var(--paper);border-radius:6px;padding:.45rem .7rem;font-size:.85rem;color:var(--graphite);line-height:1.65}
-.sum-label{font-size:.72rem;border:1px solid var(--graphite);border-radius:3px;padding:0 .35em;margin-right:.5em;vertical-align:.1em}
-.note{font-size:.85rem;color:var(--graphite);margin:-.4rem 0 1rem}
-.links{display:flex;flex-wrap:wrap;gap:.2rem 1.2rem;margin:.6rem 0 0;padding:0;list-style:none;font-size:.88rem}
-.links a{color:var(--action);font-weight:700;text-underline-offset:.2em}
-.links .pending{color:var(--graphite)}
-.policy h3 + p,.policy h3 + ul{margin-top:0}
-.policy p,.policy li{max-width:40em}
-.policy dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:.2rem 1rem;font-size:.9rem}
-.policy dt{color:var(--graphite)}
-.policy dd{margin:0}
-.ach{display:inline-block;font-size:.75rem;font-weight:400;border:1px solid var(--ink);border-radius:3px;padding:0 .4em;margin-right:.45em;vertical-align:.1em}
-.empty{color:var(--graphite);font-size:.9rem;padding:.25rem 0 1rem;line-height:1.8}
+/* ===== 1項目（原文が主、要約は従） ===== */
+.item{padding:1rem 0;border-top:1px dashed var(--rule)}
+.item:first-of-type{border-top:0;padding-top:.25rem}
+.src{display:flex;align-items:center;gap:.4rem;color:var(--graphite);font-size:.74rem;margin-bottom:.35rem;letter-spacing:.03em}
+.ach{display:inline-block;font-size:.7rem;font-weight:700;background:var(--ink);color:#fff;border-radius:4px;padding:.05em .5em;letter-spacing:.05em}
+.orig{line-height:1.85;max-width:42em;white-space:pre-line;font-size:1rem}
+.orig .h{display:block;font-weight:700;margin-bottom:.15rem}
+.sum{display:flex;gap:.6rem;align-items:baseline;margin:.6rem 0 0;max-width:42em;background:var(--paper);border-radius:var(--r-sm);padding:.55rem .8rem;font-size:.85rem;color:var(--ink-2);line-height:1.65}
+.sum-label{flex:none;font-size:.68rem;font-weight:700;color:var(--graphite);border:1px solid var(--rule-2);border-radius:4px;padding:0 .4em;background:var(--sheet)}
+.empty{color:var(--graphite);font-size:.88rem;padding:.75rem 0 1rem;line-height:1.9}
 
-/* 候補者から見る */
-.list-row{display:block;width:100%;background:var(--sheet);border-radius:10px;padding:1rem 1.2rem;margin-bottom:.5rem}
-.list-row .slogan{display:block;margin:.3rem 0 0;font-size:1.05rem}
+/* ===== 候補者から見る ===== */
+.list-row{display:block;width:100%;background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r-lg);padding:1.05rem 1.25rem;margin-bottom:.5rem;transition:border-color .15s}
+.list-row:hover{border-color:var(--rule-2)}
+.list-row .slogan{display:block;margin:.35rem 0 0;font-size:1rem}
 
-/* 候補者の詳細 */
-.back{margin-bottom:.9rem}
-.back button{color:var(--action);font-weight:700;min-height:2.75rem;text-decoration:underline;text-underline-offset:.2em}
-.detail-card{background:var(--sheet);border-radius:10px;padding:clamp(1.25rem,4vw,2.5rem)}
-.kana{margin:0;color:var(--graphite);font-size:.875rem}
-.detail-card h2{margin:0 0 .5rem;font-size:clamp(1.7rem,5vw,2.5rem);line-height:1.3}
-.detail-card .slogan{font-size:clamp(1.2rem,3vw,1.5rem);margin:1.1rem 0 1.75rem;max-width:30em}
-.detail-card h3{margin:2rem 0 .75rem;font-size:1.05rem;background:var(--paper);padding:.35rem .7rem;border-radius:4px}
+/* ===== 候補者の詳細 ===== */
+.back{margin-bottom:1rem}
+.back button{display:inline-flex;align-items:center;gap:.45rem;color:var(--action);font-weight:700;min-height:2.75rem}
+.back button::before{content:"";width:.45rem;height:.45rem;border-left:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg)}
+.detail-card{background:var(--sheet);border:1px solid var(--rule);border-radius:var(--r-lg);padding:clamp(1.35rem,4vw,2.75rem)}
+.kana{margin:0;color:var(--graphite);font-size:.85rem;letter-spacing:.08em}
+.detail-card h2{margin:0 0 .6rem;font-size:clamp(1.8rem,5vw,2.6rem);line-height:1.25;letter-spacing:.03em}
+.detail-card .slogan{font-size:clamp(1.15rem,2.8vw,1.45rem);margin:1.25rem 0 1.5rem;max-width:30em;padding-left:1rem;border-left:4px solid var(--marker)}
+.toc{display:flex;flex-wrap:wrap;gap:.4rem;margin:0 0 .75rem;padding:0;list-style:none}
+.toc button{display:inline-flex;align-items:center;gap:.4rem;border-radius:999px;padding:.3rem .85rem;font-size:.85rem;min-height:2.5rem;background:var(--tb);color:var(--tc);font-weight:700}
+.toc button:hover{box-shadow:inset 0 0 0 1px var(--tc)}
+.toc .n{font-size:.72rem;font-weight:400}
+.detail-card h3{display:flex;align-items:center;gap:.55rem;margin:2.25rem 0 .5rem;padding-bottom:.55rem;font-size:1.1rem;color:var(--tc);border-bottom:2px solid var(--tb);scroll-margin-top:4.5rem}
+.detail-card h3 .ti{display:grid;place-items:center;width:2rem;height:2rem;border-radius:9px;background:var(--tb);font-size:1rem}
+.detail-card h3.plainh{color:var(--ink-2);border-bottom-color:var(--rule)}
 .detail-card ul{margin:0;padding-left:1.2em;font-size:.9rem}
 .plain{margin:0;font-size:.9rem;color:var(--graphite)}
-.source{font-size:.8rem;color:var(--graphite);margin:1.75rem 0 0}
+.source{font-size:.78rem;color:var(--graphite);margin:2rem 0 0;padding-top:1rem;border-top:1px solid var(--rule)}
 
-footer{margin-top:1.5rem;padding-block:1.75rem;font-size:.875rem;color:var(--graphite);line-height:1.8}
-footer h2{font-size:.95rem;margin:0 0 .4rem;color:var(--ink)}
-footer ul{margin:0;padding-left:1.2em;max-width:46em}
+/* ===== 編集方針 ===== */
+.policy h3{color:var(--ink);border-bottom-color:var(--rule)}
+.policy h3 + p,.policy h3 + ul{margin-top:0}
+.policy p,.policy li{max-width:40em}
+.policy dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:.35rem 1.2rem;font-size:.9rem}
+.policy dt{color:var(--graphite);font-weight:700}
+.policy dd{margin:0}
+
+footer{margin-top:2rem;padding-block:2rem 2.5rem;font-size:.85rem;color:var(--graphite);line-height:1.8;border-top:1px solid var(--rule)}
+footer p{margin:0;max-width:46em}
 
 @media (min-width:48rem){
   body{padding-bottom:0}
-  nav{position:sticky;inset:0 auto auto 0;display:flex;gap:0;padding-inline:max(var(--gutter),calc((100vw - 72rem) / 2 + var(--gutter)))}
-  nav button{padding-inline:1.4rem;font-size:.95rem}
+  nav{position:sticky;inset:0 auto auto 0;display:flex;gap:.25rem;border-top:0;border-bottom:1px solid var(--rule);padding-inline:max(var(--gutter),calc((100vw - 70rem) / 2 + var(--gutter)))}
+  nav button{padding-inline:1.1rem;font-size:.92rem}
+  nav button::before{top:auto;bottom:0;left:1.1rem;right:1.1rem;border-radius:3px 3px 0 0}
   .chips{flex-wrap:wrap;overflow:visible;top:var(--tabs-h)}
-  .row{display:grid;grid-template-columns:13.5rem minmax(0,1fr);gap:1.75rem;padding:1.3rem 1.5rem}
-  .row .who{flex-direction:column;gap:.1rem;margin:0}
-  .list-row{display:grid;grid-template-columns:18rem minmax(0,1fr);gap:1.25rem;align-items:baseline}
+  .tgrid{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .bigbtns{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .howto{grid-template-columns:repeat(3,minmax(0,1fr));max-width:none}
+  .list-row{display:grid;grid-template-columns:19rem minmax(0,1fr);gap:1.5rem;align-items:baseline}
   .list-row .slogan{margin:0}
+  .detail-card h3{scroll-margin-top:5rem}
 }
-@media (prefers-reduced-motion:reduce){.chip{transition:none}}
+@media (hover:hover){.tbtn:hover{transform:translateY(-2px)}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important}.tbtn:hover{transform:none}}
 </style>
 </head>
 <body>
@@ -153,9 +230,10 @@ footer ul{margin:0;padding-left:1.2em;max-width:46em}
   <ul class="links" id="links"></ul>
 </header>
 <nav role="tablist" aria-label="表示の切り替え">
-  <button role="tab" data-view="slogans">スローガン一覧</button>
-  <button role="tab" data-view="themes">テーマ別に比べる</button>
-  <button role="tab" data-view="list">候補者から見る</button>
+  <button role="tab" data-view="home">ホーム</button>
+  <button role="tab" data-view="themes" aria-label="テーマ別に比べる">テーマ</button>
+  <button role="tab" data-view="list" aria-label="候補者から探す">候補者</button>
+  <button role="tab" data-view="slogans" aria-label="スローガン一覧">スローガン</button>
 </nav>
 <main class="wrap" id="app" tabindex="-1" style="padding-top:1.25rem"></main>
 <footer class="wrap">
@@ -168,9 +246,24 @@ footer ul{margin:0;padding-left:1.2em;max-width:46em}
 const D = window.KOHO_DATA || {election:{name:"データがありません",date:"",sourceNote:""},themes:[],candidates:[]};
 const ELECTION = D.election, THEMES = D.themes, CANDIDATES = D.candidates;
 const pol = (c,t) => c.policies[t] || [];
+/* テーマの色（文字色・背景色）と線画アイコン。並びは data/themes.json の順 */
+const TCOL=[["#9a4a15","#fcebdf"],["#2e6b47","#e3f2e8"],["#2a5596","#e4edfa"],["#a23a2e","#fbe6e3"],
+            ["#5b3f8f","#eee8f7"],["#7c5a00","#fff1cc"],["#1f6e66","#dff2ef"],["#4d5664","#eceef1"]];
+const TICON=[
+  '<path d="M4 5.5C6.5 4.5 9.5 4.5 12 6c2.5-1.5 5.5-1.5 8-.5V19c-2.5-1-5.5-1-8 .5C9.5 18 6.5 18 4 19z"/><path d="M12 6v13.5"/>',
+  '<path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z"/>',
+  '<rect x="5" y="4" width="14" height="13" rx="2"/><path d="M5 11h14M8 20v-3M16 20v-3"/>',
+  '<path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/>',
+  '<path d="M4 20h16M6 10v8M10 10v8M14 10v8M18 10v8M12 3l8 5H4z"/>',
+  '<path d="M4 20h16"/><path d="M6.5 18v-6M12 18V8M17.5 18V5"/>',
+  '<path d="M5 19c0-8 5-13 14-14 0 9-5 14-13 14z"/><path d="M5 19l8-8"/>',
+  '<circle cx="7" cy="12" r="1.3"/><circle cx="12" cy="12" r="1.3"/><circle cx="17" cy="12" r="1.3"/>'];
+const ti=t=>THEMES.indexOf(t)%8;
+const tvars=t=>`--tc:${TCOL[ti(t)][0]};--tb:${TCOL[ti(t)][1]}`;
+const ticon=t=>`<svg class="ic" viewBox="0 0 24 24" aria-hidden="true">${TICON[ti(t)]}</svg>`;
 
 /* ===== 状態 ===== */
-let view = "slogans", theme = THEMES[0], sort = "shuffle", query = "", selected = null;
+let view = "home", theme = THEMES[0], sort = "shuffle", query = "", selected = null;
 /* フィッシャー–イェーツ法。どの並びも同じ確率になる */
 function shuffle(list){
   const a=[...list];
@@ -223,7 +316,7 @@ function item(p){
 }
 function who(c,link){
   const name = link ? `<button class="name-link" data-open="${c.id}">${hl(c.name)}</button>` : `<span class="name">${hl(c.name)}</span>`;
-  return `<span class="who">${c.name?name:""}${c.party?`<span>${hl(c.party)}</span>`:""}${c.career?`<span>議員歴：${hl(c.career)}</span>`:""}${c.age?`<span>${c.age}歳</span>`:""}${c.order?`<span class="order">${ORDER_LABEL}${c.order}番</span>`:""}${c.draft?`<span class="draft">未確認</span>`:""}</span>`;
+  return `<span class="who">${c.name?name:""}${c.party?`<span>${hl(c.party)}</span>`:""}${c.career?`<span>議員歴：${hl(c.career)}</span>`:""}${c.age?`<span>${c.age}歳</span>`:""}${c.order?`<span class="order">${ORDER_LABEL==="掲載"?"公報の掲載順":"届出順"} ${c.order}番</span>`:""}${c.draft?`<span class="draft">未確認</span>`:""}</span>`;
 }
 function toolbar(){
   return `<div class="toolbar">
@@ -242,13 +335,39 @@ function bindToolbar(){
 }
 const NO_MATCH = `<div class="empty">該当する候補者がいません。別のキーワードを試してください。</div>`;
 
+const themeCount = t => CANDIDATES.filter(c=>pol(c,t).length).length;
+function renderHome(){
+  return `<div class="home">
+    <section>
+      <h2>気になるテーマを選んでください</h2>
+      <p class="sub">そのテーマについて公報に書いている候補者の内容を、並べて読めます。</p>
+      <div class="tgrid">${THEMES.map(t=>`<button class="tbtn" style="${tvars(t)}" data-go="#/themes/${encodeURIComponent(t)}"><span class="ti">${ticon(t)}</span><b>${esc(t)}</b><span class="tn"><strong>${themeCount(t)}</strong>人が公報で触れています</span></button>`).join("")}</div>
+    </section>
+    <section>
+      <h2>候補者から見る</h2>
+      <div class="bigbtns">
+        <button class="bigbtn" data-go="#/list">候補者の一覧<span>名前やキーワードで探して、1人の公報全体を読む</span></button>
+        <button class="bigbtn alt" data-go="#/slogans">スローガンの一覧<span>全員のスローガンを一度に見る</span></button>
+      </div>
+    </section>
+    <section>
+      <h2>このサイトの見方</h2>
+      <ol class="howto">
+        <li>選挙公報に書かれた内容だけを、全員同じ形式で整理しています。</li>
+        <li>各項目は公報の原文をそのまま載せ、短い要約を添えています。</li>
+        <li>候補者の並び順は、開くたびにシャッフルされます。評価・推薦・順位付けはしません。</li>
+      </ol>
+      <p class="sub" style="margin-top:.6rem"><a href="#/policy">編集方針・運営者・訂正の受け付け</a></p>
+    </section>
+  </div>`;
+}
 function renderSlogans(){
   const list=ordered();
   return toolbar()+(list.length?`<div class="grid">${list.map(c=>`
     <article class="tile">
       <p class="slogan">${slogan(c)}</p>
       ${who(c)}
-      <ul class="themes" aria-label="公報に記載のあるテーマ">${Object.keys(c.policies).filter(t=>pol(c,t).length).map(t=>`<li>${esc(t)}</li>`).join("")}</ul>
+      <ul class="themes" aria-label="公報に記載のあるテーマ">${Object.keys(c.policies).filter(t=>pol(c,t).length).map(t=>`<li style="${tvars(t)}">${esc(t)}</li>`).join("")}</ul>
       <div><button class="open" data-open="${c.id}" aria-label="${esc(c.name)}の政策を見る">政策を見る</button></div>
     </article>`).join("")}</div>`:NO_MATCH);
 }
@@ -256,12 +375,16 @@ function renderThemes(){
   const list=ordered();
   const chips=THEMES.map(t=>{
     const n=CANDIDATES.filter(c=>pol(c,t).length).length;
-    return `<button class="chip" data-theme="${esc(t)}" aria-pressed="${t===theme}">${esc(t)}<span class="n">${n}人</span></button>`;
+    return `<button class="chip" style="${tvars(t)}" data-theme="${esc(t)}" aria-pressed="${t===theme}">${esc(t)}<span class="n">${n}人</span></button>`;
   }).join("");
   const withP=list.filter(c=>pol(c,theme).length), without=list.filter(c=>!pol(c,theme).length);
   return toolbar()+`<div class="chips">${chips}</div>
     <p class="note">公報の記載量は候補者により異なります。公報で触れられていない分野も、候補者に考えがないとは限りません。</p>
-    ${withP.map(c=>`<section class="row">${who(c,true)}<div>${pol(c,theme).map(item).join("")}</div></section>`).join("")}
+    <div class="tbanner" style="${tvars(theme)}"><span class="ti">${ticon(theme)}</span><div><h2>${esc(theme)}</h2><p>公報で触れている候補者 <b>${withP.length}人</b>（全${CANDIDATES.length}人中）</p></div></div>
+    ${withP.length?`<div class="expand"><button data-expand="1">すべて開く</button><button data-expand="0">すべて閉じる</button></div>`:""}
+    ${withP.map(c=>{const ps=pol(c,theme), f=ps[0], pre=f.s||f.h||f.q;
+      return `<details class="acc" style="${tvars(theme)}"${query.trim()?" open":""}><summary><span class="acc-name">${hl(c.name)}</span><span class="acc-meta">${hl(c.party||"")}</span><span class="acc-n">${ps.length}件</span><span class="acc-pre">${hl(pre)}</span></summary>
+        <div class="acc-body">${who({...c,name:""})}${ps.map(item).join("")}<div><button class="open" data-open="${c.id}">${esc(c.name)}の公報全体を見る</button></div></div></details>`}).join("")}
     ${!list.length?NO_MATCH:without.length?`<div class="empty">「${esc(theme)}」について公報では触れられていません：${without.map(c=>esc(c.name)).join("、")}</div>`:""}`;
 }
 function renderList(){
@@ -273,9 +396,10 @@ function renderList(){
         <h2>${esc(c.name)}</h2>
         ${who({...c,name:""})}
         <p class="slogan">${slogan(c)}</p>
-        ${THEMES.map(t=>pol(c,t).length?`<h3>${esc(t)}</h3>${pol(c,t).map(item).join("")}`:"").join("")}
-        <h3>公報で触れられていないテーマ</h3><p class="plain">${THEMES.filter(t=>!pol(c,t).length).join("、")||"なし"}</p>
-        ${(c.changes||[]).length?`<h3>訂正履歴</h3><ul>${c.changes.map(x=>`<li>${esc(x.date)}：${esc(x.what)}（${esc(x.reason)}）</li>`).join("")}</ul>`:""}
+        <ul class="toc" aria-label="この候補者が公報で触れているテーマ">${THEMES.map((t,i)=>pol(c,t).length?`<li><button style="${tvars(t)}" data-jump="t${i}">${esc(t)}<span class="n">${pol(c,t).length}件</span></button></li>`:"").join("")}</ul>
+        ${THEMES.map((t,i)=>pol(c,t).length?`<h3 id="t${i}" tabindex="-1" style="${tvars(t)}"><span class="ti">${ticon(t)}</span>${esc(t)}</h3>${pol(c,t).map(item).join("")}`:"").join("")}
+        <h3 class="plainh">公報で触れられていないテーマ</h3><p class="plain">${THEMES.filter(t=>!pol(c,t).length).join("、")||"なし"}</p>
+        ${(c.changes||[]).length?`<h3 class="plainh">訂正履歴</h3><ul>${c.changes.map(x=>`<li>${esc(x.date)}：${esc(x.what)}（${esc(x.reason)}）</li>`).join("")}</ul>`:""}
         <p class="source">${esc(ELECTION.sourceNote)}</p>
       </article></div>`;
   }
@@ -314,13 +438,13 @@ function renderPolicy(){
 }
 function render(keepFocus){
   document.querySelectorAll("nav button").forEach(b=>b.setAttribute("aria-selected",b.dataset.view===view));
-  document.body.classList.toggle("compact", view!=="slogans");
-  $app.innerHTML = view==="slogans"?renderSlogans():view==="themes"?renderThemes():view==="policy"?renderPolicy():renderList();
+  document.body.classList.toggle("compact", view!=="home");
+  $app.innerHTML = view==="home"?renderHome():view==="slogans"?renderSlogans():view==="themes"?renderThemes():view==="policy"?renderPolicy():renderList();
   if(document.getElementById("sort")) bindToolbar();
   if(keepFocus){const q=document.getElementById("q"); if(q){q.focus(); q.setSelectionRange(q.value.length,q.value.length);}}
 }
 /* ===== URL と画面の対応（#/slogans、#/themes/テーマ名、#/list、#/c/候補者ID） ===== */
-const hashFor = {slogans:()=>"#/slogans", themes:()=>`#/themes/${encodeURIComponent(theme)}`, list:()=>"#/list"};
+const hashFor = {home:()=>"#/", slogans:()=>"#/slogans", themes:()=>`#/themes/${encodeURIComponent(theme)}`, list:()=>"#/list"};
 const scrollMemo = {};
 let lastHash = location.hash, cameFromInside = false;
 if("scrollRestoration" in history) history.scrollRestoration="manual";
@@ -334,12 +458,13 @@ function applyRoute(){
   else if(v==="themes"){view="themes";if(THEMES.includes(arg))theme=arg}
   else if(v==="list")view="list";
   else if(v==="policy")view="policy";
-  else view="slogans";
+  else if(v==="slogans")view="slogans";
+  else view="home";
   document.title = c&&v==="c" ? `${c.name}｜まつど選挙公報ナビ` : view==="policy" ? "編集方針｜まつど選挙公報ナビ" : "まつど選挙公報ナビ";
   render();
 }
 function go(hash){
-  if(location.hash===hash){window.scrollTo(0,0);return}
+  if(location.hash===hash||(hash==="#/"&&!location.hash)){window.scrollTo(0,0);return}
   location.hash=hash;
 }
 window.addEventListener("hashchange",()=>{
@@ -355,6 +480,12 @@ document.querySelector("nav").onclick=e=>{
   if(v){const h=hashFor[v](); delete scrollMemo[h]; go(h)}
 };
 $app.onclick=e=>{
+  const g=e.target.closest("[data-go]");
+  if(g){const h=g.dataset.go; delete scrollMemo[h]; go(h); return}
+  const x=e.target.closest("[data-expand]");
+  if(x){document.querySelectorAll("details.acc").forEach(d=>d.open=x.dataset.expand==="1"); return}
+  const j=e.target.closest("[data-jump]");
+  if(j){const h=document.getElementById(j.dataset.jump); if(h){window.scrollTo(0, h.getBoundingClientRect().top + window.scrollY - 72); h.focus({preventScroll:true});} return}
   const t=e.target.closest("[data-theme]");
   if(t){
     theme=t.dataset.theme;
@@ -367,7 +498,7 @@ $app.onclick=e=>{
   }
   const o=e.target.closest("[data-open]");
   if(o){const h=`#/c/${o.dataset.open}`; delete scrollMemo[h]; go(h); return}
-  if(e.target.closest("[data-back]")){ if(cameFromInside) history.back(); else go("#/list"); }
+  if(e.target.closest("[data-back]")){ if(cameFromInside) history.back(); else go("#/"); }
 };
 
 /* ===== 文字サイズ（保存はしない。再読み込みで標準に戻る） ===== */
